@@ -11,6 +11,7 @@ import {
   Timer,
   WarningCircle,
 } from "@phosphor-icons/react";
+import Image from "next/image";
 import { useEffect, useMemo, useState } from "react";
 import { questions, type Question } from "@/data/questions";
 
@@ -96,9 +97,29 @@ export function TheoryPlatform() {
   const isPassing = score >= PASSING_SCORE;
 
   const categoryRows = useMemo(() => {
-    const total = questions.length;
-    const learned = questions.filter((question) => mastered[question.id]).length;
-    return [{ name: "Загальні положення", total, learned }];
+    const rows = new Map<
+      string,
+      { key: string; name: string; sectionNumber: number; total: number; learned: number }
+    >();
+
+    questions.forEach((question) => {
+      const key = `${question.sectionNumber}-${question.category}`;
+      const existing =
+        rows.get(key) ??
+        {
+          key,
+          name: question.category,
+          sectionNumber: question.sectionNumber,
+          total: 0,
+          learned: 0,
+        };
+
+      existing.total += 1;
+      existing.learned += mastered[question.id] ? 1 : 0;
+      rows.set(key, existing);
+    });
+
+    return [...rows.values()].sort((a, b) => a.sectionNumber - b.sectionNumber);
   }, [mastered]);
 
   function reset(nextMode = mode) {
@@ -225,16 +246,19 @@ export function TheoryPlatform() {
                 <div>
                   <p className="text-sm font-semibold">Question bank</p>
                   <p className="mt-1 text-xs leading-5 text-stone-500">
-                    Seeded from the supplied 2025 PDF, Section 1.
+                    Full supplied 2025 PDF: {questions.length} questions,{" "}
+                    {categoryRows.length} sections.
                   </p>
                 </div>
                 <ListChecks size={22} className="text-emerald-700" weight="duotone" />
               </div>
-              <div className="mt-4 space-y-3">
+              <div className="mt-4 max-h-56 space-y-3 overflow-y-auto pr-1">
                 {categoryRows.map((row) => (
-                  <div key={row.name}>
-                    <div className="flex justify-between text-xs font-medium">
-                      <span>{row.name}</span>
+                  <div key={row.key}>
+                    <div className="flex justify-between gap-3 text-xs font-medium">
+                      <span className="line-clamp-2">
+                        {row.sectionNumber}. {row.name}
+                      </span>
                       <span>
                         {row.learned}/{row.total}
                       </span>
@@ -272,6 +296,27 @@ export function TheoryPlatform() {
                 Reset
               </button>
             </div>
+
+            {currentQuestion.images.length > 0 ? (
+              <div className="mt-6 grid gap-3 sm:grid-cols-2">
+                {currentQuestion.images.map((src, imageIndex) => (
+                  <figure
+                    key={src}
+                    className="overflow-hidden rounded-3xl border border-stone-200 bg-white"
+                  >
+                    <Image
+                      src={src}
+                      alt={`Ілюстрація до питання ${currentQuestion.number}, ${imageIndex + 1}`}
+                      width={900}
+                      height={520}
+                      className="h-auto w-full object-contain"
+                      loading="lazy"
+                      unoptimized
+                    />
+                  </figure>
+                ))}
+              </div>
+            ) : null}
 
             <div className="mt-6 grid gap-3">
               {currentQuestion.options.map((option, optionIndex) => {
@@ -414,8 +459,9 @@ export function TheoryPlatform() {
             <div className="rounded-[2rem] border border-stone-200 bg-stone-900 p-5 text-white">
               <p className="text-sm font-semibold text-stone-300">Release scope</p>
               <p className="mt-3 text-sm leading-6 text-stone-300">
-                Current bank: {questions.length} normalized questions. The app is ready for Vercel;
-                expanding the bank means appending records to <span className="font-mono">questions.ts</span>.
+                Current bank: {questions.length} normalized questions with{" "}
+                {questions.filter((question) => question.images.length > 0).length} image-backed
+                questions. The importer lives in <span className="font-mono">scripts/</span>.
               </p>
             </div>
           </div>

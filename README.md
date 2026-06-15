@@ -7,7 +7,8 @@ Ukraine driving theory practice platform built with Next.js, TypeScript, and Tai
 - Study mode with instant feedback and saved local progress.
 - Practice mode with 20 random questions.
 - Exam mode matching the Ukraine theory-test structure: 20 questions, 20 minutes, pass from 18 correct answers.
-- Question bank seeded from the supplied 2025 PDF materials, currently normalized for Section 1: `Загальні положення`.
+- Full question bank parsed from the supplied 2025 PDF materials: 2,281 questions across 64 sections.
+- Extracted question illustrations stored in `public/question-images` and rendered on the matching questions.
 
 ## Local development
 
@@ -33,18 +34,38 @@ Push this repository to GitHub and import it in Vercel. The default settings wor
 - Build command: `npm run build`
 - Output directory: `.next`
 
-## Expanding the bank
+## Importing the PDF bank
 
-Questions live in `src/data/questions.ts`. Add records using the existing `Question` shape:
+The importer reads both local PDFs:
+
+- `POLOTNO-NAKAZ_04_09_2025 (1).pdf` for question text and illustrations.
+- `Numer_-vidpovidej-do-nakazu.pdf` for the answer key.
+
+Run:
+
+```bash
+python3 scripts/import_pdf_bank.py
+```
+
+It regenerates:
+
+- `src/data/questions.ts`
+- `public/question-images/*`
+
+Temporary parser files are cached in `.import-work/` and ignored by git.
+
+Questions use this shape:
 
 ```ts
 {
-  id: "general-080",
+  id: "s1-q080",
+  sectionNumber: 1,
   number: 80,
   category: "Загальні положення",
   question: "...",
   options: ["...", "..."],
   correctIndex: 0,
-  explanation: "..."
+  explanation: "...",
+  images: ["/question-images/q-image-0001.jpg"]
 }
 ```

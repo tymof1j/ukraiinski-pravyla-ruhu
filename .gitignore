@@ -24,6 +24,8 @@
 .DS_Store
 *.pem
 *.pdf
+.import-work/
+__pycache__/
 
 # debug
 npm-debug.log*
