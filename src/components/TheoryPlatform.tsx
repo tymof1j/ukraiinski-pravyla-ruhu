@@ -12,7 +12,7 @@ import {
   WarningCircle,
 } from "@phosphor-icons/react";
 import Image from "next/image";
-import { useEffect, useMemo, useState } from "react";
+import { useCallback, useEffect, useMemo, useState } from "react";
 import { questions, type Question } from "@/data/questions";
 
 type Mode = "study" | "practice" | "exam";
@@ -159,7 +159,7 @@ export function TheoryPlatform() {
     setSecondsLeft(EXAM_SECONDS);
   }
 
-  function chooseAnswer(optionIndex: number) {
+  const chooseAnswer = useCallback((optionIndex: number) => {
     if (isFinished) {
       return;
     }
@@ -172,9 +172,9 @@ export function TheoryPlatform() {
     if (mode !== "exam" && optionIndex === currentQuestion.correctIndex) {
       setMastered((value) => ({ ...value, [currentQuestion.id]: true }));
     }
-  }
+  }, [currentQuestion.correctIndex, currentQuestion.id, isFinished, mode]);
 
-  function finish() {
+  const finish = useCallback(() => {
     setStatus("review");
     setMastered((value) => {
       const next = { ...value };
@@ -185,7 +185,7 @@ export function TheoryPlatform() {
       });
       return next;
     });
-  }
+  }, [answers, deck]);
 
   const modeConfig = {
     study: {
@@ -204,6 +204,48 @@ export function TheoryPlatform() {
       helper: "Ukraine format: 20 questions, 20 minutes, pass from 18.",
     },
   } satisfies Record<Mode, { label: string; icon: typeof BookOpen; helper: string }>;
+
+  useEffect(() => {
+    function handleKeyDown(event: KeyboardEvent) {
+      const target = event.target as HTMLElement | null;
+      const isTyping =
+        target instanceof HTMLInputElement ||
+        target instanceof HTMLTextAreaElement ||
+        target instanceof HTMLSelectElement ||
+        target?.isContentEditable;
+
+      if (isTyping) {
+        return;
+      }
+
+      if (/^[1-5]$/.test(event.key)) {
+        const optionIndex = Number(event.key) - 1;
+        if (optionIndex < currentQuestion.options.length) {
+          event.preventDefault();
+          chooseAnswer(optionIndex);
+        }
+        return;
+      }
+
+      if (event.key === "Enter") {
+        event.preventDefault();
+        if (currentIndex === deck.length - 1) {
+          finish();
+        } else {
+          setCurrentIndex((value) => Math.min(deck.length - 1, value + 1));
+        }
+        return;
+      }
+
+      if (event.key === " ") {
+        event.preventDefault();
+        setCurrentIndex((value) => Math.max(0, value - 1));
+      }
+    }
+
+    window.addEventListener("keydown", handleKeyDown);
+    return () => window.removeEventListener("keydown", handleKeyDown);
+  }, [chooseAnswer, currentIndex, currentQuestion, deck.length, finish]);
 
   return (
     <main className="min-h-[100dvh] bg-[#f6f4ef] text-stone-950">
