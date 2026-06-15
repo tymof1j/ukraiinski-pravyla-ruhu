@@ -7,7 +7,7 @@ import {
   FlagCheckered,
   Gauge,
   GraduationCap,
-  ListChecks,
+  MagnifyingGlass,
   Timer,
   WarningCircle,
 } from "@phosphor-icons/react";
@@ -53,6 +53,7 @@ function getStoredProgress() {
 export function TheoryPlatform() {
   const [mode, setMode] = useState<Mode>("exam");
   const [deck, setDeck] = useState<Question[]>(() => questions.slice(0, EXAM_SIZE));
+  const [activeThemeKey, setActiveThemeKey] = useState<string | null>(null);
   const [currentIndex, setCurrentIndex] = useState(0);
   const [answers, setAnswers] = useState<Record<string, number>>({});
   const [status, setStatus] = useState<Status>("answering");
@@ -95,6 +96,7 @@ export function TheoryPlatform() {
   const progressPercent = Math.round((answeredCount / deck.length) * 100);
   const isFinished = status === "review";
   const isPassing = score >= PASSING_SCORE;
+  const currentThemeKey = `${currentQuestion.sectionNumber}-${currentQuestion.category}`;
 
   const categoryRows = useMemo(() => {
     const rows = new Map<
@@ -127,6 +129,7 @@ export function TheoryPlatform() {
       nextMode === "study" ? questions : shuffle(questions).slice(0, EXAM_SIZE);
 
     setMode(nextMode);
+    setActiveThemeKey(null);
     setDeck(nextDeck);
     setCurrentIndex(0);
     setAnswers({});
@@ -136,6 +139,24 @@ export function TheoryPlatform() {
 
   function selectMode(nextMode: Mode) {
     reset(nextMode);
+  }
+
+  function selectTheme(themeKey: string) {
+    const nextDeck = questions.filter(
+      (question) => `${question.sectionNumber}-${question.category}` === themeKey,
+    );
+
+    if (nextDeck.length === 0) {
+      return;
+    }
+
+    setMode("study");
+    setActiveThemeKey(themeKey);
+    setDeck(nextDeck);
+    setCurrentIndex(0);
+    setAnswers({});
+    setStatus("answering");
+    setSecondsLeft(EXAM_SECONDS);
   }
 
   function chooseAnswer(optionIndex: number) {
@@ -187,7 +208,7 @@ export function TheoryPlatform() {
   return (
     <main className="min-h-[100dvh] bg-[#f6f4ef] text-stone-950">
       <div className="mx-auto grid w-full max-w-[1400px] gap-5 px-4 py-4 md:grid-cols-[300px_minmax(0,1fr)] md:px-6 lg:py-6">
-        <aside className="rounded-[2rem] border border-stone-200 bg-[#fbfaf7] p-4 shadow-[0_24px_60px_-38px_rgba(55,45,32,0.45)] md:sticky md:top-6 md:h-[calc(100dvh-3rem)]">
+        <aside className="rounded-[2rem] border border-stone-200 bg-[#fbfaf7] p-4 shadow-[0_24px_60px_-38px_rgba(55,45,32,0.45)] md:sticky md:top-6 md:max-h-[calc(100dvh-3rem)] md:overflow-y-auto">
           <div className="flex h-full flex-col gap-5">
             <div>
               <div className="flex items-center gap-3">
@@ -241,7 +262,7 @@ export function TheoryPlatform() {
               <Metric label="Time" value={mode === "exam" ? formatTime(secondsLeft) : "Free"} />
             </div>
 
-            <div className="mt-auto rounded-3xl border border-stone-200 bg-white p-4">
+            <div className="min-h-0 rounded-3xl border border-stone-200 bg-white p-4">
               <div className="flex items-center justify-between gap-3">
                 <div>
                   <p className="text-sm font-semibold">Question bank</p>
@@ -250,26 +271,36 @@ export function TheoryPlatform() {
                     {categoryRows.length} sections.
                   </p>
                 </div>
-                <ListChecks size={22} className="text-emerald-700" weight="duotone" />
+                <MagnifyingGlass size={22} className="shrink-0 text-emerald-700" weight="duotone" />
               </div>
-              <div className="mt-4 max-h-56 space-y-3 overflow-y-auto pr-1">
+              <div className="mt-4 max-h-56 space-y-2 overflow-y-auto pr-1">
                 {categoryRows.map((row) => (
-                  <div key={row.key}>
-                    <div className="flex justify-between gap-3 text-xs font-medium">
-                      <span className="line-clamp-2">
+                  <button
+                    key={row.key}
+                    type="button"
+                    onClick={() => selectTheme(row.key)}
+                    className={`w-full rounded-2xl border p-3 text-left transition active:scale-[0.99] ${
+                      (mode === "study" && activeThemeKey === row.key) ||
+                      (!activeThemeKey && currentThemeKey === row.key)
+                        ? "border-stone-900 bg-stone-900 text-white"
+                        : "border-stone-100 bg-stone-50/70 hover:border-stone-300 hover:bg-white"
+                    }`}
+                  >
+                    <div className="flex items-start justify-between gap-3 text-xs font-semibold">
+                      <span className="line-clamp-2 leading-4">
                         {row.sectionNumber}. {row.name}
                       </span>
-                      <span>
+                      <span className="shrink-0 font-mono">
                         {row.learned}/{row.total}
                       </span>
                     </div>
-                    <div className="mt-2 h-2 rounded-full bg-stone-100">
+                    <div className="mt-2 h-2 rounded-full bg-stone-200/70">
                       <div
                         className="h-full rounded-full bg-emerald-700 transition-all"
                         style={{ width: `${Math.round((row.learned / row.total) * 100)}%` }}
                       />
                     </div>
-                  </div>
+                  </button>
                 ))}
               </div>
             </div>
@@ -301,7 +332,7 @@ export function TheoryPlatform() {
               <div className="mt-6 grid gap-3 sm:grid-cols-2">
                 {currentQuestion.images.map((src, imageIndex) => (
                   <figure
-                    key={src}
+                    key={`${currentQuestion.id}-image-${imageIndex}`}
                     className="overflow-hidden rounded-3xl border border-stone-200 bg-white"
                   >
                     <Image
@@ -334,7 +365,7 @@ export function TheoryPlatform() {
 
                 return (
                   <button
-                    key={option}
+                    key={`${currentQuestion.id}-option-${optionIndex}`}
                     type="button"
                     onClick={() => chooseAnswer(optionIndex)}
                     className={`grid min-h-16 grid-cols-[2.25rem_minmax(0,1fr)] items-center gap-3 rounded-2xl border p-3 text-left transition duration-300 active:scale-[0.99] sm:p-4 ${stateClass}`}

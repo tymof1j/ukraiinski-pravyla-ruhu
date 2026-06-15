@@ -12,8 +12,8 @@ export type Question = {
 
 export const questions: Question[] = [
   {
-    "id": "s1-q001",
-    "sectionNumber": 1.0,
+    "id": "q00001",
+    "sectionNumber": 1,
     "number": 1,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Трамвайна колія – елемент дороги, призначений для руху рейкових транспортних засобів, який обмежується по ширині:",
@@ -29,8 +29,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q002",
-    "sectionNumber": 1.0,
+    "id": "q00002",
+    "sectionNumber": 1,
     "number": 2,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Елемент дороги, призначений для руху рейкових транспортних засобів, який обмежується по ширині спеціально виділеним вимощенням трамвайної лінії або дорожньою розміткою це:",
@@ -44,8 +44,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q003",
-    "sectionNumber": 1.0,
+    "id": "q00003",
+    "sectionNumber": 1,
     "number": 3,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "По якому з наведених елементів дороги дозволено рух нерейкових транспортних засобів?",
@@ -60,8 +60,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q004",
-    "sectionNumber": 1.0,
+    "id": "q00004",
+    "sectionNumber": 1,
     "number": 4,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи належить до проїзної частини велосипедна смуга?",
@@ -74,8 +74,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q005",
-    "sectionNumber": 1.0,
+    "id": "q00005",
+    "sectionNumber": 1,
     "number": 5,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Для руху яких транспортних засобів призначена проїзна частина?",
@@ -89,8 +89,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q006",
-    "sectionNumber": 1.0,
+    "id": "q00006",
+    "sectionNumber": 1,
     "number": 6,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Що означає вимога дати дорогу?",
@@ -104,8 +104,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q007",
-    "sectionNumber": 1.0,
+    "id": "q00007",
+    "sectionNumber": 1,
     "number": 7,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Поздовжня смуга на проїзній частині завширшки щонайменше 2,75 м, що позначена або не позначена дорожньою розміткою і призначена для руху нерейкових транспортних засобів це:",
@@ -121,8 +121,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q008",
-    "sectionNumber": 1.0,
+    "id": "q00008",
+    "sectionNumber": 1,
     "number": 8,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Які із наведених категорій осіб, належать до визначення «учасник дорожнього руху»?",
@@ -136,8 +136,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q009",
-    "sectionNumber": 1.0,
+    "id": "q00009",
+    "sectionNumber": 1,
     "number": 9,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Яка із наведених категорій осіб бере участь у дорожньому русі поза транспортними засобами та не виконує на дорозі будь-яку роботу:",
@@ -151,8 +151,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q010",
-    "sectionNumber": 1.0,
+    "id": "q00010",
+    "sectionNumber": 1,
     "number": 10,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Особа, яка користується транспортним засобом і перебуває в ньому, але не причетна до керування ним, це:",
@@ -166,8 +166,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q011",
-    "sectionNumber": 1.0,
+    "id": "q00011",
+    "sectionNumber": 1,
     "number": 11,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Колона пішоходів це:",
@@ -181,8 +181,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q012",
-    "sectionNumber": 1.0,
+    "id": "q00012",
+    "sectionNumber": 1,
     "number": 12,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Регульованим пішохідним переходом вважається:",
@@ -195,8 +195,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q013",
-    "sectionNumber": 1.0,
+    "id": "q00013",
+    "sectionNumber": 1,
     "number": 13,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Пішохідний перехід, на якому немає регулювальника, відсутні світлофори або вимкнені чи працюють у режимі миготіння жовтого сигналу вважається:",
@@ -209,8 +209,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q014",
-    "sectionNumber": 1.0,
+    "id": "q00014",
+    "sectionNumber": 1,
     "number": 14,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Доріжка з покриттям, призначена для руху пішоходів, виконана в межах дороги чи поза нею і позначена наведеним дорожнім знаком це:",
@@ -226,8 +226,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q015",
-    "sectionNumber": 1.0,
+    "id": "q00015",
+    "sectionNumber": 1,
     "number": 15,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи призначена пішохідна доріжка для руху велосипедистів?",
@@ -240,8 +240,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q016",
-    "sectionNumber": 1.0,
+    "id": "q00016",
+    "sectionNumber": 1,
     "number": 16,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи призначена пішохідна доріжка для руху осіб, які рухаються в кріслах колісних без двигуна?",
@@ -254,8 +254,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q017",
-    "sectionNumber": 1.0,
+    "id": "q00017",
+    "sectionNumber": 1,
     "number": 17,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи призначена пішохідна доріжка для руху осіб, які ведуть мопед?",
@@ -268,8 +268,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q018",
-    "sectionNumber": 1.0,
+    "id": "q00018",
+    "sectionNumber": 1,
     "number": 18,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "На якому з наведених малюнків зображено перехрестя:",
@@ -284,8 +284,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q019",
-    "sectionNumber": 1.0,
+    "id": "q00019",
+    "sectionNumber": 1,
     "number": 19,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "На якому малюнку зображено в’їзд на прилеглу територію:",
@@ -300,8 +300,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q020",
-    "sectionNumber": 1.0,
+    "id": "q00020",
+    "sectionNumber": 1,
     "number": 20,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи може автомагістраль перетинати на одному рівні інші дороги, залізничні і трамвайні колії, пішохідні та велосипедні доріжки, шляхи проходу тварин?",
@@ -314,8 +314,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q021",
-    "sectionNumber": 1.0,
+    "id": "q00021",
+    "sectionNumber": 1,
     "number": 21,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи вважається перехрестям місце прилягання до дороги виїзду з прилеглої території (дворів)?",
@@ -328,8 +328,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q022",
-    "sectionNumber": 1.0,
+    "id": "q00022",
+    "sectionNumber": 1,
     "number": 22,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Показаний на малюнку поворот дороги відповідає терміну:",
@@ -344,8 +344,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q023",
-    "sectionNumber": 1.0,
+    "id": "q00023",
+    "sectionNumber": 1,
     "number": 23,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Як називається даний маневр?",
@@ -361,8 +361,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q024",
-    "sectionNumber": 1.0,
+    "id": "q00024",
+    "sectionNumber": 1,
     "number": 24,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Автомобільна дорога призначена для руху:",
@@ -377,8 +377,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q025",
-    "sectionNumber": 1.0,
+    "id": "q00025",
+    "sectionNumber": 1,
     "number": 25,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Недостатньою видимістю вважається:",
@@ -395,8 +395,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q026",
-    "sectionNumber": 1.0,
+    "id": "q00026",
+    "sectionNumber": 1,
     "number": 26,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Доріжка з покриттям поза межами проїзної частини вулиці та/або дороги, розташована окремо чи суміжно з тротуаром або пішохідною доріжкою, що призначена для руху на велосипедах, і позначена дорожнім знаком та горизонтальною розміткою, як показано на малюнку, це:",
@@ -412,8 +412,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q027",
-    "sectionNumber": 1.0,
+    "id": "q00027",
+    "sectionNumber": 1,
     "number": 27,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Як називається доріжка зображена на наведеному малюнку?",
@@ -429,8 +429,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q028",
-    "sectionNumber": 1.0,
+    "id": "q00028",
+    "sectionNumber": 1,
     "number": 28,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Доріжка з покриттям поза межами проїзної частини вулиці та/або дороги, розташована окремо чи суміжно з тротуаром або пішохідною доріжкою, і позначена дорожнім знаком та горизонтальною розміткою, як показано на малюку, призначена для руху:",
@@ -446,8 +446,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q029",
-    "sectionNumber": 1.0,
+    "id": "q00029",
+    "sectionNumber": 1,
     "number": 29,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Смуга, призначена для руху на велосипедах у межах проїзної частини вулиці та/або дороги яка позначена дорожнім знаком 5.88 та відповідною горизонтальною дорожньою розміткою це:",
@@ -463,8 +463,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q030",
-    "sectionNumber": 1.0,
+    "id": "q00030",
+    "sectionNumber": 1,
     "number": 30,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Велосипедною доріжкою дозволяється рух:",
@@ -480,8 +480,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q031",
-    "sectionNumber": 1.0,
+    "id": "q00031",
+    "sectionNumber": 1,
     "number": 31,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Що з переліченого нижче відповідає терміну «небезпека для руху»?",
@@ -495,8 +495,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q032",
-    "sectionNumber": 1.0,
+    "id": "q00032",
+    "sectionNumber": 1,
     "number": 32,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Елемент дороги, призначений для руху пішоходів, який прилягає до проїзної частини або відокремлений від неї газоном це:",
@@ -510,8 +510,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q033",
-    "sectionNumber": 1.0,
+    "id": "q00033",
+    "sectionNumber": 1,
     "number": 33,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи є тротуар елементом автомобільної дороги?",
@@ -524,8 +524,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q034",
-    "sectionNumber": 1.0,
+    "id": "q00034",
+    "sectionNumber": 1,
     "number": 34,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи вважається тротуар елементом проїзної частини?",
@@ -538,8 +538,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q035",
-    "sectionNumber": 1.0,
+    "id": "q00035",
+    "sectionNumber": 1,
     "number": 35,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи дозволено велосипедистам рухатись по тротуару?",
@@ -553,8 +553,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q036",
-    "sectionNumber": 1.0,
+    "id": "q00036",
+    "sectionNumber": 1,
     "number": 36,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Що з переліченого нижче відповідає терміну «видимість у напрямку руху»?",
@@ -568,8 +568,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q037",
-    "sectionNumber": 1.0,
+    "id": "q00037",
+    "sectionNumber": 1,
     "number": 37,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "На якому з наведених малюнків зображена автомобільна дорога?",
@@ -585,8 +585,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q038",
-    "sectionNumber": 1.0,
+    "id": "q00038",
+    "sectionNumber": 1,
     "number": 38,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Для руху яких транспортних засобів призначена проїзна частина?",
@@ -600,8 +600,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q039",
-    "sectionNumber": 1.0,
+    "id": "q00039",
+    "sectionNumber": 1,
     "number": 39,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи може дорога мати декілька проїзних частин?",
@@ -614,8 +614,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q040",
-    "sectionNumber": 1.0,
+    "id": "q00040",
+    "sectionNumber": 1,
     "number": 40,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи вважається довільно накатана колія автомобільною дорогою?",
@@ -628,8 +628,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q041",
-    "sectionNumber": 1.0,
+    "id": "q00041",
+    "sectionNumber": 1,
     "number": 41,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Обмежена оглядовість – це:",
@@ -643,8 +643,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q042",
-    "sectionNumber": 1.0,
+    "id": "q00042",
+    "sectionNumber": 1,
     "number": 42,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Що означає термін «перевага»?",
@@ -658,8 +658,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q043",
-    "sectionNumber": 1.0,
+    "id": "q00043",
+    "sectionNumber": 1,
     "number": 43,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Рейковим транспортом вважається:",
@@ -673,8 +673,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q044",
-    "sectionNumber": 1.0,
+    "id": "q00044",
+    "sectionNumber": 1,
     "number": 44,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Дозволеною максимальною масою вважається:",
@@ -687,8 +687,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q045",
-    "sectionNumber": 1.0,
+    "id": "q00045",
+    "sectionNumber": 1,
     "number": 45,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "В якому з перелічених випадків водій здійснив вимушену зупинку?",
@@ -703,8 +703,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q046",
-    "sectionNumber": 1.0,
+    "id": "q00046",
+    "sectionNumber": 1,
     "number": 46,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "До маршрутних транспортних засобів (транспортних засобів загального користування) належать:",
@@ -718,8 +718,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q047",
-    "sectionNumber": 1.0,
+    "id": "q00047",
+    "sectionNumber": 1,
     "number": 47,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Оглядовістю вважається:",
@@ -733,8 +733,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q048",
-    "sectionNumber": 1.0,
+    "id": "q00048",
+    "sectionNumber": 1,
     "number": 48,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Обмежена оглядовість – це видимість дороги в напрямку руху, яка обмежена:",
@@ -749,8 +749,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q049",
-    "sectionNumber": 1.0,
+    "id": "q00049",
+    "sectionNumber": 1,
     "number": 49,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "З якого боку дозволено виконати випередження на проїзній частині?",
@@ -764,8 +764,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q050",
-    "sectionNumber": 1.0,
+    "id": "q00050",
+    "sectionNumber": 1,
     "number": 50,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Що з переліченого є прилеглою територією?",
@@ -780,8 +780,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q051",
-    "sectionNumber": 1.0,
+    "id": "q00051",
+    "sectionNumber": 1,
     "number": 51,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Розділювальна смуга призначена:",
@@ -797,8 +797,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q052",
-    "sectionNumber": 1.0,
+    "id": "q00052",
+    "sectionNumber": 1,
     "number": 52,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Який елемент автомобільної дороги зображено на наведеному малюнку?",
@@ -815,8 +815,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q053",
-    "sectionNumber": 1.0,
+    "id": "q00053",
+    "sectionNumber": 1,
     "number": 53,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи призначена розділювальна смуга для руху або стоянки транспортних засобів?",
@@ -831,8 +831,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q054",
-    "sectionNumber": 1.0,
+    "id": "q00054",
+    "sectionNumber": 1,
     "number": 54,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Засліплення це:",
@@ -845,8 +845,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q055",
-    "sectionNumber": 1.0,
+    "id": "q00055",
+    "sectionNumber": 1,
     "number": 55,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи зобов’язані водії бути особливо уважними до велосипедистів?",
@@ -861,8 +861,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q056",
-    "sectionNumber": 1.0,
+    "id": "q00056",
+    "sectionNumber": 1,
     "number": 56,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Особи, які ведуть мотоцикл прирівнюються до:",
@@ -878,8 +878,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q057",
-    "sectionNumber": 1.0,
+    "id": "q00057",
+    "sectionNumber": 1,
     "number": 57,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Особи, які ведуть мотоцикл прирівнюються до пішоходів?",
@@ -894,8 +894,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q058",
-    "sectionNumber": 1.0,
+    "id": "q00058",
+    "sectionNumber": 1,
     "number": 58,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи прирівнюються до пішоходів особи, які везуть дитячий візок?",
@@ -910,8 +910,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q059",
-    "sectionNumber": 1.0,
+    "id": "q00059",
+    "sectionNumber": 1,
     "number": 59,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Особи, які рухаються у кріслах колісних, є учасниками дорожнього руху?",
@@ -926,8 +926,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q060",
-    "sectionNumber": 1.0,
+    "id": "q00060",
+    "sectionNumber": 1,
     "number": 60,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи відноситься штучна споруда (естакада, шляхопровід, міст тощо), яка призначена для руху транспортних засобів до елемента автомобільної дороги?",
@@ -940,8 +940,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q061",
-    "sectionNumber": 1.0,
+    "id": "q00061",
+    "sectionNumber": 1,
     "number": 61,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Інженерна споруда призначена для руху транспортних засобів та/або пішоходів, підняття однієї дороги над іншою у місці їх перетину та не має з’їздів на іншу дорогу це:",
@@ -955,8 +955,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q062",
-    "sectionNumber": 1.0,
+    "id": "q00062",
+    "sectionNumber": 1,
     "number": 62,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Який транспортний засіб призначений для руху тільки в з’єднанні з іншим транспортним засобом?",
@@ -970,8 +970,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q063",
-    "sectionNumber": 1.0,
+    "id": "q00063",
+    "sectionNumber": 1,
     "number": 63,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи дозволено пішоходам рухатись узбіччям?",
@@ -985,8 +985,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q064",
-    "sectionNumber": 1.0,
+    "id": "q00064",
+    "sectionNumber": 1,
     "number": 64,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи призначено узбіччя для руху транспортних засобів?",
@@ -999,8 +999,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q065",
-    "sectionNumber": 1.0,
+    "id": "q00065",
+    "sectionNumber": 1,
     "number": 65,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "У наведеному випадку суцільна лінія дорожньої розмітки вважається межею проїзної частини та узбіччя?",
@@ -1015,8 +1015,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q066",
-    "sectionNumber": 1.0,
+    "id": "q00066",
+    "sectionNumber": 1,
     "number": 66,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "На наведеному малюнку зображено узбіччя?",
@@ -1031,8 +1031,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s1-q067",
-    "sectionNumber": 1.0,
+    "id": "q00067",
+    "sectionNumber": 1,
     "number": 67,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Технічний засіб регулювання дорожнього руху на наземних пішохідних переходах, конструктивно виділений над проїзною частиною дороги та призначений як захисний елемент для зупинки пішоходів під час переходу проїзної частини дороги це:",
@@ -1046,8 +1046,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q068",
-    "sectionNumber": 1.0,
+    "id": "q00068",
+    "sectionNumber": 1,
     "number": 68,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Чи призначений острівець безпеки для посадки (висадки) пасажирів маршрутних транспортних засобів?",
@@ -1060,8 +1060,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q069",
-    "sectionNumber": 1.0,
+    "id": "q00069",
+    "sectionNumber": 1,
     "number": 69,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Припинення руху транспортного засобу через його технічну несправність чи небезпеку, яка спричинена вантажем, який перевозиться, станом учасника дорожнього руху, появою перешкоди для руху відноситься до терміну:",
@@ -1075,8 +1075,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q070",
-    "sectionNumber": 1.0,
+    "id": "q00070",
+    "sectionNumber": 1,
     "number": 70,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Перехрещення дороги із залізничними коліями на одному рівні вважається:",
@@ -1090,8 +1090,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q071",
-    "sectionNumber": 1.0,
+    "id": "q00071",
+    "sectionNumber": 1,
     "number": 71,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Частина території, зокрема, в населеному пункті, з усіма розташованими на ній спорудами та засобами організації дорожнього руху, призначена для руху транспортних засобів і пішоходів та обмежена по ширині зовнішнім краєм тротуарів чи краєм смуги відводу, вважається:",
@@ -1105,8 +1105,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q072",
-    "sectionNumber": 1.0,
+    "id": "q00072",
+    "sectionNumber": 1,
     "number": 72,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Пішохідний перехід призначений для руху:",
@@ -1120,8 +1120,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q073",
-    "sectionNumber": 1.0,
+    "id": "q00073",
+    "sectionNumber": 1,
     "number": 73,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Зовнішні світлові прилади білого кольору, передбачені конструкцією транспортного засобу, установлені спереду транспортного засобу і призначені для покращення видимості транспортного засобу під час його руху у світлий час доби це:",
@@ -1135,8 +1135,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q074",
-    "sectionNumber": 1.0,
+    "id": "q00074",
+    "sectionNumber": 1,
     "number": 74,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Яка із наведених категорій осіб не прирівнюється до пішоходів?",
@@ -1151,8 +1151,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q075",
-    "sectionNumber": 1.0,
+    "id": "q00075",
+    "sectionNumber": 1,
     "number": 75,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Яке із наведених визначень відповідає терміну колона транспортних засобів:",
@@ -1167,8 +1167,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q076",
-    "sectionNumber": 1.0,
+    "id": "q00076",
+    "sectionNumber": 1,
     "number": 76,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Якому терміну відповідає сукупність факторів, що характеризуються дорожніми умовами, наявністю перешкод на певній ділянці дороги, інтенсивністю і рівнем організації дорожнього руху (наявність та стан дорожньої розмітки, дорожніх знаків, дорожнього обладнання, світлофорів), які повинен ураховувати водій під час вибору швидкості, смуги руху та прийомів керування транспортним засобом?",
@@ -1182,8 +1182,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q077",
-    "sectionNumber": 1.0,
+    "id": "q00077",
+    "sectionNumber": 1,
     "number": 77,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "До терміну «оглядовість» належить:",
@@ -1197,8 +1197,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q078",
-    "sectionNumber": 1.0,
+    "id": "q00078",
+    "sectionNumber": 1,
     "number": 78,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "До якого виду транспортних засобів відносяться трактори, самохідні шасі, дорожньо-будівельні, меліоративні машини та інші механізми?",
@@ -1213,8 +1213,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s1-q079",
-    "sectionNumber": 1.0,
+    "id": "q00079",
+    "sectionNumber": 1,
     "number": 79,
     "category": "ЗАГАЛЬНІ ПОЛОЖЕННЯ",
     "question": "Безпечною швидкістю руху вважається:",
@@ -1227,8 +1227,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q001",
-    "sectionNumber": 2.0,
+    "id": "q00080",
+    "sectionNumber": 2,
     "number": 1,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "У разі, якщо неможливо вжити заходи для надання домедичної допомоги потерпілому та викликати бригаду екстреної (швидкої) медичної допомоги, а також якщо з місця ДТП немає можливості відправити потерпілого до лікувального закладу за допомогою інших осіб, водій зобов'язаний:",
@@ -1243,8 +1243,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s2-q002",
-    "sectionNumber": 2.0,
+    "id": "q00081",
+    "sectionNumber": 2,
     "number": 2,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Що з переліченого в першу чергу зобов’язаний зробити причетний до дорожньо-транспортної пригоди водій, якщо в результаті події є потерпілі особи?",
@@ -1259,8 +1259,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q003",
-    "sectionNumber": 2.0,
+    "id": "q00082",
+    "sectionNumber": 2,
     "number": 3,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Що зобов'язаний зробити водій, який став учасником дорожньо- транспортної пригоди?",
@@ -1277,8 +1277,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s2-q004",
-    "sectionNumber": 2.0,
+    "id": "q00083",
+    "sectionNumber": 2,
     "number": 4,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Водій, причетний до дорожньо-транспортної пригоди, що зупинив транспортний засіб на місці події, ввімкнув аварійну світлову сигналізацію і встановив знак аварійної зупинки, залишаючись на місці події, повинен:",
@@ -1294,8 +1294,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s2-q005",
-    "sectionNumber": 2.0,
+    "id": "q00084",
+    "sectionNumber": 2,
     "number": 5,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Кому дозволено зупинку і стоянку в зоні дії знака «Зупинку заборонено» за наявності під ним таблички «Крім осіб з інвалідністю»?",
@@ -1313,8 +1313,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s2-q006",
-    "sectionNumber": 2.0,
+    "id": "q00085",
+    "sectionNumber": 2,
     "number": 6,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Хто може вимагати від водія проходження в установленому порядку медичного огляду для визначення стану алкогольного сп’яніння, впливу наркотичних чи токсичних речовин?",
@@ -1331,8 +1331,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s2-q007",
-    "sectionNumber": 2.0,
+    "id": "q00086",
+    "sectionNumber": 2,
     "number": 7,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "З якого віку надається право на керування транспортними засобами категорії В?",
@@ -1349,8 +1349,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s2-q008",
-    "sectionNumber": 2.0,
+    "id": "q00087",
+    "sectionNumber": 2,
     "number": 8,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Якими засобами пасивної безпеки зобов'язані користуватися водії і пасажири автомобілів, обладнаних такими засобами?",
@@ -1368,8 +1368,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s2-q009",
-    "sectionNumber": 2.0,
+    "id": "q00088",
+    "sectionNumber": 2,
     "number": 9,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Документи, які повинен пред’явити для перевірки водій на вимогу поліцейського:",
@@ -1387,8 +1387,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s2-q010",
-    "sectionNumber": 2.0,
+    "id": "q00089",
+    "sectionNumber": 2,
     "number": 10,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи дозволено керувати транспортним засобом, якщо водій перебуває в хворобливому стані, який ставить під загрозу безпеку дорожнього руху?",
@@ -1402,8 +1402,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q011",
-    "sectionNumber": 2.0,
+    "id": "q00090",
+    "sectionNumber": 2,
     "number": 11,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Водій має право:",
@@ -1418,8 +1418,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q012",
-    "sectionNumber": 2.0,
+    "id": "q00091",
+    "sectionNumber": 2,
     "number": 12,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Що входить в обов'язки учасників дорожнього руху?",
@@ -1433,8 +1433,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q013",
-    "sectionNumber": 2.0,
+    "id": "q00092",
+    "sectionNumber": 2,
     "number": 13,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Водій транспортного засобу, якого зупинила посадова особа державного органу, яка здійснює нагляд за дорожнім рухом , має право:",
@@ -1448,8 +1448,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q014",
-    "sectionNumber": 2.0,
+    "id": "q00093",
+    "sectionNumber": 2,
     "number": 14,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи має право водій оскаржити дії поліцейського в разі порушення ним законодавства?",
@@ -1462,8 +1462,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q015",
-    "sectionNumber": 2.0,
+    "id": "q00094",
+    "sectionNumber": 2,
     "number": 15,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Кому може передавати керування власник транспортного засобу, а також особа, яка використовує цей транспортний засіб на законних підставах?",
@@ -1477,8 +1477,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q016",
-    "sectionNumber": 2.0,
+    "id": "q00095",
+    "sectionNumber": 2,
     "number": 16,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи зобов'язаний водій перевіряти технічний стан транспортного засобу перед виїздом?",
@@ -1492,8 +1492,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q017",
-    "sectionNumber": 2.0,
+    "id": "q00096",
+    "sectionNumber": 2,
     "number": 17,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Що з переліченого нижче входить в обов'язки водіїв?",
@@ -1509,8 +1509,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q018",
-    "sectionNumber": 2.0,
+    "id": "q00097",
+    "sectionNumber": 2,
     "number": 18,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Що зобов'язаний зробити водій перед виїздом?",
@@ -1524,8 +1524,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q019",
-    "sectionNumber": 2.0,
+    "id": "q00098",
+    "sectionNumber": 2,
     "number": 19,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Ви як власник легкового автомобіля, маєте право передати керування Вашим автомобілем особі, яка:",
@@ -1539,8 +1539,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q020",
-    "sectionNumber": 2.0,
+    "id": "q00099",
+    "sectionNumber": 2,
     "number": 20,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Які з перерахованих прав є у водія?",
@@ -1555,8 +1555,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q021",
-    "sectionNumber": 2.0,
+    "id": "q00100",
+    "sectionNumber": 2,
     "number": 21,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Що з переліченого нижче не входить в обов'язки водіїв?",
@@ -1570,8 +1570,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q022",
-    "sectionNumber": 2.0,
+    "id": "q00101",
+    "sectionNumber": 2,
     "number": 22,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Які транспортні засоби належать до категорії В?",
@@ -1586,8 +1586,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q023",
-    "sectionNumber": 2.0,
+    "id": "q00102",
+    "sectionNumber": 2,
     "number": 23,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Під час руху поза населеним пунктом ременями безпеки можуть не пристібатися:",
@@ -1603,8 +1603,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q024",
-    "sectionNumber": 2.0,
+    "id": "q00103",
+    "sectionNumber": 2,
     "number": 24,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Згідно з Правилами дорожнього руху на вимогу поліцейського водій повинен...",
@@ -1617,8 +1617,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q025",
-    "sectionNumber": 2.0,
+    "id": "q00104",
+    "sectionNumber": 2,
     "number": 25,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Водії яких транспортних засобів можуть не надавати свій транспортний засіб поліцейським та працівникам охорони здоров’я у встановлених Правилами дорожнього руху випадках?",
@@ -1634,8 +1634,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q026",
-    "sectionNumber": 2.0,
+    "id": "q00105",
+    "sectionNumber": 2,
     "number": 26,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Водій повинен надавати свій транспортний засіб...",
@@ -1650,8 +1650,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q027",
-    "sectionNumber": 2.0,
+    "id": "q00106",
+    "sectionNumber": 2,
     "number": 27,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Кому і в яких випадках водій транспортного засобу повинен надати свій транспортний засіб?",
@@ -1665,8 +1665,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q028",
-    "sectionNumber": 2.0,
+    "id": "q00107",
+    "sectionNumber": 2,
     "number": 28,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Що з переліченого водієві заборонено?",
@@ -1682,8 +1682,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q029",
-    "sectionNumber": 2.0,
+    "id": "q00108",
+    "sectionNumber": 2,
     "number": 29,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Хто з водіїв не порушує вимог Правил дорожнього руху, користуючись засобами зв'язку під час руху транспортного засобу?",
@@ -1698,8 +1698,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q030",
-    "sectionNumber": 2.0,
+    "id": "q00109",
+    "sectionNumber": 2,
     "number": 30,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи дозволено водієві – учаснику дорожньо-транспортної пригоди до проведення медичного огляду вживати алкоголь, наркотичні засоби, лікарські препарати, виготовлені на їх основі (крім тих, які входять до офіційно затвердженого складу аптечки)?",
@@ -1712,8 +1712,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q031",
-    "sectionNumber": 2.0,
+    "id": "q00110",
+    "sectionNumber": 2,
     "number": 31,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Які документи повинен мати при собі водій механічного транспортного засобу?",
@@ -1729,8 +1729,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q032",
-    "sectionNumber": 2.0,
+    "id": "q00111",
+    "sectionNumber": 2,
     "number": 32,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Власник транспортного засобу має право:",
@@ -1746,8 +1746,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q033",
-    "sectionNumber": 2.0,
+    "id": "q00112",
+    "sectionNumber": 2,
     "number": 33,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "В якому випадку водієві дозволяється залишати транспортний засіб?",
@@ -1761,8 +1761,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q034",
-    "sectionNumber": 2.0,
+    "id": "q00113",
+    "sectionNumber": 2,
     "number": 34,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Під час руху транспортного засобу в населеному пункті ременями безпеки можуть не пристібатися:",
@@ -1778,8 +1778,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s2-q035",
-    "sectionNumber": 2.0,
+    "id": "q00114",
+    "sectionNumber": 2,
     "number": 35,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи дозволено водію, якій причетний до дорожньо-транспортної пригоди, переміщати транспортний засіб і предмети, що мають причетність до пригоди, якщо вони ускладнюють рух іншим учасникам дорожнього руху?",
@@ -1794,8 +1794,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s2-q036",
-    "sectionNumber": 2.0,
+    "id": "q00115",
+    "sectionNumber": 2,
     "number": 36,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи дозволено Вам закріпити номерний знак так, як показано на малюнку?",
@@ -1810,8 +1810,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s2-q037",
-    "sectionNumber": 2.0,
+    "id": "q00116",
+    "sectionNumber": 2,
     "number": 37,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ВОДІЇВ МЕХАНІЧНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи дозволено водієві керувати транспортним засобом, якщо номерний знак забруднений?",
@@ -1827,8 +1827,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s3-q001",
-    "sectionNumber": 3.0,
+    "id": "q00117",
+    "sectionNumber": 3,
     "number": 1,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Чи повинен водій автомобіля, рухаючись по головній дорозі, дати дорогу транспортному засобу з увімкненим синім проблисковим маячком?",
@@ -1843,8 +1843,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s3-q002",
-    "sectionNumber": 3.0,
+    "id": "q00118",
+    "sectionNumber": 3,
     "number": 2,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Чи повинен водій транспортного засобу з увімкненим проблисковим маячком синього кольору, що рухається на спуск, де зустрічний роз'їзд утруднено, дати дорогу транспортним засобам, які рухаються на підйом?",
@@ -1859,8 +1859,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s3-q003",
-    "sectionNumber": 3.0,
+    "id": "q00119",
+    "sectionNumber": 3,
     "number": 3,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Наближаючись до нерухомого автомобіля з увімкненим проблисковим маячком синього кольору, що стоїть на узбіччі (біля проїзної частини) або на проїзній частині, водій повинен:",
@@ -1876,8 +1876,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s3-q004",
-    "sectionNumber": 3.0,
+    "id": "q00120",
+    "sectionNumber": 3,
     "number": 4,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Чи дозволено водієві синього автомобіля зайняти місце в даній колоні?",
@@ -1893,8 +1893,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s3-q005",
-    "sectionNumber": 3.0,
+    "id": "q00121",
+    "sectionNumber": 3,
     "number": 5,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Чи дозволено водієві синього автомобіля виконати випередження автомобіля що супроводжує колону і рухається з увімкненим зеленим проблисковим маячком?",
@@ -1910,8 +1910,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s3-q006",
-    "sectionNumber": 3.0,
+    "id": "q00122",
+    "sectionNumber": 3,
     "number": 6,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Як вчинити водієві транспортного засобу, до якого ззаду наближається автомобіль з увімкненим проблисковим маячком синього кольору та (або) звуковим сигналом?",
@@ -1927,8 +1927,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s3-q007",
-    "sectionNumber": 3.0,
+    "id": "q00123",
+    "sectionNumber": 3,
     "number": 7,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Як повинен вчинити водій у даній ситуації в разі наближення оперативного транспортного засобу?",
@@ -1944,8 +1944,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s3-q008",
-    "sectionNumber": 3.0,
+    "id": "q00124",
+    "sectionNumber": 3,
     "number": 8,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Чи дозволено Вам виконати обгін одиночного транспортного засобу, що рухається з увімкненим синім проблисковим маячком?",
@@ -1958,8 +1958,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s3-q009",
-    "sectionNumber": 3.0,
+    "id": "q00125",
+    "sectionNumber": 3,
     "number": 9,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Який проблисковий маячок повинен бути увімкнений на транспортному засобі, що замикає колону, якщо на транспортному засобі, що рухається попереду колони, увімкнено проблискові маячки червоного та синього кольору?",
@@ -1977,8 +1977,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s3-q011",
-    "sectionNumber": 3.0,
+    "id": "q00126",
+    "sectionNumber": 3,
     "number": 11,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Чи дозволено водієві транспортного засобу з увімкненим проблисковим маячком синього або червоного кольору рухатися на заборонний сигнал регулювальника?",
@@ -1991,8 +1991,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s3-q012",
-    "sectionNumber": 3.0,
+    "id": "q00127",
+    "sectionNumber": 3,
     "number": 12,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Водії оперативних транспортних засобів, виконуючи невідкладне службове завдання, увімкнувши проблисковий маячок червоного або синього кольору, можуть відступати від:",
@@ -2007,8 +2007,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s3-q013",
-    "sectionNumber": 3.0,
+    "id": "q00128",
+    "sectionNumber": 3,
     "number": 13,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "За яких умов водії оперативних транспортних засобів мають перевагу в русі перед іншими учасниками дорожнього руху?",
@@ -2021,8 +2021,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s3-q014",
-    "sectionNumber": 3.0,
+    "id": "q00129",
+    "sectionNumber": 3,
     "number": 14,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Чи завжди на оперативному транспортному засобі, що виконує невідкладне службове завдання, поряд з увімкненими проблисковими маячками червоного або синього кольору необхідно вмикати спеціальний звуковий сигнал?",
@@ -2035,8 +2035,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s3-q015",
-    "sectionNumber": 3.0,
+    "id": "q00130",
+    "sectionNumber": 3,
     "number": 15,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Чи повинен водій надавати перевагу в русі автомобілю екстреної (швидкої) медичної допомоги?",
@@ -2052,8 +2052,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s3-q016",
-    "sectionNumber": 3.0,
+    "id": "q00131",
+    "sectionNumber": 3,
     "number": 16,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ ІЗ СПЕЦІАЛЬНИМИ СИГНАЛАМИ",
     "question": "Чи надає перевагу в русі ввімкнення проблискового маячка оранжевого кольору на транспортних засобах дорожньо-експлуатаційної служби під час виконання роботи",
@@ -2068,8 +2068,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s4-q001",
-    "sectionNumber": 4.0,
+    "id": "q00132",
+    "sectionNumber": 4,
     "number": 1,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "З якого боку від трамвая пішоходам дозволяється виходити на проїзну частину під час посадки на трамвай, якщо трамвайна зупинка не обладнана посадковим майданчиком?",
@@ -2085,8 +2085,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s4-q002",
-    "sectionNumber": 4.0,
+    "id": "q00133",
+    "sectionNumber": 4,
     "number": 2,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "За наявності підземних і надземних пішохідних переходів пішоходи повинні переходити проїзну частину:",
@@ -2102,8 +2102,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s4-q003",
-    "sectionNumber": 4.0,
+    "id": "q00134",
+    "sectionNumber": 4,
     "number": 3,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Рухаючись тротуарами і пішохідними доріжками, пішоходи повинні дотримуватись:",
@@ -2119,8 +2119,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s4-q004",
-    "sectionNumber": 4.0,
+    "id": "q00135",
+    "sectionNumber": 4,
     "number": 4,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "В яких випадках пішоходу дозволено рух краєм проїзної частини?",
@@ -2136,8 +2136,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q005",
-    "sectionNumber": 4.0,
+    "id": "q00136",
+    "sectionNumber": 4,
     "number": 5,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Чи має право пішохід вимагати від органів виконавчої влади, власників автомобільних доріг, вулиць та залізничних переїздів створення умов для забезпечення безпеки дорожнього руху?",
@@ -2150,8 +2150,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q006",
-    "sectionNumber": 4.0,
+    "id": "q00137",
+    "sectionNumber": 4,
     "number": 6,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Чи має перевагу пішохід, якщо переходить дорогу на регульованому пішохідному переході?",
@@ -2164,8 +2164,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q007",
-    "sectionNumber": 4.0,
+    "id": "q00138",
+    "sectionNumber": 4,
     "number": 7,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Коли пішоходу дозволяється затримуватися і зупинятися на проїзній частині?",
@@ -2181,8 +2181,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q008",
-    "sectionNumber": 4.0,
+    "id": "q00139",
+    "sectionNumber": 4,
     "number": 8,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Де пішоходам дозволено переходити дорогу, якщо є розділювальна смуга або дорога має чотири і більше смуг для руху в обох напрямках, а також у місцях, де встановлено огородження:",
@@ -2198,8 +2198,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q009",
-    "sectionNumber": 4.0,
+    "id": "q00140",
+    "sectionNumber": 4,
     "number": 9,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Що заборонено пішоходам під час переходу проїзної частини навіть на пішохідному переході?",
@@ -2213,8 +2213,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q010",
-    "sectionNumber": 4.0,
+    "id": "q00141",
+    "sectionNumber": 4,
     "number": 10,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Де пішоходи повинні чекати на транспортний засіб?",
@@ -2229,8 +2229,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q011",
-    "sectionNumber": 4.0,
+    "id": "q00142",
+    "sectionNumber": 4,
     "number": 11,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Як повинні вчинити пішоходи, що переходять дорогу з розділювальною смугою на регульованому пішохідному переході, яким при переході проїзної частини одного напрямку (коли вони ще не дійшли до розділювальної смуги) загорівся сигнал світлофора, що забороняє рух?",
@@ -2243,8 +2243,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q012",
-    "sectionNumber": 4.0,
+    "id": "q00143",
+    "sectionNumber": 4,
     "number": 12,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "На регульованому пішохідному переході пішохід, який не встиг перейти проїзну частину дороги одного напрямку руху (для нього загорівся сигнал світлофора, що забороняє рух) повинен:",
@@ -2261,8 +2261,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q014",
-    "sectionNumber": 4.0,
+    "id": "q00144",
+    "sectionNumber": 4,
     "number": 14,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Чи має перевагу пішохід, якщо переходить дорогу на позначеному нерегульованому пішохідному переході?",
@@ -2276,8 +2276,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q015",
-    "sectionNumber": 4.0,
+    "id": "q00145",
+    "sectionNumber": 4,
     "number": 15,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Де дозволяється водити організовані групи дітей за відсутності тротуарів і пішохідних доріжок?",
@@ -2290,8 +2290,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q016",
-    "sectionNumber": 4.0,
+    "id": "q00146",
+    "sectionNumber": 4,
     "number": 16,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Чи дозволено водити організовані групи дітей проїзною частиною?",
@@ -2305,8 +2305,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q017",
-    "sectionNumber": 4.0,
+    "id": "q00147",
+    "sectionNumber": 4,
     "number": 17,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "При дотриманні яких умов дозволяється рух організованих груп людей проїзною частиною?",
@@ -2322,8 +2322,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q018",
-    "sectionNumber": 4.0,
+    "id": "q00148",
+    "sectionNumber": 4,
     "number": 18,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "В якому напрямку дозволено рухатися організованим групам людей проїзною частиною?",
@@ -2337,8 +2337,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q019",
-    "sectionNumber": 4.0,
+    "id": "q00149",
+    "sectionNumber": 4,
     "number": 19,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Пішоходи, які рухаються проїзною частиною чи узбіччям у темну пору доби або в умовах недостатньої видимості, для своєчасного виявлення їх іншими учасниками дорожнього руху повинні:",
@@ -2352,8 +2352,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q020",
-    "sectionNumber": 4.0,
+    "id": "q00150",
+    "sectionNumber": 4,
     "number": 20,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "В якому напрямку узбіччям чи краєм проїзної частини повинні рухатися особи, які пересуваються в кріслах колісних без двигуна, які ведуть в руках мотоцикл, мопед або велосипед, за межами населених пунктів?",
@@ -2367,8 +2367,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q021",
-    "sectionNumber": 4.0,
+    "id": "q00151",
+    "sectionNumber": 4,
     "number": 21,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Які дії зобов’язаний вжити пішохід у разі його причетності до дорожньо- транспортної пригоди?",
@@ -2384,8 +2384,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q022",
-    "sectionNumber": 4.0,
+    "id": "q00152",
+    "sectionNumber": 4,
     "number": 22,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "На нерегульованих перехрестях пішоходи мають право переходити дорогу, якщо не має позначеного пішохідного переходу?",
@@ -2398,8 +2398,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s4-q023",
-    "sectionNumber": 4.0,
+    "id": "q00153",
+    "sectionNumber": 4,
     "number": 23,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Чи дозволено пішоходам переходити проїзну частину на цій ділянці дороги?",
@@ -2414,8 +2414,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s4-q024",
-    "sectionNumber": 4.0,
+    "id": "q00154",
+    "sectionNumber": 4,
     "number": 24,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Чи правильно в даному випадку рухається пішохід по краю проїзної частини?",
@@ -2430,8 +2430,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s4-q025",
-    "sectionNumber": 4.0,
+    "id": "q00155",
+    "sectionNumber": 4,
     "number": 25,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Чи правильно в даному випадку рухається пішохід по краю проїзної частини?",
@@ -2446,8 +2446,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s4-q026",
-    "sectionNumber": 4.0,
+    "id": "q00156",
+    "sectionNumber": 4,
     "number": 26,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПІШОХОДІВ",
     "question": "Пішоходи, у визначених Правилами дорожнього руху випадках, мають право рухатись велосипедними доріжками?",
@@ -2460,8 +2460,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q001",
-    "sectionNumber": 5.0,
+    "id": "q00157",
+    "sectionNumber": 5,
     "number": 1,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Чи дозволено пасажирам виконувати посадку (висадку) з боку суміжної смуги руху?",
@@ -2474,8 +2474,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q002",
-    "sectionNumber": 5.0,
+    "id": "q00158",
+    "sectionNumber": 5,
     "number": 2,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Під час користування транспортним засобом пасажир автобуса має право на:",
@@ -2490,8 +2490,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q003",
-    "sectionNumber": 5.0,
+    "id": "q00159",
+    "sectionNumber": 5,
     "number": 3,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Що повинен зробити пасажир транспортного засобу, який причетний до дорожньо-транспортної пригоди?",
@@ -2505,8 +2505,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q004",
-    "sectionNumber": 5.0,
+    "id": "q00160",
+    "sectionNumber": 5,
     "number": 4,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Чи дозволено пасажирам під час руху на транспортному засобі використовувати для їзди підніжки і виступи транспортного засобу?",
@@ -2520,8 +2520,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q005",
-    "sectionNumber": 5.0,
+    "id": "q00161",
+    "sectionNumber": 5,
     "number": 5,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Чи дозволено пасажирам відкривати двері транспортного засобу з боку тротуару, посадкового майданчика, краю проїзної частини чи узбіччя?",
@@ -2535,8 +2535,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q006",
-    "sectionNumber": 5.0,
+    "id": "q00162",
+    "sectionNumber": 5,
     "number": 6,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Чи дозволяється пасажиру відволікати водія під час руху?",
@@ -2549,8 +2549,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q007",
-    "sectionNumber": 5.0,
+    "id": "q00163",
+    "sectionNumber": 5,
     "number": 7,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Чи повинні пасажири бути в застебнутих мотошоломах під час пересування на мотоциклах і мопедах?",
@@ -2564,8 +2564,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q008",
-    "sectionNumber": 5.0,
+    "id": "q00164",
+    "sectionNumber": 5,
     "number": 8,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Чи повинні пасажири пристібатися ременями безпеки під час пересування на транспортному засобі, який ними обладнаний?",
@@ -2579,8 +2579,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q009",
-    "sectionNumber": 5.0,
+    "id": "q00165",
+    "sectionNumber": 5,
     "number": 9,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Чи може пасажир їхати стоячи, користуючись транспортним засобом, що обладнаний поручнями?",
@@ -2593,8 +2593,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q010",
-    "sectionNumber": 5.0,
+    "id": "q00166",
+    "sectionNumber": 5,
     "number": 10,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Де повинні перебувати пасажири, користуючись транспортним засобом?",
@@ -2610,8 +2610,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q011",
-    "sectionNumber": 5.0,
+    "id": "q00167",
+    "sectionNumber": 5,
     "number": 11,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Яких умов повинні дотримуватися пасажири при посадці (висадці) з крайньої смуги проїзної частини?",
@@ -2625,8 +2625,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q012",
-    "sectionNumber": 5.0,
+    "id": "q00168",
+    "sectionNumber": 5,
     "number": 12,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Звідки пасажирам дозволено здійснювати посадку (висадку) за відсутності посадкового майданчика, тротуару та узбіччя?",
@@ -2639,8 +2639,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q013",
-    "sectionNumber": 5.0,
+    "id": "q00169",
+    "sectionNumber": 5,
     "number": 13,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "В якому випадку пасажирам дозволено здійснювати посадку (висадку) з узбіч або тротуарів?",
@@ -2654,8 +2654,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q014",
-    "sectionNumber": 5.0,
+    "id": "q00170",
+    "sectionNumber": 5,
     "number": 14,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Посадку (висадку) пасажирам дозволено здійснювати:",
@@ -2669,8 +2669,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q015",
-    "sectionNumber": 5.0,
+    "id": "q00171",
+    "sectionNumber": 5,
     "number": 15,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "В якому випадку пасажири при русі механічного транспортного засобу, обладнаного ременями безпеки, повинні бути пристебнутими згідно Правил дорожнього руху?",
@@ -2683,8 +2683,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s5-q016",
-    "sectionNumber": 5.0,
+    "id": "q00172",
+    "sectionNumber": 5,
     "number": 16,
     "category": "ОБОВ'ЯЗКИ І ПРАВА ПАСАЖИРІВ",
     "question": "Чи правильно здійснюють посадку пасажири в наведеній ситуації?",
@@ -2699,8 +2699,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s6-q001",
-    "sectionNumber": 6.0,
+    "id": "q00173",
+    "sectionNumber": 6,
     "number": 1,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Чи має перевагу в русі велосипедист, якщо велосипедна доріжка перетинає дорогу поза перехрестям?",
@@ -2716,8 +2716,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s6-q002",
-    "sectionNumber": 6.0,
+    "id": "q00174",
+    "sectionNumber": 6,
     "number": 2,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Чи дозволено перевезення пасажирів на велосипеді?",
@@ -2731,8 +2731,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q003",
-    "sectionNumber": 6.0,
+    "id": "q00175",
+    "sectionNumber": 6,
     "number": 3,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Велосипедисту під час руху на велосипеді забороняється:",
@@ -2746,8 +2746,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q004",
-    "sectionNumber": 6.0,
+    "id": "q00176",
+    "sectionNumber": 6,
     "number": 4,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "У якому випадку велосипедистам дозволено рухатись тротуарами і пішохідними доріжками?",
@@ -2761,8 +2761,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q005",
-    "sectionNumber": 6.0,
+    "id": "q00177",
+    "sectionNumber": 6,
     "number": 5,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "У якому випадку велосипедисту заборонено рухатися проїзною частиною?",
@@ -2776,8 +2776,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q006",
-    "sectionNumber": 6.0,
+    "id": "q00178",
+    "sectionNumber": 6,
     "number": 6,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "За яких умов велосипедисту заборонено керувати велосипедом?",
@@ -2791,8 +2791,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q007",
-    "sectionNumber": 6.0,
+    "id": "q00179",
+    "sectionNumber": 6,
     "number": 7,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Які вантажі може перевозити велосипедист?",
@@ -2805,8 +2805,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q008",
-    "sectionNumber": 6.0,
+    "id": "q00180",
+    "sectionNumber": 6,
     "number": 8,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Яка дистанція має бути між рухомими колонами велосипедистів?",
@@ -2820,8 +2820,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q009",
-    "sectionNumber": 6.0,
+    "id": "q00181",
+    "sectionNumber": 6,
     "number": 9,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Рухаючись групами, велосипедисти мають їхати по дорозі...",
@@ -2834,8 +2834,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q010",
-    "sectionNumber": 6.0,
+    "id": "q00182",
+    "sectionNumber": 6,
     "number": 10,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Що встановлюється на велосипедах для руху в темну пору доби та в умовах недостатньої видимості?",
@@ -2848,8 +2848,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q011",
-    "sectionNumber": 6.0,
+    "id": "q00183",
+    "sectionNumber": 6,
     "number": 11,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Чим має бути обладнаний велосипед?",
@@ -2864,8 +2864,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q012",
-    "sectionNumber": 6.0,
+    "id": "q00184",
+    "sectionNumber": 6,
     "number": 12,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "З якого віку дозволено рухатися по дорогах на велосипеді?",
@@ -2880,8 +2880,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q013",
-    "sectionNumber": 6.0,
+    "id": "q00185",
+    "sectionNumber": 6,
     "number": 13,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Чи дозволено велосипедистам рухатися автомагістралями, дорогами для автомобілів і проїзною частиною за наявності поруч велосипедної доріжки?",
@@ -2894,8 +2894,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q014",
-    "sectionNumber": 6.0,
+    "id": "q00186",
+    "sectionNumber": 6,
     "number": 14,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Чи дозволено буксирування велосипеда?",
@@ -2908,8 +2908,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q015",
-    "sectionNumber": 6.0,
+    "id": "q00187",
+    "sectionNumber": 6,
     "number": 15,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "У місцях, де рух регулюється, велосипедисти повинні керуватися:",
@@ -2926,8 +2926,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s6-q016",
-    "sectionNumber": 6.0,
+    "id": "q00188",
+    "sectionNumber": 6,
     "number": 16,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Що позначає вказаний дорожній знак?",
@@ -2942,8 +2942,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s6-q017",
-    "sectionNumber": 6.0,
+    "id": "q00189",
+    "sectionNumber": 6,
     "number": 17,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Що в даному випадку позначає ця горизонтальна розмітка ?",
@@ -2959,8 +2959,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s6-q018",
-    "sectionNumber": 6.0,
+    "id": "q00190",
+    "sectionNumber": 6,
     "number": 18,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Яке з наведених тверджень про велосипедистів є невірним?",
@@ -2974,8 +2974,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s6-q019",
-    "sectionNumber": 6.0,
+    "id": "q00191",
+    "sectionNumber": 6,
     "number": 19,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Велосипедна смуга дозволяє також рух мопедів по ній?",
@@ -2990,8 +2990,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s6-q020",
-    "sectionNumber": 6.0,
+    "id": "q00192",
+    "sectionNumber": 6,
     "number": 20,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Велосипедна смуга дозволяє також рух мотоциклів по ній?",
@@ -3006,8 +3006,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s6-q021",
-    "sectionNumber": 6.0,
+    "id": "q00193",
+    "sectionNumber": 6,
     "number": 21,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Крім велосипедів, по велосипедній смузі можуть рухатись:",
@@ -3023,8 +3023,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s6-q022",
-    "sectionNumber": 6.0,
+    "id": "q00194",
+    "sectionNumber": 6,
     "number": 22,
     "category": "ВИМОГИ ДО ВЕЛОСИПЕДИСТІВ",
     "question": "Чи дозволено велосипедистам рухатися в два ряди, якщо зустрічні транспортні засоби відсутні?",
@@ -3039,8 +3039,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s7-q001",
-    "sectionNumber": 7.0,
+    "id": "q00195",
+    "sectionNumber": 7,
     "number": 1,
     "category": "ВИМОГИ ДО ОСІБ, ЯКІ КЕРУЮТЬ ГУЖОВИМ ТРАНСПОРТОМ, І ПОГОНИЧІВ ТВАРИН",
     "question": "У разі виїзду з прилеглої території в місцях з обмеженою оглядовістю дороги, водій гужового воза повинен...",
@@ -3055,8 +3055,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s7-q002",
-    "sectionNumber": 7.0,
+    "id": "q00196",
+    "sectionNumber": 7,
     "number": 2,
     "category": "ВИМОГИ ДО ОСІБ, ЯКІ КЕРУЮТЬ ГУЖОВИМ ТРАНСПОРТОМ, І ПОГОНИЧІВ ТВАРИН",
     "question": "Чим повинен бути обладнаний гужовий віз (сани)?",
@@ -3069,8 +3069,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s7-q003",
-    "sectionNumber": 7.0,
+    "id": "q00197",
+    "sectionNumber": 7,
     "number": 3,
     "category": "ВИМОГИ ДО ОСІБ, ЯКІ КЕРУЮТЬ ГУЖОВИМ ТРАНСПОРТОМ, І ПОГОНИЧІВ ТВАРИН",
     "question": "З якого боку гужового воза (саней) повинні бути встановлені ліхтарі для руху в темну пору доби?",
@@ -3083,8 +3083,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s7-q004",
-    "sectionNumber": 7.0,
+    "id": "q00198",
+    "sectionNumber": 7,
     "number": 4,
     "category": "ВИМОГИ ДО ОСІБ, ЯКІ КЕРУЮТЬ ГУЖОВИМ ТРАНСПОРТОМ, І ПОГОНИЧІВ ТВАРИН",
     "question": "Які освітлювальні прилади повинні бути ввімкнені на гужовому возі (санях) під час руху в темну пору доби, а також в умовах недостатньої видимості?",
@@ -3098,8 +3098,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s7-q005",
-    "sectionNumber": 7.0,
+    "id": "q00199",
+    "sectionNumber": 7,
     "number": 5,
     "category": "ВИМОГИ ДО ОСІБ, ЯКІ КЕРУЮТЬ ГУЖОВИМ ТРАНСПОРТОМ, І ПОГОНИЧІВ ТВАРИН",
     "question": "За яких умов дозволено перевозити людей гужовим транспортом?",
@@ -3113,8 +3113,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s7-q006",
-    "sectionNumber": 7.0,
+    "id": "q00200",
+    "sectionNumber": 7,
     "number": 6,
     "category": "ВИМОГИ ДО ОСІБ, ЯКІ КЕРУЮТЬ ГУЖОВИМ ТРАНСПОРТОМ, І ПОГОНИЧІВ ТВАРИН",
     "question": "Чи дозволено переганяти стадо тварин по дорозі в темну пору доби?",
@@ -3128,8 +3128,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s7-q007",
-    "sectionNumber": 7.0,
+    "id": "q00201",
+    "sectionNumber": 7,
     "number": 7,
     "category": "ВИМОГИ ДО ОСІБ, ЯКІ КЕРУЮТЬ ГУЖОВИМ ТРАНСПОРТОМ, І ПОГОНИЧІВ ТВАРИН",
     "question": "Чи дозволено особам, які керують гужовим транспортом, і погоничам тварин пересуватися автомобільними дорогами державного значення?",
@@ -3143,8 +3143,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s7-q008",
-    "sectionNumber": 7.0,
+    "id": "q00202",
+    "sectionNumber": 7,
     "number": 8,
     "category": "ВИМОГИ ДО ОСІБ, ЯКІ КЕРУЮТЬ ГУЖОВИМ ТРАНСПОРТОМ, І ПОГОНИЧІВ ТВАРИН",
     "question": "Що заборонено погоничам тварин?",
@@ -3160,7 +3160,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q001",
+    "id": "q00203",
     "sectionNumber": 8.1,
     "number": 1,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3178,7 +3178,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q002",
+    "id": "q00204",
     "sectionNumber": 8.1,
     "number": 2,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3195,7 +3195,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q003",
+    "id": "q00205",
     "sectionNumber": 8.1,
     "number": 3,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3211,7 +3211,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q004",
+    "id": "q00206",
     "sectionNumber": 8.1,
     "number": 4,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3228,7 +3228,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q005",
+    "id": "q00207",
     "sectionNumber": 8.1,
     "number": 5,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3245,7 +3245,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q006",
+    "id": "q00208",
     "sectionNumber": 8.1,
     "number": 6,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3261,7 +3261,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q007",
+    "id": "q00209",
     "sectionNumber": 8.1,
     "number": 7,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3278,7 +3278,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q008",
+    "id": "q00210",
     "sectionNumber": 8.1,
     "number": 8,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3295,7 +3295,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q009",
+    "id": "q00211",
     "sectionNumber": 8.1,
     "number": 9,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3313,7 +3313,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q010",
+    "id": "q00212",
     "sectionNumber": 8.1,
     "number": 10,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3330,7 +3330,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q011",
+    "id": "q00213",
     "sectionNumber": 8.1,
     "number": 11,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3346,7 +3346,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q012",
+    "id": "q00214",
     "sectionNumber": 8.1,
     "number": 12,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3363,7 +3363,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q013",
+    "id": "q00215",
     "sectionNumber": 8.1,
     "number": 13,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3380,7 +3380,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q014",
+    "id": "q00216",
     "sectionNumber": 8.1,
     "number": 14,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3399,7 +3399,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q015",
+    "id": "q00217",
     "sectionNumber": 8.1,
     "number": 15,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3418,7 +3418,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q016",
+    "id": "q00218",
     "sectionNumber": 8.1,
     "number": 16,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3437,7 +3437,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q017",
+    "id": "q00219",
     "sectionNumber": 8.1,
     "number": 17,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3454,7 +3454,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q018",
+    "id": "q00220",
     "sectionNumber": 8.1,
     "number": 18,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3472,7 +3472,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q019",
+    "id": "q00221",
     "sectionNumber": 8.1,
     "number": 19,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3491,7 +3491,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q020",
+    "id": "q00222",
     "sectionNumber": 8.1,
     "number": 20,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3509,7 +3509,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q021",
+    "id": "q00223",
     "sectionNumber": 8.1,
     "number": 21,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3527,7 +3527,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q022",
+    "id": "q00224",
     "sectionNumber": 8.1,
     "number": 22,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3544,7 +3544,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q023",
+    "id": "q00225",
     "sectionNumber": 8.1,
     "number": 23,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3561,7 +3561,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q024",
+    "id": "q00226",
     "sectionNumber": 8.1,
     "number": 24,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3579,7 +3579,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q025",
+    "id": "q00227",
     "sectionNumber": 8.1,
     "number": 25,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3597,7 +3597,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q026",
+    "id": "q00228",
     "sectionNumber": 8.1,
     "number": 26,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3615,7 +3615,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q027",
+    "id": "q00229",
     "sectionNumber": 8.1,
     "number": 27,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3633,7 +3633,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q028",
+    "id": "q00230",
     "sectionNumber": 8.1,
     "number": 28,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3650,7 +3650,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q029",
+    "id": "q00231",
     "sectionNumber": 8.1,
     "number": 29,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3667,7 +3667,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q030",
+    "id": "q00232",
     "sectionNumber": 8.1,
     "number": 30,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3685,7 +3685,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q031",
+    "id": "q00233",
     "sectionNumber": 8.1,
     "number": 31,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3703,7 +3703,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q032",
+    "id": "q00234",
     "sectionNumber": 8.1,
     "number": 32,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3721,7 +3721,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q033",
+    "id": "q00235",
     "sectionNumber": 8.1,
     "number": 33,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3738,7 +3738,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q034",
+    "id": "q00236",
     "sectionNumber": 8.1,
     "number": 34,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3757,7 +3757,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q035",
+    "id": "q00237",
     "sectionNumber": 8.1,
     "number": 35,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3774,7 +3774,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q036",
+    "id": "q00238",
     "sectionNumber": 8.1,
     "number": 36,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3793,7 +3793,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q037",
+    "id": "q00239",
     "sectionNumber": 8.1,
     "number": 37,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3810,7 +3810,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q038",
+    "id": "q00240",
     "sectionNumber": 8.1,
     "number": 38,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3826,7 +3826,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q039",
+    "id": "q00241",
     "sectionNumber": 8.1,
     "number": 39,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3843,7 +3843,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q040",
+    "id": "q00242",
     "sectionNumber": 8.1,
     "number": 40,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3861,7 +3861,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q041",
+    "id": "q00243",
     "sectionNumber": 8.1,
     "number": 41,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3877,7 +3877,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q042",
+    "id": "q00244",
     "sectionNumber": 8.1,
     "number": 42,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3894,7 +3894,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q043",
+    "id": "q00245",
     "sectionNumber": 8.1,
     "number": 43,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3911,7 +3911,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q044",
+    "id": "q00246",
     "sectionNumber": 8.1,
     "number": 44,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3928,7 +3928,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q045",
+    "id": "q00247",
     "sectionNumber": 8.1,
     "number": 45,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3945,7 +3945,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q046",
+    "id": "q00248",
     "sectionNumber": 8.1,
     "number": 46,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3963,7 +3963,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q047",
+    "id": "q00249",
     "sectionNumber": 8.1,
     "number": 47,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3980,7 +3980,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q048",
+    "id": "q00250",
     "sectionNumber": 8.1,
     "number": 48,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -3997,7 +3997,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q049",
+    "id": "q00251",
     "sectionNumber": 8.1,
     "number": 49,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4013,7 +4013,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q050",
+    "id": "q00252",
     "sectionNumber": 8.1,
     "number": 50,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4029,7 +4029,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q051",
+    "id": "q00253",
     "sectionNumber": 8.1,
     "number": 51,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4045,7 +4045,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q052",
+    "id": "q00254",
     "sectionNumber": 8.1,
     "number": 52,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4062,7 +4062,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q053",
+    "id": "q00255",
     "sectionNumber": 8.1,
     "number": 53,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4080,7 +4080,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q054",
+    "id": "q00256",
     "sectionNumber": 8.1,
     "number": 54,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4098,7 +4098,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q055",
+    "id": "q00257",
     "sectionNumber": 8.1,
     "number": 55,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4116,7 +4116,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q056",
+    "id": "q00258",
     "sectionNumber": 8.1,
     "number": 56,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4133,7 +4133,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q057",
+    "id": "q00259",
     "sectionNumber": 8.1,
     "number": 57,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4149,7 +4149,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q058",
+    "id": "q00260",
     "sectionNumber": 8.1,
     "number": 58,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4165,7 +4165,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q059",
+    "id": "q00261",
     "sectionNumber": 8.1,
     "number": 59,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4181,7 +4181,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q060",
+    "id": "q00262",
     "sectionNumber": 8.1,
     "number": 60,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4197,7 +4197,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q061",
+    "id": "q00263",
     "sectionNumber": 8.1,
     "number": 61,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4214,7 +4214,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q062",
+    "id": "q00264",
     "sectionNumber": 8.1,
     "number": 62,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4230,7 +4230,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q063",
+    "id": "q00265",
     "sectionNumber": 8.1,
     "number": 63,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4248,7 +4248,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q064",
+    "id": "q00266",
     "sectionNumber": 8.1,
     "number": 64,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4264,7 +4264,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q065",
+    "id": "q00267",
     "sectionNumber": 8.1,
     "number": 65,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4280,7 +4280,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q066",
+    "id": "q00268",
     "sectionNumber": 8.1,
     "number": 66,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4297,7 +4297,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q067",
+    "id": "q00269",
     "sectionNumber": 8.1,
     "number": 67,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4314,7 +4314,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q068",
+    "id": "q00270",
     "sectionNumber": 8.1,
     "number": 68,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4331,7 +4331,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-1-q069",
+    "id": "q00271",
     "sectionNumber": 8.1,
     "number": 69,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4346,7 +4346,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q070",
+    "id": "q00272",
     "sectionNumber": 8.1,
     "number": 70,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4363,7 +4363,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q071",
+    "id": "q00273",
     "sectionNumber": 8.1,
     "number": 71,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4380,7 +4380,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q072",
+    "id": "q00274",
     "sectionNumber": 8.1,
     "number": 72,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4396,7 +4396,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q073",
+    "id": "q00275",
     "sectionNumber": 8.1,
     "number": 73,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4412,7 +4412,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q074",
+    "id": "q00276",
     "sectionNumber": 8.1,
     "number": 74,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4428,7 +4428,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q075",
+    "id": "q00277",
     "sectionNumber": 8.1,
     "number": 75,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4442,7 +4442,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q076",
+    "id": "q00278",
     "sectionNumber": 8.1,
     "number": 76,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4459,7 +4459,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q077",
+    "id": "q00279",
     "sectionNumber": 8.1,
     "number": 77,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4475,7 +4475,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q078",
+    "id": "q00280",
     "sectionNumber": 8.1,
     "number": 78,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4490,7 +4490,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q079",
+    "id": "q00281",
     "sectionNumber": 8.1,
     "number": 79,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4505,7 +4505,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q080",
+    "id": "q00282",
     "sectionNumber": 8.1,
     "number": 80,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4521,7 +4521,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q081",
+    "id": "q00283",
     "sectionNumber": 8.1,
     "number": 81,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4537,7 +4537,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q082",
+    "id": "q00284",
     "sectionNumber": 8.1,
     "number": 82,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4551,7 +4551,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-1-q083",
+    "id": "q00285",
     "sectionNumber": 8.1,
     "number": 83,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4567,7 +4567,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-2-q001",
+    "id": "q00286",
     "sectionNumber": 8.2,
     "number": 1,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4586,7 +4586,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-2-q002",
+    "id": "q00287",
     "sectionNumber": 8.2,
     "number": 2,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4603,7 +4603,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-2-q003",
+    "id": "q00288",
     "sectionNumber": 8.2,
     "number": 3,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4623,7 +4623,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s8-2-q005",
+    "id": "q00289",
     "sectionNumber": 8.2,
     "number": 5,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4638,7 +4638,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-2-q006",
+    "id": "q00290",
     "sectionNumber": 8.2,
     "number": 6,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4655,7 +4655,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s8-2-q007",
+    "id": "q00291",
     "sectionNumber": 8.2,
     "number": 7,
     "category": "РЕГУЛЮВАННЯ ДОРОЖНЬОГО РУХУ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -4672,8 +4672,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q001",
-    "sectionNumber": 9.0,
+    "id": "q00292",
+    "sectionNumber": 9,
     "number": 1,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Який попереджувальний сигнал вмикається під час руху на всіх транспортних засобах колони у світлий час доби?",
@@ -4691,8 +4691,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s9-q002",
-    "sectionNumber": 9.0,
+    "id": "q00293",
+    "sectionNumber": 9,
     "number": 2,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Про що свідчить (може попереджати) знак аварійної зупинки, встановлений ззаду на автомобілі, що рухаєтеся?",
@@ -4708,8 +4708,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s9-q003",
-    "sectionNumber": 9.0,
+    "id": "q00294",
+    "sectionNumber": 9,
     "number": 3,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Як позначити транспортний засіб, що буксирується, якщо у нього несправна або відсутня аварійна світлова сигналізація?",
@@ -4727,8 +4727,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s9-q004",
-    "sectionNumber": 9.0,
+    "id": "q00295",
+    "sectionNumber": 9,
     "number": 4,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Який попереджувальний сигнал вмикається на транспортних засобах колони під час зупинки на дорозі?",
@@ -4744,8 +4744,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s9-q005",
-    "sectionNumber": 9.0,
+    "id": "q00296",
+    "sectionNumber": 9,
     "number": 5,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "На якій відстані від транспортного засобу необхідно встановити знак аварійної зупинки або миготливий червоний ліхтар у випадках, передбачених Правилами дорожнього руху, на дорогах у населених пунктах?",
@@ -4762,8 +4762,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s9-q006",
-    "sectionNumber": 9.0,
+    "id": "q00297",
+    "sectionNumber": 9,
     "number": 6,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "У яких випадках для позначення транспортного засобу потрібно увімкнути аварійну сигналізацію і встановити знак аварійної зупинки або миготливий червоний ліхтар на відстані від транспортного засобу?",
@@ -4781,8 +4781,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s9-q007",
-    "sectionNumber": 9.0,
+    "id": "q00298",
+    "sectionNumber": 9,
     "number": 7,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Як повинен водій позначити місце дорожньо-транспортної пригоди?",
@@ -4798,8 +4798,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s9-q008",
-    "sectionNumber": 9.0,
+    "id": "q00299",
+    "sectionNumber": 9,
     "number": 8,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "На якому малюнку водій правильно подав сигнал про початок руху?",
@@ -4815,8 +4815,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s9-q009",
-    "sectionNumber": 9.0,
+    "id": "q00300",
+    "sectionNumber": 9,
     "number": 9,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ви водій, рухаючись на сірому автомобілі вирішили повернути праворуч на другому перехресті. Ви:",
@@ -4832,8 +4832,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s9-q010",
-    "sectionNumber": 9.0,
+    "id": "q00301",
+    "sectionNumber": 9,
     "number": 10,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Які попереджувальні сигнали вмикаються на транспортному засобі, що буксирується?",
@@ -4849,8 +4849,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s9-q011",
-    "sectionNumber": 9.0,
+    "id": "q00302",
+    "sectionNumber": 9,
     "number": 11,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "На якому малюнку водій правильно подав сигнал перед поворотом праворуч у разі несправності світлових покажчиків повороту?",
@@ -4866,8 +4866,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s9-q012",
-    "sectionNumber": 9.0,
+    "id": "q00303",
+    "sectionNumber": 9,
     "number": 12,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Які попереджувальні сигнали повинні бути увімкнені на механічному транспортному засобі, що рухається з технічними несправностями, якщо такий рух не заборонено Правилами дорожнього руху?",
@@ -4881,8 +4881,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q013",
-    "sectionNumber": 9.0,
+    "id": "q00304",
+    "sectionNumber": 9,
     "number": 13,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Як позначити транспортний засіб, що рухається до місця ремонту з технічними несправностями, рух із якими не заборонений Правилами дорожнього руху, якщо на транспортному засобі відсутня або несправна аварійна світлова сигналізація?",
@@ -4898,8 +4898,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q014",
-    "sectionNumber": 9.0,
+    "id": "q00305",
+    "sectionNumber": 9,
     "number": 14,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Який попереджувальний сигнал повинен бути ввімкнений на транспортному засобі під час руху в тунелі?",
@@ -4913,8 +4913,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q015",
-    "sectionNumber": 9.0,
+    "id": "q00306",
+    "sectionNumber": 9,
     "number": 15,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "У яких випадках на транспортному засобі повинна бути ввімкнена аварійна сигналізація?",
@@ -4930,8 +4930,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q016",
-    "sectionNumber": 9.0,
+    "id": "q00307",
+    "sectionNumber": 9,
     "number": 16,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Як водій повинен позначити транспортний засіб під час вимушеної зупинки в місці з обмеженою оглядовістю (менше ніж 100 м в одному напрямку)?",
@@ -4947,8 +4947,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q017",
-    "sectionNumber": 9.0,
+    "id": "q00308",
+    "sectionNumber": 9,
     "number": 17,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Який попереджувальний сигнал Ви як водій повинні вмикати на транспортному засобі перед початком руху і зупинкою?",
@@ -4962,8 +4962,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q018",
-    "sectionNumber": 9.0,
+    "id": "q00309",
+    "sectionNumber": 9,
     "number": 18,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Що необхідно виконати під час вимушеної зупинки, якщо аварійна світлова сигналізація відсутня або несправна?",
@@ -4977,8 +4977,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q019",
-    "sectionNumber": 9.0,
+    "id": "q00310",
+    "sectionNumber": 9,
     "number": 19,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Як позначити транспортний засіб, що вимушено стоїть у місці з обмеженою оглядовістю дороги (менш ніж 100 м в одному напрямку), якщо на ньому відсутня або несправна аварійна світлова сигналізація?",
@@ -4991,8 +4991,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q020",
-    "sectionNumber": 9.0,
+    "id": "q00311",
+    "sectionNumber": 9,
     "number": 20,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Водій, який рухається по перехрестю, де організовано круговий рух, не маючи наміру змінювати своєї смуги, зобов'язаний:",
@@ -5006,8 +5006,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q021",
-    "sectionNumber": 9.0,
+    "id": "q00312",
+    "sectionNumber": 9,
     "number": 21,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ви водій, рухаючись в населеному пункті вирішили здійснити розворот. Ви:",
@@ -5021,8 +5021,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q022",
-    "sectionNumber": 9.0,
+    "id": "q00313",
+    "sectionNumber": 9,
     "number": 22,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ви водій, рухаючись в населеному пункті вирішили змінити смугу руху. Ви:",
@@ -5036,8 +5036,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q023",
-    "sectionNumber": 9.0,
+    "id": "q00314",
+    "sectionNumber": 9,
     "number": 23,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ви водій, рухаючись в населеному пункті вирішили повернути праворуч на перехресті. Ви:",
@@ -5051,8 +5051,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q024",
-    "sectionNumber": 9.0,
+    "id": "q00315",
+    "sectionNumber": 9,
     "number": 24,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ви рухаєтесь на велосипеді і Вам необхідно зупинитися. Ваші дії:",
@@ -5067,8 +5067,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q025",
-    "sectionNumber": 9.0,
+    "id": "q00316",
+    "sectionNumber": 9,
     "number": 25,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ви рухаєтесь на велосипеді і Вам необхідно повернути праворуч. Ваші дії:",
@@ -5083,8 +5083,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q026",
-    "sectionNumber": 9.0,
+    "id": "q00317",
+    "sectionNumber": 9,
     "number": 26,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ви рухаєтесь на велосипеді і Вам необхідно повернути ліворуч. Ваші дії:",
@@ -5098,8 +5098,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q027",
-    "sectionNumber": 9.0,
+    "id": "q00318",
+    "sectionNumber": 9,
     "number": 27,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ви рухаєтесь на автомобілі, у якого несправні світлові покажчики поворотів, але Вам необхідно повернути ліворуч. Ваші дії:",
@@ -5113,8 +5113,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q028",
-    "sectionNumber": 9.0,
+    "id": "q00319",
+    "sectionNumber": 9,
     "number": 28,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ви рухаєтесь на автомобілі, у якого несправні світлові покажчики поворотів, але Вам необхідно повернути праворуч. Ваші дії:",
@@ -5128,8 +5128,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q029",
-    "sectionNumber": 9.0,
+    "id": "q00320",
+    "sectionNumber": 9,
     "number": 29,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ви розпочинаєте рух на автомобілі, який попереджувальний сигнал повинні подати:",
@@ -5143,8 +5143,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q030",
-    "sectionNumber": 9.0,
+    "id": "q00321",
+    "sectionNumber": 9,
     "number": 30,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ви водій автомобіля вирішили зупинитися з правої сторони дороги:",
@@ -5158,8 +5158,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q031",
-    "sectionNumber": 9.0,
+    "id": "q00322",
+    "sectionNumber": 9,
     "number": 31,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "За яких умов миготливий червоний ліхтар може використовуватися замість знака аварійної зупинки, згідно з Правилами дорожнього руху?",
@@ -5173,8 +5173,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q032",
-    "sectionNumber": 9.0,
+    "id": "q00323",
+    "sectionNumber": 9,
     "number": 32,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Які зовнішні світлові прилади необхідно ввімкнути у разі зупинення транспортного засобу поліцейським?",
@@ -5189,8 +5189,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q033",
-    "sectionNumber": 9.0,
+    "id": "q00324",
+    "sectionNumber": 9,
     "number": 33,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "У яких із перерахованих випадків потрібно ввімкнути аварійну світлову сигналізацію?",
@@ -5206,8 +5206,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q034",
-    "sectionNumber": 9.0,
+    "id": "q00325",
+    "sectionNumber": 9,
     "number": 34,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "У яких випадках дозволене подавання звукового сигналу?",
@@ -5223,8 +5223,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q035",
-    "sectionNumber": 9.0,
+    "id": "q00326",
+    "sectionNumber": 9,
     "number": 35,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Де заборонене подавання звукового сигналу?",
@@ -5238,8 +5238,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q036",
-    "sectionNumber": 9.0,
+    "id": "q00327",
+    "sectionNumber": 9,
     "number": 36,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Чи дозволене водіям подавання звукового сигналу?",
@@ -5253,8 +5253,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q037",
-    "sectionNumber": 9.0,
+    "id": "q00328",
+    "sectionNumber": 9,
     "number": 37,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Чи дає водієві перевагу в русі ввімкнення покажчика повороту?",
@@ -5268,8 +5268,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q038",
-    "sectionNumber": 9.0,
+    "id": "q00329",
+    "sectionNumber": 9,
     "number": 38,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Водій автомобіля, що рухається, перед перестроюванням увімкнув покажчик повороту. Чи повинен він дати дорогу транспортним засобам, на смугу яких він зібрався перестроюватися?",
@@ -5283,8 +5283,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q039",
-    "sectionNumber": 9.0,
+    "id": "q00330",
+    "sectionNumber": 9,
     "number": 39,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Коли водієві необхідно припинити подавання сигналу рукою?",
@@ -5298,8 +5298,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q040",
-    "sectionNumber": 9.0,
+    "id": "q00331",
+    "sectionNumber": 9,
     "number": 40,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Коли водієві необхідно припинити подавання сигналу світловим покажчиком повороту, виконуючи маневр?",
@@ -5313,8 +5313,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q041",
-    "sectionNumber": 9.0,
+    "id": "q00332",
+    "sectionNumber": 9,
     "number": 41,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "На якій відстані до початку маневру подається сигнал покажчиками повороту або рукою поза населеним пунктом?",
@@ -5328,8 +5328,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q042",
-    "sectionNumber": 9.0,
+    "id": "q00333",
+    "sectionNumber": 9,
     "number": 42,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Які сигнали повинен подавати водій у разі відсутності або несправності сигналів гальмування?",
@@ -5343,8 +5343,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q043",
-    "sectionNumber": 9.0,
+    "id": "q00334",
+    "sectionNumber": 9,
     "number": 43,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Який попереджувальний сигнал вмикається на транспортному засобі перед початком руху і зупинкою?",
@@ -5358,8 +5358,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q044",
-    "sectionNumber": 9.0,
+    "id": "q00335",
+    "sectionNumber": 9,
     "number": 44,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Чи повинні Ви як водій подавати сигнали світловим покажчиком повороту перед перестроюванням?",
@@ -5373,8 +5373,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q045",
-    "sectionNumber": 9.0,
+    "id": "q00336",
+    "sectionNumber": 9,
     "number": 45,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Чи завжди для привертання уваги водія транспортного засобу, якого обганяють, дозволене подавання звукового сигналу на дорогах за межами населеного пункту?",
@@ -5387,8 +5387,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q046",
-    "sectionNumber": 9.0,
+    "id": "q00337",
+    "sectionNumber": 9,
     "number": 46,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Чи дозволено використовувати звуковий сигнал для привернення уваги водія транспортного засобу, якого обганяють, у населеному пункті?",
@@ -5402,8 +5402,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q047",
-    "sectionNumber": 9.0,
+    "id": "q00338",
+    "sectionNumber": 9,
     "number": 47,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Який попереджувальний сигнал дозволено використовувати для привернення уваги водія транспортного засобу, якого обганяють?",
@@ -5419,8 +5419,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q048",
-    "sectionNumber": 9.0,
+    "id": "q00339",
+    "sectionNumber": 9,
     "number": 48,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Що вмикається у разі вимушеної зупинки на дорозі?",
@@ -5434,8 +5434,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q049",
-    "sectionNumber": 9.0,
+    "id": "q00340",
+    "sectionNumber": 9,
     "number": 49,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Які попереджувальні сигнали вмикаються на транспортних засобах під час буксирування у світлий час доби?",
@@ -5449,8 +5449,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q050",
-    "sectionNumber": 9.0,
+    "id": "q00341",
+    "sectionNumber": 9,
     "number": 50,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Де саме необхідно вмикати денні ходові вогні, а в разі їх відсутності в конструкції транспортного засобу – ближнє світло фар на всіх механічних транспортних засобах під час руху в світлу пору доби?",
@@ -5464,8 +5464,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q051",
-    "sectionNumber": 9.0,
+    "id": "q00342",
+    "sectionNumber": 9,
     "number": 51,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "За яких умов на механічному транспортному засобі у світлу пору доби мають бути ввімкнені денні ходові вогні, а в разі їх відсутності в конструкції транспортного засобу – ближнє світло фар?",
@@ -5480,8 +5480,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q052",
-    "sectionNumber": 9.0,
+    "id": "q00343",
+    "sectionNumber": 9,
     "number": 52,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Під час руху у світлу пору доби на дорогах поза населеними пунктами мають бути ввімкнені денні ходові вогні, а в разі їх відсутності в конструкції транспортного засобу – ближнє світло фар:",
@@ -5495,8 +5495,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q053",
-    "sectionNumber": 9.0,
+    "id": "q00344",
+    "sectionNumber": 9,
     "number": 53,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Що слід умикати під час руху на дорогах поза населеними пунктами у світлу пору доби на механічному транспортному засобі за відсутності в його конструкції денних ходових вогнів?",
@@ -5510,8 +5510,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q054",
-    "sectionNumber": 9.0,
+    "id": "q00345",
+    "sectionNumber": 9,
     "number": 54,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Що саме слід умикати на механічних транспортних засобах поза населеними пунктами в світлий час доби?",
@@ -5526,8 +5526,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q055",
-    "sectionNumber": 9.0,
+    "id": "q00346",
+    "sectionNumber": 9,
     "number": 55,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Чи завжди під час руху в тунелі потрібно вмикати ближнє світло фар?",
@@ -5540,8 +5540,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q056",
-    "sectionNumber": 9.0,
+    "id": "q00347",
+    "sectionNumber": 9,
     "number": 56,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Які попереджувальні сигнали вмикаються у світлий час доби на транспортному засобі, що буксирує?",
@@ -5555,8 +5555,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q057",
-    "sectionNumber": 9.0,
+    "id": "q00348",
+    "sectionNumber": 9,
     "number": 57,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "У якому випадку на транспортних засобах колони не вмикається ближнє світло фар у світлу пору доби?",
@@ -5570,8 +5570,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q058",
-    "sectionNumber": 9.0,
+    "id": "q00349",
+    "sectionNumber": 9,
     "number": 58,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Ближнє світло фар у світлу пору доби як попереджувальний сигнал вмикається:",
@@ -5587,8 +5587,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q059",
-    "sectionNumber": 9.0,
+    "id": "q00350",
+    "sectionNumber": 9,
     "number": 59,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "У яких випадках Ви як водій повинні подавати сигнали покажчиками повороту?",
@@ -5602,8 +5602,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s9-q060",
-    "sectionNumber": 9.0,
+    "id": "q00351",
+    "sectionNumber": 9,
     "number": 60,
     "category": "ПОПЕРЕДЖУВАЛЬНІ СИГНАЛИ",
     "question": "Для того, щоб припаркувати Ваш транспортний засіб праворуч, Ви повинні увімкнути:",
@@ -5619,8 +5619,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q001",
-    "sectionNumber": 10.0,
+    "id": "q00352",
+    "sectionNumber": 10,
     "number": 1,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви водій синього автомобіля, виконаєте розворот:",
@@ -5638,8 +5638,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q002",
-    "sectionNumber": 10.0,
+    "id": "q00353",
+    "sectionNumber": 10,
     "number": 2,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "В'їжджаючи на дорогу по смузі розгону, водій повинен:",
@@ -5654,8 +5654,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q003",
-    "sectionNumber": 10.0,
+    "id": "q00354",
+    "sectionNumber": 10,
     "number": 3,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено рух заднім ходом на автомагістралях і дорогах для автомобілів?",
@@ -5670,8 +5670,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q004",
-    "sectionNumber": 10.0,
+    "id": "q00355",
+    "sectionNumber": 10,
     "number": 4,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено рух заднім ходом у тунелях, якщо неможливо під'їхати до об'єкта іншим способом?",
@@ -5686,8 +5686,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q005",
-    "sectionNumber": 10.0,
+    "id": "q00356",
+    "sectionNumber": 10,
     "number": 5,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено в даному місці небезпечного повороту рух заднім ходом?",
@@ -5702,8 +5702,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q006",
-    "sectionNumber": 10.0,
+    "id": "q00357",
+    "sectionNumber": 10,
     "number": 6,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено автомобілю рух заднім ходом у даному місці в умовах недостатньої видимості?",
@@ -5718,8 +5718,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q007",
-    "sectionNumber": 10.0,
+    "id": "q00358",
+    "sectionNumber": 10,
     "number": 7,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Як роз'їдуться транспортні засоби на лісовій дорозі?",
@@ -5734,8 +5734,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q008",
-    "sectionNumber": 10.0,
+    "id": "q00359",
+    "sectionNumber": 10,
     "number": 8,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Як роз'їдуться транспортні засоби в житловій зоні?",
@@ -5750,8 +5750,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q009",
-    "sectionNumber": 10.0,
+    "id": "q00360",
+    "sectionNumber": 10,
     "number": 9,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, водій автомобіля, виїжджаючи з житлової зони, повинні дати дорогу:",
@@ -5767,8 +5767,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q010",
-    "sectionNumber": 10.0,
+    "id": "q00361",
+    "sectionNumber": 10,
     "number": 10,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як водій автомобіля, повертаючи праворуч в показаній ситуації повинні:",
@@ -5784,8 +5784,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q011",
-    "sectionNumber": 10.0,
+    "id": "q00362",
+    "sectionNumber": 10,
     "number": 11,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви водій сірого автомобіля, вирішили перестроїтись праворуч. Ваші дії:",
@@ -5801,8 +5801,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q012",
-    "sectionNumber": 10.0,
+    "id": "q00363",
+    "sectionNumber": 10,
     "number": 12,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви водій білого автомобіля, вирішили перестроїтись ліворуч. Ваші дії:",
@@ -5818,8 +5818,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q013",
-    "sectionNumber": 10.0,
+    "id": "q00364",
+    "sectionNumber": 10,
     "number": 13,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви водій білого автомобіля, вирішили перестроїтись ліворуч, а водій сірого автомобіля одночасно з Вами вирішив перестроїтись праворуч. Ви:",
@@ -5835,8 +5835,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q014",
-    "sectionNumber": 10.0,
+    "id": "q00365",
+    "sectionNumber": 10,
     "number": 14,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви водій сірого автомобіля, вирішили перестроїтись праворуч, а водій білого автомобіля одночасно з Вами вирішив перестроїтись ліворуч. Ви:",
@@ -5852,8 +5852,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q015",
-    "sectionNumber": 10.0,
+    "id": "q00366",
+    "sectionNumber": 10,
     "number": 15,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви водій синього автомобіля:",
@@ -5870,8 +5870,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q016",
-    "sectionNumber": 10.0,
+    "id": "q00367",
+    "sectionNumber": 10,
     "number": 16,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Яким шляхом водій правильно виконує поворот на дорогу зі смугою для розгону?",
@@ -5887,8 +5887,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q017",
-    "sectionNumber": 10.0,
+    "id": "q00368",
+    "sectionNumber": 10,
     "number": 17,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено виконати розворот у технологічному розриві цьому транспортному засобу?",
@@ -5903,8 +5903,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q018",
-    "sectionNumber": 10.0,
+    "id": "q00369",
+    "sectionNumber": 10,
     "number": 18,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Хто з водіїв порушив Правила дорожнього руху, виконавши розворот?",
@@ -5920,8 +5920,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q019",
-    "sectionNumber": 10.0,
+    "id": "q00370",
+    "sectionNumber": 10,
     "number": 19,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено буде водієві білого автомобіля виконати поворот праворуч?",
@@ -5936,8 +5936,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q020",
-    "sectionNumber": 10.0,
+    "id": "q00371",
+    "sectionNumber": 10,
     "number": 20,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено водієві виконати розворот у даному місці?",
@@ -5952,8 +5952,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q021",
-    "sectionNumber": 10.0,
+    "id": "q00372",
+    "sectionNumber": 10,
     "number": 21,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи правильно водій, який знаходиться ліворуч, виконує поворот праворуч?",
@@ -5968,8 +5968,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q022",
-    "sectionNumber": 10.0,
+    "id": "q00373",
+    "sectionNumber": 10,
     "number": 22,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи правильно водій білого автомобіля виконав з'їзд із перехрестя з круговим рухом одночасно з водієм синього автомобіля?",
@@ -5984,8 +5984,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q023",
-    "sectionNumber": 10.0,
+    "id": "q00374",
+    "sectionNumber": 10,
     "number": 23,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Хто з водіїв правильно зайняв смугу для повороту у разі в’їзду на перехрестя, де організовано круговий рух?",
@@ -6001,8 +6001,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q024",
-    "sectionNumber": 10.0,
+    "id": "q00375",
+    "sectionNumber": 10,
     "number": 24,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи правильно автомобіль, що знаходиться ліворуч, виконує поворот праворуч у другу смугу для руху?",
@@ -6017,8 +6017,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q025",
-    "sectionNumber": 10.0,
+    "id": "q00376",
+    "sectionNumber": 10,
     "number": 25,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено водієві виконати розворот на перехресті так, як показано на малюнку?",
@@ -6033,8 +6033,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q026",
-    "sectionNumber": 10.0,
+    "id": "q00377",
+    "sectionNumber": 10,
     "number": 26,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "У якому місці водій правильно виконав розворот?",
@@ -6051,8 +6051,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q027",
-    "sectionNumber": 10.0,
+    "id": "q00378",
+    "sectionNumber": 10,
     "number": 27,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви керуєте автомобілем і під час руху вирішили перестроїтись ліворуч. Виконуючи такий маневр Ви повинні:",
@@ -6068,8 +6068,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q028",
-    "sectionNumber": 10.0,
+    "id": "q00379",
+    "sectionNumber": 10,
     "number": 28,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви керуєте автомобілем і під час руху вирішили перестроїтись ліворуч. Виконуючи такий маневр Ви повинні дати дорогу:",
@@ -6083,8 +6083,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q029",
-    "sectionNumber": 10.0,
+    "id": "q00380",
+    "sectionNumber": 10,
     "number": 29,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Як повинен вчинити водій, що повертає ліворуч на перехресті, якщо автомобіль, який рухається попереду нього, почав виконувати розворот?",
@@ -6097,8 +6097,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q030",
-    "sectionNumber": 10.0,
+    "id": "q00381",
+    "sectionNumber": 10,
     "number": 30,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви керуєте автомобілем і під час руху вирішили перестроїтись праворуч. Виконуючи такий маневр Ви повинні:",
@@ -6114,8 +6114,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q031",
-    "sectionNumber": 10.0,
+    "id": "q00382",
+    "sectionNumber": 10,
     "number": 31,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як водій, повертаючи праворуч повинні:",
@@ -6129,8 +6129,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q032",
-    "sectionNumber": 10.0,
+    "id": "q00383",
+    "sectionNumber": 10,
     "number": 32,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як водій, повертаючи ліворуч поза перехрестям повинні:",
@@ -6145,8 +6145,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q033",
-    "sectionNumber": 10.0,
+    "id": "q00384",
+    "sectionNumber": 10,
     "number": 33,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як водій автомобіля, маєте право розвернутися:",
@@ -6162,8 +6162,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q034",
-    "sectionNumber": 10.0,
+    "id": "q00385",
+    "sectionNumber": 10,
     "number": 34,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "З якої смуги дозволено виконати поворот при в'їзді на перехрестя, де організовано круговий рух?",
@@ -6177,8 +6177,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q035",
-    "sectionNumber": 10.0,
+    "id": "q00386",
+    "sectionNumber": 10,
     "number": 35,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви водій автомобіля, рухаючись по мосту, зрозуміли, що обрали не вірний напрямок. Ваші дії:",
@@ -6192,8 +6192,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q036",
-    "sectionNumber": 10.0,
+    "id": "q00387",
+    "sectionNumber": 10,
     "number": 36,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як водій, вирішили повернути праворуч на перехресті. Ви зобов’язані:",
@@ -6211,8 +6211,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q038",
-    "sectionNumber": 10.0,
+    "id": "q00388",
+    "sectionNumber": 10,
     "number": 38,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як водій, повертаючи ліворуч, побачили що автомобіль, який рухається попереду Вас почав виконувати розворот, Ваші дії:",
@@ -6226,8 +6226,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q039",
-    "sectionNumber": 10.0,
+    "id": "q00389",
+    "sectionNumber": 10,
     "number": 39,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як водій, вирішили розвернутись на дорозі поза перехрестям. Що Ви обов’язково повинні зробити:",
@@ -6243,8 +6243,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q040",
-    "sectionNumber": 10.0,
+    "id": "q00390",
+    "sectionNumber": 10,
     "number": 40,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як водій, вирішили розвернутись на дорозі поза перехрестям. Що Ви обов’язково повинні зробити:",
@@ -6259,8 +6259,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q041",
-    "sectionNumber": 10.0,
+    "id": "q00391",
+    "sectionNumber": 10,
     "number": 41,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви керуєте автомобілем і під час руху вирішили перестроїтись праворуч. Виконуючи такий маневр Ви повинні дати дорогу:",
@@ -6274,8 +6274,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q042",
-    "sectionNumber": 10.0,
+    "id": "q00392",
+    "sectionNumber": 10,
     "number": 42,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви водій, заправили автомобіль паливом і виїжджаючи на дорогу з місця заправки, повинні:",
@@ -6289,8 +6289,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q043",
-    "sectionNumber": 10.0,
+    "id": "q00393",
+    "sectionNumber": 10,
     "number": 43,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви водій, виїжджаючи на дорогу з місця стоянки, повинні:",
@@ -6304,8 +6304,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q044",
-    "sectionNumber": 10.0,
+    "id": "q00394",
+    "sectionNumber": 10,
     "number": 44,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Яких вимог повинен дотримуватися водій під час руху автомобіля заднім ходом?",
@@ -6320,8 +6320,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q045",
-    "sectionNumber": 10.0,
+    "id": "q00395",
+    "sectionNumber": 10,
     "number": 45,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Що в разі потреби повинен зробити водій для забезпечення безпеки дорожнього руху під час руху заднім ходом на транспортному засобі?",
@@ -6335,8 +6335,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q046",
-    "sectionNumber": 10.0,
+    "id": "q00396",
+    "sectionNumber": 10,
     "number": 46,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "У якому випадку дозволено рух заднім ходом на дорогах з одностороннім рухом?",
@@ -6349,8 +6349,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q047",
-    "sectionNumber": 10.0,
+    "id": "q00397",
+    "sectionNumber": 10,
     "number": 47,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "На якій відстані від пішохідних переходів заборонений розворот?",
@@ -6364,8 +6364,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q048",
-    "sectionNumber": 10.0,
+    "id": "q00398",
+    "sectionNumber": 10,
     "number": 48,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Де заборонено рух заднім ходом?",
@@ -6381,8 +6381,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q049",
-    "sectionNumber": 10.0,
+    "id": "q00399",
+    "sectionNumber": 10,
     "number": 49,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "У яких місцях заборонено рух заднім ходом?",
@@ -6398,8 +6398,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q050",
-    "sectionNumber": 10.0,
+    "id": "q00400",
+    "sectionNumber": 10,
     "number": 50,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Якщо в місці з'їзду з дороги є смуга гальмування, чи завжди водій перед поворотом на іншу дорогу повинен знижувати швидкість на ній?",
@@ -6413,8 +6413,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q051",
-    "sectionNumber": 10.0,
+    "id": "q00401",
+    "sectionNumber": 10,
     "number": 51,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "У якому з перелічених місць заборонено розворот?",
@@ -6430,8 +6430,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q052",
-    "sectionNumber": 10.0,
+    "id": "q00402",
+    "sectionNumber": 10,
     "number": 52,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Яких заходів повинен вжити водій, якщо габарити його транспортного засобу не дозволяють виконати поворот з крайнього положення на проїзній частині?",
@@ -6446,8 +6446,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q053",
-    "sectionNumber": 10.0,
+    "id": "q00403",
+    "sectionNumber": 10,
     "number": 53,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "У якому випадку водій може виконати поворот на перехресті не з крайнього положення?",
@@ -6461,8 +6461,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q054",
-    "sectionNumber": 10.0,
+    "id": "q00404",
+    "sectionNumber": 10,
     "number": 54,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Яким правилом повинні керуватися водії транспортних засобів, якщо траєкторії їхнього руху перетинаються, а черговість проїзду не обумовлена Правилами?",
@@ -6476,8 +6476,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q055",
-    "sectionNumber": 10.0,
+    "id": "q00405",
+    "sectionNumber": 10,
     "number": 55,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як водій, перед початком руху повинні:",
@@ -6491,8 +6491,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q056",
-    "sectionNumber": 10.0,
+    "id": "q00406",
+    "sectionNumber": 10,
     "number": 56,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як водій, перед поворотом праворуч повинні:",
@@ -6507,8 +6507,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q057",
-    "sectionNumber": 10.0,
+    "id": "q00407",
+    "sectionNumber": 10,
     "number": 57,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви водій автомобіля, виїжджаючи з прилеглої до дороги території повинні перед проїзною частиною чи тротуаром дати дорогу:",
@@ -6522,8 +6522,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q058",
-    "sectionNumber": 10.0,
+    "id": "q00408",
+    "sectionNumber": 10,
     "number": 58,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви велосипедист, виїжджаючи з прилеглої до дороги території повинні перед проїзною частиною чи тротуаром дати дорогу:",
@@ -6537,8 +6537,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q059",
-    "sectionNumber": 10.0,
+    "id": "q00409",
+    "sectionNumber": 10,
     "number": 59,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як водій автомобіля, повертаючи з дороги на прилеглу територію, повинні:",
@@ -6552,8 +6552,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q060",
-    "sectionNumber": 10.0,
+    "id": "q00410",
+    "sectionNumber": 10,
     "number": 60,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви, як велосипедист, перед поворотом праворуч повинні:",
@@ -6568,8 +6568,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q061",
-    "sectionNumber": 10.0,
+    "id": "q00411",
+    "sectionNumber": 10,
     "number": 61,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Яку смугу повинен зайняти водій перед поворотом ліворуч на перехресті згідно з Правилами дорожнього руху?",
@@ -6583,8 +6583,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q062",
-    "sectionNumber": 10.0,
+    "id": "q00412",
+    "sectionNumber": 10,
     "number": 62,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено Вам виконати розворот на перехресті в зоні 10 метрів від переходу?",
@@ -6597,8 +6597,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q063",
-    "sectionNumber": 10.0,
+    "id": "q00413",
+    "sectionNumber": 10,
     "number": 63,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено Вам виконати розворот одразу після проїзду зустрічного автомобіля в наведеній ситуації?",
@@ -6613,8 +6613,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q064",
-    "sectionNumber": 10.0,
+    "id": "q00414",
+    "sectionNumber": 10,
     "number": 64,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено Вам виконати розворот, якщо видимість дороги менше 100 м в обох напрямках?",
@@ -6629,8 +6629,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q065",
-    "sectionNumber": 10.0,
+    "id": "q00415",
+    "sectionNumber": 10,
     "number": 65,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Водій сірого автомобіля здійснює в’їзд на перехрестя з круговим рухом. Чи потрібно в такому випадку вмикати лівий покажчик повороту?",
@@ -6645,8 +6645,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q066",
-    "sectionNumber": 10.0,
+    "id": "q00416",
+    "sectionNumber": 10,
     "number": 66,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено водієві червоного автомобіля рухатись прямо у даному випадку?",
@@ -6661,8 +6661,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q067",
-    "sectionNumber": 10.0,
+    "id": "q00417",
+    "sectionNumber": 10,
     "number": 67,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволено Вам повернути ліворуч у даному випадку?",
@@ -6677,8 +6677,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q068",
-    "sectionNumber": 10.0,
+    "id": "q00418",
+    "sectionNumber": 10,
     "number": 68,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "У яких випадках дозволено виконати розворот на пішохідному переході?",
@@ -6692,8 +6692,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q069",
-    "sectionNumber": 10.0,
+    "id": "q00419",
+    "sectionNumber": 10,
     "number": 69,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Якщо пішохідний перехід розділений острівцем безпеки, на такому переході дозволено виконати розворот?",
@@ -6708,8 +6708,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q070",
-    "sectionNumber": 10.0,
+    "id": "q00420",
+    "sectionNumber": 10,
     "number": 70,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "У якому випадку дозволено виконати розворот під час руху тунелем?",
@@ -6725,8 +6725,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q071",
-    "sectionNumber": 10.0,
+    "id": "q00421",
+    "sectionNumber": 10,
     "number": 71,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Під час руху транспортного засобу заднім ходом водій для забезпечення безпеки руху, у разі потреби повинен звернутися за допомогою до інших осіб:",
@@ -6739,8 +6739,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q072",
-    "sectionNumber": 10.0,
+    "id": "q00422",
+    "sectionNumber": 10,
     "number": 72,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи можете Ви, виїжджаючи з місця паркування заднім ходом, для забезпечення безпеки руху звернутися за допомогою до інших осіб:",
@@ -6755,8 +6755,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q073",
-    "sectionNumber": 10.0,
+    "id": "q00423",
+    "sectionNumber": 10,
     "number": 73,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Під час руху на автомагістралі водій червоного автомобіля пропустив поворот праворуч. Чи дозволено йому рухатись заднім ходом, якщо позаду немає транспортних засобів?",
@@ -6771,8 +6771,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s10-q074",
-    "sectionNumber": 10.0,
+    "id": "q00424",
+    "sectionNumber": 10,
     "number": 74,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Рухатись заднім ходом на автомагістралі у разі відсутності позаду транспортних засобів:",
@@ -6785,8 +6785,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q075",
-    "sectionNumber": 10.0,
+    "id": "q00425",
+    "sectionNumber": 10,
     "number": 75,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Ви рухаєтесь на спуск з гірської дороги. З метою економії палива можна під час руху по цій дорозі вимкнути передачу ?",
@@ -6799,8 +6799,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s10-q076",
-    "sectionNumber": 10.0,
+    "id": "q00426",
+    "sectionNumber": 10,
     "number": 76,
     "category": "ПОЧАТОК РУХУ ТА ЗМІНА ЙОГО НАПРЯМКУ",
     "question": "Чи дозволений розворот у технологічних розривах розділювальної смуги на автомагістралі?",
@@ -6816,8 +6816,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q001",
-    "sectionNumber": 11.0,
+    "id": "q00427",
+    "sectionNumber": 11,
     "number": 1,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Вам дозволений розворот по траєкторії Б, тому що:",
@@ -6833,8 +6833,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q002",
-    "sectionNumber": 11.0,
+    "id": "q00428",
+    "sectionNumber": 11,
     "number": 2,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Чи дозволено автомобілю виконати виїзд на трамвайну колію попутного напрямку?",
@@ -6849,8 +6849,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q003",
-    "sectionNumber": 11.0,
+    "id": "q00429",
+    "sectionNumber": 11,
     "number": 3,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "По якій траєкторії водієві дозволено виконати поворот ліворуч?",
@@ -6866,8 +6866,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q004",
-    "sectionNumber": 11.0,
+    "id": "q00430",
+    "sectionNumber": 11,
     "number": 4,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Чи дозволено водію у даній ситуації виконати поворот ліворуч із трамвайної колії попутного напрямку?",
@@ -6882,8 +6882,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q005",
-    "sectionNumber": 11.0,
+    "id": "q00431",
+    "sectionNumber": 11,
     "number": 5,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Чи має право водій у даній ситуації виконати поворот ліворуч із трамвайної колії попутного напрямку?",
@@ -6898,8 +6898,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q006",
-    "sectionNumber": 11.0,
+    "id": "q00432",
+    "sectionNumber": 11,
     "number": 6,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Чи дозволено водієві рух по трамвайній колії попутного напрямку в даній ситуації?",
@@ -6914,8 +6914,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q007",
-    "sectionNumber": 11.0,
+    "id": "q00433",
+    "sectionNumber": 11,
     "number": 7,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Чи правильно водій автомобіля рухається по дорозі, яка поділена на смуги лініями дорожньої розмітки?",
@@ -6930,8 +6930,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q008",
-    "sectionNumber": 11.0,
+    "id": "q00434",
+    "sectionNumber": 11,
     "number": 8,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Як повинен вчинити водій у даній ситуації в разі руху прямо?",
@@ -6948,8 +6948,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q009",
-    "sectionNumber": 11.0,
+    "id": "q00435",
+    "sectionNumber": 11,
     "number": 9,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Чи дозволено водієві білого автомобіля при інтенсивному русі виконати перестроювання?",
@@ -6964,8 +6964,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q010",
-    "sectionNumber": 11.0,
+    "id": "q00436",
+    "sectionNumber": 11,
     "number": 10,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "По якій траєкторії водій білого автомобіля може виїжджати на смугу з реверсивним рухом при повороті?",
@@ -6981,8 +6981,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q011",
-    "sectionNumber": 11.0,
+    "id": "q00437",
+    "sectionNumber": 11,
     "number": 11,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "По якій траєкторії велосипедистові дозволено подальший рух?",
@@ -6998,8 +6998,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q012",
-    "sectionNumber": 11.0,
+    "id": "q00438",
+    "sectionNumber": 11,
     "number": 12,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "На якій із доріг велосипедистам, водіям мопедів, особам, які керують гужовим транспортом, а також вершникам дозволено поворот ліворуч або розворот?",
@@ -7016,8 +7016,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q013",
-    "sectionNumber": 11.0,
+    "id": "q00439",
+    "sectionNumber": 11,
     "number": 13,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Чи може даний транспортний засіб рухатися по крайній лівій смузі?",
@@ -7033,8 +7033,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q014",
-    "sectionNumber": 11.0,
+    "id": "q00440",
+    "sectionNumber": 11,
     "number": 14,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Який з водіїв правильно зайняв смугу перед зупинкою?",
@@ -7050,8 +7050,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q015",
-    "sectionNumber": 11.0,
+    "id": "q00441",
+    "sectionNumber": 11,
     "number": 15,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "На якому з малюнків показана дорога, на якій дозволено виїжджати на призначений для зустрічного руху бік дороги?",
@@ -7068,8 +7068,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q016",
-    "sectionNumber": 11.0,
+    "id": "q00442",
+    "sectionNumber": 11,
     "number": 16,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Чи дозволено водієві жовтого автомобіля виїхати на смугу зустрічного руху?",
@@ -7084,8 +7084,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q017",
-    "sectionNumber": 11.0,
+    "id": "q00443",
+    "sectionNumber": 11,
     "number": 17,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "За яких умов водієві легкового автомобіля дозволено рух по крайній лівій смузі на дорозі з розділювальною смугою?",
@@ -7101,8 +7101,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s11-q018",
-    "sectionNumber": 11.0,
+    "id": "q00444",
+    "sectionNumber": 11,
     "number": 18,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Чи дозволено транспортному засобу, швидкість руху якого з технічних причин не перевищує 40 км/год., рухатися по крайній лівій смузі?",
@@ -7116,8 +7116,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q019",
-    "sectionNumber": 11.0,
+    "id": "q00445",
+    "sectionNumber": 11,
     "number": 19,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Чи може водій транспортного засобу в'їжджати на смугу, призначену для зустрічного руху, для зупинки або стоянки біля лівого краю проїзної частини?",
@@ -7131,8 +7131,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q020",
-    "sectionNumber": 11.0,
+    "id": "q00446",
+    "sectionNumber": 11,
     "number": 20,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "У яких випадках водієві при інтенсивному русі дозволено змінювати смугу?",
@@ -7148,8 +7148,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q021",
-    "sectionNumber": 11.0,
+    "id": "q00447",
+    "sectionNumber": 11,
     "number": 21,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Як повинні рухатися водії нерейкових транспортних засобів на дорогах із двома смугами й більше для руху в кожному напрямку?",
@@ -7164,8 +7164,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q022",
-    "sectionNumber": 11.0,
+    "id": "q00448",
+    "sectionNumber": 11,
     "number": 22,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "У яких випадках водій нерейкового транспортного засобу може рухатися, не тримаючись ближче до правого краю проїзної частини на дорогах, що мають по дві й більше смуг для руху в кожному напрямку?",
@@ -7181,8 +7181,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q023",
-    "sectionNumber": 11.0,
+    "id": "q00449",
+    "sectionNumber": 11,
     "number": 23,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "У яких випадках транспортним засобам дозволено рух по тротуарах і пішохідних доріжках?",
@@ -7196,8 +7196,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q024",
-    "sectionNumber": 11.0,
+    "id": "q00450",
+    "sectionNumber": 11,
     "number": 24,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "За яких умов транспортним засобам дозволено рух по тротуарах і пішохідних доріжках для виконання робіт або обслуговування торговельних та інших підприємств, розташованих безпосередньо біля цих тротуарів або доріжок?",
@@ -7211,8 +7211,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q025",
-    "sectionNumber": 11.0,
+    "id": "q00451",
+    "sectionNumber": 11,
     "number": 25,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Як повинні рухатися по проїзній частині велосипедисти, водії мопедів, особи, які керують гужовим транспортом, а також вершники?",
@@ -7228,8 +7228,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q026",
-    "sectionNumber": 11.0,
+    "id": "q00452",
+    "sectionNumber": 11,
     "number": 26,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Як має рухатися нерейковий транспортний засіб на дорозі, яка має по дві й більше смуг для руху в кожному напрямку, вільній від інших транспортних засобів, якщо немає необхідності виконувати маневри?",
@@ -7242,8 +7242,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q027",
-    "sectionNumber": 11.0,
+    "id": "q00453",
+    "sectionNumber": 11,
     "number": 27,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Що повинен враховувати водій нерейкового транспортного засобу для визначення кількості смуг за відсутності дорожньої розмітки та дорожніх знаків «Напрямки руху по смугах» і «Напрямки руху по смузі»?",
@@ -7257,8 +7257,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q028",
-    "sectionNumber": 11.0,
+    "id": "q00454",
+    "sectionNumber": 11,
     "number": 28,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Якщо дорога поділена на смуги руху лініями дорожньої розмітки, чи завжди водій повинен рухатися точно по смузі для руху?",
@@ -7271,8 +7271,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q029",
-    "sectionNumber": 11.0,
+    "id": "q00455",
+    "sectionNumber": 11,
     "number": 29,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "У яких випадках заборонено виїжджати на призначений для зустрічного руху бік дороги?",
@@ -7288,8 +7288,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q031",
-    "sectionNumber": 11.0,
+    "id": "q00456",
+    "sectionNumber": 11,
     "number": 31,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Як повинен рухатися транспортний засіб, швидкість руху якого не повинна перевищувати 40 км/год. або який з технічних причин не може розвивати таку швидкість?",
@@ -7304,8 +7304,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q032",
-    "sectionNumber": 11.0,
+    "id": "q00457",
+    "sectionNumber": 11,
     "number": 32,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "За яких умов водієві легкового автомобіля дозволено виїжджати на крайню ліву смугу на дорозі з розділювальною смугою?",
@@ -7321,8 +7321,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q033",
-    "sectionNumber": 11.0,
+    "id": "q00458",
+    "sectionNumber": 11,
     "number": 33,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Коли нерейковим транспортним засобам дозволено рух по трамвайній колії попутного напрямку, розташованій на одному рівні з проїзною частиною?",
@@ -7337,8 +7337,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q034",
-    "sectionNumber": 11.0,
+    "id": "q00459",
+    "sectionNumber": 11,
     "number": 34,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "У якому випадку заборонено в'їжджати на попутні трамвайні колії, розташовані на одному рівні з проїзною частиною?",
@@ -7354,8 +7354,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q035",
-    "sectionNumber": 11.0,
+    "id": "q00460",
+    "sectionNumber": 11,
     "number": 35,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "У якому випадку дозволено виїжджати на трамвайну колію попутного напрямку на перехрестях?",
@@ -7369,8 +7369,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q036",
-    "sectionNumber": 11.0,
+    "id": "q00461",
+    "sectionNumber": 11,
     "number": 36,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Коли дозволено виїжджати на крайню ліву смугу на дорогах, що мають дві смуги і більше для руху в одному напрямку?",
@@ -7388,8 +7388,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q038",
-    "sectionNumber": 11.0,
+    "id": "q00462",
+    "sectionNumber": 11,
     "number": 38,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "На дорогах з якою мінімальною кількістю смуг для руху в одному напрямку заборонено виїжджати на бік, призначений для зустрічного руху?",
@@ -7403,8 +7403,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s11-q039",
-    "sectionNumber": 11.0,
+    "id": "q00463",
+    "sectionNumber": 11,
     "number": 39,
     "category": "РОЗТАШУВАННЯ ТРАНСПОРТНИХ ЗАСОБІВ НА ДОРОЗІ",
     "question": "Чим у першу чергу повинен керуватися водій нерейкового транспортного засобу для визначення кількості смуг на проїзній частині?",
@@ -7420,8 +7420,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q001",
-    "sectionNumber": 12.0,
+    "id": "q00464",
+    "sectionNumber": 12,
     "number": 1,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "У яких випадках за допомогою дорожніх знаків вводяться постійні обмеження швидкості руху?",
@@ -7437,8 +7437,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q002",
-    "sectionNumber": 12.0,
+    "id": "q00465",
+    "sectionNumber": 12,
     "number": 2,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю дозволено рух водієві зі стажем менш ніж два роки?",
@@ -7456,8 +7456,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q003",
-    "sectionNumber": 12.0,
+    "id": "q00466",
+    "sectionNumber": 12,
     "number": 3,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Яка максимальна швидкість встановлена для руху легкових автомобілів на автомагістралі (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
@@ -7472,8 +7472,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q004",
-    "sectionNumber": 12.0,
+    "id": "q00467",
+    "sectionNumber": 12,
     "number": 4,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю можуть рухатися легкові автомобілі по дорогах для автомобілів (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
@@ -7490,8 +7490,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q005",
-    "sectionNumber": 12.0,
+    "id": "q00468",
+    "sectionNumber": 12,
     "number": 5,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю допускається рух легкових автомобілів на дорогах з окремими проїзними частинами, що відокремлені одна від одної розділювальною смугою (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
@@ -7508,8 +7508,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q006",
-    "sectionNumber": 12.0,
+    "id": "q00469",
+    "sectionNumber": 12,
     "number": 6,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю допускається рух на цій дорозі легкового автомобіля, якщо він рухається за межами населеного пункту (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
@@ -7527,8 +7527,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q007",
-    "sectionNumber": 12.0,
+    "id": "q00470",
+    "sectionNumber": 12,
     "number": 7,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Яка максимальна швидкість встановлена для автомобіля в цьому місці (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
@@ -7544,8 +7544,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q008",
-    "sectionNumber": 12.0,
+    "id": "q00471",
+    "sectionNumber": 12,
     "number": 8,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Яка максимальна швидкість встановлена для легкових автомобілів на цій дорозі за межами населених пунктів (крім транспортних засобів, якими керують водії зі стажем до 2-х років)?",
@@ -7563,8 +7563,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q009",
-    "sectionNumber": 12.0,
+    "id": "q00472",
+    "sectionNumber": 12,
     "number": 9,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю дозволено рух білому автомобілю на дорозі за межами населених пунктів?",
@@ -7586,8 +7586,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q011",
-    "sectionNumber": 12.0,
+    "id": "q00473",
+    "sectionNumber": 12,
     "number": 11,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю дозволено рух червоного автомобіля?",
@@ -7605,8 +7605,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q012",
-    "sectionNumber": 12.0,
+    "id": "q00474",
+    "sectionNumber": 12,
     "number": 12,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "У яких випадках за допомогою дорожніх знаків вводяться тимчасові обмеження швидкості руху?",
@@ -7624,8 +7624,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q013",
-    "sectionNumber": 12.0,
+    "id": "q00475",
+    "sectionNumber": 12,
     "number": 13,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Кому з водіїв дозволено рух з більш високою швидкістю?",
@@ -7641,8 +7641,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q014",
-    "sectionNumber": 12.0,
+    "id": "q00476",
+    "sectionNumber": 12,
     "number": 14,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю дозволено рух у житлових і пішохідних зонах?",
@@ -7659,8 +7659,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q015",
-    "sectionNumber": 12.0,
+    "id": "q00477",
+    "sectionNumber": 12,
     "number": 15,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Швидкість руху в темну пору доби та в умовах недостатньої видимості повинна бути такою, щоб водій:",
@@ -7676,8 +7676,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q016",
-    "sectionNumber": 12.0,
+    "id": "q00478",
+    "sectionNumber": 12,
     "number": 16,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Рухаючись по дорозі, водій виявив перешкоду для руху. Як він повинен вчинити в такій ситуації?",
@@ -7693,8 +7693,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q017",
-    "sectionNumber": 12.0,
+    "id": "q00479",
+    "sectionNumber": 12,
     "number": 17,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Яку максимальну швидкість руху встановлено в населених пунктах, позначених даним дорожнім знаком?",
@@ -7711,8 +7711,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q018",
-    "sectionNumber": 12.0,
+    "id": "q00480",
+    "sectionNumber": 12,
     "number": 18,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю дозволено рух після проїзду цього знака?",
@@ -7729,8 +7729,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q019",
-    "sectionNumber": 12.0,
+    "id": "q00481",
+    "sectionNumber": 12,
     "number": 19,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю дозволено рух на дорогах з розділювальною смугою в населених пунктах?",
@@ -7748,8 +7748,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q020",
-    "sectionNumber": 12.0,
+    "id": "q00482",
+    "sectionNumber": 12,
     "number": 20,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю дозволено рух автомобіля в зображеній ситуації?",
@@ -7766,8 +7766,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q021",
-    "sectionNumber": 12.0,
+    "id": "q00483",
+    "sectionNumber": 12,
     "number": 21,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Чи завжди водій під час вибору безпечної швидкості руху повинен враховувати особливості вантажу, що перевозиться?",
@@ -7780,8 +7780,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q022",
-    "sectionNumber": 12.0,
+    "id": "q00484",
+    "sectionNumber": 12,
     "number": 22,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "У яких випадках, відповідно до Правил дорожнього руху, водій не може бути притягнений до відповідальності за порушення встановлених обмежень швидкості?",
@@ -7797,8 +7797,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q023",
-    "sectionNumber": 12.0,
+    "id": "q00485",
+    "sectionNumber": 12,
     "number": 23,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Чи завжди, вибираючи безпечну швидкість під час руху взимку, водій повинен враховувати стан дорожнього покриття?",
@@ -7811,8 +7811,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q024",
-    "sectionNumber": 12.0,
+    "id": "q00486",
+    "sectionNumber": 12,
     "number": 24,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Чи дозволено водієві різко гальмувати?",
@@ -7826,8 +7826,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q025",
-    "sectionNumber": 12.0,
+    "id": "q00487",
+    "sectionNumber": 12,
     "number": 25,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Чи можна водієві без потреби рухатися з дуже малою швидкістю?",
@@ -7840,8 +7840,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q026",
-    "sectionNumber": 12.0,
+    "id": "q00488",
+    "sectionNumber": 12,
     "number": 26,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Що враховується під час вибору безпечної швидкості руху?",
@@ -7856,8 +7856,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q027",
-    "sectionNumber": 12.0,
+    "id": "q00489",
+    "sectionNumber": 12,
     "number": 27,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Чи дозволено водієві перевищувати максимальну дозволену швидкість під час буксирування?",
@@ -7870,8 +7870,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q028",
-    "sectionNumber": 12.0,
+    "id": "q00490",
+    "sectionNumber": 12,
     "number": 28,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Чи можуть водії транспортних засобів рухатися в житлових і пішохідних зонах зі швидкістю, що перевищує встановлену для таких місць?",
@@ -7886,8 +7886,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q029",
-    "sectionNumber": 12.0,
+    "id": "q00491",
+    "sectionNumber": 12,
     "number": 29,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "У якому випадку максимальна дозволена швидкість руху на дорозі в населеному пункті може бути збільшена?",
@@ -7901,8 +7901,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q030",
-    "sectionNumber": 12.0,
+    "id": "q00492",
+    "sectionNumber": 12,
     "number": 30,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "За яких умов дозволена максимальна швидкість руху на дорозі може бути збільшена?",
@@ -7916,8 +7916,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q031",
-    "sectionNumber": 12.0,
+    "id": "q00493",
+    "sectionNumber": 12,
     "number": 31,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Яка швидкість обрана правильно під час руху в темну пору доби або в умовах недостатньої видимості?",
@@ -7931,8 +7931,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q032",
-    "sectionNumber": 12.0,
+    "id": "q00494",
+    "sectionNumber": 12,
     "number": 32,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Якою має бути швидкість під час руху в темну пору доби або в умовах недостатньої видимості?",
@@ -7950,8 +7950,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q034",
-    "sectionNumber": 12.0,
+    "id": "q00495",
+    "sectionNumber": 12,
     "number": 34,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Як повинен вчинити водій у разі виникнення небезпеки для руху або перешкоди, яку він виявив під час руху?",
@@ -7965,8 +7965,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q035",
-    "sectionNumber": 12.0,
+    "id": "q00496",
+    "sectionNumber": 12,
     "number": 35,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю дозволено рух транспортних засобів, якими керують водії зі стажем до двох років, на всіх дорогах за межами населених пунктів?",
@@ -7982,8 +7982,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q036",
-    "sectionNumber": 12.0,
+    "id": "q00497",
+    "sectionNumber": 12,
     "number": 36,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "З якою максимальною швидкістю дозволено рух на дворових територіях?",
@@ -7998,8 +7998,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q037",
-    "sectionNumber": 12.0,
+    "id": "q00498",
+    "sectionNumber": 12,
     "number": 37,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Що для Вас вважається безпечною швидкістю?",
@@ -8013,8 +8013,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q038",
-    "sectionNumber": 12.0,
+    "id": "q00499",
+    "sectionNumber": 12,
     "number": 38,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Чи дозволено водіям із досвідом водіння понад 5 років перевищувати максимально допустиме обмеження швидкості поза межами населених пунктів?",
@@ -8027,8 +8027,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q039",
-    "sectionNumber": 12.0,
+    "id": "q00500",
+    "sectionNumber": 12,
     "number": 39,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Максимальна швидкість під час руху у житловій зоні становить 30 км/год?",
@@ -8043,8 +8043,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s12-q040",
-    "sectionNumber": 12.0,
+    "id": "q00501",
+    "sectionNumber": 12,
     "number": 40,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Безпечна швидкість руху – це виключно встановлене обмеження швидкості:",
@@ -8057,8 +8057,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s12-q041",
-    "sectionNumber": 12.0,
+    "id": "q00502",
+    "sectionNumber": 12,
     "number": 41,
     "category": "ШВИДКІСТЬ РУХУ",
     "question": "Водій транспортного засобу, що рухається зі швидкістю 68 км/год, наближаючись до наведеного дорожнього знака повинен:",
@@ -8073,8 +8073,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s13-q001",
-    "sectionNumber": 13.0,
+    "id": "q00503",
+    "sectionNumber": 13,
     "number": 1,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Що вважається безпечною дистанцією?",
@@ -8090,8 +8090,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s13-q002",
-    "sectionNumber": 13.0,
+    "id": "q00504",
+    "sectionNumber": 13,
     "number": 2,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Водій якого автомобіля має перевагу на цій ділянці дороги?",
@@ -8106,8 +8106,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s13-q003",
-    "sectionNumber": 13.0,
+    "id": "q00505",
+    "sectionNumber": 13,
     "number": 3,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Водій якого транспортного засобу повинен дати дорогу під час зустрічного роз'їзду на цій ділянці?",
@@ -8122,8 +8122,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s13-q004",
-    "sectionNumber": 13.0,
+    "id": "q00506",
+    "sectionNumber": 13,
     "number": 4,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Чи може водій синього автомобіля продовжити рух, не чекаючи проїзду червоного автомобіля, якщо перешкода на його боці?",
@@ -8138,8 +8138,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s13-q005",
-    "sectionNumber": 13.0,
+    "id": "q00507",
+    "sectionNumber": 13,
     "number": 5,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Хто з водіїв повинен дати дорогу?",
@@ -8155,8 +8155,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s13-q006",
-    "sectionNumber": 13.0,
+    "id": "q00508",
+    "sectionNumber": 13,
     "number": 6,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Яка дистанція повинна бути між тракторами, що рухаються за межами населених пунктів, якщо їх швидкість не перевищує 40 км/год.?",
@@ -8172,8 +8172,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s13-q007",
-    "sectionNumber": 13.0,
+    "id": "q00509",
+    "sectionNumber": 13,
     "number": 7,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Що вважається безпечним інтервалом?",
@@ -8189,8 +8189,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s13-q008",
-    "sectionNumber": 13.0,
+    "id": "q00510",
+    "sectionNumber": 13,
     "number": 8,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Яким правилом повинні керуватися водії в разі обмеженого зустрічного роз'їзду на ділянках доріг, позначених знаками «Крутий підйом» і «Крутий спуск»?",
@@ -8207,8 +8207,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s13-q009",
-    "sectionNumber": 13.0,
+    "id": "q00511",
+    "sectionNumber": 13,
     "number": 9,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Під час виконання яких маневрів водій повинен дотримуватися безпечного інтервалу?",
@@ -8224,8 +8224,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s13-q010",
-    "sectionNumber": 13.0,
+    "id": "q00512",
+    "sectionNumber": 13,
     "number": 10,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Якої дистанції повинні дотримуватися водії транспортних засобів, швидкість яких не перевищує 40 км/год. поза населеними пунктами?",
@@ -8239,8 +8239,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s13-q011",
-    "sectionNumber": 13.0,
+    "id": "q00513",
+    "sectionNumber": 13,
     "number": 11,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Що повинен враховувати водій під час вибору безпечної дистанції та інтервалу?",
@@ -8256,8 +8256,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s13-q012",
-    "sectionNumber": 13.0,
+    "id": "q00514",
+    "sectionNumber": 13,
     "number": 12,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Ви на ділянці дороги, позначеній знаком «Крутий підйом», на Вашій смузі нерухома перешкода, що утруднює зустрічний роз'їзд. Як Вам виконати роз'їзд із зустрічним автомобілем, що рухається на спуск?",
@@ -8271,8 +8271,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s13-q013",
-    "sectionNumber": 13.0,
+    "id": "q00515",
+    "sectionNumber": 13,
     "number": 13,
     "category": "ДИСТАНЦІЯ, ІНТЕРВАЛ, ЗУСТРІЧНИЙ РОЗ'ЇЗД",
     "question": "Яким правилом повинні керуватися водії під час зустрічного роз'їзду в місцях, де він утруднений?",
@@ -8286,8 +8286,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q001",
-    "sectionNumber": 14.0,
+    "id": "q00516",
+    "sectionNumber": 14,
     "number": 1,
     "category": "ОБГІН",
     "question": "На якому з малюнків показаний обгін?",
@@ -8303,8 +8303,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q002",
-    "sectionNumber": 14.0,
+    "id": "q00517",
+    "sectionNumber": 14,
     "number": 2,
     "category": "ОБГІН",
     "question": "У якому випадку водій білого автомобіля правильно виконав обгін перед залізничним переїздом?",
@@ -8320,8 +8320,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q003",
-    "sectionNumber": 14.0,
+    "id": "q00518",
+    "sectionNumber": 14,
     "number": 3,
     "category": "ОБГІН",
     "question": "Як в цій ситуації вчинити водієві червоного автомобіля, для того щоб обігнати великогабаритний вантажний автомобіль?",
@@ -8337,8 +8337,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q004",
-    "sectionNumber": 14.0,
+    "id": "q00519",
+    "sectionNumber": 14,
     "number": 4,
     "category": "ОБГІН",
     "question": "Чи може водій виконати обгін після проїзду цих знаків?",
@@ -8354,8 +8354,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q005",
-    "sectionNumber": 14.0,
+    "id": "q00520",
+    "sectionNumber": 14,
     "number": 5,
     "category": "ОБГІН",
     "question": "Чи дозволено в цій ситуації водієві синього автомобіля виконати обгін білого автомобіля?",
@@ -8372,8 +8372,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q006",
-    "sectionNumber": 14.0,
+    "id": "q00521",
+    "sectionNumber": 14,
     "number": 6,
     "category": "ОБГІН",
     "question": "Чи дозволено обгін у даній ситуації?",
@@ -8389,8 +8389,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q007",
-    "sectionNumber": 14.0,
+    "id": "q00522",
+    "sectionNumber": 14,
     "number": 7,
     "category": "ОБГІН",
     "question": "Чи дозволено обгін у даній дорожній ситуації?",
@@ -8406,8 +8406,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q008",
-    "sectionNumber": 14.0,
+    "id": "q00523",
+    "sectionNumber": 14,
     "number": 8,
     "category": "ОБГІН",
     "question": "Чи дозволяється водієві синього автомобіля почати обгін у цій ситуації?",
@@ -8423,8 +8423,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q009",
-    "sectionNumber": 14.0,
+    "id": "q00524",
+    "sectionNumber": 14,
     "number": 9,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві обгін у цьому місці?",
@@ -8441,8 +8441,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q010",
-    "sectionNumber": 14.0,
+    "id": "q00525",
+    "sectionNumber": 14,
     "number": 10,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві чорного автомобіля виконати обгін у цій ситуації?",
@@ -8459,8 +8459,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q011",
-    "sectionNumber": 14.0,
+    "id": "q00526",
+    "sectionNumber": 14,
     "number": 11,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві сірого автомобіля виконати обгін білого?",
@@ -8476,8 +8476,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q012",
-    "sectionNumber": 14.0,
+    "id": "q00527",
+    "sectionNumber": 14,
     "number": 12,
     "category": "ОБГІН",
     "question": "Чи дозволено обгін водієві зеленого автомобіля в цій ситуації?",
@@ -8492,8 +8492,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q013",
-    "sectionNumber": 14.0,
+    "id": "q00528",
+    "sectionNumber": 14,
     "number": 13,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві білого автомобіля виконати обгін у цій ситуації?",
@@ -8508,8 +8508,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q014",
-    "sectionNumber": 14.0,
+    "id": "q00529",
+    "sectionNumber": 14,
     "number": 14,
     "category": "ОБГІН",
     "question": "Чи дозволено виконати обгін у даній дорожній ситуації?",
@@ -8526,8 +8526,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q015",
-    "sectionNumber": 14.0,
+    "id": "q00530",
+    "sectionNumber": 14,
     "number": 15,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві жовтого автомобіля виконати обгін у цій ситуації?",
@@ -8543,8 +8543,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q016",
-    "sectionNumber": 14.0,
+    "id": "q00531",
+    "sectionNumber": 14,
     "number": 16,
     "category": "ОБГІН",
     "question": "Чи дозволено виконати обгін у цій ситуації?",
@@ -8560,8 +8560,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q017",
-    "sectionNumber": 14.0,
+    "id": "q00532",
+    "sectionNumber": 14,
     "number": 17,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві виконати обгін транспортних засобів, що рухаються з увімкненими проблисковими маячками оранжевого кольору?",
@@ -8576,8 +8576,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q018",
-    "sectionNumber": 14.0,
+    "id": "q00533",
+    "sectionNumber": 14,
     "number": 18,
     "category": "ОБГІН",
     "question": "Чи правильно водій зеленого автомобіля виконав обгін синього автомобіля?",
@@ -8592,8 +8592,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q019",
-    "sectionNumber": 14.0,
+    "id": "q00534",
+    "sectionNumber": 14,
     "number": 19,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві жовтого автомобіля виконати обгін синього так, як показано на малюнку?",
@@ -8609,8 +8609,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q020",
-    "sectionNumber": 14.0,
+    "id": "q00535",
+    "sectionNumber": 14,
     "number": 20,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві синього автомобіля обігнати мопед?",
@@ -8625,8 +8625,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q021",
-    "sectionNumber": 14.0,
+    "id": "q00536",
+    "sectionNumber": 14,
     "number": 21,
     "category": "ОБГІН",
     "question": "У чому повинен переконатися водій перед початком обгону за відсутності зустрічних транспортних засобів і транспортних засобів, що рухаються позаду?",
@@ -8642,8 +8642,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q022",
-    "sectionNumber": 14.0,
+    "id": "q00537",
+    "sectionNumber": 14,
     "number": 22,
     "category": "ОБГІН",
     "question": "Чи має право водій чорного автомобіля розпочати обгін синього автомобіля?",
@@ -8658,8 +8658,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q023",
-    "sectionNumber": 14.0,
+    "id": "q00538",
+    "sectionNumber": 14,
     "number": 23,
     "category": "ОБГІН",
     "question": "Чи може водій зеленого автомобіля почати обгін сірого автомобіля?",
@@ -8674,8 +8674,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q024",
-    "sectionNumber": 14.0,
+    "id": "q00539",
+    "sectionNumber": 14,
     "number": 24,
     "category": "ОБГІН",
     "question": "Чи дозволяється водієві автомобіля виконати обгін мотоцикліста на цьому перехресті?",
@@ -8691,8 +8691,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q025",
-    "sectionNumber": 14.0,
+    "id": "q00540",
+    "sectionNumber": 14,
     "number": 25,
     "category": "ОБГІН",
     "question": "Як повинен діяти водій чорного автомобіля, що збирається виконувати обгін, в даній ситуації?",
@@ -8708,8 +8708,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q026",
-    "sectionNumber": 14.0,
+    "id": "q00541",
+    "sectionNumber": 14,
     "number": 26,
     "category": "ОБГІН",
     "question": "Що в даній ситуації повинен зробити водій зеленого автомобіля перед тим, як почати обгін?",
@@ -8725,8 +8725,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q027",
-    "sectionNumber": 14.0,
+    "id": "q00542",
+    "sectionNumber": 14,
     "number": 27,
     "category": "ОБГІН",
     "question": "Як повинен діяти в даній ситуації водій сірого автомобіля, який збирається виконати обгін?",
@@ -8741,8 +8741,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q028",
-    "sectionNumber": 14.0,
+    "id": "q00543",
+    "sectionNumber": 14,
     "number": 28,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві білого автомобіля виконати обгін трактора в даній ситуації?",
@@ -8758,8 +8758,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q029",
-    "sectionNumber": 14.0,
+    "id": "q00544",
+    "sectionNumber": 14,
     "number": 29,
     "category": "ОБГІН",
     "question": "Як повинен вчинити водій синього автомобіля, що рухається прямо, у даній ситуації?",
@@ -8774,8 +8774,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q030",
-    "sectionNumber": 14.0,
+    "id": "q00545",
+    "sectionNumber": 14,
     "number": 30,
     "category": "ОБГІН",
     "question": "Чи дозволено у цьому місці водієві білого автомобіля виконати обгін?",
@@ -8791,8 +8791,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q031",
-    "sectionNumber": 14.0,
+    "id": "q00546",
+    "sectionNumber": 14,
     "number": 31,
     "category": "ОБГІН",
     "question": "Чи дозволено водію червоного автомобіля виконати обгін в даному місці дороги?",
@@ -8807,8 +8807,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q032",
-    "sectionNumber": 14.0,
+    "id": "q00547",
+    "sectionNumber": 14,
     "number": 32,
     "category": "ОБГІН",
     "question": "Чи дозволено обгін транспортного засобу, який виконує об'їзд або обгін?",
@@ -8822,8 +8822,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q033",
-    "sectionNumber": 14.0,
+    "id": "q00548",
+    "sectionNumber": 14,
     "number": 33,
     "category": "ОБГІН",
     "question": "На дорогах з якою мінімальною кількістю смуг для руху в одному напрямку заборонений обгін?",
@@ -8838,8 +8838,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q034",
-    "sectionNumber": 14.0,
+    "id": "q00549",
+    "sectionNumber": 14,
     "number": 34,
     "category": "ОБГІН",
     "question": "Обгоном вважається:",
@@ -8854,8 +8854,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q035",
-    "sectionNumber": 14.0,
+    "id": "q00550",
+    "sectionNumber": 14,
     "number": 35,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві обігнати транспортний засіб, що рухається тільки з проблисковим маячком зеленого кольору, і супроводжувані ним транспортні засоби?",
@@ -8868,8 +8868,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q036",
-    "sectionNumber": 14.0,
+    "id": "q00551",
+    "sectionNumber": 14,
     "number": 36,
     "category": "ОБГІН",
     "question": "Які дії заборонені водієві транспортного засобу, якого обганяють?",
@@ -8882,8 +8882,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q037",
-    "sectionNumber": 14.0,
+    "id": "q00552",
+    "sectionNumber": 14,
     "number": 37,
     "category": "ОБГІН",
     "question": "Чи дозволяється обгін на залізничних переїздах?",
@@ -8897,8 +8897,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q038",
-    "sectionNumber": 14.0,
+    "id": "q00553",
+    "sectionNumber": 14,
     "number": 38,
     "category": "ОБГІН",
     "question": "У яких випадках Вам дозволено обгін на перехресті?",
@@ -8914,8 +8914,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q039",
-    "sectionNumber": 14.0,
+    "id": "q00554",
+    "sectionNumber": 14,
     "number": 39,
     "category": "ОБГІН",
     "question": "На якій відстані від пішохідного переходу заборонений обгін?",
@@ -8929,8 +8929,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q040",
-    "sectionNumber": 14.0,
+    "id": "q00555",
+    "sectionNumber": 14,
     "number": 40,
     "category": "ОБГІН",
     "question": "Обгін заборонено:",
@@ -8946,8 +8946,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q041",
-    "sectionNumber": 14.0,
+    "id": "q00556",
+    "sectionNumber": 14,
     "number": 41,
     "category": "ОБГІН",
     "question": "У чому з переліченого повинен переконатися водій перед тим, як почати обгін:",
@@ -8961,8 +8961,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q042",
-    "sectionNumber": 14.0,
+    "id": "q00557",
+    "sectionNumber": 14,
     "number": 42,
     "category": "ОБГІН",
     "question": "Чи дозволено на перехресті обгін поодиноких транспортних засобів, що рухаються із швидкістю менше 30 км/год.?",
@@ -8975,8 +8975,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q043",
-    "sectionNumber": 14.0,
+    "id": "q00558",
+    "sectionNumber": 14,
     "number": 43,
     "category": "ОБГІН",
     "question": "У яких з перелічених місць заборонений обгін?",
@@ -8992,8 +8992,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q044",
-    "sectionNumber": 14.0,
+    "id": "q00559",
+    "sectionNumber": 14,
     "number": 44,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві виконати обгін під час руху в умовах недостатньої видимості?",
@@ -9006,8 +9006,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q045",
-    "sectionNumber": 14.0,
+    "id": "q00560",
+    "sectionNumber": 14,
     "number": 45,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві виконати обгін під час руху в умовах туману?",
@@ -9023,8 +9023,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q047",
-    "sectionNumber": 14.0,
+    "id": "q00561",
+    "sectionNumber": 14,
     "number": 47,
     "category": "ОБГІН",
     "question": "Чи дозволено Вам розпочати обгін у цій ситуації?",
@@ -9039,8 +9039,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q048",
-    "sectionNumber": 14.0,
+    "id": "q00562",
+    "sectionNumber": 14,
     "number": 48,
     "category": "ОБГІН",
     "question": "Чи дозволено Вам виконати обгін автомобіля в даному випадку, якщо Ви рухаєтесь на мосту?",
@@ -9055,8 +9055,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q049",
-    "sectionNumber": 14.0,
+    "id": "q00563",
+    "sectionNumber": 14,
     "number": 49,
     "category": "ОБГІН",
     "question": "Чи дозволено водієві жовтого автомобіля виконати обгін у даному випадку?",
@@ -9071,8 +9071,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q050",
-    "sectionNumber": 14.0,
+    "id": "q00564",
+    "sectionNumber": 14,
     "number": 50,
     "category": "ОБГІН",
     "question": "Під час обгону інших транспортних засобів вночі необхідно вмикати аварійну світлову сигналізацію:",
@@ -9085,8 +9085,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q051",
-    "sectionNumber": 14.0,
+    "id": "q00565",
+    "sectionNumber": 14,
     "number": 51,
     "category": "ОБГІН",
     "question": "Під час руху тунелем у світлу пору доби водій транспортного засобу має право виконувати обгін:",
@@ -9101,8 +9101,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q052",
-    "sectionNumber": 14.0,
+    "id": "q00566",
+    "sectionNumber": 14,
     "number": 52,
     "category": "ОБГІН",
     "question": "Чи дозволено Вам здійснити обгін в наведеній ситуації?",
@@ -9117,8 +9117,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q053",
-    "sectionNumber": 14.0,
+    "id": "q00567",
+    "sectionNumber": 14,
     "number": 53,
     "category": "ОБГІН",
     "question": "У якому випадку дозволено виконати обгін на перехресті?",
@@ -9132,8 +9132,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s14-q054",
-    "sectionNumber": 14.0,
+    "id": "q00568",
+    "sectionNumber": 14,
     "number": 54,
     "category": "ОБГІН",
     "question": "Виконати обгін в тунелі дозволено у випадку:",
@@ -9149,8 +9149,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q055",
-    "sectionNumber": 14.0,
+    "id": "q00569",
+    "sectionNumber": 14,
     "number": 55,
     "category": "ОБГІН",
     "question": "Чи має право водій виконати обгін у даній дорожній ситуації?",
@@ -9167,8 +9167,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s14-q056",
-    "sectionNumber": 14.0,
+    "id": "q00570",
+    "sectionNumber": 14,
     "number": 56,
     "category": "ОБГІН",
     "question": "Чи дозволено поза населеним пунктом для привертання уваги водія транспортного засобу, що обганяється, подати звуковий сигнал?",
@@ -9183,8 +9183,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q001",
-    "sectionNumber": 15.0,
+    "id": "q00571",
+    "sectionNumber": 15,
     "number": 1,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці водієві дозволено зупинку?",
@@ -9201,8 +9201,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q002",
-    "sectionNumber": 15.0,
+    "id": "q00572",
+    "sectionNumber": 15,
     "number": 2,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи має право водій зупинитися в цьому місці?",
@@ -9218,8 +9218,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q003",
-    "sectionNumber": 15.0,
+    "id": "q00573",
+    "sectionNumber": 15,
     "number": 3,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "На якому з місць водієві синього автомобіля дозволено виконати зупинку?",
@@ -9237,8 +9237,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q004",
-    "sectionNumber": 15.0,
+    "id": "q00574",
+    "sectionNumber": 15,
     "number": 4,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Хто з водіїв, виконуючи зупинку, порушив Правила дорожнього руху?",
@@ -9255,8 +9255,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q005",
-    "sectionNumber": 15.0,
+    "id": "q00575",
+    "sectionNumber": 15,
     "number": 5,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "На якому з місць водієві легкового автомобіля дозволено зупинитися?",
@@ -9273,8 +9273,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q006",
-    "sectionNumber": 15.0,
+    "id": "q00576",
+    "sectionNumber": 15,
     "number": 6,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Хто з водіїв порушує правила зупинки?",
@@ -9292,8 +9292,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q007",
-    "sectionNumber": 15.0,
+    "id": "q00577",
+    "sectionNumber": 15,
     "number": 7,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Який автомобіль зупинився з порушенням Правил дорожнього руху на дорозі з одностороннім рухом?",
@@ -9311,8 +9311,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q008",
-    "sectionNumber": 15.0,
+    "id": "q00578",
+    "sectionNumber": 15,
     "number": 8,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Хто з водіїв порушив Правила дорожнього руху, виконуючи зупинку?",
@@ -9329,8 +9329,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q009",
-    "sectionNumber": 15.0,
+    "id": "q00579",
+    "sectionNumber": 15,
     "number": 9,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому з місць водієві дозволено виконати зупинку?",
@@ -9346,8 +9346,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q010",
-    "sectionNumber": 15.0,
+    "id": "q00580",
+    "sectionNumber": 15,
     "number": 10,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено водієві жовтого автомобіля зупинитися в цьому місці?",
@@ -9363,8 +9363,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q011",
-    "sectionNumber": 15.0,
+    "id": "q00581",
+    "sectionNumber": 15,
     "number": 11,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено зупинитися в цьому місці для посадки пасажирів?",
@@ -9380,8 +9380,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q012",
-    "sectionNumber": 15.0,
+    "id": "q00582",
+    "sectionNumber": 15,
     "number": 12,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено водієві зупинитися на мості в цьому місці?",
@@ -9397,8 +9397,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q013",
-    "sectionNumber": 15.0,
+    "id": "q00583",
+    "sectionNumber": 15,
     "number": 13,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено водієві білого автомобіля зупинитися для посадки пасажира в цьому місці?",
@@ -9414,8 +9414,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q014",
-    "sectionNumber": 15.0,
+    "id": "q00584",
+    "sectionNumber": 15,
     "number": 14,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Хто з водіїв порушив Правила дорожнього руху, виконавши зупинку?",
@@ -9431,8 +9431,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q015",
-    "sectionNumber": 15.0,
+    "id": "q00585",
+    "sectionNumber": 15,
     "number": 15,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці водієві легкового автомобіля дозволено зупинитися?",
@@ -9450,8 +9450,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q016",
-    "sectionNumber": 15.0,
+    "id": "q00586",
+    "sectionNumber": 15,
     "number": 16,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "За яких умов водієві дозволено зупинитися в цьому місці?",
@@ -9467,8 +9467,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q017",
-    "sectionNumber": 15.0,
+    "id": "q00587",
+    "sectionNumber": 15,
     "number": 17,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено водієві зупинитися в цьому місці?",
@@ -9483,8 +9483,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q018",
-    "sectionNumber": 15.0,
+    "id": "q00588",
+    "sectionNumber": 15,
     "number": 18,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Яка мінімальна відстань має бути між транспортним засобом, що зупинився, і протилежним краєм проїзної частини, щоб зупинка була виконана без порушень Правил дорожнього руху?",
@@ -9502,8 +9502,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q019",
-    "sectionNumber": 15.0,
+    "id": "q00589",
+    "sectionNumber": 15,
     "number": 19,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У яких випадках, згідно з Правилами дорожнього руху, на проїзній частині дозволяється установка предметів, що перешкоджають проїзду або паркуванню транспортних засобів?",
@@ -9520,8 +9520,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q020",
-    "sectionNumber": 15.0,
+    "id": "q00590",
+    "sectionNumber": 15,
     "number": 20,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволена стоянка білого автомобіля в цьому місці?",
@@ -9536,8 +9536,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q021",
-    "sectionNumber": 15.0,
+    "id": "q00591",
+    "sectionNumber": 15,
     "number": 21,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволена стоянка автомобіля в цьому місці?",
@@ -9553,8 +9553,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q022",
-    "sectionNumber": 15.0,
+    "id": "q00592",
+    "sectionNumber": 15,
     "number": 22,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено водієві чорного автомобіля виконати стоянку в цьому місці дороги, що знаходиться за межами населених пунктів, якщо оглядовість в одному з напрямків менше 100 м?",
@@ -9570,8 +9570,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q023",
-    "sectionNumber": 15.0,
+    "id": "q00593",
+    "sectionNumber": 15,
     "number": 23,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці водієві легкового автомобіля дозволено виконати стоянку?",
@@ -9588,8 +9588,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q024",
-    "sectionNumber": 15.0,
+    "id": "q00594",
+    "sectionNumber": 15,
     "number": 24,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Хто з водіїв правильно виконує стоянку?",
@@ -9607,8 +9607,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q025",
-    "sectionNumber": 15.0,
+    "id": "q00595",
+    "sectionNumber": 15,
     "number": 25,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чим може бути зумовлена зупинка, щоб вона вважалася вимушеною?",
@@ -9626,8 +9626,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q026",
-    "sectionNumber": 15.0,
+    "id": "q00596",
+    "sectionNumber": 15,
     "number": 26,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Хто з водіїв порушив правила зупинки в місці виїзду з двору?",
@@ -9645,8 +9645,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q027",
-    "sectionNumber": 15.0,
+    "id": "q00597",
+    "sectionNumber": 15,
     "number": 27,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволена зупинка транспортних засобів один навпроти одного, як показано на малюнку?",
@@ -9661,8 +9661,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q028",
-    "sectionNumber": 15.0,
+    "id": "q00598",
+    "sectionNumber": 15,
     "number": 28,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи може водій виконати посадку (висадку) пасажирів у зоні виконання дорожніх робіт?",
@@ -9677,8 +9677,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q029",
-    "sectionNumber": 15.0,
+    "id": "q00599",
+    "sectionNumber": 15,
     "number": 29,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "На якій відстані до позначеного місця виконання дорожніх робіт заборонено зупинку транспортних засобів?",
@@ -9694,8 +9694,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q030",
-    "sectionNumber": 15.0,
+    "id": "q00600",
+    "sectionNumber": 15,
     "number": 30,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено водієві зупинитися в цьому місці?",
@@ -9710,8 +9710,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q031",
-    "sectionNumber": 15.0,
+    "id": "q00601",
+    "sectionNumber": 15,
     "number": 31,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Хто з водіїв, виконуючи зупинку, порушує Правила дорожнього руху?",
@@ -9727,8 +9727,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q032",
-    "sectionNumber": 15.0,
+    "id": "q00602",
+    "sectionNumber": 15,
     "number": 32,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи має право водій легкового автомобіля виконати зупинку в цьому місці?",
@@ -9743,8 +9743,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q033",
-    "sectionNumber": 15.0,
+    "id": "q00603",
+    "sectionNumber": 15,
     "number": 33,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволяється водієві зеленого автомобіля зупинитися в цьому місці без необхідності посадки (висадки) пасажирів, якщо це не вимагається Правилами дорожнього руху?",
@@ -9759,8 +9759,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q034",
-    "sectionNumber": 15.0,
+    "id": "q00604",
+    "sectionNumber": 15,
     "number": 34,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Який транспортний засіб поставлено на стоянку неправильно?",
@@ -9776,8 +9776,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q035",
-    "sectionNumber": 15.0,
+    "id": "q00605",
+    "sectionNumber": 15,
     "number": 35,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи правильно водій червоного автомобіля виконує посадку (висадку) пасажирів?",
@@ -9792,8 +9792,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q036",
-    "sectionNumber": 15.0,
+    "id": "q00606",
+    "sectionNumber": 15,
     "number": 36,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці цієї дороги з одностороннім рухом водієві легкового автомобіля дозволено виконати зупинку?",
@@ -9811,8 +9811,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q037",
-    "sectionNumber": 15.0,
+    "id": "q00607",
+    "sectionNumber": 15,
     "number": 37,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Який з водіїв правильно зупинив свій транспортний засіб на дорозі з двостороннім рухом за межами населеного пункту?",
@@ -9828,8 +9828,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q038",
-    "sectionNumber": 15.0,
+    "id": "q00608",
+    "sectionNumber": 15,
     "number": 38,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "На якому з малюнків транспортні засоби поставлені правильно на дорогах у населених пунктах?",
@@ -9845,8 +9845,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q039",
-    "sectionNumber": 15.0,
+    "id": "q00609",
+    "sectionNumber": 15,
     "number": 39,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "На якому з малюнків показана дорога з двостороннім рухом у населеному пункті, на якій водій може поставити транспортний засіб на стоянку або зупинку на лівому боці?",
@@ -9863,8 +9863,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q040",
-    "sectionNumber": 15.0,
+    "id": "q00610",
+    "sectionNumber": 15,
     "number": 40,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Кому з водіїв дозволено поставити свій транспортний засіб на лівому боці дороги, після проїзду цих дорожніх знаків?",
@@ -9880,8 +9880,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q041",
-    "sectionNumber": 15.0,
+    "id": "q00611",
+    "sectionNumber": 15,
     "number": 41,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці повинен зупинитися водій червоного автомобіля?",
@@ -9897,8 +9897,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q042",
-    "sectionNumber": 15.0,
+    "id": "q00612",
+    "sectionNumber": 15,
     "number": 42,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці водію червоного автомобіля дозволено зупинити транспортний засіб на дорозі в населеному пункті?",
@@ -9914,8 +9914,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q043",
-    "sectionNumber": 15.0,
+    "id": "q00613",
+    "sectionNumber": 15,
     "number": 43,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці водій червоного автомобіля повинен зупинити транспортний засіб на дорозі за межами населених пунктів?",
@@ -9932,8 +9932,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q044",
-    "sectionNumber": 15.0,
+    "id": "q00614",
+    "sectionNumber": 15,
     "number": 44,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Хто з водіїв зупинився неправильно?",
@@ -9949,8 +9949,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q045",
-    "sectionNumber": 15.0,
+    "id": "q00615",
+    "sectionNumber": 15,
     "number": 45,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Які транспортні засоби поставлені з порушенням Правил дорожнього руху?",
@@ -9967,8 +9967,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q046",
-    "sectionNumber": 15.0,
+    "id": "q00616",
+    "sectionNumber": 15,
     "number": 46,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці дороги водій може зупинити свій транспортний засіб, якщо на узбіччях зупинка і стоянка неможливі, а спеціально відведені місця відсутні?",
@@ -9984,8 +9984,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q047",
-    "sectionNumber": 15.0,
+    "id": "q00617",
+    "sectionNumber": 15,
     "number": 47,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці водій може виконати зупинку?",
@@ -10003,8 +10003,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q048",
-    "sectionNumber": 15.0,
+    "id": "q00618",
+    "sectionNumber": 15,
     "number": 48,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено водієві синього автомобіля зупинитися в цьому місці?",
@@ -10019,8 +10019,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q049",
-    "sectionNumber": 15.0,
+    "id": "q00619",
+    "sectionNumber": 15,
     "number": 49,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Який транспортний засіб поставлено на стоянку з порушенням Правил дорожнього руху в цьому місці?",
@@ -10038,8 +10038,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q050",
-    "sectionNumber": 15.0,
+    "id": "q00620",
+    "sectionNumber": 15,
     "number": 50,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Які транспортні засоби дозволено ставити в місцях, позначених дорожніми знаками «Місце для стоянки» або «Зона стоянки», встановленими з такими табличками?",
@@ -10055,8 +10055,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q051",
-    "sectionNumber": 15.0,
+    "id": "q00621",
+    "sectionNumber": 15,
     "number": 51,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці водієві легкового автомобіля дозволено виконати зупинку або стоянку в цій ситуації?",
@@ -10072,8 +10072,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q052",
-    "sectionNumber": 15.0,
+    "id": "q00622",
+    "sectionNumber": 15,
     "number": 52,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи правильно на підйомі поставлений білий автомобіль, якщо оглядовість в напрямку руху менше 100 м?",
@@ -10089,8 +10089,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q053",
-    "sectionNumber": 15.0,
+    "id": "q00623",
+    "sectionNumber": 15,
     "number": 53,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи правильно водій фіолетового автомобіля поставив транспортний засіб?",
@@ -10106,8 +10106,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q054",
-    "sectionNumber": 15.0,
+    "id": "q00624",
+    "sectionNumber": 15,
     "number": 54,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Який транспортний засіб правильно поставлено на дорозі з одностороннім рухом, якщо відомо, що обидва автомобілі не перешкоджають руху інших транспортних засобів?",
@@ -10123,8 +10123,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q055",
-    "sectionNumber": 15.0,
+    "id": "q00625",
+    "sectionNumber": 15,
     "number": 55,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "За яких умов водієві та пасажирам транспортного засобу заборонено відчиняти двері транспортного засобу, залишати їх відчиненими і виходити з транспортного засобу?",
@@ -10140,8 +10140,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q056",
-    "sectionNumber": 15.0,
+    "id": "q00626",
+    "sectionNumber": 15,
     "number": 56,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Ближче якої відстані від залізничного переїзду водієві транспортного засобу заборонена стоянка?",
@@ -10155,8 +10155,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q057",
-    "sectionNumber": 15.0,
+    "id": "q00627",
+    "sectionNumber": 15,
     "number": 57,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Що забороняється водієві, а також пасажирам транспортного засобу під час відчинення дверей?",
@@ -10171,8 +10171,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q058",
-    "sectionNumber": 15.0,
+    "id": "q00628",
+    "sectionNumber": 15,
     "number": 58,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Як повинен водій ставити свій транспортний засіб біля правого краю проїзної частини?",
@@ -10186,8 +10186,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q059",
-    "sectionNumber": 15.0,
+    "id": "q00629",
+    "sectionNumber": 15,
     "number": 59,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому з місць заборонена стоянка транспортних засобів?",
@@ -10203,8 +10203,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q060",
-    "sectionNumber": 15.0,
+    "id": "q00630",
+    "sectionNumber": 15,
     "number": 60,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці дороги водій повинен поставити транспортний засіб на зупинку або стоянку за наявності узбіччя, придатного для зупинки або стоянки?",
@@ -10217,8 +10217,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q061",
-    "sectionNumber": 15.0,
+    "id": "q00631",
+    "sectionNumber": 15,
     "number": 61,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У яких місцях заборонено стоянку транспортних засобів?",
@@ -10234,8 +10234,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q062",
-    "sectionNumber": 15.0,
+    "id": "q00632",
+    "sectionNumber": 15,
     "number": 62,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Яким транспортним засобам дозволяється стоянка на тротуарах?",
@@ -10249,8 +10249,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q063",
-    "sectionNumber": 15.0,
+    "id": "q00633",
+    "sectionNumber": 15,
     "number": 63,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "На якій відстані від контейнерів для збору побутових відходів, місце розміщення або облаштування яких відповідає вимогам законодавства, заборонена стоянка транспортних засобів?",
@@ -10264,8 +10264,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q064",
-    "sectionNumber": 15.0,
+    "id": "q00634",
+    "sectionNumber": 15,
     "number": 64,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволена стоянка транспортних засобів на газонах?",
@@ -10278,8 +10278,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q065",
-    "sectionNumber": 15.0,
+    "id": "q00635",
+    "sectionNumber": 15,
     "number": 65,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Де на дорогах за межами населених пунктів дозволяється стоянка транспортних засобів у темну пору доби або в умовах недостатньої видимості?",
@@ -10295,8 +10295,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q066",
-    "sectionNumber": 15.0,
+    "id": "q00636",
+    "sectionNumber": 15,
     "number": 66,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Яких заходів повинен вжити водій транспортного засобу в разі вимушеної зупинки на місці, де зупинка заборонена, при відсутності можливості прибрати транспортний засіб?",
@@ -10310,8 +10310,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q067",
-    "sectionNumber": 15.0,
+    "id": "q00637",
+    "sectionNumber": 15,
     "number": 67,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому місці водій повинен виконати стоянку за межами населеного пункту в темний час доби або в умовах недостатньої видимості?",
@@ -10326,8 +10326,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q068",
-    "sectionNumber": 15.0,
+    "id": "q00638",
+    "sectionNumber": 15,
     "number": 68,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "За яких умов водій має право ставити транспортний засіб біля правого краю проїзної частини?",
@@ -10343,8 +10343,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q069",
-    "sectionNumber": 15.0,
+    "id": "q00639",
+    "sectionNumber": 15,
     "number": 69,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Яких заходів повинен вжити водій, перед тим як залишити свій транспортний засіб?",
@@ -10360,8 +10360,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q070",
-    "sectionNumber": 15.0,
+    "id": "q00640",
+    "sectionNumber": 15,
     "number": 70,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У чому повинен переконатися водій перед тим, як відчинити двері транспортного засобу?",
@@ -10376,8 +10376,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q071",
-    "sectionNumber": 15.0,
+    "id": "q00641",
+    "sectionNumber": 15,
     "number": 71,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "На якій відстані від залізничного переїзду водієві автомобіля дозволено виконати стоянку?",
@@ -10391,8 +10391,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q072",
-    "sectionNumber": 15.0,
+    "id": "q00642",
+    "sectionNumber": 15,
     "number": 72,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Яких заходів, згідно з Правилами дорожнього руху, повинен вжити водій легкового автомобіля, поставленого на підйомі або спуску вздовж краю проїзної частини?",
@@ -10406,8 +10406,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q073",
-    "sectionNumber": 15.0,
+    "id": "q00643",
+    "sectionNumber": 15,
     "number": 73,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Згідно з Правилами дорожнього руху, зупинка заборонена:",
@@ -10423,8 +10423,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q074",
-    "sectionNumber": 15.0,
+    "id": "q00644",
+    "sectionNumber": 15,
     "number": 74,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Ставити транспортний засіб під кутом до краю проїзної частини дозволяється:",
@@ -10438,8 +10438,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q075",
-    "sectionNumber": 15.0,
+    "id": "q00645",
+    "sectionNumber": 15,
     "number": 75,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "На якій відстані від пішохідного переходу дозволена зупинка транспортних засобів?",
@@ -10454,8 +10454,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q076",
-    "sectionNumber": 15.0,
+    "id": "q00646",
+    "sectionNumber": 15,
     "number": 76,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "За якої умови дозволено ставити транспортні засоби під кутом до краю проїзної частини, якщо інший спосіб не визначений дорожніми знаками чи розміткою?",
@@ -10468,8 +10468,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q077",
-    "sectionNumber": 15.0,
+    "id": "q00647",
+    "sectionNumber": 15,
     "number": 77,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено ставити транспортні засоби в два ряди на проїзній частині?",
@@ -10483,8 +10483,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q078",
-    "sectionNumber": 15.0,
+    "id": "q00648",
+    "sectionNumber": 15,
     "number": 78,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому з перелічених місць заборонено зупинку транспортних засобів?",
@@ -10500,8 +10500,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q079",
-    "sectionNumber": 15.0,
+    "id": "q00649",
+    "sectionNumber": 15,
     "number": 79,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволені зупинка і стоянка біля розділювальних смуг або бульварів?",
@@ -10515,8 +10515,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q080",
-    "sectionNumber": 15.0,
+    "id": "q00650",
+    "sectionNumber": 15,
     "number": 80,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому з місць забороняється зупинка?",
@@ -10532,8 +10532,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q081",
-    "sectionNumber": 15.0,
+    "id": "q00651",
+    "sectionNumber": 15,
     "number": 81,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено водіям легкових автомобілів виконувати зупинку або стоянку на лівому боці дороги, яка має по одній смузі для руху в кожному напрямку, без трамвайних колій посередині і не розділена суцільною розміткою, а також на лівому боці дороги з одностороннім рухом у населеному пункті?",
@@ -10546,8 +10546,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q082",
-    "sectionNumber": 15.0,
+    "id": "q00652",
+    "sectionNumber": 15,
     "number": 82,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "На яких дорогах населених пунктів водієві легкового автомобіля дозволено поставити свій транспортний засіб біля лівого краю проїзної частини?",
@@ -10563,8 +10563,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q083",
-    "sectionNumber": 15.0,
+    "id": "q00653",
+    "sectionNumber": 15,
     "number": 83,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У яких місцях заборонено зупинку транспортних засобів?",
@@ -10580,8 +10580,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q084",
-    "sectionNumber": 15.0,
+    "id": "q00654",
+    "sectionNumber": 15,
     "number": 84,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "На якій відстані від виїздів з прилеглих територій водіям дозволяється виконати зупинку?",
@@ -10595,8 +10595,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q085",
-    "sectionNumber": 15.0,
+    "id": "q00655",
+    "sectionNumber": 15,
     "number": 85,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволена стоянка в місцях, де Правилами дорожнього руху забороняється зупинка транспортних засобів?",
@@ -10610,8 +10610,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q086",
-    "sectionNumber": 15.0,
+    "id": "q00656",
+    "sectionNumber": 15,
     "number": 86,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У якому з місць заборонена стоянка транспортних засобів?",
@@ -10627,8 +10627,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q087",
-    "sectionNumber": 15.0,
+    "id": "q00657",
+    "sectionNumber": 15,
     "number": 87,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "У яких випадках транспортним засобам дозволяється стоянка на тротуарі?",
@@ -10644,8 +10644,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q088",
-    "sectionNumber": 15.0,
+    "id": "q00658",
+    "sectionNumber": 15,
     "number": 88,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Яка ширина повинна бути залишена для руху пішоходів, якщо легковий автомобіль або мотоцикл поставлені на краю тротуару відповідно до Правил дорожнього руху?",
@@ -10660,8 +10660,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q089",
-    "sectionNumber": 15.0,
+    "id": "q00659",
+    "sectionNumber": 15,
     "number": 89,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Де водієві заборонено зупинку?",
@@ -10677,8 +10677,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s15-q090",
-    "sectionNumber": 15.0,
+    "id": "q00660",
+    "sectionNumber": 15,
     "number": 90,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволена стоянка чорного автомобіля в цьому місці?",
@@ -10693,8 +10693,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q091",
-    "sectionNumber": 15.0,
+    "id": "q00661",
+    "sectionNumber": 15,
     "number": 91,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено водієві сірого автомобіля зупинитись у цьому місці?",
@@ -10709,8 +10709,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q092",
-    "sectionNumber": 15.0,
+    "id": "q00662",
+    "sectionNumber": 15,
     "number": 92,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Хто з водіїв, виконуючи зупинку, порушив Правила дорожнього руху?",
@@ -10726,8 +10726,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q093",
-    "sectionNumber": 15.0,
+    "id": "q00663",
+    "sectionNumber": 15,
     "number": 93,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи має право водій білого автомобіля виконати зупинку у цьому місці?",
@@ -10742,8 +10742,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q094",
-    "sectionNumber": 15.0,
+    "id": "q00664",
+    "sectionNumber": 15,
     "number": 94,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено водієві сірого автомобіля зупинитись у цьому місці?",
@@ -10758,8 +10758,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q095",
-    "sectionNumber": 15.0,
+    "id": "q00665",
+    "sectionNumber": 15,
     "number": 95,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи порушив водій чорного автомобіля правила зупинки?",
@@ -10774,8 +10774,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q096",
-    "sectionNumber": 15.0,
+    "id": "q00666",
+    "sectionNumber": 15,
     "number": 96,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволена стоянка автомобіля в цьому місці?",
@@ -10791,8 +10791,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s15-q097",
-    "sectionNumber": 15.0,
+    "id": "q00667",
+    "sectionNumber": 15,
     "number": 97,
     "category": "ЗУПИНКА І СТОЯНКА",
     "question": "Чи дозволено водієві чорного автомобіля зупинитись так як показано на малюнку?",
@@ -10807,7 +10807,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q001",
+    "id": "q00668",
     "sectionNumber": 16.1,
     "number": 1,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -10824,7 +10824,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q002",
+    "id": "q00669",
     "sectionNumber": 16.1,
     "number": 2,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -10842,7 +10842,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q003",
+    "id": "q00670",
     "sectionNumber": 16.1,
     "number": 3,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -10858,7 +10858,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q004",
+    "id": "q00671",
     "sectionNumber": 16.1,
     "number": 4,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -10874,7 +10874,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q005",
+    "id": "q00672",
     "sectionNumber": 16.1,
     "number": 5,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -10890,7 +10890,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q006",
+    "id": "q00673",
     "sectionNumber": 16.1,
     "number": 6,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -10906,7 +10906,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q007",
+    "id": "q00674",
     "sectionNumber": 16.1,
     "number": 7,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -10922,7 +10922,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q008",
+    "id": "q00675",
     "sectionNumber": 16.1,
     "number": 8,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -10938,7 +10938,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q009",
+    "id": "q00676",
     "sectionNumber": 16.1,
     "number": 9,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -10954,7 +10954,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q010",
+    "id": "q00677",
     "sectionNumber": 16.1,
     "number": 10,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -10971,7 +10971,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q011",
+    "id": "q00678",
     "sectionNumber": 16.1,
     "number": 11,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -10988,7 +10988,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q012",
+    "id": "q00679",
     "sectionNumber": 16.1,
     "number": 12,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11005,7 +11005,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q013",
+    "id": "q00680",
     "sectionNumber": 16.1,
     "number": 13,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11022,7 +11022,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q014",
+    "id": "q00681",
     "sectionNumber": 16.1,
     "number": 14,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11038,7 +11038,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q015",
+    "id": "q00682",
     "sectionNumber": 16.1,
     "number": 15,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11054,7 +11054,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q016",
+    "id": "q00683",
     "sectionNumber": 16.1,
     "number": 16,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11071,7 +11071,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q017",
+    "id": "q00684",
     "sectionNumber": 16.1,
     "number": 17,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11088,7 +11088,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q018",
+    "id": "q00685",
     "sectionNumber": 16.1,
     "number": 18,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11105,7 +11105,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q019",
+    "id": "q00686",
     "sectionNumber": 16.1,
     "number": 19,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11122,7 +11122,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q020",
+    "id": "q00687",
     "sectionNumber": 16.1,
     "number": 20,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11140,7 +11140,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q021",
+    "id": "q00688",
     "sectionNumber": 16.1,
     "number": 21,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11156,7 +11156,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q022",
+    "id": "q00689",
     "sectionNumber": 16.1,
     "number": 22,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11173,7 +11173,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q023",
+    "id": "q00690",
     "sectionNumber": 16.1,
     "number": 23,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11190,7 +11190,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q024",
+    "id": "q00691",
     "sectionNumber": 16.1,
     "number": 24,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11206,7 +11206,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q025",
+    "id": "q00692",
     "sectionNumber": 16.1,
     "number": 25,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11225,7 +11225,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q027",
+    "id": "q00693",
     "sectionNumber": 16.1,
     "number": 27,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11241,7 +11241,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-1-q028",
+    "id": "q00694",
     "sectionNumber": 16.1,
     "number": 28,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11258,7 +11258,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s16-1-q029",
+    "id": "q00695",
     "sectionNumber": 16.1,
     "number": 29,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11274,7 +11274,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s16-1-q030",
+    "id": "q00696",
     "sectionNumber": 16.1,
     "number": 30,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11288,7 +11288,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s16-1-q031",
+    "id": "q00697",
     "sectionNumber": 16.1,
     "number": 31,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11305,7 +11305,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s16-1-q032",
+    "id": "q00698",
     "sectionNumber": 16.1,
     "number": 32,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11319,7 +11319,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s16-1-q033",
+    "id": "q00699",
     "sectionNumber": 16.1,
     "number": 33,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (РЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11333,7 +11333,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s16-2-q001",
+    "id": "q00700",
     "sectionNumber": 16.2,
     "number": 1,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11350,7 +11350,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q002",
+    "id": "q00701",
     "sectionNumber": 16.2,
     "number": 2,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11366,7 +11366,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q003",
+    "id": "q00702",
     "sectionNumber": 16.2,
     "number": 3,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11382,7 +11382,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q004",
+    "id": "q00703",
     "sectionNumber": 16.2,
     "number": 4,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11398,7 +11398,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q005",
+    "id": "q00704",
     "sectionNumber": 16.2,
     "number": 5,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11414,7 +11414,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q006",
+    "id": "q00705",
     "sectionNumber": 16.2,
     "number": 6,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11430,7 +11430,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q007",
+    "id": "q00706",
     "sectionNumber": 16.2,
     "number": 7,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11446,7 +11446,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q008",
+    "id": "q00707",
     "sectionNumber": 16.2,
     "number": 8,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11462,7 +11462,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q009",
+    "id": "q00708",
     "sectionNumber": 16.2,
     "number": 9,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11478,7 +11478,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q010",
+    "id": "q00709",
     "sectionNumber": 16.2,
     "number": 10,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11494,7 +11494,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q011",
+    "id": "q00710",
     "sectionNumber": 16.2,
     "number": 11,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11510,7 +11510,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q012",
+    "id": "q00711",
     "sectionNumber": 16.2,
     "number": 12,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11526,7 +11526,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q013",
+    "id": "q00712",
     "sectionNumber": 16.2,
     "number": 13,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11542,7 +11542,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q014",
+    "id": "q00713",
     "sectionNumber": 16.2,
     "number": 14,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11558,7 +11558,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q015",
+    "id": "q00714",
     "sectionNumber": 16.2,
     "number": 15,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11575,7 +11575,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q016",
+    "id": "q00715",
     "sectionNumber": 16.2,
     "number": 16,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11592,7 +11592,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q017",
+    "id": "q00716",
     "sectionNumber": 16.2,
     "number": 17,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11609,7 +11609,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q018",
+    "id": "q00717",
     "sectionNumber": 16.2,
     "number": 18,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11626,7 +11626,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q019",
+    "id": "q00718",
     "sectionNumber": 16.2,
     "number": 19,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11643,7 +11643,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q020",
+    "id": "q00719",
     "sectionNumber": 16.2,
     "number": 20,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11660,7 +11660,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q021",
+    "id": "q00720",
     "sectionNumber": 16.2,
     "number": 21,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11680,7 +11680,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q023",
+    "id": "q00721",
     "sectionNumber": 16.2,
     "number": 23,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11696,7 +11696,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q024",
+    "id": "q00722",
     "sectionNumber": 16.2,
     "number": 24,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11712,7 +11712,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q025",
+    "id": "q00723",
     "sectionNumber": 16.2,
     "number": 25,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11728,7 +11728,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q026",
+    "id": "q00724",
     "sectionNumber": 16.2,
     "number": 26,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11747,7 +11747,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q028",
+    "id": "q00725",
     "sectionNumber": 16.2,
     "number": 28,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11763,7 +11763,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q029",
+    "id": "q00726",
     "sectionNumber": 16.2,
     "number": 29,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11780,7 +11780,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q030",
+    "id": "q00727",
     "sectionNumber": 16.2,
     "number": 30,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11797,7 +11797,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q031",
+    "id": "q00728",
     "sectionNumber": 16.2,
     "number": 31,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11814,7 +11814,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q032",
+    "id": "q00729",
     "sectionNumber": 16.2,
     "number": 32,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11831,7 +11831,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q033",
+    "id": "q00730",
     "sectionNumber": 16.2,
     "number": 33,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11848,7 +11848,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q034",
+    "id": "q00731",
     "sectionNumber": 16.2,
     "number": 34,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11865,7 +11865,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q035",
+    "id": "q00732",
     "sectionNumber": 16.2,
     "number": 35,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11882,7 +11882,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q036",
+    "id": "q00733",
     "sectionNumber": 16.2,
     "number": 36,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11898,7 +11898,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q037",
+    "id": "q00734",
     "sectionNumber": 16.2,
     "number": 37,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11914,7 +11914,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q038",
+    "id": "q00735",
     "sectionNumber": 16.2,
     "number": 38,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11931,7 +11931,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q039",
+    "id": "q00736",
     "sectionNumber": 16.2,
     "number": 39,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11947,7 +11947,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q040",
+    "id": "q00737",
     "sectionNumber": 16.2,
     "number": 40,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11963,7 +11963,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q041",
+    "id": "q00738",
     "sectionNumber": 16.2,
     "number": 41,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11980,7 +11980,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q042",
+    "id": "q00739",
     "sectionNumber": 16.2,
     "number": 42,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -11998,7 +11998,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q043",
+    "id": "q00740",
     "sectionNumber": 16.2,
     "number": 43,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12016,7 +12016,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q044",
+    "id": "q00741",
     "sectionNumber": 16.2,
     "number": 44,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12034,7 +12034,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q045",
+    "id": "q00742",
     "sectionNumber": 16.2,
     "number": 45,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12051,7 +12051,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q046",
+    "id": "q00743",
     "sectionNumber": 16.2,
     "number": 46,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12068,7 +12068,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q047",
+    "id": "q00744",
     "sectionNumber": 16.2,
     "number": 47,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12085,7 +12085,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q048",
+    "id": "q00745",
     "sectionNumber": 16.2,
     "number": 48,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12102,7 +12102,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q049",
+    "id": "q00746",
     "sectionNumber": 16.2,
     "number": 49,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12119,7 +12119,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q050",
+    "id": "q00747",
     "sectionNumber": 16.2,
     "number": 50,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12135,7 +12135,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q051",
+    "id": "q00748",
     "sectionNumber": 16.2,
     "number": 51,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12153,7 +12153,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q052",
+    "id": "q00749",
     "sectionNumber": 16.2,
     "number": 52,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12171,7 +12171,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q053",
+    "id": "q00750",
     "sectionNumber": 16.2,
     "number": 53,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12187,7 +12187,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q054",
+    "id": "q00751",
     "sectionNumber": 16.2,
     "number": 54,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12203,7 +12203,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q055",
+    "id": "q00752",
     "sectionNumber": 16.2,
     "number": 55,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12220,7 +12220,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q056",
+    "id": "q00753",
     "sectionNumber": 16.2,
     "number": 56,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12236,7 +12236,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q057",
+    "id": "q00754",
     "sectionNumber": 16.2,
     "number": 57,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12252,7 +12252,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q058",
+    "id": "q00755",
     "sectionNumber": 16.2,
     "number": 58,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12268,7 +12268,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q059",
+    "id": "q00756",
     "sectionNumber": 16.2,
     "number": 59,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12284,7 +12284,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q060",
+    "id": "q00757",
     "sectionNumber": 16.2,
     "number": 60,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12303,7 +12303,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q061",
+    "id": "q00758",
     "sectionNumber": 16.2,
     "number": 61,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12321,7 +12321,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q062",
+    "id": "q00759",
     "sectionNumber": 16.2,
     "number": 62,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12339,7 +12339,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q063",
+    "id": "q00760",
     "sectionNumber": 16.2,
     "number": 63,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12355,7 +12355,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q064",
+    "id": "q00761",
     "sectionNumber": 16.2,
     "number": 64,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12372,7 +12372,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q065",
+    "id": "q00762",
     "sectionNumber": 16.2,
     "number": 65,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12390,7 +12390,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q066",
+    "id": "q00763",
     "sectionNumber": 16.2,
     "number": 66,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12407,7 +12407,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q067",
+    "id": "q00764",
     "sectionNumber": 16.2,
     "number": 67,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12424,7 +12424,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q068",
+    "id": "q00765",
     "sectionNumber": 16.2,
     "number": 68,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12440,7 +12440,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q069",
+    "id": "q00766",
     "sectionNumber": 16.2,
     "number": 69,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12457,7 +12457,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q070",
+    "id": "q00767",
     "sectionNumber": 16.2,
     "number": 70,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12473,7 +12473,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q071",
+    "id": "q00768",
     "sectionNumber": 16.2,
     "number": 71,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12490,7 +12490,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q072",
+    "id": "q00769",
     "sectionNumber": 16.2,
     "number": 72,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12507,7 +12507,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q073",
+    "id": "q00770",
     "sectionNumber": 16.2,
     "number": 73,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12523,7 +12523,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q074",
+    "id": "q00771",
     "sectionNumber": 16.2,
     "number": 74,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12540,7 +12540,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q075",
+    "id": "q00772",
     "sectionNumber": 16.2,
     "number": 75,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12558,7 +12558,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q076",
+    "id": "q00773",
     "sectionNumber": 16.2,
     "number": 76,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12576,7 +12576,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q077",
+    "id": "q00774",
     "sectionNumber": 16.2,
     "number": 77,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12593,7 +12593,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q078",
+    "id": "q00775",
     "sectionNumber": 16.2,
     "number": 78,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12609,7 +12609,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q079",
+    "id": "q00776",
     "sectionNumber": 16.2,
     "number": 79,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12625,7 +12625,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q080",
+    "id": "q00777",
     "sectionNumber": 16.2,
     "number": 80,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12642,7 +12642,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q081",
+    "id": "q00778",
     "sectionNumber": 16.2,
     "number": 81,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12659,7 +12659,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q082",
+    "id": "q00779",
     "sectionNumber": 16.2,
     "number": 82,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12675,7 +12675,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q083",
+    "id": "q00780",
     "sectionNumber": 16.2,
     "number": 83,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12691,7 +12691,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q084",
+    "id": "q00781",
     "sectionNumber": 16.2,
     "number": 84,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12708,7 +12708,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q085",
+    "id": "q00782",
     "sectionNumber": 16.2,
     "number": 85,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12725,7 +12725,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q086",
+    "id": "q00783",
     "sectionNumber": 16.2,
     "number": 86,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12742,7 +12742,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q087",
+    "id": "q00784",
     "sectionNumber": 16.2,
     "number": 87,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12758,7 +12758,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q088",
+    "id": "q00785",
     "sectionNumber": 16.2,
     "number": 88,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12775,7 +12775,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q089",
+    "id": "q00786",
     "sectionNumber": 16.2,
     "number": 89,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12792,7 +12792,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q090",
+    "id": "q00787",
     "sectionNumber": 16.2,
     "number": 90,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12811,7 +12811,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q091",
+    "id": "q00788",
     "sectionNumber": 16.2,
     "number": 91,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12828,7 +12828,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q092",
+    "id": "q00789",
     "sectionNumber": 16.2,
     "number": 92,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12845,7 +12845,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q093",
+    "id": "q00790",
     "sectionNumber": 16.2,
     "number": 93,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12863,7 +12863,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q094",
+    "id": "q00791",
     "sectionNumber": 16.2,
     "number": 94,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12880,7 +12880,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q095",
+    "id": "q00792",
     "sectionNumber": 16.2,
     "number": 95,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12898,7 +12898,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q096",
+    "id": "q00793",
     "sectionNumber": 16.2,
     "number": 96,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12915,7 +12915,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q097",
+    "id": "q00794",
     "sectionNumber": 16.2,
     "number": 97,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12932,7 +12932,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q098",
+    "id": "q00795",
     "sectionNumber": 16.2,
     "number": 98,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12949,7 +12949,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q099",
+    "id": "q00796",
     "sectionNumber": 16.2,
     "number": 99,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12966,7 +12966,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q100",
+    "id": "q00797",
     "sectionNumber": 16.2,
     "number": 100,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -12983,7 +12983,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q101",
+    "id": "q00798",
     "sectionNumber": 16.2,
     "number": 101,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -13000,7 +13000,7 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s16-2-q102",
+    "id": "q00799",
     "sectionNumber": 16.2,
     "number": 102,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -13016,7 +13016,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q103",
+    "id": "q00800",
     "sectionNumber": 16.2,
     "number": 103,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -13033,7 +13033,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q104",
+    "id": "q00801",
     "sectionNumber": 16.2,
     "number": 104,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -13050,7 +13050,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q105",
+    "id": "q00802",
     "sectionNumber": 16.2,
     "number": 105,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -13066,7 +13066,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q106",
+    "id": "q00803",
     "sectionNumber": 16.2,
     "number": 106,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -13083,7 +13083,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q107",
+    "id": "q00804",
     "sectionNumber": 16.2,
     "number": 107,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -13099,7 +13099,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q108",
+    "id": "q00805",
     "sectionNumber": 16.2,
     "number": 108,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -13115,7 +13115,7 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s16-2-q109",
+    "id": "q00806",
     "sectionNumber": 16.2,
     "number": 109,
     "category": "ПРОЇЗД ПЕРЕХРЕСТЬ (НЕРЕГУЛЬОВАНІ ПЕРЕХРЕСТЯ)",
@@ -13131,8 +13131,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s17-q001",
-    "sectionNumber": 17.0,
+    "id": "q00807",
+    "sectionNumber": 17,
     "number": 1,
     "category": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Яким транспортним засобам дозволено рух по смузі для маршрутних транспортних засобів у даній ситуації?",
@@ -13149,8 +13149,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s17-q002",
-    "sectionNumber": 17.0,
+    "id": "q00808",
+    "sectionNumber": 17,
     "number": 2,
     "category": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "По якій траєкторії водієві синього автомобіля дозволено поворот праворуч?",
@@ -13166,8 +13166,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s17-q003",
-    "sectionNumber": 17.0,
+    "id": "q00809",
+    "sectionNumber": 17,
     "number": 3,
     "category": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "По якій траєкторії повинен рухатися водій білого автомобіля?",
@@ -13183,8 +13183,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s17-q004",
-    "sectionNumber": 17.0,
+    "id": "q00810",
+    "sectionNumber": 17,
     "number": 4,
     "category": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи має право водій білого автомобіля в даній ситуації виїхати і зупинитися на смузі для маршрутних транспортних засобів для посадки пасажира?",
@@ -13199,8 +13199,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s17-q005",
-    "sectionNumber": 17.0,
+    "id": "q00811",
+    "sectionNumber": 17,
     "number": 5,
     "category": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "У якому випадку водієві білого автомобіля дозволено виїзд на смугу для маршрутних транспортних засобів у даній ситуації?",
@@ -13217,8 +13217,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s17-q006",
-    "sectionNumber": 17.0,
+    "id": "q00812",
+    "sectionNumber": 17,
     "number": 6,
     "category": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Хто з водіїв повинен дати дорогу в даній ситуації?",
@@ -13233,8 +13233,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s17-q007",
-    "sectionNumber": 17.0,
+    "id": "q00813",
+    "sectionNumber": 17,
     "number": 7,
     "category": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Ви як водій автомобіля, під’їжджаючи до автобуса в населеному пункті, що розпочинає рух від позначеної зупинки, розташованої в заїзному «кармані», повинні:",
@@ -13248,8 +13248,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s17-q008",
-    "sectionNumber": 17.0,
+    "id": "q00814",
+    "sectionNumber": 17,
     "number": 8,
     "category": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як повинен діяти водій білого автомобіля в зображеній на малюнку ситуації, під’їжджаючи до автобуса, що розпочинає рух від позначеної зупинки, розташованої в заїзному «кармані», поза населеним пунктом?",
@@ -13264,8 +13264,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s17-q009",
-    "sectionNumber": 17.0,
+    "id": "q00815",
+    "sectionNumber": 17,
     "number": 9,
     "category": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи має право водій таксі рухатися на дорозі із смугою для маршрутних транспортних засобів?",
@@ -13278,8 +13278,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s17-q010",
-    "sectionNumber": 17.0,
+    "id": "q00816",
+    "sectionNumber": 17,
     "number": 10,
     "category": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи має право водій таксі здійснювати посадку та висадку пасажирів у межах смуги для маршрутних транспортних засобів?",
@@ -13292,8 +13292,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s17-q011",
-    "sectionNumber": 17.0,
+    "id": "q00817",
+    "sectionNumber": 17,
     "number": 11,
     "category": "ПЕРЕВАГИ МАРШРУТНИХ ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи забороняється на дорозі із смугою для маршрутних транспортних засобів, позначеної дорожнім знаком 5.8 або 5.11, рух і зупинка інших транспортних засобів?",
@@ -13309,8 +13309,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s18-q001",
-    "sectionNumber": 18.0,
+    "id": "q00818",
+    "sectionNumber": 18,
     "number": 1,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Яке значення мають два миготливі сигнали світлофора в даній ситуації?",
@@ -13327,8 +13327,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s18-q002",
-    "sectionNumber": 18.0,
+    "id": "q00819",
+    "sectionNumber": 18,
     "number": 2,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як повинні вчинити водії, наближаючись до транспортного засобу з розпізнавальним знаком «Діти», що стоїть з увімкненою аварійною сигналізацією та проблисковим маячком оранжевого кольору?",
@@ -13344,8 +13344,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s18-q003",
-    "sectionNumber": 18.0,
+    "id": "q00820",
+    "sectionNumber": 18,
     "number": 3,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як повинен вчинити в даній ситуації водій сірого автомобіля?",
@@ -13361,8 +13361,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s18-q004",
-    "sectionNumber": 18.0,
+    "id": "q00821",
+    "sectionNumber": 18,
     "number": 4,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Яких заходів повинні вживати водії, проїжджаючи повз пішоходів, які очікують увімкнення дозвільного сигналу світлофора на острівцях безпеки або на лінії, що розділяє транспортні потоки?",
@@ -13377,8 +13377,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s18-q005",
-    "sectionNumber": 18.0,
+    "id": "q00822",
+    "sectionNumber": 18,
     "number": 5,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як повинен вчинити водій автомобіля, якщо автомобіль, що їде перед ним, почав зменшувати швидкість перед нерегульованим пішохідним переходом?",
@@ -13394,8 +13394,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s18-q006",
-    "sectionNumber": 18.0,
+    "id": "q00823",
+    "sectionNumber": 18,
     "number": 6,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як повинні вчинити водії в ситуації, коли пішохід, що виходить на проїзну частину, подає сигнал тростиною білого кольору, спрямованою вперед?",
@@ -13411,8 +13411,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s18-q007",
-    "sectionNumber": 18.0,
+    "id": "q00824",
+    "sectionNumber": 18,
     "number": 7,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Ви зупинилися, щоб дати дорогу пішоходам, які виконують посадку в трамвай і висадку з нього. Коли вам дозволено продовжити рух?",
@@ -13426,8 +13426,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s18-q008",
-    "sectionNumber": 18.0,
+    "id": "q00825",
+    "sectionNumber": 18,
     "number": 8,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як Ви повинні вчинити в ситуації, коли попереду Вас зупинився трамвай для посадки і висадки пасажирів?",
@@ -13441,8 +13441,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s18-q009",
-    "sectionNumber": 18.0,
+    "id": "q00826",
+    "sectionNumber": 18,
     "number": 9,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як ви повинні вчинити в ситуації, коли за пішохідним переходом утворився затор?",
@@ -13456,8 +13456,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s18-q010",
-    "sectionNumber": 18.0,
+    "id": "q00827",
+    "sectionNumber": 18,
     "number": 10,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Що повинен зробити водій транспортного засобу, якщо інший транспортний засіб, що рухається по суміжній смузі попереду нього, перед нерегульованим пішохідним переходом почав знижувати швидкість або зовсім зупинився?",
@@ -13472,8 +13472,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s18-q011",
-    "sectionNumber": 18.0,
+    "id": "q00828",
+    "sectionNumber": 18,
     "number": 11,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як ви повинні вчинити в ситуації, коли мікроавтобус зупинився перед пішохідним переходом на нерегульованому перехресті?",
@@ -13486,8 +13486,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s18-q012",
-    "sectionNumber": 18.0,
+    "id": "q00829",
+    "sectionNumber": 18,
     "number": 12,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як ви повинні вчинити в ситуації, коли автомобіль, що їде перед вами, спочатку почав знижувати швидкість, а потім і зовсім зупинився перед нерегульованим пішохідним переходом?",
@@ -13501,8 +13501,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s18-q013",
-    "sectionNumber": 18.0,
+    "id": "q00830",
+    "sectionNumber": 18,
     "number": 13,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Що повинен зробити водій транспортного засобу в разі ввімкнення сигналу світлофора, що дозволяє рух, якщо перед ним перебувають пішоходи, що закінчують перехід проїзної частини?",
@@ -13516,8 +13516,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s18-q014",
-    "sectionNumber": 18.0,
+    "id": "q00831",
+    "sectionNumber": 18,
     "number": 14,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як повинен вчинити водій транспортного засобу, наближаючись до нерегульованого пішохідного переходу, якщо на ньому є пішоходи?",
@@ -13531,8 +13531,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s18-q015",
-    "sectionNumber": 18.0,
+    "id": "q00832",
+    "sectionNumber": 18,
     "number": 15,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як ви повинні вчинити, якщо світлофор працює в режимі миготіння жовтого сигналу?",
@@ -13546,8 +13546,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s18-q016",
-    "sectionNumber": 18.0,
+    "id": "q00833",
+    "sectionNumber": 18,
     "number": 16,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як ви повинні вчинити, наближаючись до нерегульованого пішохідного переходу?",
@@ -13562,8 +13562,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s18-q017",
-    "sectionNumber": 18.0,
+    "id": "q00834",
+    "sectionNumber": 18,
     "number": 17,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Як ви повинні вчинити в ситуації, наближаючись до автобуса, який виконує посадку або висадку організованих груп дітей?",
@@ -13578,8 +13578,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s18-q018",
-    "sectionNumber": 18.0,
+    "id": "q00835",
+    "sectionNumber": 18,
     "number": 18,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "У цьому випадку водій білого автомобіля може продовжувати рух лише тоді, коли пішоходи залишать проїзну частину і в трамваї зачиняться двері.",
@@ -13594,8 +13594,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s18-q019",
-    "sectionNumber": 18.0,
+    "id": "q00836",
+    "sectionNumber": 18,
     "number": 19,
     "category": "ПРОЇЗД ПІШОХІДНИХ ПЕРЕХОДІВ І ЗУПИНОК ТРАНСПОРТНИХ ЗАСОБІВ",
     "question": "Чи має право в даному випадку водій білого автомобіля об’їхати пішоходів?",
@@ -13610,8 +13610,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s19-q001",
-    "sectionNumber": 19.0,
+    "id": "q00837",
+    "sectionNumber": 19,
     "number": 1,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Темною порою доби вважається:",
@@ -13626,8 +13626,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s19-q002",
-    "sectionNumber": 19.0,
+    "id": "q00838",
+    "sectionNumber": 19,
     "number": 2,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Як ви повинні діяти в разі погіршення видимості в напрямку руху, викликаного світлом фар зустрічних транспортних засобів?",
@@ -13640,8 +13640,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q003",
-    "sectionNumber": 19.0,
+    "id": "q00839",
+    "sectionNumber": 19,
     "number": 3,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Що вмикається на транспортному засобі під час зупинки на дорозі в темну пору доби?",
@@ -13655,8 +13655,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q004",
-    "sectionNumber": 19.0,
+    "id": "q00840",
+    "sectionNumber": 19,
     "number": 4,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Що вмикається на транспортному засобі під час вимушеної зупинки на дорозі в темну пору доби?",
@@ -13671,8 +13671,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q005",
-    "sectionNumber": 19.0,
+    "id": "q00841",
+    "sectionNumber": 19,
     "number": 5,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Що вмикається на транспортному засобі під час зупинки на дорозі в умовах недостатньої видимості?",
@@ -13687,8 +13687,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q006",
-    "sectionNumber": 19.0,
+    "id": "q00842",
+    "sectionNumber": 19,
     "number": 6,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Як необхідно вчинити в разі вимушеної зупинки на дорозі в темну пору доби або в умовах недостатньої видимості, якщо габаритні ліхтарі несправні?",
@@ -13702,8 +13702,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q007",
-    "sectionNumber": 19.0,
+    "id": "q00843",
+    "sectionNumber": 19,
     "number": 7,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Як дозволено використовувати протитуманні фари в умовах недостатньої видимості?",
@@ -13717,8 +13717,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q008",
-    "sectionNumber": 19.0,
+    "id": "q00844",
+    "sectionNumber": 19,
     "number": 8,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Як дозволено використовувати протитуманні фари в темну пору доби?",
@@ -13732,8 +13732,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q009",
-    "sectionNumber": 19.0,
+    "id": "q00845",
+    "sectionNumber": 19,
     "number": 9,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Чи дозволено водієві в темний час доби рухатися з протитуманними фарами, увімкненими без ближнього або дальнього світла?",
@@ -13748,8 +13748,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q011",
-    "sectionNumber": 19.0,
+    "id": "q00846",
+    "sectionNumber": 19,
     "number": 11,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Чи дозволено підключати до задніх протитуманних ліхтарів сигнали гальмування?",
@@ -13762,8 +13762,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q012",
-    "sectionNumber": 19.0,
+    "id": "q00847",
+    "sectionNumber": 19,
     "number": 12,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "У яких умовах дозволено використовувати задній протитуманний ліхтар?",
@@ -13777,8 +13777,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q013",
-    "sectionNumber": 19.0,
+    "id": "q00848",
+    "sectionNumber": 19,
     "number": 13,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Як ви повинні вчинити, якщо в темну пору доби вас засліпив водій зустрічного транспортного засобу?",
@@ -13792,8 +13792,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q014",
-    "sectionNumber": 19.0,
+    "id": "q00849",
+    "sectionNumber": 19,
     "number": 14,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Як повинен вчинити водій транспортного засобу, який рухається з дальнім світлом фар у темний час доби, якщо водії зустрічних транспортних засобів, що знаходяться на відстані більше ніж 250 м, періодично перемикають світло фар?",
@@ -13807,8 +13807,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q015",
-    "sectionNumber": 19.0,
+    "id": "q00850",
+    "sectionNumber": 19,
     "number": 15,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Під час руху в умовах недостатньої видимості на механічному транспортному засобі, що рухається, повинні бути ввімкнені такі зовнішні світлові пристрої:",
@@ -13823,8 +13823,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q016",
-    "sectionNumber": 19.0,
+    "id": "q00851",
+    "sectionNumber": 19,
     "number": 16,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Які зовнішні світлові пристрої повинні бути обов'язково ввімкнені під час руху на транспортному засобі, що буксирується, у темний час доби і в умовах недостатньої видимості?",
@@ -13838,8 +13838,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q017",
-    "sectionNumber": 19.0,
+    "id": "q00852",
+    "sectionNumber": 19,
     "number": 17,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Які зовнішні світлові пристрої повинні бути ввімкнені на механічному транспортному засобі, що рухається, у темний час доби, під час сильного дощу або туману?",
@@ -13853,8 +13853,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q018",
-    "sectionNumber": 19.0,
+    "id": "q00853",
+    "sectionNumber": 19,
     "number": 18,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Які зовнішні пристрої повинен обов'язково ввімкнути водій механічного транспортного засобу при в'їзді в тунель?",
@@ -13869,8 +13869,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q019",
-    "sectionNumber": 19.0,
+    "id": "q00854",
+    "sectionNumber": 19,
     "number": 19,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Які зовнішні пристрої повинен ввімкнути водій механічного транспортного засобу при в'їзді в освітлений тунель?",
@@ -13884,8 +13884,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q020",
-    "sectionNumber": 19.0,
+    "id": "q00855",
+    "sectionNumber": 19,
     "number": 20,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Які зовнішні пристрої повинен ввімкнути водій механічного транспортного засобу при в'їзді в будь-який тунель, незалежно від ступеня його освітлення?",
@@ -13900,8 +13900,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q021",
-    "sectionNumber": 19.0,
+    "id": "q00856",
+    "sectionNumber": 19,
     "number": 21,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Які зовнішні світлові пристрої повинні бути ввімкнені на гужових возах (санях) під час руху в темну пору доби незалежно від ступеня освітлення дороги?",
@@ -13914,8 +13914,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q022",
-    "sectionNumber": 19.0,
+    "id": "q00857",
+    "sectionNumber": 19,
     "number": 22,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "За яких умов водіям механічних транспортних засобів дозволено використовувати дальнє світло фар у темний час доби або в умовах недостатньої видимості?",
@@ -13929,8 +13929,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q023",
-    "sectionNumber": 19.0,
+    "id": "q00858",
+    "sectionNumber": 19,
     "number": 23,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "У якому режимі повинні бути ввімкнені фари транспортного засобу, що рухається позаду іншого транспортного засобу, у темний час доби?",
@@ -13943,8 +13943,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q024",
-    "sectionNumber": 19.0,
+    "id": "q00859",
+    "sectionNumber": 19,
     "number": 24,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "На якій відстані до зустрічного транспортного засобу необхідно переключити дальнє світло на ближнє в темний час доби?",
@@ -13959,8 +13959,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q025",
-    "sectionNumber": 19.0,
+    "id": "q00860",
+    "sectionNumber": 19,
     "number": 25,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "У якому режимі у вас повинні бути ввімкнені фари при зустрічному роз'їзді вночі?",
@@ -13974,8 +13974,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q026",
-    "sectionNumber": 19.0,
+    "id": "q00861",
+    "sectionNumber": 19,
     "number": 26,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Під час руху в темний час доби незалежно від ступеня освітлення дороги на механічному транспортному засобі, що рухається, обов'язково вмикаються такі зовнішні світлові пристрої:",
@@ -13990,8 +13990,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q027",
-    "sectionNumber": 19.0,
+    "id": "q00862",
+    "sectionNumber": 19,
     "number": 27,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Вночі, коли Ви наближаєтеся до зустрічного транспортного засобу, Ви увімкнете фари дальнього світла, щоб Ваш автомобіль було краще видно:",
@@ -14006,8 +14006,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s19-q028",
-    "sectionNumber": 19.0,
+    "id": "q00863",
+    "sectionNumber": 19,
     "number": 28,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Дальнє світло фар рекомендовано вмикати при наближенні до зустрічних транспортних засобів:",
@@ -14020,8 +14020,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q029",
-    "sectionNumber": 19.0,
+    "id": "q00864",
+    "sectionNumber": 19,
     "number": 29,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Рухаючись по не достатньо освітленій вулиці, водій легкового автомобіля повинен ввімкнути такі зовнішні світлові пристрої:",
@@ -14038,8 +14038,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s19-q030",
-    "sectionNumber": 19.0,
+    "id": "q00865",
+    "sectionNumber": 19,
     "number": 30,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Чи дозволено зупинитися, змінивши смугу руху у разі засліплення?",
@@ -14054,8 +14054,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s19-q031",
-    "sectionNumber": 19.0,
+    "id": "q00866",
+    "sectionNumber": 19,
     "number": 31,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Ви рухаєтесь вночі на транспортному засобі, попереду немає інших транспортних засобів. Чи дозволено Вам увімкнути фари дальнього світла?",
@@ -14068,8 +14068,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s19-q032",
-    "sectionNumber": 19.0,
+    "id": "q00867",
+    "sectionNumber": 19,
     "number": 32,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "В темну пору доби, на неосвітлених ділянках доріг, протитуманні фари можна використовувати лише разом з ближнім або дальнім світлом фар?",
@@ -14084,8 +14084,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s19-q033",
-    "sectionNumber": 19.0,
+    "id": "q00868",
+    "sectionNumber": 19,
     "number": 33,
     "category": "КОРИСТУВАННЯ ЗОВНІШНІМИ СВІТЛОВИМИ ПРИЛАДАМИ",
     "question": "Чи дозволено вночі вмикати задній протитуманний ліхтар при відсутності умов недостатньої видимості?",
@@ -14100,8 +14100,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q001",
-    "sectionNumber": 20.0,
+    "id": "q00869",
+    "sectionNumber": 20,
     "number": 1,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чи дозволено в цій ситуації рух через переїзд у два ряди?",
@@ -14116,8 +14116,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q002",
-    "sectionNumber": 20.0,
+    "id": "q00870",
+    "sectionNumber": 20,
     "number": 2,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Як ви повинні вчинити в цій ситуації, коли на залізничному переїзді утворився затор, який змусить вас зупинитися?",
@@ -14133,8 +14133,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q003",
-    "sectionNumber": 20.0,
+    "id": "q00871",
+    "sectionNumber": 20,
     "number": 3,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чи дозволено в цій ситуації рух через переїзд у два ряди?",
@@ -14150,8 +14150,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q004",
-    "sectionNumber": 20.0,
+    "id": "q00872",
+    "sectionNumber": 20,
     "number": 4,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чи дозволяється самовільно відкривати шлагбаум на залізничному переїзді?",
@@ -14167,8 +14167,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q005",
-    "sectionNumber": 20.0,
+    "id": "q00873",
+    "sectionNumber": 20,
     "number": 5,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чим повинен керуватися водій транспортного засобу під час проїзду цього залізничного переїзду?",
@@ -14186,8 +14186,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q006",
-    "sectionNumber": 20.0,
+    "id": "q00874",
+    "sectionNumber": 20,
     "number": 6,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чим повинен керуватися водій транспортного засобу під час проїзду цього залізничного переїзду?",
@@ -14205,8 +14205,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q007",
-    "sectionNumber": 20.0,
+    "id": "q00875",
+    "sectionNumber": 20,
     "number": 7,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чи дозволено рух через залізничний переїзд у ситуації, зображеній на малюнку?",
@@ -14221,8 +14221,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q008",
-    "sectionNumber": 20.0,
+    "id": "q00876",
+    "sectionNumber": 20,
     "number": 8,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чи дозволено рух через залізничний переїзд у ситуації, зображеній на малюнку?",
@@ -14237,8 +14237,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q009",
-    "sectionNumber": 20.0,
+    "id": "q00877",
+    "sectionNumber": 20,
     "number": 9,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Як ви повинні вчинити в цій ситуації, коли на залізничному переїзді увімкнулися світлова та звукова сигналізації, а шлагбауми ще не почали опускатися?",
@@ -14255,8 +14255,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q010",
-    "sectionNumber": 20.0,
+    "id": "q00878",
+    "sectionNumber": 20,
     "number": 10,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "У разі вимушеної зупинки транспортного засобу на залізничному переїзді водій зобов'язаний негайно:",
@@ -14270,8 +14270,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q011",
-    "sectionNumber": 20.0,
+    "id": "q00879",
+    "sectionNumber": 20,
     "number": 11,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Яких заходів повинен вжити водій транспортного засобу в разі вимушеної зупинки на залізничному переїзді, якщо йому не вдається звільнити залізничний переїзд?",
@@ -14286,8 +14286,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q012",
-    "sectionNumber": 20.0,
+    "id": "q00880",
+    "sectionNumber": 20,
     "number": 12,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Що є сигналом зупинки поїзда, який подається людиною в разі вимушеної зупинки транспортного засобу на залізничному переїзді або іншої небезпеки?",
@@ -14301,8 +14301,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q013",
-    "sectionNumber": 20.0,
+    "id": "q00881",
+    "sectionNumber": 20,
     "number": 13,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Як ви повинні вчинити в ситуації, коли при під'їзді до залізничного переїзду ви побачили поїзд, що наближається, але при цьому звукова та світлова сигналізація залізничного переїзду не увімкнена?",
@@ -14315,8 +14315,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q014",
-    "sectionNumber": 20.0,
+    "id": "q00882",
+    "sectionNumber": 20,
     "number": 14,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Як ви повинні вчинити в ситуації, якщо ви зупинилися перед залізничним переїздом на заборонний сигнал світлофора, коли поїзд вже проїхав, а світлова та звукова сигналізація ще не вимкнулися?",
@@ -14330,8 +14330,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q015",
-    "sectionNumber": 20.0,
+    "id": "q00883",
+    "sectionNumber": 20,
     "number": 15,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Як ви повинні вчинити в ситуації, коли на залізничному переїзді увімкнулася світлова та звукова сигналізація, а поїзд ще не з'явився в межах видимості?",
@@ -14344,8 +14344,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q016",
-    "sectionNumber": 20.0,
+    "id": "q00884",
+    "sectionNumber": 20,
     "number": 16,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Як ви повинні вчинити в цій ситуації, коли шлагбауми, які знаходяться перед вами, почали опускатися?",
@@ -14359,8 +14359,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q017",
-    "sectionNumber": 20.0,
+    "id": "q00885",
+    "sectionNumber": 20,
     "number": 17,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Залізничним переїздом вважається:",
@@ -14375,8 +14375,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q018",
-    "sectionNumber": 20.0,
+    "id": "q00886",
+    "sectionNumber": 20,
     "number": 18,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Де водій автомобіля повинен зупинити свій транспортний засіб для пропуску поїзда, що наближається, за відсутності на переїзді засобів організації дорожнього руху?",
@@ -14391,8 +14391,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q019",
-    "sectionNumber": 20.0,
+    "id": "q00887",
+    "sectionNumber": 20,
     "number": 19,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "У чому повинен переконатися водій при під'їзді до будь-якого залізничного переїзду?",
@@ -14406,8 +14406,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q020",
-    "sectionNumber": 20.0,
+    "id": "q00888",
+    "sectionNumber": 20,
     "number": 20,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чим повинні керуватися водії транспортних засобів під час проїзду будь-яких залізничних переїздів?",
@@ -14423,8 +14423,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q021",
-    "sectionNumber": 20.0,
+    "id": "q00889",
+    "sectionNumber": 20,
     "number": 21,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Де водіям транспортних засобів дозволено перетинати залізничні колії?",
@@ -14437,8 +14437,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q022",
-    "sectionNumber": 20.0,
+    "id": "q00890",
+    "sectionNumber": 20,
     "number": 22,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Водії транспортних засобів можуть перетинати залізничні колії лише:",
@@ -14454,8 +14454,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q023",
-    "sectionNumber": 20.0,
+    "id": "q00891",
+    "sectionNumber": 20,
     "number": 23,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Що є звуковим сигналом загальної тривоги на залізничних переїздах?",
@@ -14469,8 +14469,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q024",
-    "sectionNumber": 20.0,
+    "id": "q00892",
+    "sectionNumber": 20,
     "number": 24,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "У якому випадку Ви можете проїхати під шлагбаумом, який опускається на залізничному переїзді?",
@@ -14486,8 +14486,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q025",
-    "sectionNumber": 20.0,
+    "id": "q00893",
+    "sectionNumber": 20,
     "number": 25,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Якщо ви наближаєтеся до залізничного переїзду, Ви повинні зупинитися:",
@@ -14502,8 +14502,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q026",
-    "sectionNumber": 20.0,
+    "id": "q00894",
+    "sectionNumber": 20,
     "number": 26,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "За якої умови дозволено виконати обгін на залізничному переїзді:",
@@ -14517,8 +14517,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q027",
-    "sectionNumber": 20.0,
+    "id": "q00895",
+    "sectionNumber": 20,
     "number": 27,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "За якої умови дозволено виконати обгін на залізничному переїзді:",
@@ -14533,8 +14533,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q028",
-    "sectionNumber": 20.0,
+    "id": "q00896",
+    "sectionNumber": 20,
     "number": 28,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чи дозволено Вам проїхати залізничний переїзд, якщо шлагбаум не опустився, а лише увімкнулась світлова та звукова сигналізація?",
@@ -14547,8 +14547,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q029",
-    "sectionNumber": 20.0,
+    "id": "q00897",
+    "sectionNumber": 20,
     "number": 29,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чи дозволено Вам рух через залізничний переїзд заднім ходом, якщо ви пропустили поворот праворуч?",
@@ -14561,8 +14561,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s20-q030",
-    "sectionNumber": 20.0,
+    "id": "q00898",
+    "sectionNumber": 20,
     "number": 30,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чи дозволено водієві в даному випадку розпочати рух заднім ходом?",
@@ -14577,8 +14577,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s20-q031",
-    "sectionNumber": 20.0,
+    "id": "q00899",
+    "sectionNumber": 20,
     "number": 31,
     "category": "РУХ ЧЕРЕЗ ЗАЛІЗНИЧНІ ПЕРЕЇЗДИ",
     "question": "Чи дозволено водієві в даному випадку виконати розворот, якщо попереду і позаду нього немає транспортних засобів?",
@@ -14593,8 +14593,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s21-q001",
-    "sectionNumber": 21.0,
+    "id": "q00900",
+    "sectionNumber": 21,
     "number": 1,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "У якій кількості дозволяється перевозити пасажирів в обладнаному для цього транспортному засобі?",
@@ -14608,8 +14608,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s21-q002",
-    "sectionNumber": 21.0,
+    "id": "q00901",
+    "sectionNumber": 21,
     "number": 2,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "У якій кількості дозволено перевозити пасажирів у будь-якому транспортному засобі?",
@@ -14623,8 +14623,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s21-q003",
-    "sectionNumber": 21.0,
+    "id": "q00902",
+    "sectionNumber": 21,
     "number": 3,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "Що забороняється водієві маршрутного транспортного засобу під час перевезення пасажирів?",
@@ -14640,8 +14640,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s21-q004",
-    "sectionNumber": 21.0,
+    "id": "q00903",
+    "sectionNumber": 21,
     "number": 4,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "Чи дозволено водієві відчиняти двері транспортного засобу до його зупинки?",
@@ -14655,8 +14655,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s21-q005",
-    "sectionNumber": 21.0,
+    "id": "q00904",
+    "sectionNumber": 21,
     "number": 5,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "У якому випадку дозволено перевозити пасажирів поза кабіною транспортного засобу?",
@@ -14672,8 +14672,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s21-q006",
-    "sectionNumber": 21.0,
+    "id": "q00905",
+    "sectionNumber": 21,
     "number": 6,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "Чи дозволено перевозити дітей в дитячих утримуючих системах в не пристебнутому положенні?",
@@ -14687,8 +14687,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s21-q007",
-    "sectionNumber": 21.0,
+    "id": "q00906",
+    "sectionNumber": 21,
     "number": 7,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "За яких умов дозволено перевозити дитину в легковому автомобілі без використання дитячих утримуючих систем, що дають змогу пристебнути дитину за допомогою ременів безпеки?",
@@ -14704,8 +14704,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s21-q008",
-    "sectionNumber": 21.0,
+    "id": "q00907",
+    "sectionNumber": 21,
     "number": 8,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "Яке твердження, що стосується дитячих утримуючих систем, невірне?",
@@ -14721,8 +14721,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s21-q009",
-    "sectionNumber": 21.0,
+    "id": "q00908",
+    "sectionNumber": 21,
     "number": 9,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "Яке найбезпечніше місце для розташування дитячої утримуючої системи в автомобілі?",
@@ -14738,8 +14738,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s21-q010",
-    "sectionNumber": 21.0,
+    "id": "q00909",
+    "sectionNumber": 21,
     "number": 10,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "Чи є обов’язковим відключення фронтальної подушки безпеки цього місця для сидіння при встановленні дитячої утримуючої системи на передньому сидінні?",
@@ -14754,8 +14754,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s21-q011",
-    "sectionNumber": 21.0,
+    "id": "q00910",
+    "sectionNumber": 21,
     "number": 11,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "У разі перевезення дитини віком до трьох років у легковому автомобілі на місці для сидіння першого ряду, дитячі утримуючі системи встановлюються:",
@@ -14770,8 +14770,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s21-q012",
-    "sectionNumber": 21.0,
+    "id": "q00911",
+    "sectionNumber": 21,
     "number": 12,
     "category": "ПЕРЕВЕЗЕННЯ ПАСАЖИРІВ",
     "question": "У якому положенні повинні перебувати діти у дитячих утримуючих системах?",
@@ -14786,8 +14786,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s22-q001",
-    "sectionNumber": 22.0,
+    "id": "q00912",
+    "sectionNumber": 22,
     "number": 1,
     "category": "ПЕРЕВЕЗЕННЯ ВАНТАЖУ",
     "question": "Понад яку мінімальну відстань від зовнішнього краю переднього або заднього габаритного ліхтаря повинен виступати вантаж за шириною, щоб його потрібно було обов'язково позначити сигнальними щитками або прапорцями згідно з Правилами дорожнього руху?",
@@ -14803,8 +14803,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s22-q002",
-    "sectionNumber": 22.0,
+    "id": "q00913",
+    "sectionNumber": 22,
     "number": 2,
     "category": "ПЕРЕВЕЗЕННЯ ВАНТАЖУ",
     "question": "Понад яку мінімальну відстань від зовнішнього краю переднього або заднього габариту транспортного засобу повинен виступати вантаж за довжиною, щоб було обов'язковим його позначення сигнальними щитками або прапорцями згідно з Правилами дорожнього руху?",
@@ -14819,8 +14819,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s22-q003",
-    "sectionNumber": 22.0,
+    "id": "q00914",
+    "sectionNumber": 22,
     "number": 3,
     "category": "ПЕРЕВЕЗЕННЯ ВАНТАЖУ",
     "question": "Яких заходів безпеки зобов'язаний вжити водій транспортного засобу, що перевозить вантаж, перед початком руху, а також під час руху?",
@@ -14837,8 +14837,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s22-q005",
-    "sectionNumber": 22.0,
+    "id": "q00915",
+    "sectionNumber": 22,
     "number": 5,
     "category": "ПЕРЕВЕЗЕННЯ ВАНТАЖУ",
     "question": "У разі дотримання яких умов дозволяється перевезення вантажів?",
@@ -14854,8 +14854,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s22-q006",
-    "sectionNumber": 22.0,
+    "id": "q00916",
+    "sectionNumber": 22,
     "number": 6,
     "category": "ПЕРЕВЕЗЕННЯ ВАНТАЖУ",
     "question": "Перед початком руху, а також під час руху водій транспортного засобу зобов'язаний перевірити надійність розташування і кріплення вантажу, щоб вантаж:",
@@ -14871,8 +14871,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q001",
-    "sectionNumber": 23.0,
+    "id": "q00917",
+    "sectionNumber": 23,
     "number": 1,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "При дотриманні яких умов дозволяється буксирування транспортного засобу з несправною гальмовою системою на жорсткому зчепленні?",
@@ -14885,8 +14885,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q002",
-    "sectionNumber": 23.0,
+    "id": "q00918",
+    "sectionNumber": 23,
     "number": 2,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Жорстке зчеплення повинно забезпечувати відстань між транспортними засобами не більше ніж:",
@@ -14904,8 +14904,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s23-q003",
-    "sectionNumber": 23.0,
+    "id": "q00919",
+    "sectionNumber": 23,
     "number": 3,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Чи можуть перебувати пасажири в буксируваному легковому автомобілі в разі буксирування на жорсткому або гнучкому зчепленні?",
@@ -14918,8 +14918,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q004",
-    "sectionNumber": 23.0,
+    "id": "q00920",
+    "sectionNumber": 23,
     "number": 4,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Де повинні перебувати пасажири у разі буксирування транспортного засобу способом часткового навантаження?",
@@ -14934,8 +14934,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q005",
-    "sectionNumber": 23.0,
+    "id": "q00921",
+    "sectionNumber": 23,
     "number": 5,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Під час буксирування яким із способів пасажири можуть перебувати в буксируваному транспортному засобі?",
@@ -14950,8 +14950,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q006",
-    "sectionNumber": 23.0,
+    "id": "q00922",
+    "sectionNumber": 23,
     "number": 6,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Буксируванням вважається переміщення одним транспортним засобом іншого, яке не належить до експлуатації автопоїздів (транспортних составів):",
@@ -14967,8 +14967,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q007",
-    "sectionNumber": 23.0,
+    "id": "q00923",
+    "sectionNumber": 23,
     "number": 7,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Чи дозволяється буксирування на гнучкому зчепленні під час ожеледиці?",
@@ -14983,8 +14983,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q008",
-    "sectionNumber": 23.0,
+    "id": "q00924",
+    "sectionNumber": 23,
     "number": 8,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Яким способом дозволено виконувати буксирування транспортних засобів під час ожеледиці?",
@@ -14999,8 +14999,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q009",
-    "sectionNumber": 23.0,
+    "id": "q00925",
+    "sectionNumber": 23,
     "number": 9,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "У якому випадку дозволяється буксирування двох і більше транспортних засобів?",
@@ -15015,8 +15015,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q010",
-    "sectionNumber": 23.0,
+    "id": "q00926",
+    "sectionNumber": 23,
     "number": 10,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Яким способом необхідно буксирувати транспортний засіб із рульовим керуванням, що не діє?",
@@ -15031,8 +15031,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q011",
-    "sectionNumber": 23.0,
+    "id": "q00927",
+    "sectionNumber": 23,
     "number": 11,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Яким способом повинне здійснюватися буксирування немеханічних транспортних засобів?",
@@ -15046,8 +15046,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q012",
-    "sectionNumber": 23.0,
+    "id": "q00928",
+    "sectionNumber": 23,
     "number": 12,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "За яких умов повинне здійснюватися буксирування транспортних засобів?",
@@ -15061,8 +15061,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q013",
-    "sectionNumber": 23.0,
+    "id": "q00929",
+    "sectionNumber": 23,
     "number": 13,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Яка відстань має бути забезпечена між транспортними засобами у разі буксирування на гнучкому зчепленні?",
@@ -15078,8 +15078,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q014",
-    "sectionNumber": 23.0,
+    "id": "q00930",
+    "sectionNumber": 23,
     "number": 14,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Як повинно бути позначене гнучке зчеплення?",
@@ -15093,8 +15093,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q015",
-    "sectionNumber": 23.0,
+    "id": "q00931",
+    "sectionNumber": 23,
     "number": 15,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "У разі буксирування транспортного засобу на гнучкому зчепленні в буксируваному транспортному засобі повинні бути справні такі системи:",
@@ -15108,8 +15108,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q016",
-    "sectionNumber": 23.0,
+    "id": "q00932",
+    "sectionNumber": 23,
     "number": 16,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "З якими із перерахованих несправностей заборонене буксирування транспортних засобів на гнучкому зчепленні?",
@@ -15129,8 +15129,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q018",
-    "sectionNumber": 23.0,
+    "id": "q00933",
+    "sectionNumber": 23,
     "number": 18,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Чи дозволене буксирування транспортних засобів на жорсткому або гнучкому зчепленні з несправним рульовим керуванням?",
@@ -15143,8 +15143,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q019",
-    "sectionNumber": 23.0,
+    "id": "q00934",
+    "sectionNumber": 23,
     "number": 19,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "За якої умови під час буксирування транспортного засобу на жорсткому зчепленні в буксируваному транспортному засобі може бути відсутній водій?",
@@ -15159,8 +15159,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s23-q020",
-    "sectionNumber": 23.0,
+    "id": "q00935",
+    "sectionNumber": 23,
     "number": 20,
     "category": "БУКСИРУВАННЯ ТА ЕКСПЛУАТАЦІЯ ТРАНСПОРТНИХ СОСТАВІВ",
     "question": "Чи дозволяється буксирування транспортного засобу з причепом?",
@@ -15173,8 +15173,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s24-q001",
-    "sectionNumber": 24.0,
+    "id": "q00936",
+    "sectionNumber": 24,
     "number": 1,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Чи дозволено навчання водінню транспортного засобу на дорогах, позначених такими дорожніми знаками?",
@@ -15189,8 +15189,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s24-q002",
-    "sectionNumber": 24.0,
+    "id": "q00937",
+    "sectionNumber": 24,
     "number": 2,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Чи дозволена навчальна їзда в житлових зонах?",
@@ -15206,8 +15206,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s24-q003",
-    "sectionNumber": 24.0,
+    "id": "q00938",
+    "sectionNumber": 24,
     "number": 3,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Яким (-ми) із дорожніх знаків позначається дорога, на якій не заборонена навчальна їзда на легковому автомобілі?",
@@ -15224,8 +15224,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s24-q004",
-    "sectionNumber": 24.0,
+    "id": "q00939",
+    "sectionNumber": 24,
     "number": 4,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Яким із дорожніх знаків позначається дорога, на якій заборонена навчальна їзда?",
@@ -15243,8 +15243,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s24-q005",
-    "sectionNumber": 24.0,
+    "id": "q00940",
+    "sectionNumber": 24,
     "number": 5,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Обов’язковою умовою, за якої дозволено навчатися водінню транспортного засобу, є:",
@@ -15262,8 +15262,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s24-q007",
-    "sectionNumber": 24.0,
+    "id": "q00941",
+    "sectionNumber": 24,
     "number": 7,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Чим із переліченого мають бути обладнані автомобілі з механічною коробкою передач, що систематично використовуються для навчання водіння?",
@@ -15277,8 +15277,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s24-q008",
-    "sectionNumber": 24.0,
+    "id": "q00942",
+    "sectionNumber": 24,
     "number": 8,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Автомобілі, що систематично використовуються для навчання водіння, мають бути обладнані:",
@@ -15294,8 +15294,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s24-q009",
-    "sectionNumber": 24.0,
+    "id": "q00943",
+    "sectionNumber": 24,
     "number": 9,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Чи дозволена навчальна їзда на дорогах без присутності спеціаліста з підготовки водіїв?",
@@ -15309,8 +15309,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s24-q010",
-    "sectionNumber": 24.0,
+    "id": "q00944",
+    "sectionNumber": 24,
     "number": 10,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Де має проводитися початкове навчання водінню транспортного засобу?",
@@ -15325,8 +15325,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s24-q011",
-    "sectionNumber": 24.0,
+    "id": "q00945",
+    "sectionNumber": 24,
     "number": 11,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Чи повинна особа, яка навчається водінню транспортного засобу, знати і виконувати вимоги Правил дорожнього руху?",
@@ -15339,8 +15339,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s24-q012",
-    "sectionNumber": 24.0,
+    "id": "q00946",
+    "sectionNumber": 24,
     "number": 12,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "З якого віку дозволено навчатися водінню автомобіля?",
@@ -15356,8 +15356,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s24-q013",
-    "sectionNumber": 24.0,
+    "id": "q00947",
+    "sectionNumber": 24,
     "number": 13,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Особа, яка навчається водінню транспортного засобу:",
@@ -15371,8 +15371,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s24-q014",
-    "sectionNumber": 24.0,
+    "id": "q00948",
+    "sectionNumber": 24,
     "number": 14,
     "category": "НАВЧАЛЬНА ЇЗДА",
     "question": "Чи дозволено особам, які навчаються водінню, не пристібатись під час руху в населеному пункті?",
@@ -15387,8 +15387,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s25-q001",
-    "sectionNumber": 25.0,
+    "id": "q00949",
+    "sectionNumber": 25,
     "number": 1,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ У КОЛОНАХ",
     "question": "Як позначають транспортні засоби, що рухаються в колоні, якщо їх не супроводжують оперативні транспортні засоби?",
@@ -15404,8 +15404,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s25-q002",
-    "sectionNumber": 25.0,
+    "id": "q00950",
+    "sectionNumber": 25,
     "number": 2,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ У КОЛОНАХ",
     "question": "Як позначають транспортні засоби, що рухаються в колоні, яку супроводжують оперативні транспортні засоби з увімкненими червоним, синім і червоним, зеленим або синім і зеленим проблисковими маячками та (або) спеціальними звуковими сигналами?",
@@ -15421,8 +15421,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s25-q003",
-    "sectionNumber": 25.0,
+    "id": "q00951",
+    "sectionNumber": 25,
     "number": 3,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ У КОЛОНАХ",
     "question": "Як повинні розміщуватися на дорозі транспортні засоби колони?",
@@ -15436,8 +15436,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s25-q004",
-    "sectionNumber": 25.0,
+    "id": "q00952",
+    "sectionNumber": 25,
     "number": 4,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ У КОЛОНАХ",
     "question": "Швидкість руху колони та дистанція між транспортними засобами встановлюються:",
@@ -15451,8 +15451,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s25-q005",
-    "sectionNumber": 25.0,
+    "id": "q00953",
+    "sectionNumber": 25,
     "number": 5,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ У КОЛОНАХ",
     "question": "Як повинна рухатися колона, яку не супроводжують оперативні транспортні засоби, щоб не створювати перешкод транспортним засобам, що обганяють?",
@@ -15468,8 +15468,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s25-q006",
-    "sectionNumber": 25.0,
+    "id": "q00954",
+    "sectionNumber": 25,
     "number": 6,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ У КОЛОНАХ",
     "question": "Під час зупинки колони на дорозі на всіх транспортних засобах колони вмикаються:",
@@ -15485,8 +15485,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s25-q007",
-    "sectionNumber": 25.0,
+    "id": "q00955",
+    "sectionNumber": 25,
     "number": 7,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ У КОЛОНАХ",
     "question": "Чи можуть сторонні транспортні засоби займати місце для постійного руху в колоні, яку не супроводжують оперативні транспортні засоби?",
@@ -15499,8 +15499,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s25-q008",
-    "sectionNumber": 25.0,
+    "id": "q00956",
+    "sectionNumber": 25,
     "number": 8,
     "category": "РУХ ТРАНСПОРТНИХ ЗАСОБІВ У КОЛОНАХ",
     "question": "У якому випадку стороннім транспортним засобам дозволено прилаштовуватися в колону, яка їде без супроводу оперативних транспортних засобів?",
@@ -15514,8 +15514,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s26-q001",
-    "sectionNumber": 26.0,
+    "id": "q00957",
+    "sectionNumber": 26,
     "number": 1,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Житловою зоною вважаються: 5.34 5.53",
@@ -15531,8 +15531,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s26-q002",
-    "sectionNumber": 26.0,
+    "id": "q00958",
+    "sectionNumber": 26,
     "number": 2,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Виїжджаючи із житлової зони, водій синього автомобіля повинен дати дорогу:",
@@ -15548,8 +15548,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s26-q003",
-    "sectionNumber": 26.0,
+    "id": "q00959",
+    "sectionNumber": 26,
     "number": 3,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Кому дозволено в'їзд у пішохідну зону?",
@@ -15566,8 +15566,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s26-q004",
-    "sectionNumber": 26.0,
+    "id": "q00960",
+    "sectionNumber": 26,
     "number": 4,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Чи дозволяється навчальна їзда в житловій зоні?",
@@ -15583,8 +15583,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s26-q005",
-    "sectionNumber": 26.0,
+    "id": "q00961",
+    "sectionNumber": 26,
     "number": 5,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Виїжджаючи з пішохідної зони, водій синього автомобіля повинен дати дорогу:",
@@ -15600,8 +15600,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s26-q006",
-    "sectionNumber": 26.0,
+    "id": "q00962",
+    "sectionNumber": 26,
     "number": 6,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Чи повинен водій транспортного засобу, який рухається у житловій або пішохідній зоні, поступатися дорогою пішоходам, які перебувають на проїжджій частині?",
@@ -15616,8 +15616,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s26-q007",
-    "sectionNumber": 26.0,
+    "id": "q00963",
+    "sectionNumber": 26,
     "number": 7,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Чи дозволений транзитний рух транспортних засобів у житловій зоні?",
@@ -15631,8 +15631,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s26-q008",
-    "sectionNumber": 26.0,
+    "id": "q00964",
+    "sectionNumber": 26,
     "number": 8,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Що з перерахованого заборонено в житлових зонах?",
@@ -15648,8 +15648,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s26-q009",
-    "sectionNumber": 26.0,
+    "id": "q00965",
+    "sectionNumber": 26,
     "number": 9,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Дотримуючись яких з умов, пішоходи можуть рухатися по проїжджій частині житлових і пішохідних зон?",
@@ -15663,8 +15663,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s26-q010",
-    "sectionNumber": 26.0,
+    "id": "q00966",
+    "sectionNumber": 26,
     "number": 10,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Де дозволено рухатися пішоходам у житлових і пішохідних зонах?",
@@ -15678,8 +15678,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s26-q011",
-    "sectionNumber": 26.0,
+    "id": "q00967",
+    "sectionNumber": 26,
     "number": 11,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Де повинні бути поставлені на стоянку транспортні засоби в житлових зонах?",
@@ -15693,8 +15693,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s26-q012",
-    "sectionNumber": 26.0,
+    "id": "q00968",
+    "sectionNumber": 26,
     "number": 12,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Чи дозволено водієві зеленого автомобіля поставити автомобіль на стоянку так як показано на малюнку?",
@@ -15709,8 +15709,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s26-q013",
-    "sectionNumber": 26.0,
+    "id": "q00969",
+    "sectionNumber": 26,
     "number": 13,
     "category": "РУХ У ЖИТЛОВІЙ ТА ПІШОХІДНІЙ ЗОНІ",
     "question": "Правила щодо руху у житловій зоні поширюються на будь-яку дворову територію, незалежно від того, чи позначена вона відповідним дорожнім знаком:",
@@ -15723,8 +15723,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s27-q001",
-    "sectionNumber": 27.0,
+    "id": "q00970",
+    "sectionNumber": 27,
     "number": 1,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "Яким транспортним засобам дозволено рух по автомагістралі?",
@@ -15741,8 +15741,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s27-q002",
-    "sectionNumber": 27.0,
+    "id": "q00971",
+    "sectionNumber": 27,
     "number": 2,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "Чи дозволено на автомагістралях рух механічних транспортних засобів, швидкість яких за технічною характеристикою або їхнім станом менше 40 км/год?",
@@ -15757,8 +15757,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s27-q003",
-    "sectionNumber": 27.0,
+    "id": "q00972",
+    "sectionNumber": 27,
     "number": 3,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "Що з перерахованого заборонено на автомагістралі?",
@@ -15776,8 +15776,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s27-q004",
-    "sectionNumber": 27.0,
+    "id": "q00973",
+    "sectionNumber": 27,
     "number": 4,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "У якому місці дороги для автомобілів дозволена зупинка транспортних засобів?",
@@ -15795,8 +15795,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s27-q005",
-    "sectionNumber": 27.0,
+    "id": "q00974",
+    "sectionNumber": 27,
     "number": 5,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "Чи дозволений розворот у технологічних розривах розділювальної смуги на автомагістралі?",
@@ -15812,8 +15812,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s27-q006",
-    "sectionNumber": 27.0,
+    "id": "q00975",
+    "sectionNumber": 27,
     "number": 6,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "Де пішоходам дозволено переходити проїжджу частину автомагістралі?",
@@ -15828,8 +15828,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s27-q007",
-    "sectionNumber": 27.0,
+    "id": "q00976",
+    "sectionNumber": 27,
     "number": 7,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "Що з перерахованого заборонено на дорозі для автомобілів?",
@@ -15845,8 +15845,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s27-q008",
-    "sectionNumber": 27.0,
+    "id": "q00977",
+    "sectionNumber": 27,
     "number": 8,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "Чи повинні водії транспортних засобів, які виїжджають на автомагістраль або дорогу для автомобілів, пропускати транспортні засоби, що рухаються по цих дорогах?",
@@ -15860,8 +15860,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s27-q009",
-    "sectionNumber": 27.0,
+    "id": "q00978",
+    "sectionNumber": 27,
     "number": 9,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "Чи дозволяється навчальна їзда на автомагістралі?",
@@ -15875,8 +15875,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s27-q010",
-    "sectionNumber": 27.0,
+    "id": "q00979",
+    "sectionNumber": 27,
     "number": 10,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "Чи дозволено транспортним засобам рух заднім ходом на автомагістралі?",
@@ -15890,8 +15890,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s27-q011",
-    "sectionNumber": 27.0,
+    "id": "q00980",
+    "sectionNumber": 27,
     "number": 11,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "Чи дозволяється транспортним засобам виконувати розворот на автомагістралі?",
@@ -15905,8 +15905,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s27-q012",
-    "sectionNumber": 27.0,
+    "id": "q00981",
+    "sectionNumber": 27,
     "number": 12,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "У якому місці автомагістралі дозволена зупинка транспортних засобів?",
@@ -15921,8 +15921,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s27-q013",
-    "sectionNumber": 27.0,
+    "id": "q00982",
+    "sectionNumber": 27,
     "number": 13,
     "category": "РУХ ПО АВТОМАГІСТРАЛЯХ І ДОРОГАХ ДЛЯ АВТОМОБІЛІВ",
     "question": "Як повинен діяти водій у разі вимушеної зупинки на автомагістралі чи дорозі для автомобілів?",
@@ -15936,8 +15936,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s28-q001",
-    "sectionNumber": 28.0,
+    "id": "q00983",
+    "sectionNumber": 28,
     "number": 1,
     "category": "РУХ ПО ГІРСЬКИХ ДОРОГАХ І НА КРУТИХ СПУСКАХ",
     "question": "Який зі способів буксирування заборонений на гірських дорогах?",
@@ -15954,8 +15954,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s28-q002",
-    "sectionNumber": 28.0,
+    "id": "q00984",
+    "sectionNumber": 28,
     "number": 2,
     "category": "РУХ ПО ГІРСЬКИХ ДОРОГАХ І НА КРУТИХ СПУСКАХ",
     "question": "На гірських дорогах і крутих спусках, де зустрічний роз'їзд утруднено, дати дорогу повинен:",
@@ -15969,8 +15969,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s28-q003",
-    "sectionNumber": 28.0,
+    "id": "q00985",
+    "sectionNumber": 28,
     "number": 3,
     "category": "РУХ ПО ГІРСЬКИХ ДОРОГАХ І НА КРУТИХ СПУСКАХ",
     "question": "На гірських дорогах і крутих спусках, де зустрічний роз'їзд утруднено, перевагу в русі має:",
@@ -15984,8 +15984,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s28-q004",
-    "sectionNumber": 28.0,
+    "id": "q00986",
+    "sectionNumber": 28,
     "number": 4,
     "category": "РУХ ПО ГІРСЬКИХ ДОРОГАХ І НА КРУТИХ СПУСКАХ",
     "question": "Під час руху на спуск на вашій смузі руху виникла перешкода. Як ви роз'їдетеся із зустрічним транспортним засобом?",
@@ -15998,8 +15998,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s28-q005",
-    "sectionNumber": 28.0,
+    "id": "q00987",
+    "sectionNumber": 28,
     "number": 5,
     "category": "РУХ ПО ГІРСЬКИХ ДОРОГАХ І НА КРУТИХ СПУСКАХ",
     "question": "Що з перерахованого забороняється на гірських дорогах?",
@@ -16013,8 +16013,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s28-q006",
-    "sectionNumber": 28.0,
+    "id": "q00988",
+    "sectionNumber": 28,
     "number": 6,
     "category": "РУХ ПО ГІРСЬКИХ ДОРОГАХ І НА КРУТИХ СПУСКАХ",
     "question": "Під час руху по гірських дорогах водій транспортного засобу повинен:",
@@ -16028,8 +16028,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s28-q007",
-    "sectionNumber": 28.0,
+    "id": "q00989",
+    "sectionNumber": 28,
     "number": 7,
     "category": "РУХ ПО ГІРСЬКИХ ДОРОГАХ І НА КРУТИХ СПУСКАХ",
     "question": "Яким способом/способами дозволено буксирування автомобілів на гірських дорогах?",
@@ -16044,8 +16044,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s28-q008",
-    "sectionNumber": 28.0,
+    "id": "q00990",
+    "sectionNumber": 28,
     "number": 8,
     "category": "РУХ ПО ГІРСЬКИХ ДОРОГАХ І НА КРУТИХ СПУСКАХ",
     "question": "Чи дозволене буксирування на гірських дорогах під час ожеледиці?",
@@ -16059,8 +16059,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s29-q001",
-    "sectionNumber": 29.0,
+    "id": "q00991",
+    "sectionNumber": 29,
     "number": 1,
     "category": "МІЖНАРОДНИЙ РУХ",
     "question": "Виїжджаючи за кордон на транспортному засобі водій – громадянин України повинен мати:",
@@ -16074,8 +16074,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s30-q001",
-    "sectionNumber": 30.0,
+    "id": "q00992",
+    "sectionNumber": 30,
     "number": 1,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "Цим розпізнавальним знаком позначаються транспортні засоби, на яких:",
@@ -16091,8 +16091,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q002",
-    "sectionNumber": 30.0,
+    "id": "q00993",
+    "sectionNumber": 30,
     "number": 2,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "Де на транспортному засобі повинен бути розпізнавальний знак «Таксі»?",
@@ -16108,8 +16108,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q003",
-    "sectionNumber": 30.0,
+    "id": "q00994",
+    "sectionNumber": 30,
     "number": 3,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "На яких транспортних засобах обов'язково встановлюється цей розпізнавальний знак?",
@@ -16126,8 +16126,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q004",
-    "sectionNumber": 30.0,
+    "id": "q00995",
+    "sectionNumber": 30,
     "number": 4,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "Який із розпізнавальних знаків встановлюється на транспортних засобах, якими керують водії зі стажем до двох років?",
@@ -16143,8 +16143,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q005",
-    "sectionNumber": 30.0,
+    "id": "q00996",
+    "sectionNumber": 30,
     "number": 5,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "У яких випадках на транспортних засобах встановлюється такий розпізнавальний знак?",
@@ -16161,8 +16161,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q006",
-    "sectionNumber": 30.0,
+    "id": "q00997",
+    "sectionNumber": 30,
     "number": 6,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "Цей розпізнавальний знак встановлюється на транспортних засобах:",
@@ -16179,8 +16179,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q007",
-    "sectionNumber": 30.0,
+    "id": "q00998",
+    "sectionNumber": 30,
     "number": 7,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "Цим розпізнавальним знаком позначають транспортні засоби, які:",
@@ -16196,8 +16196,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q008",
-    "sectionNumber": 30.0,
+    "id": "q00999",
+    "sectionNumber": 30,
     "number": 8,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "На яких транспортних засобах встановлюється такий розпізнавальний знак?",
@@ -16213,8 +16213,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q009",
-    "sectionNumber": 30.0,
+    "id": "q01000",
+    "sectionNumber": 30,
     "number": 9,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "Яким із розпізнавальних знаків позначаються транспортні засоби, якими керують водії з інвалідністю?",
@@ -16231,8 +16231,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q010",
-    "sectionNumber": 30.0,
+    "id": "q01001",
+    "sectionNumber": 30,
     "number": 10,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "Такий розпізнавальний знак розміщується на транспортних засобах, які:",
@@ -16248,8 +16248,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q011",
-    "sectionNumber": 30.0,
+    "id": "q01002",
+    "sectionNumber": 30,
     "number": 11,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "Який із розпізнавальних знаків встановлюється на транспортних засобах, якими керують глухі або глухонімі водії?",
@@ -16265,8 +16265,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q012",
-    "sectionNumber": 30.0,
+    "id": "q01003",
+    "sectionNumber": 30,
     "number": 12,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "На яких транспортних засобах встановлюється цей розпізнавальний знак?",
@@ -16282,8 +16282,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s30-q013",
-    "sectionNumber": 30.0,
+    "id": "q01004",
+    "sectionNumber": 30,
     "number": 13,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "Де на механічних транспортних засобах (за винятком трамваїв і тролейбусів) і причепах встановлюють номерні знаки?",
@@ -16297,8 +16297,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s30-q014",
-    "sectionNumber": 30.0,
+    "id": "q01005",
+    "sectionNumber": 30,
     "number": 14,
     "category": "НОМЕРНІ, РОЗПІЗНАВАЛЬНІ ЗНАКИ, НАПИСИ І ПОЗНАЧЕННЯ",
     "question": "Якщо в результаті проведення переобладнання або ремонту транспортного засобу необхідно внести зміни до реєстраційних документів, протягом якого часу з моменту завершення ремонту або переобладнання необхідно перереєструвати його в уповноваженому органі МВС?",
@@ -16313,8 +16313,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q001",
-    "sectionNumber": 31.0,
+    "id": "q01006",
+    "sectionNumber": 31,
     "number": 1,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "Як називаються зовнішні світлові пристрої білого кольору, передбачені конструкцією транспортного засобу, встановлені спереду транспортного засобу і призначені для поліпшення його видимості під час руху в світлий час доби?",
@@ -16330,8 +16330,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q002",
-    "sectionNumber": 31.0,
+    "id": "q01007",
+    "sectionNumber": 31,
     "number": 2,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "Чи дозволяється вам встановлювати на одну вісь транспортного засобу ошиповану шину разом із неошипованою?",
@@ -16345,8 +16345,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q003",
-    "sectionNumber": 31.0,
+    "id": "q01008",
+    "sectionNumber": 31,
     "number": 3,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "Чи дозволяється рух до місця ремонту або стоянки в темний час доби з несправними фарами і задніми габаритними вогнями?",
@@ -16360,8 +16360,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q004",
-    "sectionNumber": 31.0,
+    "id": "q01009",
+    "sectionNumber": 31,
     "number": 4,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "Як ви повинні вчинити, якщо під час руху відмовив спідометр?",
@@ -16375,8 +16375,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q005",
-    "sectionNumber": 31.0,
+    "id": "q01010",
+    "sectionNumber": 31,
     "number": 5,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "У якому випадку дозволяється експлуатація транспортного засобу?",
@@ -16390,8 +16390,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q006",
-    "sectionNumber": 31.0,
+    "id": "q01011",
+    "sectionNumber": 31,
     "number": 6,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "Ви маєте право експлуатувати легковий автомобіль за відсутності:",
@@ -16406,8 +16406,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q007",
-    "sectionNumber": 31.0,
+    "id": "q01012",
+    "sectionNumber": 31,
     "number": 7,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "Чи дозволяється встановлювати на одну вісь легкового автомобіля шини з різним малюнком протектора?",
@@ -16421,8 +16421,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q008",
-    "sectionNumber": 31.0,
+    "id": "q01013",
+    "sectionNumber": 31,
     "number": 8,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "За наявності якої несправності дозволяється експлуатація транспортного засобу?",
@@ -16437,8 +16437,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q009",
-    "sectionNumber": 31.0,
+    "id": "q01014",
+    "sectionNumber": 31,
     "number": 9,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "У яких випадках забороняється подальший рух навіть до місця ремонту або стоянки з несправними фарами і задніми габаритними вогнями?",
@@ -16452,8 +16452,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q010",
-    "sectionNumber": 31.0,
+    "id": "q01015",
+    "sectionNumber": 31,
     "number": 10,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "У якому випадку дозволяється експлуатація автомобіля?",
@@ -16467,8 +16467,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q011",
-    "sectionNumber": 31.0,
+    "id": "q01016",
+    "sectionNumber": 31,
     "number": 11,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "За наявності якої несправності заборонено подальший рух на транспортному засобі під час дощу або снігопаду?",
@@ -16482,8 +16482,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q012",
-    "sectionNumber": 31.0,
+    "id": "q01017",
+    "sectionNumber": 31,
     "number": 12,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "У яких випадках вам дозволяється експлуатація транспортного засобу?",
@@ -16501,8 +16501,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q014",
-    "sectionNumber": 31.0,
+    "id": "q01018",
+    "sectionNumber": 31,
     "number": 14,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "У разі виникнення якої несправності заборонено подальший рух?",
@@ -16516,8 +16516,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q015",
-    "sectionNumber": 31.0,
+    "id": "q01019",
+    "sectionNumber": 31,
     "number": 15,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "У якому випадку вам забороняється експлуатація транспортного засобу?",
@@ -16531,8 +16531,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q016",
-    "sectionNumber": 31.0,
+    "id": "q01020",
+    "sectionNumber": 31,
     "number": 16,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "У якому випадку вам дозволяється експлуатація легкового автомобіля?",
@@ -16546,8 +16546,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q017",
-    "sectionNumber": 31.0,
+    "id": "q01021",
+    "sectionNumber": 31,
     "number": 17,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "У якому випадку вам забороняється експлуатація автомобіля?",
@@ -16562,8 +16562,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s31-q018",
-    "sectionNumber": 31.0,
+    "id": "q01022",
+    "sectionNumber": 31,
     "number": 18,
     "category": "ТЕХНІЧНИЙ СТАН ТРАНСПОРТНИХ ЗАСОБІВ ТА ЇХ ОБЛАДНАННЯ",
     "question": "За яких умов заборонено подальший рух транспортного засобу, якщо не працює склоочисник з боку розміщення керма?",
@@ -16579,8 +16579,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s32-q001",
-    "sectionNumber": 32.0,
+    "id": "q01023",
+    "sectionNumber": 32,
     "number": 1,
     "category": "ОКРЕМІ ПИТАННЯ ДОРОЖНЬОГО РУХУ, ЩО ПОТРЕБУЮТЬ УЗГОДЖЕННЯ",
     "question": "У якому випадку з органами Національної поліції варто узгодити умови і порядок руху колони транспортних засобів?",
@@ -16595,8 +16595,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s32-q002",
-    "sectionNumber": 32.0,
+    "id": "q01024",
+    "sectionNumber": 32,
     "number": 2,
     "category": "ОКРЕМІ ПИТАННЯ ДОРОЖНЬОГО РУХУ, ЩО ПОТРЕБУЮТЬ УЗГОДЖЕННЯ",
     "question": "За яких умов з органами Національної поліції узгоджують порядок буксирування?",
@@ -16611,8 +16611,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s32-q003",
-    "sectionNumber": 32.0,
+    "id": "q01025",
+    "sectionNumber": 32,
     "number": 3,
     "category": "ОКРЕМІ ПИТАННЯ ДОРОЖНЬОГО РУХУ, ЩО ПОТРЕБУЮТЬ УЗГОДЖЕННЯ",
     "question": "Що з перерахованого необхідно узгоджувати з органами Національної поліції?",
@@ -16626,8 +16626,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s32-q004",
-    "sectionNumber": 32.0,
+    "id": "q01026",
+    "sectionNumber": 32,
     "number": 4,
     "category": "ОКРЕМІ ПИТАННЯ ДОРОЖНЬОГО РУХУ, ЩО ПОТРЕБУЮТЬ УЗГОДЖЕННЯ",
     "question": "За яких умов на транспортних засобах дозволяється встановлення спеціальних звукових і світлових сигнальних пристроїв?",
@@ -16640,8 +16640,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s32-q005",
-    "sectionNumber": 32.0,
+    "id": "q01027",
+    "sectionNumber": 32,
     "number": 5,
     "category": "ОКРЕМІ ПИТАННЯ ДОРОЖНЬОГО РУХУ, ЩО ПОТРЕБУЮТЬ УЗГОДЖЕННЯ",
     "question": "За якої умови дозволено вносити зміни в ідентифікаційні номери і номерні таблички кузова чи шасі (рами), двигуна транспортного засобу, а також їхнє знищення (перенесення, закріплення, відновлення)?",
@@ -16655,8 +16655,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q001",
-    "sectionNumber": 33.0,
+    "id": "q01028",
+    "sectionNumber": 33,
     "number": 1,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак має таке значення:",
@@ -16672,8 +16672,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q002",
-    "sectionNumber": 33.0,
+    "id": "q01029",
+    "sectionNumber": 33,
     "number": 2,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків скасовує обмеження мінімальної швидкості руху?",
@@ -16690,8 +16690,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q003",
-    "sectionNumber": 33.0,
+    "id": "q01030",
+    "sectionNumber": 33,
     "number": 3,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -16708,8 +16708,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q004",
-    "sectionNumber": 33.0,
+    "id": "q01031",
+    "sectionNumber": 33,
     "number": 4,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється на початку автомагістралі?",
@@ -16727,8 +16727,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q005",
-    "sectionNumber": 33.0,
+    "id": "q01032",
+    "sectionNumber": 33,
     "number": 5,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -16745,8 +16745,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q006",
-    "sectionNumber": 33.0,
+    "id": "q01033",
+    "sectionNumber": 33,
     "number": 6,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено водієві синього автомобіля виконати розворот, як показано на малюнку?",
@@ -16761,8 +16761,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q007",
-    "sectionNumber": 33.0,
+    "id": "q01034",
+    "sectionNumber": 33,
     "number": 7,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображеним дорожнім знаком позначається:",
@@ -16778,8 +16778,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q008",
-    "sectionNumber": 33.0,
+    "id": "q01035",
+    "sectionNumber": 33,
     "number": 8,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється на початку дороги або відокремленої проїзної частини, по всій ширині якої рух транспортних засобів здійснюється тільки в одному напрямку?",
@@ -16797,8 +16797,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q009",
-    "sectionNumber": 33.0,
+    "id": "q01036",
+    "sectionNumber": 33,
     "number": 9,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Що з переліченого заборонено водіям на зображеній дорозі?",
@@ -16816,8 +16816,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q010",
-    "sectionNumber": 33.0,
+    "id": "q01037",
+    "sectionNumber": 33,
     "number": 10,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак дозволяє рух:",
@@ -16833,8 +16833,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q011",
-    "sectionNumber": 33.0,
+    "id": "q01038",
+    "sectionNumber": 33,
     "number": 11,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Яким із зображених знаків позначається доріжка для вершників?",
@@ -16851,8 +16851,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q012",
-    "sectionNumber": 33.0,
+    "id": "q01039",
+    "sectionNumber": 33,
     "number": 12,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак дозволяє рух:",
@@ -16869,8 +16869,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q013",
-    "sectionNumber": 33.0,
+    "id": "q01040",
+    "sectionNumber": 33,
     "number": 13,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "З якого боку ви повинні об'їхати перешкоду в зображеній ситуації?",
@@ -16886,8 +16886,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q014",
-    "sectionNumber": 33.0,
+    "id": "q01041",
+    "sectionNumber": 33,
     "number": 14,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "По якій дорозі Вам дозволено рух?",
@@ -16903,8 +16903,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q015",
-    "sectionNumber": 33.0,
+    "id": "q01042",
+    "sectionNumber": 33,
     "number": 15,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється:",
@@ -16919,8 +16919,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q016",
-    "sectionNumber": 33.0,
+    "id": "q01043",
+    "sectionNumber": 33,
     "number": 16,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак дозволяє рух:",
@@ -16938,8 +16938,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q017",
-    "sectionNumber": 33.0,
+    "id": "q01044",
+    "sectionNumber": 33,
     "number": 17,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Яким транспортним засобам заборонено рух у зону дії зображеного дорожнього знака?",
@@ -16957,8 +16957,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q018",
-    "sectionNumber": 33.0,
+    "id": "q01045",
+    "sectionNumber": 33,
     "number": 18,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з напрямків Вам дозволено рух у зображеній ситуації?",
@@ -16975,8 +16975,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q019",
-    "sectionNumber": 33.0,
+    "id": "q01046",
+    "sectionNumber": 33,
     "number": 19,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак дозволяє рух:",
@@ -16993,8 +16993,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q020",
-    "sectionNumber": 33.0,
+    "id": "q01047",
+    "sectionNumber": 33,
     "number": 20,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Кому заборонено рух у зображеній ситуації?",
@@ -17011,8 +17011,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q021",
-    "sectionNumber": 33.0,
+    "id": "q01048",
+    "sectionNumber": 33,
     "number": 21,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків позначає кінець дороги з одностороннім рухом?",
@@ -17030,8 +17030,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q022",
-    "sectionNumber": 33.0,
+    "id": "q01049",
+    "sectionNumber": 33,
     "number": 22,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -17048,8 +17048,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q023",
-    "sectionNumber": 33.0,
+    "id": "q01050",
+    "sectionNumber": 33,
     "number": 23,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак вказує:",
@@ -17066,8 +17066,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q024",
-    "sectionNumber": 33.0,
+    "id": "q01051",
+    "sectionNumber": 33,
     "number": 24,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків інформує про початок ділянки дороги, де на одній або кількох смугах напрямок руху може змінюватися на протилежний?",
@@ -17085,8 +17085,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q025",
-    "sectionNumber": 33.0,
+    "id": "q01052",
+    "sectionNumber": 33,
     "number": 25,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків інформує про кінець ділянки дороги, де на одній або кількох смугах напрямок руху може змінюватися на протилежний?",
@@ -17109,8 +17109,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q027",
-    "sectionNumber": 33.0,
+    "id": "q01053",
+    "sectionNumber": 33,
     "number": 27,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак вказує:",
@@ -17126,8 +17126,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q028",
-    "sectionNumber": 33.0,
+    "id": "q01054",
+    "sectionNumber": 33,
     "number": 28,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків показує кількість смуг на перехресті й дозволені напрямки руху на кожній з них?",
@@ -17144,8 +17144,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q029",
-    "sectionNumber": 33.0,
+    "id": "q01055",
+    "sectionNumber": 33,
     "number": 29,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак вказує:",
@@ -17161,8 +17161,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q030",
-    "sectionNumber": 33.0,
+    "id": "q01056",
+    "sectionNumber": 33,
     "number": 30,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак вказує:",
@@ -17178,8 +17178,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q031",
-    "sectionNumber": 33.0,
+    "id": "q01057",
+    "sectionNumber": 33,
     "number": 31,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється в кінці смуги, призначеної тільки для транспортних засобів, що рухаються за встановленими маршрутами попутно із загальним потоком транспортних засобів?",
@@ -17197,8 +17197,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q032",
-    "sectionNumber": 33.0,
+    "id": "q01058",
+    "sectionNumber": 33,
     "number": 32,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Дія зображеного дорожнього знака поширюється:",
@@ -17216,8 +17216,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q033",
-    "sectionNumber": 33.0,
+    "id": "q01059",
+    "sectionNumber": 33,
     "number": 33,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків позначає смугу призначену для руху транспортних засобів, що рухаються за встановленими маршрутами, та велосипедистів, якщо рух такою смугою здійснюється попутно загальному потоку транспортних засобів ?",
@@ -17235,8 +17235,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q034",
-    "sectionNumber": 33.0,
+    "id": "q01060",
+    "sectionNumber": 33,
     "number": 34,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам повернути ліворуч у зображеній ситуації?",
@@ -17252,8 +17252,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q035",
-    "sectionNumber": 33.0,
+    "id": "q01061",
+    "sectionNumber": 33,
     "number": 35,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам виконати розворот у зображеній ситуації?",
@@ -17268,8 +17268,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q036",
-    "sectionNumber": 33.0,
+    "id": "q01062",
+    "sectionNumber": 33,
     "number": 36,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У яких напрямках Вам дозволено рух у зображеній ситуації?",
@@ -17286,8 +17286,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q037",
-    "sectionNumber": 33.0,
+    "id": "q01063",
+    "sectionNumber": 33,
     "number": 37,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак вказує:",
@@ -17301,8 +17301,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q038",
-    "sectionNumber": 33.0,
+    "id": "q01064",
+    "sectionNumber": 33,
     "number": 38,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -17318,8 +17318,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q039",
-    "sectionNumber": 33.0,
+    "id": "q01065",
+    "sectionNumber": 33,
     "number": 39,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -17335,8 +17335,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q040",
-    "sectionNumber": 33.0,
+    "id": "q01066",
+    "sectionNumber": 33,
     "number": 40,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з напрямків дозволено рух водієві білого автомобіля в зображеній ситуації?",
@@ -17354,8 +17354,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q041",
-    "sectionNumber": 33.0,
+    "id": "q01067",
+    "sectionNumber": 33,
     "number": 41,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з напрямків дозволено рух водієві білого автомобіля в зображеній ситуації?",
@@ -17373,8 +17373,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q042",
-    "sectionNumber": 33.0,
+    "id": "q01068",
+    "sectionNumber": 33,
     "number": 42,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -17391,8 +17391,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q043",
-    "sectionNumber": 33.0,
+    "id": "q01069",
+    "sectionNumber": 33,
     "number": 43,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "На кого (які транспортні засоби) не поширюється дія зображеного дорожнього знака?",
@@ -17410,8 +17410,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q044",
-    "sectionNumber": 33.0,
+    "id": "q01070",
+    "sectionNumber": 33,
     "number": 44,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "На кого (які транспортні засоби) не поширюється дія зображеного дорожнього знака?",
@@ -17429,8 +17429,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q045",
-    "sectionNumber": 33.0,
+    "id": "q01071",
+    "sectionNumber": 33,
     "number": 45,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з місць Ви можете виконати зупинку в зображеній ситуації?",
@@ -17448,8 +17448,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q046",
-    "sectionNumber": 33.0,
+    "id": "q01072",
+    "sectionNumber": 33,
     "number": 46,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено водіям транспортних засобів виконувати посадку або висадку пасажирів у зоні дії зображеного знака?",
@@ -17465,8 +17465,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q047",
-    "sectionNumber": 33.0,
+    "id": "q01073",
+    "sectionNumber": 33,
     "number": 47,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з місць Ви можете зупинити транспортний засіб для стоянки в зображеній ситуації?",
@@ -17484,8 +17484,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q048",
-    "sectionNumber": 33.0,
+    "id": "q01074",
+    "sectionNumber": 33,
     "number": 48,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з місць Вам дозволено виконати стоянку в зображеній ситуації?",
@@ -17503,8 +17503,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q049",
-    "sectionNumber": 33.0,
+    "id": "q01075",
+    "sectionNumber": 33,
     "number": 49,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених знаків забороняє стоянку тільки в непарні числа місяця?",
@@ -17521,8 +17521,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q050",
-    "sectionNumber": 33.0,
+    "id": "q01076",
+    "sectionNumber": 33,
     "number": 50,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених знаків забороняє стоянку тільки в парні числа місяця?",
@@ -17539,8 +17539,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q051",
-    "sectionNumber": 33.0,
+    "id": "q01077",
+    "sectionNumber": 33,
     "number": 51,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який час дається водіям для перестановки транспортних засобів з одного боку дороги на другий у разі одночасного встановлення зображених дорожніх знаків?",
@@ -17556,8 +17556,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q052",
-    "sectionNumber": 33.0,
+    "id": "q01078",
+    "sectionNumber": 33,
     "number": 52,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам виконати посадку пасажира в зображеній ситуації?",
@@ -17572,8 +17572,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q053",
-    "sectionNumber": 33.0,
+    "id": "q01079",
+    "sectionNumber": 33,
     "number": 53,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак забороняє:",
@@ -17589,8 +17589,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q054",
-    "sectionNumber": 33.0,
+    "id": "q01080",
+    "sectionNumber": 33,
     "number": 54,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
@@ -17606,8 +17606,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q055",
-    "sectionNumber": 33.0,
+    "id": "q01081",
+    "sectionNumber": 33,
     "number": 55,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "З якою дорожньою розміткою може застосовуватися дорожній знак «Зупинка заборонена»?",
@@ -17624,8 +17624,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q056",
-    "sectionNumber": 33.0,
+    "id": "q01082",
+    "sectionNumber": 33,
     "number": 56,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
@@ -17642,8 +17642,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q057",
-    "sectionNumber": 33.0,
+    "id": "q01083",
+    "sectionNumber": 33,
     "number": 57,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
@@ -17661,8 +17661,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q058",
-    "sectionNumber": 33.0,
+    "id": "q01084",
+    "sectionNumber": 33,
     "number": 58,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який водій неправильно зупинив свій транспортний засіб на дорозі за межами населеного пункту?",
@@ -17679,8 +17679,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q059",
-    "sectionNumber": 33.0,
+    "id": "q01085",
+    "sectionNumber": 33,
     "number": 59,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Водій якого автомобіля виконує стоянку з порушенням Правил дорожнього руху?",
@@ -17696,8 +17696,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q060",
-    "sectionNumber": 33.0,
+    "id": "q01086",
+    "sectionNumber": 33,
     "number": 60,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
@@ -17714,8 +17714,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q061",
-    "sectionNumber": 33.0,
+    "id": "q01087",
+    "sectionNumber": 33,
     "number": 61,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з автомобілів поставлено на стоянку в населеному пункті з порушенням Правил дорожнього руху в зображеній ситуації?",
@@ -17733,8 +17733,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q062",
-    "sectionNumber": 33.0,
+    "id": "q01088",
+    "sectionNumber": 33,
     "number": 62,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому із зазначених місць Ви можете зупинити свій транспортний засіб?",
@@ -17752,8 +17752,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q063",
-    "sectionNumber": 33.0,
+    "id": "q01089",
+    "sectionNumber": 33,
     "number": 63,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Дія якого із зображених дорожніх знаків поширюється тільки на той бік дороги, над яким він встановлений?",
@@ -17771,8 +17771,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q064",
-    "sectionNumber": 33.0,
+    "id": "q01090",
+    "sectionNumber": 33,
     "number": 64,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак:",
@@ -17789,8 +17789,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q065",
-    "sectionNumber": 33.0,
+    "id": "q01091",
+    "sectionNumber": 33,
     "number": 65,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з напрямків дозволено рух автомобілю в зображеній ситуації?",
@@ -17807,8 +17807,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q066",
-    "sectionNumber": 33.0,
+    "id": "q01092",
+    "sectionNumber": 33,
     "number": 66,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У яких напрямках Вам дозволено рух у зображеній ситуації?",
@@ -17824,8 +17824,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q067",
-    "sectionNumber": 33.0,
+    "id": "q01093",
+    "sectionNumber": 33,
     "number": 67,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак дозволяє рух:",
@@ -17841,8 +17841,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q068",
-    "sectionNumber": 33.0,
+    "id": "q01094",
+    "sectionNumber": 33,
     "number": 68,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з напрямків Вам дозволено рух у зображеній ситуації?",
@@ -17859,8 +17859,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q069",
-    "sectionNumber": 33.0,
+    "id": "q01095",
+    "sectionNumber": 33,
     "number": 69,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "На які з перелічених транспортних засобів не поширюється дія зображеного дорожнього знака?",
@@ -17878,8 +17878,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q070",
-    "sectionNumber": 33.0,
+    "id": "q01096",
+    "sectionNumber": 33,
     "number": 70,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Якому транспортному засобу дозволено рух прямо в зображеній ситуації?",
@@ -17895,8 +17895,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q071",
-    "sectionNumber": 33.0,
+    "id": "q01097",
+    "sectionNumber": 33,
     "number": 71,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з напрямків дозволено рух легкового автомобіля в зображеній ситуації?",
@@ -17913,8 +17913,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q072",
-    "sectionNumber": 33.0,
+    "id": "q01098",
+    "sectionNumber": 33,
     "number": 72,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак має таке значення:",
@@ -17930,8 +17930,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q073",
-    "sectionNumber": 33.0,
+    "id": "q01099",
+    "sectionNumber": 33,
     "number": 73,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "На які з перелічених транспортних засобів не поширюється дія зображеного дорожнього знака?",
@@ -17949,8 +17949,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q074",
-    "sectionNumber": 33.0,
+    "id": "q01100",
+    "sectionNumber": 33,
     "number": 74,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому напрямку водієві зеленого автомобіля дозволено рух у зображеній ситуації?",
@@ -17967,8 +17967,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q075",
-    "sectionNumber": 33.0,
+    "id": "q01101",
+    "sectionNumber": 33,
     "number": 75,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам виконати розворот у зображеній ситуації?",
@@ -17983,8 +17983,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q076",
-    "sectionNumber": 33.0,
+    "id": "q01102",
+    "sectionNumber": 33,
     "number": 76,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків позначає кінець зони обмеженої стоянки, початок якої позначено відповідним дорожнім знаком?",
@@ -18001,8 +18001,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q077",
-    "sectionNumber": 33.0,
+    "id": "q01103",
+    "sectionNumber": 33,
     "number": 77,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється:",
@@ -18018,8 +18018,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q078",
-    "sectionNumber": 33.0,
+    "id": "q01104",
+    "sectionNumber": 33,
     "number": 78,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків забороняє проїзд без обов'язкової зупинки перед контрольними пунктами?",
@@ -18037,8 +18037,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q079",
-    "sectionNumber": 33.0,
+    "id": "q01105",
+    "sectionNumber": 33,
     "number": 79,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Як повинен вчинити водій, проїжджаючи місце, позначене зазначеним дорожнім знаком?",
@@ -18054,8 +18054,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q080",
-    "sectionNumber": 33.0,
+    "id": "q01106",
+    "sectionNumber": 33,
     "number": 80,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -18071,8 +18071,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q081",
-    "sectionNumber": 33.0,
+    "id": "q01107",
+    "sectionNumber": 33,
     "number": 81,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено рух водієві в зону дії даного дорожнього знака, якщо водій там проживає або обслуговує підприємства, які розташовані в цій зоні?",
@@ -18087,8 +18087,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q082",
-    "sectionNumber": 33.0,
+    "id": "q01108",
+    "sectionNumber": 33,
     "number": 82,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам повернути ліворуч у зображеній ситуації на перехресті?",
@@ -18105,8 +18105,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q083",
-    "sectionNumber": 33.0,
+    "id": "q01109",
+    "sectionNumber": 33,
     "number": 83,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому напрямку Вам дозволено рух у зображеній ситуації?",
@@ -18121,8 +18121,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q084",
-    "sectionNumber": 33.0,
+    "id": "q01110",
+    "sectionNumber": 33,
     "number": 84,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Як Ви повинні вчинити в зображеній ситуації?",
@@ -18138,8 +18138,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q085",
-    "sectionNumber": 33.0,
+    "id": "q01111",
+    "sectionNumber": 33,
     "number": 85,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків інформує про напрямок руху до зазначених на ньому пам'яток?",
@@ -18156,8 +18156,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q086",
-    "sectionNumber": 33.0,
+    "id": "q01112",
+    "sectionNumber": 33,
     "number": 86,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображена табличка вказує:",
@@ -18172,8 +18172,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q087",
-    "sectionNumber": 33.0,
+    "id": "q01113",
+    "sectionNumber": 33,
     "number": 87,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "З яким дорожнім знаком встановлюється зображена табличка?",
@@ -18191,8 +18191,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q088",
-    "sectionNumber": 33.0,
+    "id": "q01114",
+    "sectionNumber": 33,
     "number": 88,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображена табличка вказує:",
@@ -18206,8 +18206,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q089",
-    "sectionNumber": 33.0,
+    "id": "q01115",
+    "sectionNumber": 33,
     "number": 89,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображена табличка вказує:",
@@ -18222,8 +18222,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q090",
-    "sectionNumber": 33.0,
+    "id": "q01116",
+    "sectionNumber": 33,
     "number": 90,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Встановлений з якою із зображених табличок дорожній знак діє в усі робочі дні?",
@@ -18241,8 +18241,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q091",
-    "sectionNumber": 33.0,
+    "id": "q01117",
+    "sectionNumber": 33,
     "number": 91,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Дія зображеної таблички поширюється:",
@@ -18257,8 +18257,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q092",
-    "sectionNumber": 33.0,
+    "id": "q01118",
+    "sectionNumber": 33,
     "number": 92,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з напрямків дозволено рух водієві легкового автомобіля в зображеній ситуації?",
@@ -18275,8 +18275,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q093",
-    "sectionNumber": 33.0,
+    "id": "q01119",
+    "sectionNumber": 33,
     "number": 93,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Дія зображеної таблички поширюється:",
@@ -18292,8 +18292,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q094",
-    "sectionNumber": 33.0,
+    "id": "q01120",
+    "sectionNumber": 33,
     "number": 94,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "З яким дорожнім знаком встановлюється зображена табличка?",
@@ -18310,8 +18310,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q095",
-    "sectionNumber": 33.0,
+    "id": "q01121",
+    "sectionNumber": 33,
     "number": 95,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображена табличка позначає:",
@@ -18328,8 +18328,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q096",
-    "sectionNumber": 33.0,
+    "id": "q01122",
+    "sectionNumber": 33,
     "number": 96,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків інформує про наявність на дорозі обладнаного місця відпочинку?",
@@ -18346,8 +18346,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q097",
-    "sectionNumber": 33.0,
+    "id": "q01123",
+    "sectionNumber": 33,
     "number": 97,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -18364,8 +18364,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q098",
-    "sectionNumber": 33.0,
+    "id": "q01124",
+    "sectionNumber": 33,
     "number": 98,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -18381,8 +18381,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q099",
-    "sectionNumber": 33.0,
+    "id": "q01125",
+    "sectionNumber": 33,
     "number": 99,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -18398,8 +18398,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q100",
-    "sectionNumber": 33.0,
+    "id": "q01126",
+    "sectionNumber": 33,
     "number": 100,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -18415,8 +18415,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q101",
-    "sectionNumber": 33.0,
+    "id": "q01127",
+    "sectionNumber": 33,
     "number": 101,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -18432,8 +18432,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q102",
-    "sectionNumber": 33.0,
+    "id": "q01128",
+    "sectionNumber": 33,
     "number": 102,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -18449,8 +18449,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q103",
-    "sectionNumber": 33.0,
+    "id": "q01129",
+    "sectionNumber": 33,
     "number": 103,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -18466,8 +18466,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q104",
-    "sectionNumber": 33.0,
+    "id": "q01130",
+    "sectionNumber": 33,
     "number": 104,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Табличка до дорожнього знаку діє:",
@@ -18482,8 +18482,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q105",
-    "sectionNumber": 33.0,
+    "id": "q01131",
+    "sectionNumber": 33,
     "number": 105,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Дія зображеної таблички поширюється:",
@@ -18498,8 +18498,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q106",
-    "sectionNumber": 33.0,
+    "id": "q01132",
+    "sectionNumber": 33,
     "number": 106,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який транспортний засіб поставлено на стоянку неправильно?",
@@ -18515,8 +18515,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q107",
-    "sectionNumber": 33.0,
+    "id": "q01133",
+    "sectionNumber": 33,
     "number": 107,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків забороняє в’їзд усіх транспортних засобів (крім транспортних засобів, що рухаються за встановленими маршрутами)?",
@@ -18534,8 +18534,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q108",
-    "sectionNumber": 33.0,
+    "id": "q01134",
+    "sectionNumber": 33,
     "number": 108,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Що спільного у цих двох дорожніх знаків?",
@@ -18552,8 +18552,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q109",
-    "sectionNumber": 33.0,
+    "id": "q01135",
+    "sectionNumber": 33,
     "number": 109,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Що спільного у цих двох дорожніх знаків?",
@@ -18570,8 +18570,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q110",
-    "sectionNumber": 33.0,
+    "id": "q01136",
+    "sectionNumber": 33,
     "number": 110,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Що спільного у цих двох дорожніх знаків?",
@@ -18588,8 +18588,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q111",
-    "sectionNumber": 33.0,
+    "id": "q01137",
+    "sectionNumber": 33,
     "number": 111,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Що спільного у цих двох дорожніх знаків?",
@@ -18606,8 +18606,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q112",
-    "sectionNumber": 33.0,
+    "id": "q01138",
+    "sectionNumber": 33,
     "number": 112,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Що спільного у цих двох дорожніх знаків?",
@@ -18624,8 +18624,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q113",
-    "sectionNumber": 33.0,
+    "id": "q01139",
+    "sectionNumber": 33,
     "number": 113,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Що спільного у цих двох дорожніх знаків?",
@@ -18642,8 +18642,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q114",
-    "sectionNumber": 33.0,
+    "id": "q01140",
+    "sectionNumber": 33,
     "number": 114,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків позначає кінець зони стоянки?",
@@ -18661,8 +18661,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q115",
-    "sectionNumber": 33.0,
+    "id": "q01141",
+    "sectionNumber": 33,
     "number": 115,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "З яким із дорожніх знаків можуть бути встановлені зображені таблички?",
@@ -18680,8 +18680,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q116",
-    "sectionNumber": 33.0,
+    "id": "q01142",
+    "sectionNumber": 33,
     "number": 116,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Яка з табличок встановлюється із зображеним дорожнім знаком?",
@@ -18699,8 +18699,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q117",
-    "sectionNumber": 33.0,
+    "id": "q01143",
+    "sectionNumber": 33,
     "number": 117,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображена табличка вказує:",
@@ -18713,8 +18713,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q118",
-    "sectionNumber": 33.0,
+    "id": "q01144",
+    "sectionNumber": 33,
     "number": 118,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Яка із зображених табличок дозволяє стоянку всіх транспортних засобів способом, вказаним на ній?",
@@ -18732,8 +18732,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q119",
-    "sectionNumber": 33.0,
+    "id": "q01145",
+    "sectionNumber": 33,
     "number": 119,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображені таблички, що встановлюються з відповідними дорожніми знаками, вказують:",
@@ -18747,8 +18747,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q120",
-    "sectionNumber": 33.0,
+    "id": "q01146",
+    "sectionNumber": 33,
     "number": 120,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображена табличка, яка встановлюється зі знаками «Місце стоянки» або «Зона стоянки», вказує:",
@@ -18762,8 +18762,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q121",
-    "sectionNumber": 33.0,
+    "id": "q01147",
+    "sectionNumber": 33,
     "number": 121,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Яка із зображених табличок вказує, що дозволено залишати транспортні засоби лише з непрацюючим двигуном?",
@@ -18781,8 +18781,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q122",
-    "sectionNumber": 33.0,
+    "id": "q01148",
+    "sectionNumber": 33,
     "number": 122,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображена табличка визначає:",
@@ -18796,8 +18796,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q123",
-    "sectionNumber": 33.0,
+    "id": "q01149",
+    "sectionNumber": 33,
     "number": 123,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "З яким із дорожніх знаків може бути встановлена зображена табличка?",
@@ -18814,8 +18814,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q124",
-    "sectionNumber": 33.0,
+    "id": "q01150",
+    "sectionNumber": 33,
     "number": 124,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображена табличка вказує:",
@@ -18831,8 +18831,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q125",
-    "sectionNumber": 33.0,
+    "id": "q01151",
+    "sectionNumber": 33,
     "number": 125,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "З яким із дорожніх знаків може бути встановлена зображена табличка?",
@@ -18850,8 +18850,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q126",
-    "sectionNumber": 33.0,
+    "id": "q01152",
+    "sectionNumber": 33,
     "number": 126,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Що спільного у цих двох дорожніх знаків?",
@@ -18868,8 +18868,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q127",
-    "sectionNumber": 33.0,
+    "id": "q01153",
+    "sectionNumber": 33,
     "number": 127,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -18885,8 +18885,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q128",
-    "sectionNumber": 33.0,
+    "id": "q01154",
+    "sectionNumber": 33,
     "number": 128,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак вказує:",
@@ -18902,8 +18902,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q129",
-    "sectionNumber": 33.0,
+    "id": "q01155",
+    "sectionNumber": 33,
     "number": 129,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи повинні Ви під час руху прямо дати дорогу мотоциклу?",
@@ -18918,8 +18918,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q130",
-    "sectionNumber": 33.0,
+    "id": "q01156",
+    "sectionNumber": 33,
     "number": 130,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків вказує рекомендовану швидкість руху?",
@@ -18937,8 +18937,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q131",
-    "sectionNumber": 33.0,
+    "id": "q01157",
+    "sectionNumber": 33,
     "number": 131,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак застосовується для:",
@@ -18953,8 +18953,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q132",
-    "sectionNumber": 33.0,
+    "id": "q01158",
+    "sectionNumber": 33,
     "number": 132,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків інформує про початок житлової зони?",
@@ -18972,8 +18972,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q133",
-    "sectionNumber": 33.0,
+    "id": "q01159",
+    "sectionNumber": 33,
     "number": 133,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що інформує зображений дорожній знак?",
@@ -18990,8 +18990,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q134",
-    "sectionNumber": 33.0,
+    "id": "q01160",
+    "sectionNumber": 33,
     "number": 134,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків позначає кінець житлової зони?",
@@ -19009,8 +19009,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q135",
-    "sectionNumber": 33.0,
+    "id": "q01161",
+    "sectionNumber": 33,
     "number": 135,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що інформує зображений дорожній знак?",
@@ -19027,8 +19027,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q136",
-    "sectionNumber": 33.0,
+    "id": "q01162",
+    "sectionNumber": 33,
     "number": 136,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам рух прямо в зображеній ситуації?",
@@ -19043,8 +19043,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q137",
-    "sectionNumber": 33.0,
+    "id": "q01163",
+    "sectionNumber": 33,
     "number": 137,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображені дорожні знаки вказують:",
@@ -19061,8 +19061,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q138",
-    "sectionNumber": 33.0,
+    "id": "q01164",
+    "sectionNumber": 33,
     "number": 138,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -19078,8 +19078,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q139",
-    "sectionNumber": 33.0,
+    "id": "q01165",
+    "sectionNumber": 33,
     "number": 139,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -19095,8 +19095,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q140",
-    "sectionNumber": 33.0,
+    "id": "q01166",
+    "sectionNumber": 33,
     "number": 140,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -19112,8 +19112,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q141",
-    "sectionNumber": 33.0,
+    "id": "q01167",
+    "sectionNumber": 33,
     "number": 141,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -19130,8 +19130,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q142",
-    "sectionNumber": 33.0,
+    "id": "q01168",
+    "sectionNumber": 33,
     "number": 142,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків інформує водіїв про місце, де смуга для розгону прилягає до основної смуги руху на одному рівні з правого боку?",
@@ -19149,8 +19149,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q143",
-    "sectionNumber": 33.0,
+    "id": "q01169",
+    "sectionNumber": 33,
     "number": 143,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків інформує про те, що додаткова смуга руху прилягає до основної смуги руху на одному рівні з правого боку?",
@@ -19168,8 +19168,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q144",
-    "sectionNumber": 33.0,
+    "id": "q01170",
+    "sectionNumber": 33,
     "number": 144,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків показує напрямок об'їзду закритої для руху ділянки проїзної частини на дорозі з розділювальною смугою?",
@@ -19186,8 +19186,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q145",
-    "sectionNumber": 33.0,
+    "id": "q01171",
+    "sectionNumber": 33,
     "number": 145,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -19203,8 +19203,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q146",
-    "sectionNumber": 33.0,
+    "id": "q01172",
+    "sectionNumber": 33,
     "number": 146,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -19220,8 +19220,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q147",
-    "sectionNumber": 33.0,
+    "id": "q01173",
+    "sectionNumber": 33,
     "number": 147,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків позначає кінець пішохідної зони?",
@@ -19239,8 +19239,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q148",
-    "sectionNumber": 33.0,
+    "id": "q01174",
+    "sectionNumber": 33,
     "number": 148,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображеними дорожніми знаками позначаються:",
@@ -19257,8 +19257,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q149",
-    "sectionNumber": 33.0,
+    "id": "q01175",
+    "sectionNumber": 33,
     "number": 149,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує:",
@@ -19275,8 +19275,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q150",
-    "sectionNumber": 33.0,
+    "id": "q01176",
+    "sectionNumber": 33,
     "number": 150,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "На якому із зображених дорожніх знаків може змінюватися інформація?",
@@ -19294,8 +19294,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q151",
-    "sectionNumber": 33.0,
+    "id": "q01177",
+    "sectionNumber": 33,
     "number": 151,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється:",
@@ -19310,8 +19310,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q152",
-    "sectionNumber": 33.0,
+    "id": "q01178",
+    "sectionNumber": 33,
     "number": 152,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із дорожніх знаків інформує про номер і напрямок маршруту (дороги)?",
@@ -19327,8 +19327,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q153",
-    "sectionNumber": 33.0,
+    "id": "q01179",
+    "sectionNumber": 33,
     "number": 153,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -19342,8 +19342,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q154",
-    "sectionNumber": 33.0,
+    "id": "q01180",
+    "sectionNumber": 33,
     "number": 154,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків застосовується в населених пунктах, для виділення межі закінчення забудови населеного пункту, розташованої безпосередньо поблизу проїзної частини (за умови подальшої відсутності такої забудови)?",
@@ -19361,8 +19361,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q155",
-    "sectionNumber": 33.0,
+    "id": "q01181",
+    "sectionNumber": 33,
     "number": 155,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -19378,8 +19378,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q156",
-    "sectionNumber": 33.0,
+    "id": "q01182",
+    "sectionNumber": 33,
     "number": 156,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків інформує про місце розташування аеропорту?",
@@ -19396,8 +19396,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q157",
-    "sectionNumber": 33.0,
+    "id": "q01183",
+    "sectionNumber": 33,
     "number": 157,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -19411,8 +19411,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q158",
-    "sectionNumber": 33.0,
+    "id": "q01184",
+    "sectionNumber": 33,
     "number": 158,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -19426,8 +19426,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q159",
-    "sectionNumber": 33.0,
+    "id": "q01185",
+    "sectionNumber": 33,
     "number": 159,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -19443,8 +19443,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q160",
-    "sectionNumber": 33.0,
+    "id": "q01186",
+    "sectionNumber": 33,
     "number": 160,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Якими із зображених дорожніх знаків позначаються місця, призначені для переходу пішоходами по проїзній частині?",
@@ -19461,8 +19461,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q161",
-    "sectionNumber": 33.0,
+    "id": "q01187",
+    "sectionNumber": 33,
     "number": 161,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображеним дорожнім знаком позначаються:",
@@ -19479,8 +19479,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q162",
-    "sectionNumber": 33.0,
+    "id": "q01188",
+    "sectionNumber": 33,
     "number": 162,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображеним дорожнім знаком позначаються:",
@@ -19497,8 +19497,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q163",
-    "sectionNumber": 33.0,
+    "id": "q01189",
+    "sectionNumber": 33,
     "number": 163,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак застосовується:",
@@ -19515,8 +19515,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q164",
-    "sectionNumber": 33.0,
+    "id": "q01190",
+    "sectionNumber": 33,
     "number": 164,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак застосовується:",
@@ -19533,8 +19533,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q165",
-    "sectionNumber": 33.0,
+    "id": "q01191",
+    "sectionNumber": 33,
     "number": 165,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак в поєднанні з табличкою 7.28.2 застосовується:",
@@ -19551,8 +19551,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q166",
-    "sectionNumber": 33.0,
+    "id": "q01192",
+    "sectionNumber": 33,
     "number": 166,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -19568,8 +19568,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q167",
-    "sectionNumber": 33.0,
+    "id": "q01193",
+    "sectionNumber": 33,
     "number": 167,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -19585,8 +19585,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q168",
-    "sectionNumber": 33.0,
+    "id": "q01194",
+    "sectionNumber": 33,
     "number": 168,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків не обмежує швидкість руху транспортних засобів на ділянці дороги, на якій його встановлено?",
@@ -19603,8 +19603,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q169",
-    "sectionNumber": 33.0,
+    "id": "q01195",
+    "sectionNumber": 33,
     "number": 169,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зазначений дорожній знак попереджає:",
@@ -19620,8 +19620,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q170",
-    "sectionNumber": 33.0,
+    "id": "q01196",
+    "sectionNumber": 33,
     "number": 170,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється:",
@@ -19638,8 +19638,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q171",
-    "sectionNumber": 33.0,
+    "id": "q01197",
+    "sectionNumber": 33,
     "number": 171,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється безпосередньо перед залізничним переїздом без шлагбаума з двома і більше коліями?",
@@ -19656,8 +19656,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q172",
-    "sectionNumber": 33.0,
+    "id": "q01198",
+    "sectionNumber": 33,
     "number": 172,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється першим у разі наближення до залізничного переїзду?",
@@ -19673,8 +19673,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q173",
-    "sectionNumber": 33.0,
+    "id": "q01199",
+    "sectionNumber": 33,
     "number": 173,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Як встановлюють дані дорожні знаки перед залізничним переїздом?",
@@ -19690,8 +19690,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q174",
-    "sectionNumber": 33.0,
+    "id": "q01200",
+    "sectionNumber": 33,
     "number": 174,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється останнім у разі наближення до залізничного переїзду?",
@@ -19707,8 +19707,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q175",
-    "sectionNumber": 33.0,
+    "id": "q01201",
+    "sectionNumber": 33,
     "number": 175,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків попереджає про наближення до нерегульованого пішохідного переходу?",
@@ -19726,8 +19726,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q176",
-    "sectionNumber": 33.0,
+    "id": "q01202",
+    "sectionNumber": 33,
     "number": 176,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак попереджає про наближення до:",
@@ -19744,8 +19744,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q177",
-    "sectionNumber": 33.0,
+    "id": "q01203",
+    "sectionNumber": 33,
     "number": 177,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється перед ділянкою дороги, на якій можлива поява дітей з території дитячого закладу, прилеглого безпосередньо до дороги?",
@@ -19761,8 +19761,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q178",
-    "sectionNumber": 33.0,
+    "id": "q01204",
+    "sectionNumber": 33,
     "number": 178,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється:",
@@ -19779,8 +19779,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q179",
-    "sectionNumber": 33.0,
+    "id": "q01205",
+    "sectionNumber": 33,
     "number": 179,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється безпосередньо перед залізничним переїздом без шлагбаума з однією колією?",
@@ -19797,8 +19797,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q180",
-    "sectionNumber": 33.0,
+    "id": "q01206",
+    "sectionNumber": 33,
     "number": 180,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що інформує даний дорожній знак?",
@@ -19816,8 +19816,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q181",
-    "sectionNumber": 33.0,
+    "id": "q01207",
+    "sectionNumber": 33,
     "number": 181,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зазначений дорожній знак попереджає:",
@@ -19834,8 +19834,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q182",
-    "sectionNumber": 33.0,
+    "id": "q01208",
+    "sectionNumber": 33,
     "number": 182,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з наведених дорожніх знаків попереджає про початок ділянки дороги із зустрічним рухом після одностороннього?",
@@ -19853,8 +19853,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q183",
-    "sectionNumber": 33.0,
+    "id": "q01209",
+    "sectionNumber": 33,
     "number": 183,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Даний дорожній знак попереджає:",
@@ -19871,8 +19871,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q184",
-    "sectionNumber": 33.0,
+    "id": "q01210",
+    "sectionNumber": 33,
     "number": 184,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Даний дорожній знак встановлюється перед:",
@@ -19889,8 +19889,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q185",
-    "sectionNumber": 33.0,
+    "id": "q01211",
+    "sectionNumber": 33,
     "number": 185,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється перед залізничним переїздом зі шлагбаумом?",
@@ -19907,8 +19907,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q186",
-    "sectionNumber": 33.0,
+    "id": "q01212",
+    "sectionNumber": 33,
     "number": 186,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється перед залізничним переїздом без шлагбаума?",
@@ -19925,8 +19925,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q187",
-    "sectionNumber": 33.0,
+    "id": "q01213",
+    "sectionNumber": 33,
     "number": 187,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому місці встановлюється даний дорожній знак?",
@@ -19943,8 +19943,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q188",
-    "sectionNumber": 33.0,
+    "id": "q01214",
+    "sectionNumber": 33,
     "number": 188,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється перед:",
@@ -19961,8 +19961,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q189",
-    "sectionNumber": 33.0,
+    "id": "q01215",
+    "sectionNumber": 33,
     "number": 189,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється перед:",
@@ -19979,8 +19979,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q190",
-    "sectionNumber": 33.0,
+    "id": "q01216",
+    "sectionNumber": 33,
     "number": 190,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених знаків встановлюється перед місцем перетину дороги з велосипедною доріжкою поза перехрестям?",
@@ -19997,8 +19997,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q191",
-    "sectionNumber": 33.0,
+    "id": "q01217",
+    "sectionNumber": 33,
     "number": 191,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображеними дорожніми знаками позначають:",
@@ -20014,8 +20014,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q192",
-    "sectionNumber": 33.0,
+    "id": "q01218",
+    "sectionNumber": 33,
     "number": 192,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків повторюється перед небезпечною ділянкою дороги за межами населених пунктів?",
@@ -20033,8 +20033,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q193",
-    "sectionNumber": 33.0,
+    "id": "q01219",
+    "sectionNumber": 33,
     "number": 193,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків повторюється перед небезпечною ділянкою дороги за межами населених пунктів?",
@@ -20052,8 +20052,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q194",
-    "sectionNumber": 33.0,
+    "id": "q01220",
+    "sectionNumber": 33,
     "number": 194,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків повторюється перед небезпечними ділянками дороги в населених пунктах?",
@@ -20071,8 +20071,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q195",
-    "sectionNumber": 33.0,
+    "id": "q01221",
+    "sectionNumber": 33,
     "number": 195,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Які із зображених дорожніх знаків є тимчасовими?",
@@ -20089,8 +20089,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q196",
-    "sectionNumber": 33.0,
+    "id": "q01222",
+    "sectionNumber": 33,
     "number": 196,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак діє:",
@@ -20106,8 +20106,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q197",
-    "sectionNumber": 33.0,
+    "id": "q01223",
+    "sectionNumber": 33,
     "number": 197,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Водій правильно виконав вимогу даного дорожнього знака, встановленого на нерегульованому перехресті, якщо:",
@@ -20123,8 +20123,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q198",
-    "sectionNumber": 33.0,
+    "id": "q01224",
+    "sectionNumber": 33,
     "number": 198,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи є обов'язковою зупинка для виконання вимоги даного дорожнього знака?",
@@ -20139,8 +20139,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q199",
-    "sectionNumber": 33.0,
+    "id": "q01225",
+    "sectionNumber": 33,
     "number": 199,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з перелічених знаків встановлюється безпосередньо перед небезпечною ділянкою дороги?",
@@ -20158,8 +20158,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q200",
-    "sectionNumber": 33.0,
+    "id": "q01226",
+    "sectionNumber": 33,
     "number": 200,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених знаків може бути встановлено безпосередньо перед небезпечною ділянкою дороги?",
@@ -20177,8 +20177,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q201",
-    "sectionNumber": 33.0,
+    "id": "q01227",
+    "sectionNumber": 33,
     "number": 201,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється перед:",
@@ -20194,8 +20194,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q202",
-    "sectionNumber": 33.0,
+    "id": "q01228",
+    "sectionNumber": 33,
     "number": 202,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється перед:",
@@ -20211,8 +20211,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q203",
-    "sectionNumber": 33.0,
+    "id": "q01229",
+    "sectionNumber": 33,
     "number": 203,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється перед:",
@@ -20230,8 +20230,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q204",
-    "sectionNumber": 33.0,
+    "id": "q01230",
+    "sectionNumber": 33,
     "number": 204,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "На якій відстані від місця виконання короткотермінових дорожніх робіт на проїзній частині в населеному пункті може бути встановлено знак «Дорожні роботи»?",
@@ -20248,8 +20248,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q205",
-    "sectionNumber": 33.0,
+    "id": "q01231",
+    "sectionNumber": 33,
     "number": 205,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється перед:",
@@ -20266,8 +20266,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q206",
-    "sectionNumber": 33.0,
+    "id": "q01232",
+    "sectionNumber": 33,
     "number": 206,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків попереджає про наближення до ділянки (місця) концентрації дорожньо-транспортних пригод?",
@@ -20284,8 +20284,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q207",
-    "sectionNumber": 33.0,
+    "id": "q01233",
+    "sectionNumber": 33,
     "number": 207,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак попереджає водіїв:",
@@ -20301,8 +20301,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q208",
-    "sectionNumber": 33.0,
+    "id": "q01234",
+    "sectionNumber": 33,
     "number": 208,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Даний дорожній знак встановлюється перед:",
@@ -20319,8 +20319,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q209",
-    "sectionNumber": 33.0,
+    "id": "q01235",
+    "sectionNumber": 33,
     "number": 209,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який дорожній знак встановлено на дорозі, що перетинається, якщо для вас встановлено даний знак?",
@@ -20337,8 +20337,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q210",
-    "sectionNumber": 33.0,
+    "id": "q01236",
+    "sectionNumber": 33,
     "number": 210,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У даній ситуації ви маєте перевагу:",
@@ -20355,8 +20355,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q211",
-    "sectionNumber": 33.0,
+    "id": "q01237",
+    "sectionNumber": 33,
     "number": 211,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Дорожні роботи – це:",
@@ -20372,8 +20372,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q212",
-    "sectionNumber": 33.0,
+    "id": "q01238",
+    "sectionNumber": 33,
     "number": 212,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "На що вказує даний дорожній знак?",
@@ -20389,8 +20389,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q213",
-    "sectionNumber": 33.0,
+    "id": "q01239",
+    "sectionNumber": 33,
     "number": 213,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з наведених дорожніх знаків вказує напрямок повороту?",
@@ -20407,8 +20407,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q214",
-    "sectionNumber": 33.0,
+    "id": "q01240",
+    "sectionNumber": 33,
     "number": 214,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Де встановлюється даний дорожній знак?",
@@ -20424,8 +20424,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q215",
-    "sectionNumber": 33.0,
+    "id": "q01241",
+    "sectionNumber": 33,
     "number": 215,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з наведених дорожніх знаків попереджає про звуження дороги з правого боку?",
@@ -20442,8 +20442,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q216",
-    "sectionNumber": 33.0,
+    "id": "q01242",
+    "sectionNumber": 33,
     "number": 216,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -20459,8 +20459,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q217",
-    "sectionNumber": 33.0,
+    "id": "q01243",
+    "sectionNumber": 33,
     "number": 217,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з наведених дорожніх знаків встановлюється перед крутим підйомом?",
@@ -20477,8 +20477,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q218",
-    "sectionNumber": 33.0,
+    "id": "q01244",
+    "sectionNumber": 33,
     "number": 218,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з наведених дорожніх знаків встановлюється перед крутим спуском?",
@@ -20494,8 +20494,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q219",
-    "sectionNumber": 33.0,
+    "id": "q01245",
+    "sectionNumber": 33,
     "number": 219,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -20511,8 +20511,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q220",
-    "sectionNumber": 33.0,
+    "id": "q01246",
+    "sectionNumber": 33,
     "number": 220,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з місць встановлюється даний дорожній знак?",
@@ -20526,8 +20526,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q221",
-    "sectionNumber": 33.0,
+    "id": "q01247",
+    "sectionNumber": 33,
     "number": 221,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Де встановлюється даний дорожній знак?",
@@ -20543,8 +20543,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q222",
-    "sectionNumber": 33.0,
+    "id": "q01248",
+    "sectionNumber": 33,
     "number": 222,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -20561,8 +20561,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q223",
-    "sectionNumber": 33.0,
+    "id": "q01249",
+    "sectionNumber": 33,
     "number": 223,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -20579,8 +20579,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q224",
-    "sectionNumber": 33.0,
+    "id": "q01250",
+    "sectionNumber": 33,
     "number": 224,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків попереджає про заокруглення з обмеженою оглядовістю?",
@@ -20597,8 +20597,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q225",
-    "sectionNumber": 33.0,
+    "id": "q01251",
+    "sectionNumber": 33,
     "number": 225,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із перелічених дорожніх знаків вказує водію про наближення до небезпечного повороту дороги?",
@@ -20615,8 +20615,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q226",
-    "sectionNumber": 33.0,
+    "id": "q01252",
+    "sectionNumber": 33,
     "number": 226,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -20633,8 +20633,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q227",
-    "sectionNumber": 33.0,
+    "id": "q01253",
+    "sectionNumber": 33,
     "number": 227,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -20650,8 +20650,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q228",
-    "sectionNumber": 33.0,
+    "id": "q01254",
+    "sectionNumber": 33,
     "number": 228,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак, встановлений з табличкою?",
@@ -20668,8 +20668,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q229",
-    "sectionNumber": 33.0,
+    "id": "q01255",
+    "sectionNumber": 33,
     "number": 229,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із вказаних дорожніх знаків встановлюється перед ділянкою дороги з двома небезпечними поворотами, розташованими один за одним?",
@@ -20686,8 +20686,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q230",
-    "sectionNumber": 33.0,
+    "id": "q01256",
+    "sectionNumber": 33,
     "number": 230,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -20703,8 +20703,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q231",
-    "sectionNumber": 33.0,
+    "id": "q01257",
+    "sectionNumber": 33,
     "number": 231,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак у поєднанні з табличкою?",
@@ -20720,8 +20720,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q232",
-    "sectionNumber": 33.0,
+    "id": "q01258",
+    "sectionNumber": 33,
     "number": 232,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -20738,8 +20738,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q233",
-    "sectionNumber": 33.0,
+    "id": "q01259",
+    "sectionNumber": 33,
     "number": 233,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків попереджає про наближення до перехрестя з круговим рухом?",
@@ -20756,8 +20756,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q234",
-    "sectionNumber": 33.0,
+    "id": "q01260",
+    "sectionNumber": 33,
     "number": 234,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється перед перетином дороги з трамвайною колією на перехресті з обмеженою оглядовістю?",
@@ -20774,8 +20774,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q235",
-    "sectionNumber": 33.0,
+    "id": "q01261",
+    "sectionNumber": 33,
     "number": 235,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -20792,8 +20792,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q236",
-    "sectionNumber": 33.0,
+    "id": "q01262",
+    "sectionNumber": 33,
     "number": 236,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється перед перехрестям рівнозначних доріг?",
@@ -20810,8 +20810,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q237",
-    "sectionNumber": 33.0,
+    "id": "q01263",
+    "sectionNumber": 33,
     "number": 237,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -20828,8 +20828,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q238",
-    "sectionNumber": 33.0,
+    "id": "q01264",
+    "sectionNumber": 33,
     "number": 238,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків встановлюється при наближенні до перехрестя із другорядною дорогою?",
@@ -20846,8 +20846,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q239",
-    "sectionNumber": 33.0,
+    "id": "q01265",
+    "sectionNumber": 33,
     "number": 239,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи маєте ви перевагу в русі на найближчому перехресті?",
@@ -20863,8 +20863,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q240",
-    "sectionNumber": 33.0,
+    "id": "q01266",
+    "sectionNumber": 33,
     "number": 240,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Даний дорожній знак попереджає:",
@@ -20880,8 +20880,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q241",
-    "sectionNumber": 33.0,
+    "id": "q01267",
+    "sectionNumber": 33,
     "number": 241,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Даний дорожній знак встановлюється перед ділянками дороги:",
@@ -20897,8 +20897,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q242",
-    "sectionNumber": 33.0,
+    "id": "q01268",
+    "sectionNumber": 33,
     "number": 242,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -20914,8 +20914,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q243",
-    "sectionNumber": 33.0,
+    "id": "q01269",
+    "sectionNumber": 33,
     "number": 243,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Де встановлюється даний дорожній знак?",
@@ -20932,8 +20932,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q244",
-    "sectionNumber": 33.0,
+    "id": "q01270",
+    "sectionNumber": 33,
     "number": 244,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Даний дорожній знак встановлюється перед:",
@@ -20951,8 +20951,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q245",
-    "sectionNumber": 33.0,
+    "id": "q01271",
+    "sectionNumber": 33,
     "number": 245,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Даний дорожній знак встановлюється перед:",
@@ -20969,8 +20969,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q246",
-    "sectionNumber": 33.0,
+    "id": "q01272",
+    "sectionNumber": 33,
     "number": 246,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з наведених дорожніх знаків встановлюється перед ділянками доріг з вибоїнами чи просіданням дорожнього покриття?",
@@ -20987,8 +20987,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q247",
-    "sectionNumber": 33.0,
+    "id": "q01273",
+    "sectionNumber": 33,
     "number": 247,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який з наведених дорожніх знаків попереджає, що попереду ділянка дороги з підвищеною слизькістю проїзної частини?",
@@ -21005,8 +21005,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q248",
-    "sectionNumber": 33.0,
+    "id": "q01274",
+    "sectionNumber": 33,
     "number": 248,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Про що попереджає даний дорожній знак?",
@@ -21023,8 +21023,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q249",
-    "sectionNumber": 33.0,
+    "id": "q01275",
+    "sectionNumber": 33,
     "number": 249,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Даний дорожній знак встановлюється перед ділянками дороги, на яких:",
@@ -21041,8 +21041,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q250",
-    "sectionNumber": 33.0,
+    "id": "q01276",
+    "sectionNumber": 33,
     "number": 250,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Даний дорожній знак встановлюється перед ділянкою дороги, на якій:",
@@ -21059,8 +21059,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q251",
-    "sectionNumber": 33.0,
+    "id": "q01277",
+    "sectionNumber": 33,
     "number": 251,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Даний дорожній знак попереджає:",
@@ -21077,8 +21077,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q252",
-    "sectionNumber": 33.0,
+    "id": "q01278",
+    "sectionNumber": 33,
     "number": 252,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який дорожній знак встановлено на найближчому перехресті після знаку дати дорогу з зазначеною табличкою?",
@@ -21094,8 +21094,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q253",
-    "sectionNumber": 33.0,
+    "id": "q01279",
+    "sectionNumber": 33,
     "number": 253,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Представлений дорожній знак забороняє рух:",
@@ -21113,8 +21113,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q254",
-    "sectionNumber": 33.0,
+    "id": "q01280",
+    "sectionNumber": 33,
     "number": 254,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому із зазначених напрямків Вам дозволено рух у зображеній ситуації?",
@@ -21131,8 +21131,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q255",
-    "sectionNumber": 33.0,
+    "id": "q01281",
+    "sectionNumber": 33,
     "number": 255,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "По якій із зображених траєкторій Вам дозволено повернути праворуч?",
@@ -21148,8 +21148,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q256",
-    "sectionNumber": 33.0,
+    "id": "q01282",
+    "sectionNumber": 33,
     "number": 256,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам виконати розворот на зображеному перехресті?",
@@ -21164,8 +21164,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q257",
-    "sectionNumber": 33.0,
+    "id": "q01283",
+    "sectionNumber": 33,
     "number": 257,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "По якій з траєкторій Вам дозволено повернути ліворуч?",
@@ -21181,8 +21181,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q258",
-    "sectionNumber": 33.0,
+    "id": "q01284",
+    "sectionNumber": 33,
     "number": 258,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "По якій з траєкторій Вам дозволено рух у зображеній ситуації?",
@@ -21199,8 +21199,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q259",
-    "sectionNumber": 33.0,
+    "id": "q01285",
+    "sectionNumber": 33,
     "number": 259,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам повернути ліворуч у зображеній ситуації?",
@@ -21215,8 +21215,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q260",
-    "sectionNumber": 33.0,
+    "id": "q01286",
+    "sectionNumber": 33,
     "number": 260,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "По якій з траєкторій Вам дозволено виконати розворот у зображеній ситуації?",
@@ -21232,8 +21232,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q261",
-    "sectionNumber": 33.0,
+    "id": "q01287",
+    "sectionNumber": 33,
     "number": 261,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків забороняє розворот?",
@@ -21250,8 +21250,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q262",
-    "sectionNumber": 33.0,
+    "id": "q01288",
+    "sectionNumber": 33,
     "number": 262,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "З якою метою може бути встановлений даний дорожній знак?",
@@ -21269,8 +21269,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q263",
-    "sectionNumber": 33.0,
+    "id": "q01289",
+    "sectionNumber": 33,
     "number": 263,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому напрямку Вам дозволено рух у даній ситуації?",
@@ -21287,8 +21287,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q264",
-    "sectionNumber": 33.0,
+    "id": "q01290",
+    "sectionNumber": 33,
     "number": 264,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків забороняє рух транспортних засобів, що перевозять вибухові та легкозаймисті вантажі?",
@@ -21306,8 +21306,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q265",
-    "sectionNumber": 33.0,
+    "id": "q01291",
+    "sectionNumber": 33,
     "number": 265,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак забороняє рух:",
@@ -21324,8 +21324,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q266",
-    "sectionNumber": 33.0,
+    "id": "q01292",
+    "sectionNumber": 33,
     "number": 266,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків забороняє рух транспортних засобів, маса яких перевищує 7 т?",
@@ -21342,8 +21342,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q267",
-    "sectionNumber": 33.0,
+    "id": "q01293",
+    "sectionNumber": 33,
     "number": 267,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено в зображеній ситуації рух автопоїзду, маса якого понад 18 т?",
@@ -21358,8 +21358,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q268",
-    "sectionNumber": 33.0,
+    "id": "q01294",
+    "sectionNumber": 33,
     "number": 268,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак забороняє рух:",
@@ -21376,8 +21376,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q269",
-    "sectionNumber": 33.0,
+    "id": "q01295",
+    "sectionNumber": 33,
     "number": 269,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам у зображеній ситуації рух прямо?",
@@ -21394,8 +21394,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q270",
-    "sectionNumber": 33.0,
+    "id": "q01296",
+    "sectionNumber": 33,
     "number": 270,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам рух прямо в зображеній ситуації?",
@@ -21410,8 +21410,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q271",
-    "sectionNumber": 33.0,
+    "id": "q01297",
+    "sectionNumber": 33,
     "number": 271,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому напрямку Вам дозволено рух у даній ситуації?",
@@ -21428,8 +21428,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q272",
-    "sectionNumber": 33.0,
+    "id": "q01298",
+    "sectionNumber": 33,
     "number": 272,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Дія зображених дорожніх знаків поширюється:",
@@ -21446,8 +21446,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q273",
-    "sectionNumber": 33.0,
+    "id": "q01299",
+    "sectionNumber": 33,
     "number": 273,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак забороняє:",
@@ -21464,8 +21464,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q274",
-    "sectionNumber": 33.0,
+    "id": "q01300",
+    "sectionNumber": 33,
     "number": 274,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено водієві синього автомобіля виконати обгін вантажного автомобіля, що рухається зі швидкістю 50 км/год.?",
@@ -21480,8 +21480,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q275",
-    "sectionNumber": 33.0,
+    "id": "q01301",
+    "sectionNumber": 33,
     "number": 275,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків забороняє рух з більшою швидкістю, ніж зазначено на знакові?",
@@ -21499,8 +21499,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q276",
-    "sectionNumber": 33.0,
+    "id": "q01302",
+    "sectionNumber": 33,
     "number": 276,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків запроваджує обмеження максимальної швидкості руху?",
@@ -21517,8 +21517,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q277",
-    "sectionNumber": 33.0,
+    "id": "q01303",
+    "sectionNumber": 33,
     "number": 277,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак має таке значення:",
@@ -21535,8 +21535,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q278",
-    "sectionNumber": 33.0,
+    "id": "q01304",
+    "sectionNumber": 33,
     "number": 278,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків позначає кінець зони дії знака «Обмеження максимальної швидкості»?",
@@ -21553,8 +21553,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q279",
-    "sectionNumber": 33.0,
+    "id": "q01305",
+    "sectionNumber": 33,
     "number": 279,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків позначає кінець дії обмеження максимальної швидкості руху, встановленого відповідним дорожнім знаком?",
@@ -21571,8 +21571,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q280",
-    "sectionNumber": 33.0,
+    "id": "q01306",
+    "sectionNumber": 33,
     "number": 280,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак має таке значення:",
@@ -21587,8 +21587,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q281",
-    "sectionNumber": 33.0,
+    "id": "q01307",
+    "sectionNumber": 33,
     "number": 281,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків позначає кінець зони дії знака «Зона обмеження максимальної швидкості»?",
@@ -21610,8 +21610,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q283",
-    "sectionNumber": 33.0,
+    "id": "q01308",
+    "sectionNumber": 33,
     "number": 283,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено водієві трактора виконати обгін у зображеній ситуації, якщо автомобіль, що їде попереду, рухається зі швидкістю менш ніж 30 км/год.?",
@@ -21626,8 +21626,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q284",
-    "sectionNumber": 33.0,
+    "id": "q01309",
+    "sectionNumber": 33,
     "number": 284,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "На які транспортні засоби поширюється дія зображеного дорожнього знака?",
@@ -21644,8 +21644,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q285",
-    "sectionNumber": 33.0,
+    "id": "q01310",
+    "sectionNumber": 33,
     "number": 285,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам у даній ситуації виконати обгін вантажного автомобіля з причепом, що рухається зі швидкістю менш ніж 30 км/год.?",
@@ -21660,8 +21660,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q286",
-    "sectionNumber": 33.0,
+    "id": "q01311",
+    "sectionNumber": 33,
     "number": 286,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "За якої з умов Вам буде дозволено виконати обгін вантажного автомобіля в зображеній ситуації?",
@@ -21677,8 +21677,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q287",
-    "sectionNumber": 33.0,
+    "id": "q01312",
+    "sectionNumber": 33,
     "number": 287,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "За якої з умов дозволено виконати обгін транспортного засобу після проїзду зображеного дорожнього знака, встановленого з табличкою?",
@@ -21694,8 +21694,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q288",
-    "sectionNumber": 33.0,
+    "id": "q01313",
+    "sectionNumber": 33,
     "number": 288,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено водієві сірого автомобіля виконати обгін у зображеній ситуації?",
@@ -21711,8 +21711,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q289",
-    "sectionNumber": 33.0,
+    "id": "q01314",
+    "sectionNumber": 33,
     "number": 289,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений на малюнку дорожній знак забороняє:",
@@ -21728,8 +21728,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q290",
-    "sectionNumber": 33.0,
+    "id": "q01315",
+    "sectionNumber": 33,
     "number": 290,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "На які види транспортних засобів не поширюється дія зображеного дорожнього знака?",
@@ -21745,8 +21745,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q291",
-    "sectionNumber": 33.0,
+    "id": "q01316",
+    "sectionNumber": 33,
     "number": 291,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків забороняє обгін усім транспортним засобам?",
@@ -21764,8 +21764,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q292",
-    "sectionNumber": 33.0,
+    "id": "q01317",
+    "sectionNumber": 33,
     "number": 292,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -21781,8 +21781,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q293",
-    "sectionNumber": 33.0,
+    "id": "q01318",
+    "sectionNumber": 33,
     "number": 293,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків забороняє зупинку транспортних засобів?",
@@ -21800,8 +21800,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q294",
-    "sectionNumber": 33.0,
+    "id": "q01319",
+    "sectionNumber": 33,
     "number": 294,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Вимога якого із зображених знаків зобов'язує водія транспортного засобу обов'язково зупинитися на нерегульованому перехресті або залізничному переїзді?",
@@ -21819,8 +21819,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q295",
-    "sectionNumber": 33.0,
+    "id": "q01320",
+    "sectionNumber": 33,
     "number": 295,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків надає переважне право проїзду вузької ділянки дороги водієві зустрічного транспортного засобу?",
@@ -21838,8 +21838,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q296",
-    "sectionNumber": 33.0,
+    "id": "q01321",
+    "sectionNumber": 33,
     "number": 296,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється:",
@@ -21856,8 +21856,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q297",
-    "sectionNumber": 33.0,
+    "id": "q01322",
+    "sectionNumber": 33,
     "number": 297,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Як ви роз'їдетеся із зустрічним транспортним засобом у даній ситуації?",
@@ -21872,8 +21872,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q298",
-    "sectionNumber": 33.0,
+    "id": "q01323",
+    "sectionNumber": 33,
     "number": 298,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Хто з водіїв має перевагу під час зустрічного роз'їзду в даній ситуації?",
@@ -21888,8 +21888,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q299",
-    "sectionNumber": 33.0,
+    "id": "q01324",
+    "sectionNumber": 33,
     "number": 299,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який дорожній знак встановлюється зустрічним транспортним засобам, якщо для вас встановлено даний дорожній знак?",
@@ -21907,8 +21907,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q300",
-    "sectionNumber": 33.0,
+    "id": "q01325",
+    "sectionNumber": 33,
     "number": 300,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків надає перевагу стосовно зустрічних транспортних засобів на вузькій ділянці дороги?",
@@ -21926,8 +21926,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q301",
-    "sectionNumber": 33.0,
+    "id": "q01326",
+    "sectionNumber": 33,
     "number": 301,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється:",
@@ -21945,8 +21945,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q302",
-    "sectionNumber": 33.0,
+    "id": "q01327",
+    "sectionNumber": 33,
     "number": 302,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Як ви повинні діяти в даній ситуації при обмеженому зустрічному роз'їзді?",
@@ -21961,8 +21961,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q303",
-    "sectionNumber": 33.0,
+    "id": "q01328",
+    "sectionNumber": 33,
     "number": 303,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак встановлюється:",
@@ -21977,8 +21977,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q304",
-    "sectionNumber": 33.0,
+    "id": "q01329",
+    "sectionNumber": 33,
     "number": 304,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків скасовує право першочергового проїзду нерегульованих перехресть?",
@@ -21995,8 +21995,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q305",
-    "sectionNumber": 33.0,
+    "id": "q01330",
+    "sectionNumber": 33,
     "number": 305,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який дорожній знак встановлено на найближчому перехресті після знаків дати дорогу разом з табличкою?",
@@ -22012,8 +22012,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q306",
-    "sectionNumber": 33.0,
+    "id": "q01331",
+    "sectionNumber": 33,
     "number": 306,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи є обов'язковою зупинка для виконання вимог даного знака?",
@@ -22028,8 +22028,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q307",
-    "sectionNumber": 33.0,
+    "id": "q01332",
+    "sectionNumber": 33,
     "number": 307,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якій з відповідей водій правильно виконав вимогу даного дорожнього знака, проїхавши через перехрестя?",
@@ -22045,8 +22045,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q308",
-    "sectionNumber": 33.0,
+    "id": "q01333",
+    "sectionNumber": 33,
     "number": 308,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи повинен водій жовтого автомобіля зупинитися перед стоп-лінією, якщо він вже зупинявся за попутним автомобілем?",
@@ -22061,8 +22061,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q309",
-    "sectionNumber": 33.0,
+    "id": "q01334",
+    "sectionNumber": 33,
     "number": 309,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якій із зображених ситуацій водій повинен виконати вимогу знака «Проїзд без зупинки заборонено» (у другій ситуації світлофор працює в режимі миготіння жовтого сигналу)?",
@@ -22078,8 +22078,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q310",
-    "sectionNumber": 33.0,
+    "id": "q01335",
+    "sectionNumber": 33,
     "number": 310,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених знаків зобов'язує дати дорогу транспортним засобам, що рухаються по дорозі, яка перетинається, на нерегульованих перехрестях?",
@@ -22095,8 +22095,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q311",
-    "sectionNumber": 33.0,
+    "id": "q01336",
+    "sectionNumber": 33,
     "number": 311,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків надає першочергове право проїзду перед транспортними засобами, що рухаються по дорозі, яка перетинається, на нерегульованих перехрестях?",
@@ -22114,8 +22114,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q312",
-    "sectionNumber": 33.0,
+    "id": "q01337",
+    "sectionNumber": 33,
     "number": 312,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак, встановлений на нерегульованому перехресті:",
@@ -22131,8 +22131,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q313",
-    "sectionNumber": 33.0,
+    "id": "q01338",
+    "sectionNumber": 33,
     "number": 313,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Як Ви повинні вчинити в даній ситуації?",
@@ -22147,8 +22147,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q314",
-    "sectionNumber": 33.0,
+    "id": "q01339",
+    "sectionNumber": 33,
     "number": 314,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому з випадків водіям транспортних засобів дозволено в'їзд у зону, позначену даними дорожніми знаками?",
@@ -22166,8 +22166,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q315",
-    "sectionNumber": 33.0,
+    "id": "q01340",
+    "sectionNumber": 33,
     "number": 315,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам транзитний рух прямо через позначену зону?",
@@ -22182,8 +22182,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q316",
-    "sectionNumber": 33.0,
+    "id": "q01341",
+    "sectionNumber": 33,
     "number": 316,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Яким транспортним засобам заборонено рух у зоні дії даного дорожнього знака?",
@@ -22201,8 +22201,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q317",
-    "sectionNumber": 33.0,
+    "id": "q01342",
+    "sectionNumber": 33,
     "number": 317,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено рух легкового автомобіля прямо в даній ситуації?",
@@ -22217,8 +22217,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q318",
-    "sectionNumber": 33.0,
+    "id": "q01343",
+    "sectionNumber": 33,
     "number": 318,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено буксирування прямо?",
@@ -22233,8 +22233,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q319",
-    "sectionNumber": 33.0,
+    "id": "q01344",
+    "sectionNumber": 33,
     "number": 319,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак забороняє рух:",
@@ -22252,8 +22252,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q320",
-    "sectionNumber": 33.0,
+    "id": "q01345",
+    "sectionNumber": 33,
     "number": 320,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Дія зображеного дорожнього знака поширюється на:",
@@ -22271,8 +22271,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q321",
-    "sectionNumber": 33.0,
+    "id": "q01346",
+    "sectionNumber": 33,
     "number": 321,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак забороняє рух:",
@@ -22288,8 +22288,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q322",
-    "sectionNumber": 33.0,
+    "id": "q01347",
+    "sectionNumber": 33,
     "number": 322,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено велосипедистові повернути праворуч, якщо він обслуговує громадян, які там проживають?",
@@ -22304,8 +22304,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q323",
-    "sectionNumber": 33.0,
+    "id": "q01348",
+    "sectionNumber": 33,
     "number": 323,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із знаків забороняє рух пішоходів?",
@@ -22323,8 +22323,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q324",
-    "sectionNumber": 33.0,
+    "id": "q01349",
+    "sectionNumber": 33,
     "number": 324,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому напрямку дозволено рух трактора в даній ситуації?",
@@ -22342,8 +22342,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q325",
-    "sectionNumber": 33.0,
+    "id": "q01350",
+    "sectionNumber": 33,
     "number": 325,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "У якому напрямку дозволено рух велосипедистові на даному перехресті?",
@@ -22361,8 +22361,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q326",
-    "sectionNumber": 33.0,
+    "id": "q01351",
+    "sectionNumber": 33,
     "number": 326,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам рух прямо до місця роботи, яке знаходиться відразу за знаком?",
@@ -22377,8 +22377,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q327",
-    "sectionNumber": 33.0,
+    "id": "q01352",
+    "sectionNumber": 33,
     "number": 327,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено водію з інвалідністю в даній ситуації в'їзд у позначену дорожніми знаками зону за відсутності інших під'їздів?",
@@ -22393,8 +22393,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q328",
-    "sectionNumber": 33.0,
+    "id": "q01353",
+    "sectionNumber": 33,
     "number": 328,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам рух у позначену дорожніми знаками зону за умови, що Ви працюєте в позначеній зоні?",
@@ -22409,8 +22409,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q329",
-    "sectionNumber": 33.0,
+    "id": "q01354",
+    "sectionNumber": 33,
     "number": 329,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Чи дозволено Вам в'їзд у позначену дорожніми знаками зону, якщо Ви обслуговуєте підприємство, розташоване в ній, за умови, що відсутні інші під'їзди?",
@@ -22425,8 +22425,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q330",
-    "sectionNumber": 33.0,
+    "id": "q01355",
+    "sectionNumber": 33,
     "number": 330,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "На які з перелічених транспортних засобів не поширює свою дію даний дорожній знак?",
@@ -22444,8 +22444,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q331",
-    "sectionNumber": 33.0,
+    "id": "q01356",
+    "sectionNumber": 33,
     "number": 331,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "На які з перелічених транспортних засобів поширює дію цей дорожній знак?",
@@ -22463,8 +22463,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q332",
-    "sectionNumber": 33.0,
+    "id": "q01357",
+    "sectionNumber": 33,
     "number": 332,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Хто з учасників дорожнього руху порушує Правила дорожнього руху в даній ситуації за умови, що водій таксі везе пасажира, який проживає в зазначеній зоні?",
@@ -22482,8 +22482,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q333",
-    "sectionNumber": 33.0,
+    "id": "q01358",
+    "sectionNumber": 33,
     "number": 333,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Даний дорожній знак не поширює свою дію:",
@@ -22501,8 +22501,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q334",
-    "sectionNumber": 33.0,
+    "id": "q01359",
+    "sectionNumber": 33,
     "number": 334,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Який із зображених дорожніх знаків забороняє рух пішоходів з ручними візками?",
@@ -22520,8 +22520,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q335",
-    "sectionNumber": 33.0,
+    "id": "q01360",
+    "sectionNumber": 33,
     "number": 335,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "З якою дорожньою розміткою може застосовуватися дорожній знак «Стоянку заборонено»?",
@@ -22536,8 +22536,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q336",
-    "sectionNumber": 33.0,
+    "id": "q01361",
+    "sectionNumber": 33,
     "number": 336,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Попереджувальні знаки встановлюють до початку небезпечної ділянки поза населеними пунктами на відстані:",
@@ -22552,8 +22552,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q337",
-    "sectionNumber": 33.0,
+    "id": "q01362",
+    "sectionNumber": 33,
     "number": 337,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Попереджувальні знаки встановлюють до початку небезпечної ділянки в населених пунктах на відстані:",
@@ -22568,8 +22568,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q338",
-    "sectionNumber": 33.0,
+    "id": "q01363",
+    "sectionNumber": 33,
     "number": 338,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -22585,8 +22585,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q339",
-    "sectionNumber": 33.0,
+    "id": "q01364",
+    "sectionNumber": 33,
     "number": 339,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Вказаний дорожній знак позначає:",
@@ -22602,8 +22602,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q340",
-    "sectionNumber": 33.0,
+    "id": "q01365",
+    "sectionNumber": 33,
     "number": 340,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Вказаний дорожній знак позначає:",
@@ -22619,8 +22619,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q341",
-    "sectionNumber": 33.0,
+    "id": "q01366",
+    "sectionNumber": 33,
     "number": 341,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Вказаний дорожній знак попереджає про наближення до:",
@@ -22636,8 +22636,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q342",
-    "sectionNumber": 33.0,
+    "id": "q01367",
+    "sectionNumber": 33,
     "number": 342,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак:",
@@ -22653,8 +22653,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q343",
-    "sectionNumber": 33.0,
+    "id": "q01368",
+    "sectionNumber": 33,
     "number": 343,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує про:",
@@ -22670,8 +22670,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q344",
-    "sectionNumber": 33.0,
+    "id": "q01369",
+    "sectionNumber": 33,
     "number": 344,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -22687,8 +22687,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q345",
-    "sectionNumber": 33.0,
+    "id": "q01370",
+    "sectionNumber": 33,
     "number": 345,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак інформує про дорогу:",
@@ -22704,8 +22704,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q346",
-    "sectionNumber": 33.0,
+    "id": "q01371",
+    "sectionNumber": 33,
     "number": 346,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає виїзд на дорогу, де рух транспортних засобів, що рухаються за встановленими маршрутами, здійснюється спеціально відведеною смугою, позначеною знаком 5.11:",
@@ -22720,8 +22720,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q347",
-    "sectionNumber": 33.0,
+    "id": "q01372",
+    "sectionNumber": 33,
     "number": 347,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -22737,8 +22737,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q348",
-    "sectionNumber": 33.0,
+    "id": "q01373",
+    "sectionNumber": 33,
     "number": 348,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Вказаний дорожній знак позначає:",
@@ -22754,8 +22754,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q349",
-    "sectionNumber": 33.0,
+    "id": "q01374",
+    "sectionNumber": 33,
     "number": 349,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Вказаний дорожній знак позначає:",
@@ -22771,8 +22771,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q350",
-    "sectionNumber": 33.0,
+    "id": "q01375",
+    "sectionNumber": 33,
     "number": 350,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -22787,8 +22787,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q351",
-    "sectionNumber": 33.0,
+    "id": "q01376",
+    "sectionNumber": 33,
     "number": 351,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Вказаний дорожній знак позначає:",
@@ -22804,8 +22804,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q352",
-    "sectionNumber": 33.0,
+    "id": "q01377",
+    "sectionNumber": 33,
     "number": 352,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Вказаний дорожній знак інформує про:",
@@ -22821,8 +22821,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q353",
-    "sectionNumber": 33.0,
+    "id": "q01378",
+    "sectionNumber": 33,
     "number": 353,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -22842,8 +22842,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q355",
-    "sectionNumber": 33.0,
+    "id": "q01379",
+    "sectionNumber": 33,
     "number": 355,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображена табличка застосовується для:",
@@ -22857,8 +22857,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s33-q356",
-    "sectionNumber": 33.0,
+    "id": "q01380",
+    "sectionNumber": 33,
     "number": 356,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Зображений дорожній знак позначає:",
@@ -22874,8 +22874,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s33-q357",
-    "sectionNumber": 33.0,
+    "id": "q01381",
+    "sectionNumber": 33,
     "number": 357,
     "category": "ДОРОЖНІ ЗНАКИ",
     "question": "Дія даного дорожнього знаку поширюється на:",
@@ -22891,8 +22891,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q001",
-    "sectionNumber": 34.0,
+    "id": "q01382",
+    "sectionNumber": 34,
     "number": 1,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Дана дорожня розмітка у вигляді стрілок, нанесена на смузі руху:",
@@ -22908,8 +22908,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q002",
-    "sectionNumber": 34.0,
+    "id": "q01383",
+    "sectionNumber": 34,
     "number": 2,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Дана вертикальна дорожня розмітка:",
@@ -22925,8 +22925,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q003",
-    "sectionNumber": 34.0,
+    "id": "q01384",
+    "sectionNumber": 34,
     "number": 3,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чи дозволено Вам поставити автомобіль на стоянку в даному місці?",
@@ -22942,8 +22942,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q004",
-    "sectionNumber": 34.0,
+    "id": "q01385",
+    "sectionNumber": 34,
     "number": 4,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Дана дорожня розмітка позначає:",
@@ -22959,8 +22959,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q005",
-    "sectionNumber": 34.0,
+    "id": "q01386",
+    "sectionNumber": 34,
     "number": 5,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Який маневр забороняє Вам зображена лінія дорожньої розмітки?",
@@ -22977,8 +22977,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q006",
-    "sectionNumber": 34.0,
+    "id": "q01387",
+    "sectionNumber": 34,
     "number": 6,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Дана дорожня розмітка позначає:",
@@ -22994,8 +22994,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q007",
-    "sectionNumber": 34.0,
+    "id": "q01388",
+    "sectionNumber": 34,
     "number": 7,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Даною вертикальною дорожньою розміткою позначають",
@@ -23011,8 +23011,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q008",
-    "sectionNumber": 34.0,
+    "id": "q01389",
+    "sectionNumber": 34,
     "number": 8,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Що означає напис на проїзній частині дороги?",
@@ -23028,8 +23028,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q009",
-    "sectionNumber": 34.0,
+    "id": "q01390",
+    "sectionNumber": 34,
     "number": 9,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Даною дорожньою розміткою у вигляді букви «А» позначають:",
@@ -23045,8 +23045,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q010",
-    "sectionNumber": 34.0,
+    "id": "q01391",
+    "sectionNumber": 34,
     "number": 10,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Даною лінією дорожньої розмітки позначають:",
@@ -23062,8 +23062,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q011",
-    "sectionNumber": 34.0,
+    "id": "q01392",
+    "sectionNumber": 34,
     "number": 11,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Як Ви повинні вчинити, якщо реверсивні світлофори вимкнулися:",
@@ -23079,8 +23079,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q012",
-    "sectionNumber": 34.0,
+    "id": "q01393",
+    "sectionNumber": 34,
     "number": 12,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "По якій траєкторії ви можете об'їхати перешкоду?",
@@ -23096,8 +23096,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q013",
-    "sectionNumber": 34.0,
+    "id": "q01394",
+    "sectionNumber": 34,
     "number": 13,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Які з перелічених транспортних засобів мають право рухатися по смузі, позначеній розміткою «А», на яку поширюється дія дорожнього знака, розміщеного праворуч від дороги?",
@@ -23113,8 +23113,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q014",
-    "sectionNumber": 34.0,
+    "id": "q01395",
+    "sectionNumber": 34,
     "number": 14,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чи дозволено велосипедисту рухатись смугою для маршрутних транспортних засобів позначеній вказаним дорожнім знаком?",
@@ -23129,8 +23129,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q015",
-    "sectionNumber": 34.0,
+    "id": "q01396",
+    "sectionNumber": 34,
     "number": 15,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чи дозволено Вам зупинку в зазначеному місці для висадки пасажира?",
@@ -23147,8 +23147,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q016",
-    "sectionNumber": 34.0,
+    "id": "q01397",
+    "sectionNumber": 34,
     "number": 16,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Дана дорожня розмітка у вигляді стрілки, нанесена на смузі руху:",
@@ -23164,8 +23164,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q017",
-    "sectionNumber": 34.0,
+    "id": "q01398",
+    "sectionNumber": 34,
     "number": 17,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чи дозволено Вам (не водію маршрутного ТЗ) зупинитися в цьому місці для посадки або висадки пасажирів?",
@@ -23185,8 +23185,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q019",
-    "sectionNumber": 34.0,
+    "id": "q01399",
+    "sectionNumber": 34,
     "number": 19,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Що означає дорожня розмітка у вигляді трикутника на смузі руху?",
@@ -23202,8 +23202,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q020",
-    "sectionNumber": 34.0,
+    "id": "q01400",
+    "sectionNumber": 34,
     "number": 20,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чи дозволяє Вам дана дорожня розмітка виконати обгін трактора в такій ситуації?",
@@ -23219,8 +23219,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q021",
-    "sectionNumber": 34.0,
+    "id": "q01401",
+    "sectionNumber": 34,
     "number": 21,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Такою вертикальною дорожньою розміткою позначають:",
@@ -23235,8 +23235,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q022",
-    "sectionNumber": 34.0,
+    "id": "q01402",
+    "sectionNumber": 34,
     "number": 22,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чи дозволено вам випередження по реверсивній смузі, якщо реверсивний світлофор вимкнений?",
@@ -23251,8 +23251,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q023",
-    "sectionNumber": 34.0,
+    "id": "q01403",
+    "sectionNumber": 34,
     "number": 23,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "У якому місці Ви повинні зупинитися, щоб дати дорогу транспортним засобам на перехрещуванній дорозі, повертаючи ліворуч у даній ситуації?",
@@ -23269,8 +23269,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q024",
-    "sectionNumber": 34.0,
+    "id": "q01404",
+    "sectionNumber": 34,
     "number": 24,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Водій якого автомобіля не порушує Правила дорожнього руху в даній ситуації?",
@@ -23287,8 +23287,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q025",
-    "sectionNumber": 34.0,
+    "id": "q01405",
+    "sectionNumber": 34,
     "number": 25,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "У якому із зазначених місць Ви можете перетнути суцільну лінію дорожньої розмітки та зупинитися?",
@@ -23304,8 +23304,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q026",
-    "sectionNumber": 34.0,
+    "id": "q01406",
+    "sectionNumber": 34,
     "number": 26,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чи дозволено Вам у легковому автомобілі продовжити рух по правій смузі?",
@@ -23321,8 +23321,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q027",
-    "sectionNumber": 34.0,
+    "id": "q01407",
+    "sectionNumber": 34,
     "number": 27,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Що означають переривчасті лінії розмітки, які знаходяться з правого боку від водія?",
@@ -23338,8 +23338,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q028",
-    "sectionNumber": 34.0,
+    "id": "q01408",
+    "sectionNumber": 34,
     "number": 28,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чи дозволено Вам стоянку в зазначеному місці?",
@@ -23355,8 +23355,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q029",
-    "sectionNumber": 34.0,
+    "id": "q01409",
+    "sectionNumber": 34,
     "number": 29,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чи дозволяє Вам дана дорожня розмітка виконати обгін?",
@@ -23372,8 +23372,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q030",
-    "sectionNumber": 34.0,
+    "id": "q01410",
+    "sectionNumber": 34,
     "number": 30,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "У даній ситуації Ви повинні:",
@@ -23389,8 +23389,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q031",
-    "sectionNumber": 34.0,
+    "id": "q01411",
+    "sectionNumber": 34,
     "number": 31,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чим Ви повинні керуватися, якщо значення дорожніх знаків і ліній горизонтальної розмітки суперечать одне одному?",
@@ -23404,8 +23404,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s34-q032",
-    "sectionNumber": 34.0,
+    "id": "q01412",
+    "sectionNumber": 34,
     "number": 32,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Що позначає горизонтальна дорожня розмітка у вигляді напису «STOP» на проїзній частині?",
@@ -23419,8 +23419,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s34-q033",
-    "sectionNumber": 34.0,
+    "id": "q01413",
+    "sectionNumber": 34,
     "number": 33,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чи дозволено Вам перетинати подвійну суцільну лінію дорожньої розмітки?",
@@ -23435,8 +23435,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s34-q034",
-    "sectionNumber": 34.0,
+    "id": "q01414",
+    "sectionNumber": 34,
     "number": 34,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Ця горизонтальна дорожня розмітка позначає ділянки, на які забороняється виїжджати на перехресті, якщо попереду утворився затор?",
@@ -23451,8 +23451,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s34-q035",
-    "sectionNumber": 34.0,
+    "id": "q01415",
+    "sectionNumber": 34,
     "number": 35,
     "category": "ДОРОЖНЯ РОЗМІТКА",
     "question": "Чи дозволено виїжджати на цю горизонтальну розмітку на перехрестях під час заторів?",
@@ -23467,8 +23467,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q001",
-    "sectionNumber": 35.0,
+    "id": "q01416",
+    "sectionNumber": 35,
     "number": 1,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "В очікуванні сигналу світлофора, що дозволяє рух, необхідно:",
@@ -23481,8 +23481,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q002",
-    "sectionNumber": 35.0,
+    "id": "q01417",
+    "sectionNumber": 35,
     "number": 2,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Безпечною дистанцією під час руху сухою дорогою на легковому автомобілі можна вважати відстань, яку автомобіль пройде не менше ніж за:",
@@ -23496,8 +23496,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q003",
-    "sectionNumber": 35.0,
+    "id": "q01418",
+    "sectionNumber": 35,
     "number": 3,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Зменшення гальмового шляху транспортного засобу досягається:",
@@ -23510,8 +23510,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q004",
-    "sectionNumber": 35.0,
+    "id": "q01419",
+    "sectionNumber": 35,
     "number": 4,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Під час руху в умовах поганої видимості потрібно вибирати швидкість, виходячи з того, що зупинний шлях має бути:",
@@ -23524,8 +23524,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q005",
-    "sectionNumber": 35.0,
+    "id": "q01420",
+    "sectionNumber": 35,
     "number": 5,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Що мається на увазі під часом реакції водія?",
@@ -23539,8 +23539,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q006",
-    "sectionNumber": 35.0,
+    "id": "q01421",
+    "sectionNumber": 35,
     "number": 6,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У яких випадках слід збільшити боковий інтервал?",
@@ -23555,8 +23555,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q007",
-    "sectionNumber": 35.0,
+    "id": "q01422",
+    "sectionNumber": 35,
     "number": 7,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Рухатися по глибокому снігу на ґрунтовій дорозі слід:",
@@ -23569,8 +23569,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q008",
-    "sectionNumber": 35.0,
+    "id": "q01423",
+    "sectionNumber": 35,
     "number": 8,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи виключає антиблокувальна гальмівна система можливість виникнення занесення або знесення під час проходження повороту?",
@@ -23584,8 +23584,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q009",
-    "sectionNumber": 35.0,
+    "id": "q01424",
+    "sectionNumber": 35,
     "number": 9,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Рухаючись прямо зі швидкістю 50 км/год., ви раптово потрапили на невелику слизьку ділянку дороги. Що слід зробити?",
@@ -23598,8 +23598,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q010",
-    "sectionNumber": 35.0,
+    "id": "q01425",
+    "sectionNumber": 35,
     "number": 10,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Увімкнення яких зовнішніх світлових приладів забезпечить вам найкращу видимість дороги під час руху вночі за сильної хуртовини?",
@@ -23612,8 +23612,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q011",
-    "sectionNumber": 35.0,
+    "id": "q01426",
+    "sectionNumber": 35,
     "number": 11,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У якому з перелічених випадків водієві слід оцінювати обстановку позаду?",
@@ -23627,8 +23627,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q012",
-    "sectionNumber": 35.0,
+    "id": "q01427",
+    "sectionNumber": 35,
     "number": 12,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Де повинна бути розташована ступня лівої ноги водія при керуванні автомобілем з механічною коробкою передач (з увімкненим зчепленням)?",
@@ -23642,8 +23642,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q013",
-    "sectionNumber": 35.0,
+    "id": "q01428",
+    "sectionNumber": 35,
     "number": 13,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо Ви сідаєте за кермо автомобіля після іншого водія, яка повинна бути послідовність Ваших дій?",
@@ -23657,8 +23657,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q014",
-    "sectionNumber": 35.0,
+    "id": "q01429",
+    "sectionNumber": 35,
     "number": 14,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Де Ви знайдете дані про допустиму масу причепа, обладнаного гальмами, для Вашого легкового автомобіля?",
@@ -23672,8 +23672,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q015",
-    "sectionNumber": 35.0,
+    "id": "q01430",
+    "sectionNumber": 35,
     "number": 15,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "При проїзді через тунель ви наближаєтеся до кінця затору. Як Вам вести себе?",
@@ -23688,8 +23688,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q016",
-    "sectionNumber": 35.0,
+    "id": "q01431",
+    "sectionNumber": 35,
     "number": 16,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Ви хочете обігнати велосипедистів. Що Ви повинні врахувати при оцінці бокового інтервалу?",
@@ -23704,8 +23704,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q017",
-    "sectionNumber": 35.0,
+    "id": "q01432",
+    "sectionNumber": 35,
     "number": 17,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Ви хочете перетнути головну дорогу. Видимість в обох напрямках сильно обмежена через припарковані транспортні засоби. Як Ви будете діяти?",
@@ -23721,8 +23721,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q019",
-    "sectionNumber": 35.0,
+    "id": "q01433",
+    "sectionNumber": 35,
     "number": 19,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Як сприймається водієм швидкість його автомобіля у випадку тривалого руху рівнинною дорогою з великою швидкістю?",
@@ -23736,8 +23736,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q020",
-    "sectionNumber": 35.0,
+    "id": "q01434",
+    "sectionNumber": 35,
     "number": 20,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Під час руху на якому автомобілі збільшення швидкості може сприяти усуненню занесення задньої осі?",
@@ -23750,8 +23750,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q021",
-    "sectionNumber": 35.0,
+    "id": "q01435",
+    "sectionNumber": 35,
     "number": 21,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Що має зробити водій, щоб швидко відновити ефективність гальм після проїзду через водну перешкоду?",
@@ -23765,8 +23765,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q022",
-    "sectionNumber": 35.0,
+    "id": "q01436",
+    "sectionNumber": 35,
     "number": 22,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Під час гальмування двигуном на крутому спуску водій має вибирати передачу, виходячи з умов:",
@@ -23780,8 +23780,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q023",
-    "sectionNumber": 35.0,
+    "id": "q01437",
+    "sectionNumber": 35,
     "number": 23,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Як має діяти водій у разі втрати зчеплення коліс з дорогою через утворення «водяного клина»?",
@@ -23795,8 +23795,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q024",
-    "sectionNumber": 35.0,
+    "id": "q01438",
+    "sectionNumber": 35,
     "number": 24,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чим небезпечне тривале гальмування з вимкненим зчепленням (передачею) на крутому спуску?",
@@ -23810,8 +23810,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q025",
-    "sectionNumber": 35.0,
+    "id": "q01439",
+    "sectionNumber": 35,
     "number": 25,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Під час руху в умовах туману відстань до предметів видається:",
@@ -23825,8 +23825,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q026",
-    "sectionNumber": 35.0,
+    "id": "q01440",
+    "sectionNumber": 35,
     "number": 26,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Що мається на увазі під зупинним шляхом?",
@@ -23840,8 +23840,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q027",
-    "sectionNumber": 35.0,
+    "id": "q01441",
+    "sectionNumber": 35,
     "number": 27,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якими критеріями мають керуватися водії, обираючи швидкість у відповідності до видимості за напрямком руху?",
@@ -23855,8 +23855,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q028",
-    "sectionNumber": 35.0,
+    "id": "q01442",
+    "sectionNumber": 35,
     "number": 28,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У якому випадку легковий автомобіль більш стійкий проти перекидання на повороті?",
@@ -23870,8 +23870,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q029",
-    "sectionNumber": 35.0,
+    "id": "q01443",
+    "sectionNumber": 35,
     "number": 29,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Що слід зробити водієві, щоб запобігти виникненню заносу під час проїзду крутого повороту?",
@@ -23885,8 +23885,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q030",
-    "sectionNumber": 35.0,
+    "id": "q01444",
+    "sectionNumber": 35,
     "number": 30,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У який момент слід поступово відпускати стоянкове гальмо, починаючи рух на підйомі?",
@@ -23900,8 +23900,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q031",
-    "sectionNumber": 35.0,
+    "id": "q01445",
+    "sectionNumber": 35,
     "number": 31,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Під час руху якою ділянкою дороги дія сильного бокового вітру найбільш небезпечна?",
@@ -23915,8 +23915,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q032",
-    "sectionNumber": 35.0,
+    "id": "q01446",
+    "sectionNumber": 35,
     "number": 32,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи залежить вибір бокового інтервалу від швидкості руху?",
@@ -23929,8 +23929,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q033",
-    "sectionNumber": 35.0,
+    "id": "q01447",
+    "sectionNumber": 35,
     "number": 33,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Як змінюється поле зору водія зі збільшенням швидкості руху?",
@@ -23944,8 +23944,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q034",
-    "sectionNumber": 35.0,
+    "id": "q01448",
+    "sectionNumber": 35,
     "number": 34,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Який стиль водіння забезпечить найменшу витрату палива?",
@@ -23959,8 +23959,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q035",
-    "sectionNumber": 35.0,
+    "id": "q01449",
+    "sectionNumber": 35,
     "number": 35,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Як змінюється довжина гальмівного шляху легкового автомобіля під час руху з причепом, не оснащеним гальмівною системою?",
@@ -23974,8 +23974,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q036",
-    "sectionNumber": 35.0,
+    "id": "q01450",
+    "sectionNumber": 35,
     "number": 36,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Як слід вчинити водієві, якщо під час руху сухою дорогою з асфальтобетонним покриттям почав накрапати дощ?",
@@ -23989,8 +23989,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q037",
-    "sectionNumber": 35.0,
+    "id": "q01451",
+    "sectionNumber": 35,
     "number": 37,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Для припинення занесення, викликаного гальмуванням, водій у першу чергу має:",
@@ -24004,8 +24004,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q038",
-    "sectionNumber": 35.0,
+    "id": "q01452",
+    "sectionNumber": 35,
     "number": 38,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У темну пору доби та в похмуру погоду швидкість зустрічного автомобіля видається:",
@@ -24019,8 +24019,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q039",
-    "sectionNumber": 35.0,
+    "id": "q01453",
+    "sectionNumber": 35,
     "number": 39,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Гальмовим шляхом вважається:",
@@ -24033,8 +24033,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q040",
-    "sectionNumber": 35.0,
+    "id": "q01454",
+    "sectionNumber": 35,
     "number": 40,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Різке гальмування під час ожеледиці може підвищити ризик потрапляння у ДТП?",
@@ -24049,8 +24049,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q041",
-    "sectionNumber": 35.0,
+    "id": "q01455",
+    "sectionNumber": 35,
     "number": 41,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи потрібно зчистити сніг із даху авто перед початком руху взимку?",
@@ -24065,8 +24065,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q042",
-    "sectionNumber": 35.0,
+    "id": "q01456",
+    "sectionNumber": 35,
     "number": 42,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо виникла нагальна необхідність здійснити поїздку під час снігопаду, що рекомендовано мати з собою водієві?",
@@ -24082,8 +24082,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q043",
-    "sectionNumber": 35.0,
+    "id": "q01457",
+    "sectionNumber": 35,
     "number": 43,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Водіння вночі вимагає від водія більшої зосередженості та концентрації уваги, ніж водіння в денний час?",
@@ -24096,8 +24096,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q044",
-    "sectionNumber": 35.0,
+    "id": "q01458",
+    "sectionNumber": 35,
     "number": 44,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Для водіїв із досвідом водіння понад 2 роки максимально допустима доза алкоголю у крові становить 0,3 проміле?",
@@ -24110,8 +24110,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q045",
-    "sectionNumber": 35.0,
+    "id": "q01459",
+    "sectionNumber": 35,
     "number": 45,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи безпечно рухатись водієві автомобіля в даному випадку?",
@@ -24126,8 +24126,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q046",
-    "sectionNumber": 35.0,
+    "id": "q01460",
+    "sectionNumber": 35,
     "number": 46,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Водіння вночі є безпечнішим, ніж водіння в денний час, оскільки на дорозі відносно невелика кількість автомобілів?",
@@ -24142,8 +24142,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q047",
-    "sectionNumber": 35.0,
+    "id": "q01461",
+    "sectionNumber": 35,
     "number": 47,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Дистанція до зустрічного автомобіля в тумані завжди здається більшою, а швидкість меншою, ніж насправді:",
@@ -24158,8 +24158,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q048",
-    "sectionNumber": 35.0,
+    "id": "q01462",
+    "sectionNumber": 35,
     "number": 48,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Перед тим, як вирушати у поїздку вночі, особливу увагу слід приділити:",
@@ -24175,8 +24175,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q049",
-    "sectionNumber": 35.0,
+    "id": "q01463",
+    "sectionNumber": 35,
     "number": 49,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Для того щоб розпочати рух взимку достатньо очистити лобове скло автомобіля:",
@@ -24191,8 +24191,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q050",
-    "sectionNumber": 35.0,
+    "id": "q01464",
+    "sectionNumber": 35,
     "number": 50,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Під час руху взимку всі рухи водія мають бути якомога плавнішими:",
@@ -24205,8 +24205,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q051",
-    "sectionNumber": 35.0,
+    "id": "q01465",
+    "sectionNumber": 35,
     "number": 51,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Ви можете подавати звукові сигнали в населеному пункті будь-коли, якщо вважаєте це необхідним:",
@@ -24221,8 +24221,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q052",
-    "sectionNumber": 35.0,
+    "id": "q01466",
+    "sectionNumber": 35,
     "number": 52,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Ви повинні закінчити подавання сигналу світловим покажчиком повороту безпосередньо під час виконання маневру повороту?",
@@ -24237,8 +24237,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q053",
-    "sectionNumber": 35.0,
+    "id": "q01467",
+    "sectionNumber": 35,
     "number": 53,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чому небезпечно залишати дах автомобіля не очищеним від снігу взимку?",
@@ -24254,8 +24254,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q054",
-    "sectionNumber": 35.0,
+    "id": "q01468",
+    "sectionNumber": 35,
     "number": 54,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чим вищою є швидкість руху, тим більшою повинна бути дистанція до транспортного засобу, що рухається попереду?",
@@ -24268,8 +24268,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q055",
-    "sectionNumber": 35.0,
+    "id": "q01469",
+    "sectionNumber": 35,
     "number": 55,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи погоджуєтесь Ви з тим, що при збільшенні швидкості у два рази, гальмовий шлях збільшується приблизно у чотири рази:",
@@ -24282,8 +24282,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q056",
-    "sectionNumber": 35.0,
+    "id": "q01470",
+    "sectionNumber": 35,
     "number": 56,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "З метою безпечного керування транспортним засобом водій повинен прогнозувати зміни дорожньої обстановки:",
@@ -24296,8 +24296,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q057",
-    "sectionNumber": 35.0,
+    "id": "q01471",
+    "sectionNumber": 35,
     "number": 57,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Дозволений рівень алкоголю в крові водія в Україні не повинен перевищувати:",
@@ -24311,8 +24311,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q058",
-    "sectionNumber": 35.0,
+    "id": "q01472",
+    "sectionNumber": 35,
     "number": 58,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Водії із досвідом водіння понад 10 років можуть під час руху користуватись телефоном, тримаючи його в руці:",
@@ -24327,8 +24327,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q059",
-    "sectionNumber": 35.0,
+    "id": "q01473",
+    "sectionNumber": 35,
     "number": 59,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Як Ви повинні вчинити, якщо зіштовхнулися з агресивною манерою водіння водіїв, що рухаються попереду?",
@@ -24345,8 +24345,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q060",
-    "sectionNumber": 35.0,
+    "id": "q01474",
+    "sectionNumber": 35,
     "number": 60,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Цей автомобіль здійснює рух заднім ходом?",
@@ -24361,8 +24361,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q061",
-    "sectionNumber": 35.0,
+    "id": "q01475",
+    "sectionNumber": 35,
     "number": 61,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "На дорозі раптово з'явилася дика тварина, Ваші дії:",
@@ -24377,8 +24377,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q062",
-    "sectionNumber": 35.0,
+    "id": "q01476",
+    "sectionNumber": 35,
     "number": 62,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо через сильну зливу в межах населеного пункту, Ви не можете продовжувати рух, необхідно:",
@@ -24393,8 +24393,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q063",
-    "sectionNumber": 35.0,
+    "id": "q01477",
+    "sectionNumber": 35,
     "number": 63,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи можна різко збільшувати швидкість під час руху в дощову погоду?",
@@ -24409,8 +24409,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q064",
-    "sectionNumber": 35.0,
+    "id": "q01478",
+    "sectionNumber": 35,
     "number": 64,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи потрібно зменшити швидкість до та після проїзду цього дорожнього знаку?",
@@ -24426,8 +24426,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q065",
-    "sectionNumber": 35.0,
+    "id": "q01479",
+    "sectionNumber": 35,
     "number": 65,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Ви наближаєтесь до перехрестя, Ваші дії:",
@@ -24443,8 +24443,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q066",
-    "sectionNumber": 35.0,
+    "id": "q01480",
+    "sectionNumber": 35,
     "number": 66,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Ви вирушили в доволі далеку поїздку. Через деякий час ви починаєте відчувати втому. Що Вам слід зробити?",
@@ -24459,8 +24459,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q067",
-    "sectionNumber": 35.0,
+    "id": "q01481",
+    "sectionNumber": 35,
     "number": 67,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо Ви відчуваєте сильну втому за кермом, Ви:",
@@ -24476,8 +24476,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q068",
-    "sectionNumber": 35.0,
+    "id": "q01482",
+    "sectionNumber": 35,
     "number": 68,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Який найкращий спосіб уникнути наїзду на інші транспортні засоби, людей чи тварин під час виїзду на проїзну частину з узбіччя?",
@@ -24493,8 +24493,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q070",
-    "sectionNumber": 35.0,
+    "id": "q01483",
+    "sectionNumber": 35,
     "number": 70,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Під час тривалих поїздок найкращий спосіб запобігти сонливості це",
@@ -24510,8 +24510,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q071",
-    "sectionNumber": 35.0,
+    "id": "q01484",
+    "sectionNumber": 35,
     "number": 71,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Ремені безпеки є найефективнішим засобом попередження травмування для водія та пасажирів:",
@@ -24526,8 +24526,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q072",
-    "sectionNumber": 35.0,
+    "id": "q01485",
+    "sectionNumber": 35,
     "number": 72,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У якому випадку подання звукового сигналу під час руху в населеному пункті є доречним:",
@@ -24543,8 +24543,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q073",
-    "sectionNumber": 35.0,
+    "id": "q01486",
+    "sectionNumber": 35,
     "number": 73,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо назустріч вам наближається транспортний засіб з увімкненим дальнім світлом фар, Ви повинні:",
@@ -24558,8 +24558,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q074",
-    "sectionNumber": 35.0,
+    "id": "q01487",
+    "sectionNumber": 35,
     "number": 74,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Правильне налаштування підголівників може значно зменшити ризик травмування:",
@@ -24574,8 +24574,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q075",
-    "sectionNumber": 35.0,
+    "id": "q01488",
+    "sectionNumber": 35,
     "number": 75,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Що означають білі або прозорі вогні в задній частині автомобіля:",
@@ -24591,8 +24591,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q076",
-    "sectionNumber": 35.0,
+    "id": "q01489",
+    "sectionNumber": 35,
     "number": 76,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Недостатній тиск в шинах збільшує гальмівний шлях автомобіля:",
@@ -24607,8 +24607,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q077",
-    "sectionNumber": 35.0,
+    "id": "q01490",
+    "sectionNumber": 35,
     "number": 77,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Недостатній тиск в шинах сприяє економії пального:",
@@ -24623,8 +24623,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q078",
-    "sectionNumber": 35.0,
+    "id": "q01491",
+    "sectionNumber": 35,
     "number": 78,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Найбільша небезпека великогабаритних транспортних засобів у тому, що вони:",
@@ -24639,8 +24639,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q079",
-    "sectionNumber": 35.0,
+    "id": "q01492",
+    "sectionNumber": 35,
     "number": 79,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Коли інший автомобіль розпочав маневр перестроювання у вашу смугу зі смуги праворуч, Ваші дії:",
@@ -24656,8 +24656,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q080",
-    "sectionNumber": 35.0,
+    "id": "q01493",
+    "sectionNumber": 35,
     "number": 80,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо водій білого автомобіля різко розпочав маневр перестроювання у вашу смугу зі смуги ліворуч, Ваші дії:",
@@ -24673,8 +24673,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q081",
-    "sectionNumber": 35.0,
+    "id": "q01494",
+    "sectionNumber": 35,
     "number": 81,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Який найкращий спосіб переконатися, що у вашій сліпій зоні немає транспортних засобів чи велосипедистів?",
@@ -24688,8 +24688,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q082",
-    "sectionNumber": 35.0,
+    "id": "q01495",
+    "sectionNumber": 35,
     "number": 82,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Вашу голову та груди від удару об приладову панель або лобове скло під час зіткнення тримає:",
@@ -24702,8 +24702,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q083",
-    "sectionNumber": 35.0,
+    "id": "q01496",
+    "sectionNumber": 35,
     "number": 83,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Перевірка Ваших «сліпих зон» особливо важлива",
@@ -24718,8 +24718,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q084",
-    "sectionNumber": 35.0,
+    "id": "q01497",
+    "sectionNumber": 35,
     "number": 84,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Пішоходи повинні утриматись від переходу проїзної частини, якщо наближається транспортний засіб з проблисковими маячками:",
@@ -24734,8 +24734,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q085",
-    "sectionNumber": 35.0,
+    "id": "q01498",
+    "sectionNumber": 35,
     "number": 85,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Що робити, якщо під час руху вночі зустрічний автомобіль рухається із увімкненим дальнім світлом фар та засліплює Вас?",
@@ -24751,8 +24751,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q086",
-    "sectionNumber": 35.0,
+    "id": "q01499",
+    "sectionNumber": 35,
     "number": 86,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо на вашій смузі є зустрічний транспортний засіб чи дозволено подати звуковий сигнал в населеному пункті?",
@@ -24767,8 +24767,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q087",
-    "sectionNumber": 35.0,
+    "id": "q01500",
+    "sectionNumber": 35,
     "number": 87,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Використання кондиціонера під час руху впливає на роботу автомобіля, а саме на:",
@@ -24784,8 +24784,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q088",
-    "sectionNumber": 35.0,
+    "id": "q01501",
+    "sectionNumber": 35,
     "number": 88,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи впливає використання кондиціонера під час руху авто на витрату палива?",
@@ -24800,8 +24800,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q089",
-    "sectionNumber": 35.0,
+    "id": "q01502",
+    "sectionNumber": 35,
     "number": 89,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "З метою належного прогнозування дорожньої обстановки і безпечного подальшого руху, Ви повинні більше розподілити увагу погляд на:",
@@ -24816,8 +24816,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q090",
-    "sectionNumber": 35.0,
+    "id": "q01503",
+    "sectionNumber": 35,
     "number": 90,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи дозволено Вам здійснити обгін у даній дорожній ситуації?",
@@ -24832,8 +24832,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q091",
-    "sectionNumber": 35.0,
+    "id": "q01504",
+    "sectionNumber": 35,
     "number": 91,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Садити дитину в авто потрібно з боку:",
@@ -24849,8 +24849,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q092",
-    "sectionNumber": 35.0,
+    "id": "q01505",
+    "sectionNumber": 35,
     "number": 92,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи потрібно у даному випадку зменшити швидкість?",
@@ -24866,8 +24866,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q093",
-    "sectionNumber": 35.0,
+    "id": "q01506",
+    "sectionNumber": 35,
     "number": 93,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи правильно в даному випадку водій відрегулював положення сидіння та рульового колеса перед початком руху?",
@@ -24882,8 +24882,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q094",
-    "sectionNumber": 35.0,
+    "id": "q01507",
+    "sectionNumber": 35,
     "number": 94,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи комфортна та правильна посадка водія?",
@@ -24898,8 +24898,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q095",
-    "sectionNumber": 35.0,
+    "id": "q01508",
+    "sectionNumber": 35,
     "number": 95,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи необхідно збільшити потужність склоочисника у разі випередження вантажного автомобіля під час невеликого дощу?",
@@ -24915,8 +24915,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q096",
-    "sectionNumber": 35.0,
+    "id": "q01509",
+    "sectionNumber": 35,
     "number": 96,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Зоною потенційної небезпеки для Вас, як водія даного транспортного засобу, є:",
@@ -24932,8 +24932,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q097",
-    "sectionNumber": 35.0,
+    "id": "q01510",
+    "sectionNumber": 35,
     "number": 97,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Ремінь безпеки є обов’язковим для вагітних?",
@@ -24947,8 +24947,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q098",
-    "sectionNumber": 35.0,
+    "id": "q01511",
+    "sectionNumber": 35,
     "number": 98,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Водій транспортного засобу, наближаючись до пішоходів, які перетинають автомобільну дорогу за межами наземного пішохідного переходу, повинен:",
@@ -24965,8 +24965,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q099",
-    "sectionNumber": 35.0,
+    "id": "q01512",
+    "sectionNumber": 35,
     "number": 99,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У мокру погоду або в дощ гальмовий шлях транспортного засобу збільшується:",
@@ -24981,8 +24981,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q100",
-    "sectionNumber": 35.0,
+    "id": "q01513",
+    "sectionNumber": 35,
     "number": 100,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Водій вантажного автомобіля, не враховуючи дорожньої обстановки почав рух, Ви повинні:",
@@ -24998,8 +24998,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q101",
-    "sectionNumber": 35.0,
+    "id": "q01514",
+    "sectionNumber": 35,
     "number": 101,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи потрібно в даному випадку зменшити швидкість або зупинитися, якщо Ви рухаєтесь прямо по головній дорозі:",
@@ -25017,8 +25017,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q103",
-    "sectionNumber": 35.0,
+    "id": "q01515",
+    "sectionNumber": 35,
     "number": 103,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Водій транспортного засобу для здійснення посадки (висадки) пасажирів повинен:",
@@ -25034,8 +25034,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q104",
-    "sectionNumber": 35.0,
+    "id": "q01516",
+    "sectionNumber": 35,
     "number": 104,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи правильно в даному випадку водій транспортного засобу закріпив ремінь безпеки?",
@@ -25050,8 +25050,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q105",
-    "sectionNumber": 35.0,
+    "id": "q01517",
+    "sectionNumber": 35,
     "number": 105,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У наведеній ситуації Ви, наближаючись до перехрестя, повинні:",
@@ -25067,8 +25067,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q106",
-    "sectionNumber": 35.0,
+    "id": "q01518",
+    "sectionNumber": 35,
     "number": 106,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи може ремінь безпеки ефективно спрацювати захистити лежачого пасажира?",
@@ -25083,8 +25083,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q107",
-    "sectionNumber": 35.0,
+    "id": "q01519",
+    "sectionNumber": 35,
     "number": 107,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо під час тривалої подорожі виникла необхідність змінити водія, необхідно налаштувати, у тому числі:",
@@ -25100,8 +25100,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q108",
-    "sectionNumber": 35.0,
+    "id": "q01520",
+    "sectionNumber": 35,
     "number": 108,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Як має діяти водій транспортного засобу у разі сонячного засліплення?",
@@ -25116,8 +25116,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q109",
-    "sectionNumber": 35.0,
+    "id": "q01521",
+    "sectionNumber": 35,
     "number": 109,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У разі аварії цей водій буде захищений ременем безпеки?",
@@ -25132,8 +25132,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q110",
-    "sectionNumber": 35.0,
+    "id": "q01522",
+    "sectionNumber": 35,
     "number": 110,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи буде тривала розмова пасажира з водієм заважати водієві керувати транспортним засобом?",
@@ -25148,8 +25148,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q111",
-    "sectionNumber": 35.0,
+    "id": "q01523",
+    "sectionNumber": 35,
     "number": 111,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Наближаючись до перехрестя, де світлофор працює в режимі миготіння жовтого сигналу водій легкового автомобіля повинен:",
@@ -25165,8 +25165,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q112",
-    "sectionNumber": 35.0,
+    "id": "q01524",
+    "sectionNumber": 35,
     "number": 112,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Гальмівний шлях змінюється в залежності від:",
@@ -25182,8 +25182,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q113",
-    "sectionNumber": 35.0,
+    "id": "q01525",
+    "sectionNumber": 35,
     "number": 113,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Витрата палива залежить від:",
@@ -25200,8 +25200,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q114",
-    "sectionNumber": 35.0,
+    "id": "q01526",
+    "sectionNumber": 35,
     "number": 114,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Дотримання безпечної дистанції може допомогти запобігти зіткненню без здійснення будь-яких маневрів?",
@@ -25214,8 +25214,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q115",
-    "sectionNumber": 35.0,
+    "id": "q01527",
+    "sectionNumber": 35,
     "number": 115,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Ви зупинились на вимогу поліцейського. Ви увімкнете аварійну світлову сигналізацію?",
@@ -25230,8 +25230,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q116",
-    "sectionNumber": 35.0,
+    "id": "q01528",
+    "sectionNumber": 35,
     "number": 116,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Водій, який має намір Вас обігнати, раніше перешкоджав Вам виконати обгін. У цьому випадку Ви:",
@@ -25246,8 +25246,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q117",
-    "sectionNumber": 35.0,
+    "id": "q01529",
+    "sectionNumber": 35,
     "number": 117,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Особа, яка навчається водінню, повинна мати при собі медичну довідку встановленого зразка?",
@@ -25260,8 +25260,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q118",
-    "sectionNumber": 35.0,
+    "id": "q01530",
+    "sectionNumber": 35,
     "number": 118,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Рухаючись у населеному пункті, Ви бачите як водій, що рухається попереду, створив аварійну ситуацію. Для того, щоб запобігти ДТП Ви можете подати звуковий сигнал:",
@@ -25276,8 +25276,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q119",
-    "sectionNumber": 35.0,
+    "id": "q01531",
+    "sectionNumber": 35,
     "number": 119,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Сідаючи в автомобіль, Ви раптом відчули запаморочення та сильну втому. Дорога до місця призначення займе не більше 10 хв. Ви:",
@@ -25292,8 +25292,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q120",
-    "sectionNumber": 35.0,
+    "id": "q01532",
+    "sectionNumber": 35,
     "number": 120,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Після приймання заспокійливого лікарського засобу, Ви відчули запаморочення та зниження уваги. У такому випадку дозволено керувати транспортним засобом за умови:",
@@ -25309,8 +25309,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q121",
-    "sectionNumber": 35.0,
+    "id": "q01533",
+    "sectionNumber": 35,
     "number": 121,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Особа, яка не досягла 18-річного віку може отримати право на керування транспортним засобом категорії В за умови:",
@@ -25324,8 +25324,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q122",
-    "sectionNumber": 35.0,
+    "id": "q01534",
+    "sectionNumber": 35,
     "number": 122,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "З якого з цих транспортних засобів пасажир може вийти до моменту повної зупинки?",
@@ -25340,8 +25340,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q123",
-    "sectionNumber": 35.0,
+    "id": "q01535",
+    "sectionNumber": 35,
     "number": 123,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Проїжджаючи повз школу, що в першу чергу необхідно зробити?",
@@ -25356,8 +25356,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q124",
-    "sectionNumber": 35.0,
+    "id": "q01536",
+    "sectionNumber": 35,
     "number": 124,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Вживання навіть невеликої дози алкоголю:",
@@ -25373,8 +25373,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q125",
-    "sectionNumber": 35.0,
+    "id": "q01537",
+    "sectionNumber": 35,
     "number": 125,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Аварії, вчинені водіями у стані алкогольного сп’яніння, як правило мають:",
@@ -25387,8 +25387,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q126",
-    "sectionNumber": 35.0,
+    "id": "q01538",
+    "sectionNumber": 35,
     "number": 126,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Щоб керувати транспортним засобом безпечно, потрібно зосередитися і вміти стежити за всім, що відбувається на дорозі. Для цього вам потрібно:",
@@ -25404,8 +25404,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q127",
-    "sectionNumber": 35.0,
+    "id": "q01539",
+    "sectionNumber": 35,
     "number": 127,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "При під’їзді до крутого повороту Ви помітили сліди гравію на дорозі. Вам слід:",
@@ -25421,8 +25421,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q128",
-    "sectionNumber": 35.0,
+    "id": "q01540",
+    "sectionNumber": 35,
     "number": 128,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо Ви помітили вершника на дорозі, Вам слід:",
@@ -25438,8 +25438,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q129",
-    "sectionNumber": 35.0,
+    "id": "q01541",
+    "sectionNumber": 35,
     "number": 129,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Друг позичає вам транспортний засіб, який вміщує десять осіб разом з водієм. Чи достатньо Вам посвідчення на право керування транспортним засобом категорії B, щоб керувати таким транспортним засобом?",
@@ -25454,8 +25454,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q130",
-    "sectionNumber": 35.0,
+    "id": "q01542",
+    "sectionNumber": 35,
     "number": 130,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Рухаючись у заторі Ви сповільнюєте рух, наближаючись до велосипедиста. Водії позаду сигналять, вимагаючи від Вас рухатись швидше та обігнати велосипедиста. Ваші дії:",
@@ -25471,8 +25471,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q131",
-    "sectionNumber": 35.0,
+    "id": "q01543",
+    "sectionNumber": 35,
     "number": 131,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Відкриваючи двері транспортного засобу зі сторони проїжджої частини, на що слід звернути увагу?",
@@ -25488,8 +25488,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q132",
-    "sectionNumber": 35.0,
+    "id": "q01544",
+    "sectionNumber": 35,
     "number": 132,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Проїжджаючи поруч з дітьми, які граються біля краю дороги, Вам слід:",
@@ -25503,8 +25503,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q133",
-    "sectionNumber": 35.0,
+    "id": "q01545",
+    "sectionNumber": 35,
     "number": 133,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Коли Ви бачите дітей на дорозі або поруч з нею:",
@@ -25518,8 +25518,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q134",
-    "sectionNumber": 35.0,
+    "id": "q01546",
+    "sectionNumber": 35,
     "number": 134,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Рухаючись ділянками, де велика кількість пішоходів, водію необхідно:",
@@ -25535,8 +25535,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q135",
-    "sectionNumber": 35.0,
+    "id": "q01547",
+    "sectionNumber": 35,
     "number": 135,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Коли Ви бачите людей похилого віку на дорозі або біля неї, Вам необхідно:",
@@ -25552,8 +25552,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q136",
-    "sectionNumber": 35.0,
+    "id": "q01548",
+    "sectionNumber": 35,
     "number": 136,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо Ви помітили пішохода з ознаками алкогольного сп’яніння, який рухається по краю проїзної частини, необхідно:",
@@ -25569,8 +25569,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q137",
-    "sectionNumber": 35.0,
+    "id": "q01549",
+    "sectionNumber": 35,
     "number": 137,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Наближаючись до пішохідного переходу, на якому немає пішоходів, Ви:",
@@ -25586,8 +25586,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q138",
-    "sectionNumber": 35.0,
+    "id": "q01550",
+    "sectionNumber": 35,
     "number": 138,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Проїжджаючи повз припарковані транспортні засоби необхідно:",
@@ -25603,8 +25603,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q139",
-    "sectionNumber": 35.0,
+    "id": "q01551",
+    "sectionNumber": 35,
     "number": 139,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Під час руху ви зіткнулись із агресивною манерою водіння транспортного засобу, що їде попереду. Ви повинні:",
@@ -25620,8 +25620,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q140",
-    "sectionNumber": 35.0,
+    "id": "q01552",
+    "sectionNumber": 35,
     "number": 140,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Під час руху вночі необхідно:",
@@ -25636,8 +25636,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q141",
-    "sectionNumber": 35.0,
+    "id": "q01553",
+    "sectionNumber": 35,
     "number": 141,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Яке з наведених тверджень найбільш вдало описує Вас як безпечного водія?",
@@ -25651,8 +25651,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q142",
-    "sectionNumber": 35.0,
+    "id": "q01554",
+    "sectionNumber": 35,
     "number": 142,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо під час сильного дощу видимість раптово погіршується, Вам слід:",
@@ -25668,8 +25668,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q143",
-    "sectionNumber": 35.0,
+    "id": "q01555",
+    "sectionNumber": 35,
     "number": 143,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Що необхідно пам’ятати, якщо Ви плануєте тривалу поїздку:",
@@ -25685,8 +25685,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q144",
-    "sectionNumber": 35.0,
+    "id": "q01556",
+    "sectionNumber": 35,
     "number": 144,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Ви хочете обігнати велосипедиста. Що Ви повинні врахувати при оцінці бокового інтервалу?",
@@ -25701,8 +25701,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q145",
-    "sectionNumber": 35.0,
+    "id": "q01557",
+    "sectionNumber": 35,
     "number": 145,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Як сприймається водієм швидкість його автомобіля у випадку тривалого руху рівнинною дорогою з великою швидкістю?",
@@ -25718,8 +25718,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q146",
-    "sectionNumber": 35.0,
+    "id": "q01558",
+    "sectionNumber": 35,
     "number": 146,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Який стиль водіння забезпечить найменшу витрату палива?",
@@ -25733,8 +25733,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q147",
-    "sectionNumber": 35.0,
+    "id": "q01559",
+    "sectionNumber": 35,
     "number": 147,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У темну пору доби та в похмуру погоду швидкість зустрічного автомобіля видається:",
@@ -25750,8 +25750,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q148",
-    "sectionNumber": 35.0,
+    "id": "q01560",
+    "sectionNumber": 35,
     "number": 148,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Відносно якої лінії дорожньої розмітки найбільш безпечно контролювати положення свого автомобіля при зустрічному роз’їзді в темний час доби?",
@@ -25767,8 +25767,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q149",
-    "sectionNumber": 35.0,
+    "id": "q01561",
+    "sectionNumber": 35,
     "number": 149,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Гальмівний шлях на дорозі одразу після дощу:",
@@ -25784,8 +25784,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q150",
-    "sectionNumber": 35.0,
+    "id": "q01562",
+    "sectionNumber": 35,
     "number": 150,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Під час руху в транспортному потоці водій, що рухався по сусідній смузі, різко перелаштувався на Вашу смугу руху, змусивши Вас загальмувати. Що необхідно Вам зробити в даній ситуації?",
@@ -25802,8 +25802,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q151",
-    "sectionNumber": 35.0,
+    "id": "q01563",
+    "sectionNumber": 35,
     "number": 151,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чим гірша видимість, тим меншою має бути швидкість руху:",
@@ -25818,8 +25818,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q152",
-    "sectionNumber": 35.0,
+    "id": "q01564",
+    "sectionNumber": 35,
     "number": 152,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чим гірша видимість, тим більшою має бути швидкість руху:",
@@ -25834,8 +25834,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q153",
-    "sectionNumber": 35.0,
+    "id": "q01565",
+    "sectionNumber": 35,
     "number": 153,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи дозволено водієві відчиняти двері транспортного засобу до його повної зупинки?",
@@ -25851,8 +25851,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q154",
-    "sectionNumber": 35.0,
+    "id": "q01566",
+    "sectionNumber": 35,
     "number": 154,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи дозволено пасажирам відчиняти двері транспортного засобу до його зупинки?",
@@ -25868,8 +25868,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q155",
-    "sectionNumber": 35.0,
+    "id": "q01567",
+    "sectionNumber": 35,
     "number": 155,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Як ви повинні вчинити в ситуації, наближаючись до автобуса, який виконує посадку або висадку організованих груп дітей?",
@@ -25886,8 +25886,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q156",
-    "sectionNumber": 35.0,
+    "id": "q01568",
+    "sectionNumber": 35,
     "number": 156,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У даній ситуації найбільшу увагу слід зосередити на зоні:",
@@ -25902,8 +25902,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q157",
-    "sectionNumber": 35.0,
+    "id": "q01569",
+    "sectionNumber": 35,
     "number": 157,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Найбільша небезпека у даному випадку зосереджена у:",
@@ -25920,8 +25920,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q158",
-    "sectionNumber": 35.0,
+    "id": "q01570",
+    "sectionNumber": 35,
     "number": 158,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "У цьому випадку за появи зустрічного автомобіля водій білого повинен:",
@@ -25936,8 +25936,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q159",
-    "sectionNumber": 35.0,
+    "id": "q01571",
+    "sectionNumber": 35,
     "number": 159,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чому швидкість водіїв-початківців має бути нижчою, ніж в інших водіїв?",
@@ -25953,8 +25953,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q160",
-    "sectionNumber": 35.0,
+    "id": "q01572",
+    "sectionNumber": 35,
     "number": 160,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Дивлячись на зону С в даному випадку я повинен враховувати, що:",
@@ -25969,8 +25969,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q161",
-    "sectionNumber": 35.0,
+    "id": "q01573",
+    "sectionNumber": 35,
     "number": 161,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Попереду Вас рухається велосипедист, який постійно різко пригальмовує. Ви:",
@@ -25983,8 +25983,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q162",
-    "sectionNumber": 35.0,
+    "id": "q01574",
+    "sectionNumber": 35,
     "number": 162,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Відкриваючи двері транспортного засобу зі сторони проїжджої частини, на що слід звернути увагу?",
@@ -26000,8 +26000,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q163",
-    "sectionNumber": 35.0,
+    "id": "q01575",
+    "sectionNumber": 35,
     "number": 163,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи обов'язково водієві, стаж водіння якого менше двох років, вішати відповідний розпізнавальний знак на автомобіль?",
@@ -26016,8 +26016,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q164",
-    "sectionNumber": 35.0,
+    "id": "q01576",
+    "sectionNumber": 35,
     "number": 164,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Якщо Ви рухаєтесь прямо на зелений сигнал світлофора, чи потрібно Вам зменшити швидкість у даному випадку?",
@@ -26032,8 +26032,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q165",
-    "sectionNumber": 35.0,
+    "id": "q01577",
+    "sectionNumber": 35,
     "number": 165,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Ви наближаєтесь до пішохідного переходу, на підходах до якого та безпосередньо на ньому немає пішоходів. Чи можете Ви проїхати, не зменшуючи швидкість?",
@@ -26048,8 +26048,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q166",
-    "sectionNumber": 35.0,
+    "id": "q01578",
+    "sectionNumber": 35,
     "number": 166,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи дозволено водієві сірого автомобіля виконати зупинку у цьому місці?",
@@ -26064,8 +26064,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q167",
-    "sectionNumber": 35.0,
+    "id": "q01579",
+    "sectionNumber": 35,
     "number": 167,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи повинні Ви зупинитись у даному випадку, якщо водій зустрічного автомобіля, не переконавшись у безпечності маневру, виконує поворот ліворуч?",
@@ -26080,8 +26080,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q168",
-    "sectionNumber": 35.0,
+    "id": "q01580",
+    "sectionNumber": 35,
     "number": 168,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи потрібно збільшувати боковий інтервал, коли Ви наближаєтесь до вантажного автомобіля?",
@@ -26094,8 +26094,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s35-q169",
-    "sectionNumber": 35.0,
+    "id": "q01581",
+    "sectionNumber": 35,
     "number": 169,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Чи повинні Ви під час руху прямо в даному випадку враховувати те, що велосипедист у будь-який момент може розпочати рух?",
@@ -26113,8 +26113,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s35-q171",
-    "sectionNumber": 35.0,
+    "id": "q01582",
+    "sectionNumber": 35,
     "number": 171,
     "category": "ОСНОВИ БЕЗПЕЧНОГО ВОДІННЯ",
     "question": "Які фактори можуть призвести до засліплення водія?",
@@ -26129,8 +26129,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s36-q001",
-    "sectionNumber": 36.0,
+    "id": "q01583",
+    "sectionNumber": 36,
     "number": 1,
     "category": "ОСНОВИ ПРАВА В ОБЛАСТІ ДОРОЖНЬОГО РУХУ",
     "question": "Який орган має право розглядати оскарження адміністративного затримання, особистого огляду, огляду речей, огляду, а також вилучення речей і документів, у тому числі посвідчення водія?",
@@ -26144,8 +26144,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s36-q002",
-    "sectionNumber": 36.0,
+    "id": "q01584",
+    "sectionNumber": 36,
     "number": 2,
     "category": "ОСНОВИ ПРАВА В ОБЛАСТІ ДОРОЖНЬОГО РУХУ",
     "question": "Результати особистого огляду або огляду речей офіційно повинні бути зафіксовані:",
@@ -26159,8 +26159,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s36-q003",
-    "sectionNumber": 36.0,
+    "id": "q01585",
+    "sectionNumber": 36,
     "number": 3,
     "category": "ОСНОВИ ПРАВА В ОБЛАСТІ ДОРОЖНЬОГО РУХУ",
     "question": "В'їзд водіїв на залізничний переїзд на заборонний сигнал світлофора при закритому шлагбаумі тягне за собою:",
@@ -26174,8 +26174,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s36-q004",
-    "sectionNumber": 36.0,
+    "id": "q01586",
+    "sectionNumber": 36,
     "number": 4,
     "category": "ОСНОВИ ПРАВА В ОБЛАСТІ ДОРОЖНЬОГО РУХУ",
     "question": "Чи мають право посадові особи правоохоронних органів вилучати речі і документи під час затримання, особистого огляду або огляду речей?",
@@ -26189,8 +26189,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s36-q005",
-    "sectionNumber": 36.0,
+    "id": "q01587",
+    "sectionNumber": 36,
     "number": 5,
     "category": "ОСНОВИ ПРАВА В ОБЛАСТІ ДОРОЖНЬОГО РУХУ",
     "question": "Водії, які керують транспортними засобами і щодо яких є достатні підстави вважати, що вони перебувають у стані сп'яніння:",
@@ -26203,8 +26203,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s36-q006",
-    "sectionNumber": 36.0,
+    "id": "q01588",
+    "sectionNumber": 36,
     "number": 6,
     "category": "ОСНОВИ ПРАВА В ОБЛАСТІ ДОРОЖНЬОГО РУХУ",
     "question": "Чи дозволено органам внутрішніх справ (Національною поліцією) провести адміністративне затримання, якщо водій порушив Правила дорожнього руху?",
@@ -26217,8 +26217,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s36-q007",
-    "sectionNumber": 36.0,
+    "id": "q01589",
+    "sectionNumber": 36,
     "number": 7,
     "category": "ОСНОВИ ПРАВА В ОБЛАСТІ ДОРОЖНЬОГО РУХУ",
     "question": "Адміністративне затримання особи, яка вчинила адміністративне правопорушення, може тривати не більше ніж:",
@@ -26232,8 +26232,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s36-q008",
-    "sectionNumber": 36.0,
+    "id": "q01590",
+    "sectionNumber": 36,
     "number": 8,
     "category": "ОСНОВИ ПРАВА В ОБЛАСТІ ДОРОЖНЬОГО РУХУ",
     "question": "Залишення водіями місця ДТП, до якої вони причетні, тягне за собою:",
@@ -26247,8 +26247,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q001",
-    "sectionNumber": 37.0,
+    "id": "q01591",
+    "sectionNumber": 37,
     "number": 1,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Унаслідок ДТП у мотоцикліста на правій гомілці видима рана, з якої виступає уламок кістки. Яка перша домедична допомога?",
@@ -26263,8 +26263,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s37-q002",
-    "sectionNumber": 37.0,
+    "id": "q01592",
+    "sectionNumber": 37,
     "number": 2,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Що слід зробити в разі перелому ключиці в потерпілого?",
@@ -26278,8 +26278,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q003",
-    "sectionNumber": 37.0,
+    "id": "q01593",
+    "sectionNumber": 37,
     "number": 3,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "В якій послідовності слід надавати допомогу постраждалому:",
@@ -26293,8 +26293,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q004",
-    "sectionNumber": 37.0,
+    "id": "q01594",
+    "sectionNumber": 37,
     "number": 4,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Яка ознака зупинки серця у постраждалих враховується в базовому алгоритмі серцево-легеневої реанімації:",
@@ -26308,8 +26308,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q005",
-    "sectionNumber": 37.0,
+    "id": "q01595",
+    "sectionNumber": 37,
     "number": 5,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Яка частота натискань на грудну клітку при проведенні серцево- легеневої реанімації у постраждалих:",
@@ -26323,8 +26323,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q006",
-    "sectionNumber": 37.0,
+    "id": "q01596",
+    "sectionNumber": 37,
     "number": 6,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Яке співвідношення проведення частоти натискань на грудну клітку та штучного дихання є правильним при проведенні серцево-легеневої реанімації?",
@@ -26338,8 +26338,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q007",
-    "sectionNumber": 37.0,
+    "id": "q01597",
+    "sectionNumber": 37,
     "number": 7,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "У постраждалого внаслідок опіку на шкірі утворилися пухирі. Які дії є правильними?",
@@ -26353,8 +26353,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q008",
-    "sectionNumber": 37.0,
+    "id": "q01598",
+    "sectionNumber": 37,
     "number": 8,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Яка допомога при опіку є найбільш правильною?",
@@ -26368,8 +26368,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q009",
-    "sectionNumber": 37.0,
+    "id": "q01599",
+    "sectionNumber": 37,
     "number": 9,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "В якому випадку слід припинити проведення серцево-легеневої реанімації у постраждалих?",
@@ -26383,8 +26383,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q010",
-    "sectionNumber": 37.0,
+    "id": "q01600",
+    "sectionNumber": 37,
     "number": 10,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "В якому випадку слід припинити проведення серцево-легеневої реанімації у постраждалих?",
@@ -26398,8 +26398,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q011",
-    "sectionNumber": 37.0,
+    "id": "q01601",
+    "sectionNumber": 37,
     "number": 11,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "У випадку коли Вам чітко відоме джерело масивної кровотечі, джгут слід накласти:",
@@ -26413,8 +26413,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q012",
-    "sectionNumber": 37.0,
+    "id": "q01602",
+    "sectionNumber": 37,
     "number": 12,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "При наявності стороннього тіла в рані необхідно:",
@@ -26428,8 +26428,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q013",
-    "sectionNumber": 37.0,
+    "id": "q01603",
+    "sectionNumber": 37,
     "number": 13,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "У мотоцикліста при перелітанні через перепону перш за все слід підозрювати травму:",
@@ -26443,8 +26443,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q014",
-    "sectionNumber": 37.0,
+    "id": "q01604",
+    "sectionNumber": 37,
     "number": 14,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Кровоспинний джгут треба затягувати на кінцівці:",
@@ -26458,8 +26458,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q015",
-    "sectionNumber": 37.0,
+    "id": "q01605",
+    "sectionNumber": 37,
     "number": 15,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Якщо людина знаходиться без свідомості і не має травм, її треба:",
@@ -26473,8 +26473,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q016",
-    "sectionNumber": 37.0,
+    "id": "q01606",
+    "sectionNumber": 37,
     "number": 16,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Порядок дій при масивній артеріальній кровотечі:",
@@ -26491,8 +26491,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q018",
-    "sectionNumber": 37.0,
+    "id": "q01607",
+    "sectionNumber": 37,
     "number": 18,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "У постраждалого кровотеча з рани в області шиї. Який метод зупинки кровотечі буде найбільш правильний:",
@@ -26506,8 +26506,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q019",
-    "sectionNumber": 37.0,
+    "id": "q01608",
+    "sectionNumber": 37,
     "number": 19,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Ви не бачите джерело кровотечі з кінцівки у постраждалого, однак визначили що вона масивна. Де Ви накладете джгут:",
@@ -26521,8 +26521,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q020",
-    "sectionNumber": 37.0,
+    "id": "q01609",
+    "sectionNumber": 37,
     "number": 20,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Як надати домедичну допомогу в разі отруєння випарами бензину?",
@@ -26536,8 +26536,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q021",
-    "sectionNumber": 37.0,
+    "id": "q01610",
+    "sectionNumber": 37,
     "number": 21,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Як потрібно обробити уражені електролітом ділянки шкіри?",
@@ -26552,8 +26552,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q022",
-    "sectionNumber": 37.0,
+    "id": "q01611",
+    "sectionNumber": 37,
     "number": 22,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Як надати домедичну допомогу в разі харчового отруєння в дорозі?",
@@ -26567,8 +26567,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q023",
-    "sectionNumber": 37.0,
+    "id": "q01612",
+    "sectionNumber": 37,
     "number": 23,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Як надати домедичну допомогу в разі забою живота?",
@@ -26582,8 +26582,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q024",
-    "sectionNumber": 37.0,
+    "id": "q01613",
+    "sectionNumber": 37,
     "number": 24,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "За відсутності дихання в потерпілого потрібно:",
@@ -26597,8 +26597,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q025",
-    "sectionNumber": 37.0,
+    "id": "q01614",
+    "sectionNumber": 37,
     "number": 25,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Як надати домедичну допомогу в разі термічного опіку в дорозі?",
@@ -26612,8 +26612,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q026",
-    "sectionNumber": 37.0,
+    "id": "q01615",
+    "sectionNumber": 37,
     "number": 26,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Як надати домедичну допомогу при стенокардії (біль у серці) в дорозі?",
@@ -26627,8 +26627,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q027",
-    "sectionNumber": 37.0,
+    "id": "q01616",
+    "sectionNumber": 37,
     "number": 27,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "У разі перелому кінцівки слід:",
@@ -26642,8 +26642,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q028",
-    "sectionNumber": 37.0,
+    "id": "q01617",
+    "sectionNumber": 37,
     "number": 28,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Як впливає алкоголь на час реакції водія?",
@@ -26657,8 +26657,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q029",
-    "sectionNumber": 37.0,
+    "id": "q01618",
+    "sectionNumber": 37,
     "number": 29,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Найбільш небезпечною кровотечею у постраждалих є:",
@@ -26672,8 +26672,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q030",
-    "sectionNumber": 37.0,
+    "id": "q01619",
+    "sectionNumber": 37,
     "number": 30,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Зупинка масивної артеріальної кровотечі, як правило, проводиться:",
@@ -26687,8 +26687,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q031",
-    "sectionNumber": 37.0,
+    "id": "q01620",
+    "sectionNumber": 37,
     "number": 31,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Зупинка венозної кровотечі як правило проводиться:",
@@ -26702,8 +26702,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q032",
-    "sectionNumber": 37.0,
+    "id": "q01621",
+    "sectionNumber": 37,
     "number": 32,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Ознаки артеріальної кровотечі:",
@@ -26717,8 +26717,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q033",
-    "sectionNumber": 37.0,
+    "id": "q01622",
+    "sectionNumber": 37,
     "number": 33,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Ознаки венозної кровотечі:",
@@ -26732,8 +26732,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q034",
-    "sectionNumber": 37.0,
+    "id": "q01623",
+    "sectionNumber": 37,
     "number": 34,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Ви не бачите джерело кровотечі з кінцівки у постраждалого, однак визначили що вона масивна. Де Ви накладете джгут:",
@@ -26747,8 +26747,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q035",
-    "sectionNumber": 37.0,
+    "id": "q01624",
+    "sectionNumber": 37,
     "number": 35,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Яке положення треба надати постраждалому з травмою грудної клітки?",
@@ -26762,8 +26762,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q036",
-    "sectionNumber": 37.0,
+    "id": "q01625",
+    "sectionNumber": 37,
     "number": 36,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Які ваші першочергові дії при наданні домедичної допомоги дорослому в разі раптової зупинки кровообігу та відсутності дихання?",
@@ -26777,8 +26777,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q037",
-    "sectionNumber": 37.0,
+    "id": "q01626",
+    "sectionNumber": 37,
     "number": 37,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "У постраждалого внаслідок термічного опіку на шкірі утворилися пухирі. Які дії будуть правильними?",
@@ -26817,8 +26817,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q048",
-    "sectionNumber": 37.0,
+    "id": "q01627",
+    "sectionNumber": 37,
     "number": 48,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Якими будуть Ваші першочергові дії при наданні домедичної допомоги постраждалому у випадку ДТП?",
@@ -26831,8 +26831,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q049",
-    "sectionNumber": 37.0,
+    "id": "q01628",
+    "sectionNumber": 37,
     "number": 49,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Причинами виникнення шоку в постраждалого можуть бути:",
@@ -26847,8 +26847,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q050",
-    "sectionNumber": 37.0,
+    "id": "q01629",
+    "sectionNumber": 37,
     "number": 50,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Першочергові дії при наданні домедичної допомоги постраждалим за підозри шоку:",
@@ -26861,8 +26861,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q051",
-    "sectionNumber": 37.0,
+    "id": "q01630",
+    "sectionNumber": 37,
     "number": 51,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Що з наведеного насамперед зобов’язаний зробити причетний до дорожньо-транспортної пригоди водій, якщо в результаті події є потерпілі особи?",
@@ -26876,8 +26876,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q052",
-    "sectionNumber": 37.0,
+    "id": "q01631",
+    "sectionNumber": 37,
     "number": 52,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Ви бачите джерело масивної зовнішньої кровотечі з рани на кінцівці постраждалого. Що Ви повинні зробити насамперед?",
@@ -26890,8 +26890,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q053",
-    "sectionNumber": 37.0,
+    "id": "q01632",
+    "sectionNumber": 37,
     "number": 53,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Що слід зробити, якщо після накладання кровоспинного джгута кровотеча з рани на кінцівці постраждалого не спинилася?",
@@ -26905,8 +26905,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q054",
-    "sectionNumber": 37.0,
+    "id": "q01633",
+    "sectionNumber": 37,
     "number": 54,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Що Ви повинні насамперед зробити у разі виявлення в потерпілого у ДТП масивної зовнішньої кровотечі з рани, яка локалізована в основі шиї?",
@@ -26920,8 +26920,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q055",
-    "sectionNumber": 37.0,
+    "id": "q01634",
+    "sectionNumber": 37,
     "number": 55,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Що Ви повинні насамперед зробити у разі виявлення в потерпілого у ДТП масивної зовнішньої кровотечі з рани, яка локалізована в пахвових ділянках?",
@@ -26935,8 +26935,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q056",
-    "sectionNumber": 37.0,
+    "id": "q01635",
+    "sectionNumber": 37,
     "number": 56,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "За яких умов Ви повинні припинити проведення серцево-легеневої реанімації постраждалого в ДТП до прибуття бригади екстреної (швидкої) медичної допомоги?",
@@ -26951,8 +26951,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q057",
-    "sectionNumber": 37.0,
+    "id": "q01636",
+    "sectionNumber": 37,
     "number": 57,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Що потрібно насамперед зробити під час надання домедичної допомоги постраждалому в ДТП у разі підозри в нього травми голови до приїзду бригади екстреної (швидкої) медичної допомоги?",
@@ -26966,8 +26966,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q058",
-    "sectionNumber": 37.0,
+    "id": "q01637",
+    "sectionNumber": 37,
     "number": 58,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "За наявності у постраждалого в ДТП ран у ділянці голови необхідно:",
@@ -26980,8 +26980,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q059",
-    "sectionNumber": 37.0,
+    "id": "q01638",
+    "sectionNumber": 37,
     "number": 59,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Які ознаки тупої травми органів черевної порожнини?",
@@ -26995,8 +26995,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s37-q060",
-    "sectionNumber": 37.0,
+    "id": "q01639",
+    "sectionNumber": 37,
     "number": 60,
     "category": "НАДАННЯ ДОМЕДИЧНОЇ ДОПОМОГИ",
     "question": "Що із переліченого належить до ознак гострого мозкового інсульту?",
@@ -27011,8 +27011,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s38-q001",
-    "sectionNumber": 38.0,
+    "id": "q01640",
+    "sectionNumber": 38,
     "number": 1,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Як у цій ситуації ви визначаєте порядок руху?",
@@ -27028,8 +27028,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s38-q002",
-    "sectionNumber": 38.0,
+    "id": "q01641",
+    "sectionNumber": 38,
     "number": 2,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Якими будуть ваші дії, якщо вантажний автомобіль не зменшує швидкість, виїжджаючи на міст?",
@@ -27045,8 +27045,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s38-q003",
-    "sectionNumber": 38.0,
+    "id": "q01642",
+    "sectionNumber": 38,
     "number": 3,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Якими будуть ваші дії, якщо вантажний автомобіль декілька разів увімкнув дальнє світло?",
@@ -27062,8 +27062,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s38-q004",
-    "sectionNumber": 38.0,
+    "id": "q01643",
+    "sectionNumber": 38,
     "number": 4,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Що може означати короткочасне ввімкнення стоп-сигналів автомобіля, що рухається попереду в щільному транспортному потоці?",
@@ -27077,8 +27077,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s38-q005",
-    "sectionNumber": 38.0,
+    "id": "q01644",
+    "sectionNumber": 38,
     "number": 5,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Як повинен діяти водій автомобіля, який обганяють, що рухається з дальнім світлом фар у темний час доби?",
@@ -27092,8 +27092,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s38-q006",
-    "sectionNumber": 38.0,
+    "id": "q01645",
+    "sectionNumber": 38,
     "number": 6,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Що необхідно зробити перед тим, як вийти з автомобіля після зупинки на дорозі?",
@@ -27108,8 +27108,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s38-q007",
-    "sectionNumber": 38.0,
+    "id": "q01646",
+    "sectionNumber": 38,
     "number": 7,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Які з перерахованих дій учасників дорожнього руху можуть призвести до виникнення аварійної ситуації під час перестоювання в транспортному потоці?",
@@ -27124,8 +27124,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s38-q008",
-    "sectionNumber": 38.0,
+    "id": "q01647",
+    "sectionNumber": 38,
     "number": 8,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Під час руху по дорозі поза населеним пунктом Ви зібралися зробити обгін вантажного автомобіля. Після ввімкнення Вами лівого покажчика повороту водій вантажного автомобіля ввімкнув та вимкнув сигнал лівого повороту. Що це може означати?",
@@ -27139,8 +27139,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s38-q009",
-    "sectionNumber": 38.0,
+    "id": "q01648",
+    "sectionNumber": 38,
     "number": 9,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Під час руху в темний час доби автомобіль, що рухався перед Вами, різко загальмував на смузі руху. Які Ваші дії в ситуації, що склалася, будуть найбезпечнішими?",
@@ -27154,8 +27154,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s38-q010",
-    "sectionNumber": 38.0,
+    "id": "q01649",
+    "sectionNumber": 38,
     "number": 10,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "В який бік необхідно дивитися водію при зустрічному роз’їзді в темний час доби для того, щоб зменшити вірогідність засліплення?",
@@ -27169,8 +27169,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s38-q011",
-    "sectionNumber": 38.0,
+    "id": "q01650",
+    "sectionNumber": 38,
     "number": 11,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Відносно якої лінії дорожньої розмітки найбільш безпечно контролювати положення свого автомобіля при зустрічному роз’їзді в темний час доби?",
@@ -27184,8 +27184,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s38-q012",
-    "sectionNumber": 38.0,
+    "id": "q01651",
+    "sectionNumber": 38,
     "number": 12,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Чи змінюється поле зору водія при збільшенні швидкості руху?",
@@ -27199,8 +27199,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s38-q013",
-    "sectionNumber": 38.0,
+    "id": "q01652",
+    "sectionNumber": 38,
     "number": 13,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "Гальмівний шлях на дорозі одразу після дощу:",
@@ -27214,8 +27214,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s38-q014",
-    "sectionNumber": 38.0,
+    "id": "q01653",
+    "sectionNumber": 38,
     "number": 14,
     "category": "ЕТИКА ВОДІННЯ, КУЛЬТУРА ТА ВІДПОЧИНОК ВОДІЯ",
     "question": "При русі в транспортному потоці водій, що рухався по сусідній смузі, різко перелаштувався на Вашу смугу руху, змусивши Вас загальмувати. Що необхідно Вам зробити в даній ситуації?",
@@ -27230,8 +27230,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s39-q001",
-    "sectionNumber": 39.0,
+    "id": "q01654",
+    "sectionNumber": 39,
     "number": 1,
     "category": "ЄВРОПРОТОКОЛ",
     "question": "Оберіть правильне твердження однієї з умов використання спільного повідомлення про дорожньо-транспортну пригоду (Європротоколу):",
@@ -27246,8 +27246,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s39-q002",
-    "sectionNumber": 39.0,
+    "id": "q01655",
+    "sectionNumber": 39,
     "number": 2,
     "category": "ЄВРОПРОТОКОЛ",
     "question": "Чи можна скласти спільне повідомлення про дорожньо-транспортну пригоду (Європротокол) у разі завдання шкоди об’єктам крім ТЗ?",
@@ -27262,8 +27262,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s39-q003",
-    "sectionNumber": 39.0,
+    "id": "q01656",
+    "sectionNumber": 39,
     "number": 3,
     "category": "ЄВРОПРОТОКОЛ",
     "question": "Чи складається спільне повідомлення про дорожньо-транспортну пригоду (Європротокол) якщо шкода завдана третьому ТЗ, крім двох учасників ДТП?",
@@ -27278,8 +27278,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s39-q004",
-    "sectionNumber": 39.0,
+    "id": "q01657",
+    "sectionNumber": 39,
     "number": 4,
     "category": "ЄВРОПРОТОКОЛ",
     "question": "Ким складається спільне повідомлення про дорожньо-транспортну пригоду (Європротокол)?",
@@ -27294,8 +27294,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s39-q005",
-    "sectionNumber": 39.0,
+    "id": "q01658",
+    "sectionNumber": 39,
     "number": 5,
     "category": "ЄВРОПРОТОКОЛ",
     "question": "Хто з водіїв, учасників ДТП, заповнює пункт «Транспортний засіб А» при оформленні спільного повідомлення про дорожньо-транспортну пригоду (Європротоколу)?",
@@ -27310,8 +27310,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s39-q006",
-    "sectionNumber": 39.0,
+    "id": "q01659",
+    "sectionNumber": 39,
     "number": 6,
     "category": "ЄВРОПРОТОКОЛ",
     "question": "В разі завдання шкоди життю та здоров’ю учаснику (учасникам) ДТП чи складається спільне повідомлення про дорожньо-транспортну пригоду (Європротокол)?",
@@ -27326,8 +27326,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q001",
-    "sectionNumber": 40.0,
+    "id": "q01660",
+    "sectionNumber": 40,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Хто з водіїв може рухатися з більш високою швидкістю на автомагістралі?",
@@ -27343,8 +27343,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q002",
-    "sectionNumber": 40.0,
+    "id": "q01661",
+    "sectionNumber": 40,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Кому з водіїв дозволено рух з більш високою швидкістю?",
@@ -27360,8 +27360,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q003",
-    "sectionNumber": 40.0,
+    "id": "q01662",
+    "sectionNumber": 40,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Проїжджаючи це перехрестя, водії повинні керуватися:",
@@ -27377,8 +27377,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q004",
-    "sectionNumber": 40.0,
+    "id": "q01663",
+    "sectionNumber": 40,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Чим Ви як водій мопеда повинні керуватися під час проїзду цього перехрестя?",
@@ -27395,8 +27395,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q005",
-    "sectionNumber": 40.0,
+    "id": "q01664",
+    "sectionNumber": 40,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Які транспортні засоби поставлені з порушенням Правил дорожнього руху?",
@@ -27413,8 +27413,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q006",
-    "sectionNumber": 40.0,
+    "id": "q01665",
+    "sectionNumber": 40,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух мопедів на автомагістралях?",
@@ -27432,8 +27432,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q007",
-    "sectionNumber": 40.0,
+    "id": "q01666",
+    "sectionNumber": 40,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Чи дозволено водієві мопеда продовжити рух прямо, якщо він обслуговує підприємства, що розташовані в позначеній зоні до найближчого перехрестя?",
@@ -27448,8 +27448,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q008",
-    "sectionNumber": 40.0,
+    "id": "q01667",
+    "sectionNumber": 40,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Чи дозволено водієві мопеда рух у зону дії зображеного дорожнього знака?",
@@ -27464,8 +27464,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q009",
-    "sectionNumber": 40.0,
+    "id": "q01668",
+    "sectionNumber": 40,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Чи дозволено рух водієві мотоцикла, що виконує доставку товарів на підприємства, розташовані в зоні дії даного дорожнього знака?",
@@ -27481,8 +27481,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q010",
-    "sectionNumber": 40.0,
+    "id": "q01669",
+    "sectionNumber": 40,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Хто з показаних мотоциклістів порушує правила буксирування?",
@@ -27500,8 +27500,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q011",
-    "sectionNumber": 40.0,
+    "id": "q01670",
+    "sectionNumber": 40,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Зображений дорожній знак забороняє рух:",
@@ -27517,8 +27517,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q012",
-    "sectionNumber": 40.0,
+    "id": "q01671",
+    "sectionNumber": 40,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Чи дозволено водієві мотоцикла повернути ліворуч, якщо він там проживає?",
@@ -27533,8 +27533,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s40-q013",
-    "sectionNumber": 40.0,
+    "id": "q01672",
+    "sectionNumber": 40,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух мотоциклів на дорогах з окремими проїзними частинами поза населеними пунктами?",
@@ -27548,8 +27548,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q014",
-    "sectionNumber": 40.0,
+    "id": "q01673",
+    "sectionNumber": 40,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Ви водій мотоцикла, рухаючись в населеному пункті вирішили повернути праворуч на перехресті. Ви:",
@@ -27563,8 +27563,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q015",
-    "sectionNumber": 40.0,
+    "id": "q01674",
+    "sectionNumber": 40,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Коли водієві мотоцикла необхідно припинити подавання сигналу світловим покажчиком повороту, виконуючи маневр?",
@@ -27581,8 +27581,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q017",
-    "sectionNumber": 40.0,
+    "id": "q01675",
+    "sectionNumber": 40,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Ви, як водій мотоцикла, перед початком руху повинні:",
@@ -27596,8 +27596,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q018",
-    "sectionNumber": 40.0,
+    "id": "q01676",
+    "sectionNumber": 40,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Ви, як водій мотоцикла, виїжджаючи з прилеглої до дороги території повинні перед проїзною частиною чи тротуаром дати дорогу:",
@@ -27611,8 +27611,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q019",
-    "sectionNumber": 40.0,
+    "id": "q01677",
+    "sectionNumber": 40,
     "number": 19,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Ви водій, заправили мотоцикл паливом і виїжджаючи на дорогу з автозаправної станції, повинні:",
@@ -27626,8 +27626,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q020",
-    "sectionNumber": 40.0,
+    "id": "q01678",
+    "sectionNumber": 40,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Чи дозволене буксирування мотоциклів і мопедів без бокових причепів?",
@@ -27641,8 +27641,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q021",
-    "sectionNumber": 40.0,
+    "id": "q01679",
+    "sectionNumber": 40,
     "number": 21,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Ви рухаєтесь на мотоциклі, у якого відсутні або несправні сигнали гальмування, і Вам необхідно зупинитися. Ваші дії:",
@@ -27657,8 +27657,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q022",
-    "sectionNumber": 40.0,
+    "id": "q01680",
+    "sectionNumber": 40,
     "number": 22,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Які сигнали повинен подавати водій мотоцикла у разі відсутності або несправності сигналів гальмування?",
@@ -27672,8 +27672,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q023",
-    "sectionNumber": 40.0,
+    "id": "q01681",
+    "sectionNumber": 40,
     "number": 23,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Буксирування мотоциклів із боковим причепом і такими ж мотоциклами:",
@@ -27686,8 +27686,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q024",
-    "sectionNumber": 40.0,
+    "id": "q01682",
+    "sectionNumber": 40,
     "number": 24,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Чим Ви як водій мотоцикла повинні керуватися, якщо вимоги дорожніх знаків суперечать вимогам дорожньої розмітки?",
@@ -27701,8 +27701,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q025",
-    "sectionNumber": 40.0,
+    "id": "q01683",
+    "sectionNumber": 40,
     "number": 25,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Чим Ви як водій мотоцикла повинні керуватися, якщо сигнали, які подає регулювальник, суперечать сигналам світлофора?",
@@ -27717,8 +27717,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q026",
-    "sectionNumber": 40.0,
+    "id": "q01684",
+    "sectionNumber": 40,
     "number": 26,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Чи дозволене буксирування мотоциклами без бокових причепів?",
@@ -27731,8 +27731,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q027",
-    "sectionNumber": 40.0,
+    "id": "q01685",
+    "sectionNumber": 40,
     "number": 27,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "У яких випадках Ви як водій мотоцикла повинні подавати сигнали світловими покажчиками повороту?",
@@ -27746,8 +27746,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q028",
-    "sectionNumber": 40.0,
+    "id": "q01686",
+    "sectionNumber": 40,
     "number": 28,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Який попереджувальний сигнал Ви як водій мотоцикла повинні вмикати на транспортному засобі перед початком руху і зупинкою?",
@@ -27761,8 +27761,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q029",
-    "sectionNumber": 40.0,
+    "id": "q01687",
+    "sectionNumber": 40,
     "number": 29,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Ви рухаєтесь на мотоциклі, у якого відсутні або несправні світлові покажчики поворотів, і Вам необхідно повернути ліворуч. Ваші дії:",
@@ -27776,8 +27776,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q030",
-    "sectionNumber": 40.0,
+    "id": "q01688",
+    "sectionNumber": 40,
     "number": 30,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "Ви рухаєтесь на мотоциклі, у якого відсутні або несправні світлові покажчики поворотів, і Вам необхідно повернути праворуч. Ваші дії:",
@@ -27792,8 +27792,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s40-q031",
-    "sectionNumber": 40.0,
+    "id": "q01689",
+    "sectionNumber": 40,
     "number": 31,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЗАГАЛЬНІ)",
     "question": "З якого віку дозволено навчатися водінню мотоцикла?",
@@ -27808,8 +27808,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s41-q001",
-    "sectionNumber": 41.0,
+    "id": "q01690",
+    "sectionNumber": 41,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Мотоциклом вважається:",
@@ -27826,8 +27826,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s41-q002",
-    "sectionNumber": 41.0,
+    "id": "q01691",
+    "sectionNumber": 41,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Мопедом вважається:",
@@ -27842,8 +27842,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s41-q003",
-    "sectionNumber": 41.0,
+    "id": "q01692",
+    "sectionNumber": 41,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Як часто рекомендують перевіряти зчеплення мотоцикла?",
@@ -27857,8 +27857,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s41-q004",
-    "sectionNumber": 41.0,
+    "id": "q01693",
+    "sectionNumber": 41,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Коли на задньому сидінні мотоцикла є пасажир, як це позначається на ходових якостях мотоцикла?",
@@ -27871,8 +27871,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s41-q005",
-    "sectionNumber": 41.0,
+    "id": "q01694",
+    "sectionNumber": 41,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Для чого необхідно вимірювати густину гальмівної рідини в процесі обслуговування транспортного засобу?",
@@ -27886,8 +27886,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s41-q006",
-    "sectionNumber": 41.0,
+    "id": "q01695",
+    "sectionNumber": 41,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Що обов'язково необхідно зробити після тривалої поїздки на мотоциклі (мопеді) під дощем?",
@@ -27901,8 +27901,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s41-q007",
-    "sectionNumber": 41.0,
+    "id": "q01696",
+    "sectionNumber": 41,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Під час проїзду забрудненої ділянки на мотоциклі з повітряним охолодженням двигуна потрібно...",
@@ -27916,8 +27916,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s41-q008",
-    "sectionNumber": 41.0,
+    "id": "q01697",
+    "sectionNumber": 41,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Що сприяє недопущенню неконтрольованого биття колеса на швидкості (вобблінгу)?",
@@ -27932,8 +27932,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s41-q009",
-    "sectionNumber": 41.0,
+    "id": "q01698",
+    "sectionNumber": 41,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "До чого може призвести недостатній тиск повітря в шинах коліс?",
@@ -27947,8 +27947,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s41-q010",
-    "sectionNumber": 41.0,
+    "id": "q01699",
+    "sectionNumber": 41,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Як часто рекомендують перевіряти рівень моторної оливи?",
@@ -27962,8 +27962,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s41-q011",
-    "sectionNumber": 41.0,
+    "id": "q01700",
+    "sectionNumber": 41,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Вкажіть, що потрібно перевірити перед початком руху.",
@@ -27977,8 +27977,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s41-q012",
-    "sectionNumber": 41.0,
+    "id": "q01701",
+    "sectionNumber": 41,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Як може вплинути розтягнення ланцюга з часом на процес експлуатації мотоцикла?",
@@ -27992,8 +27992,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s41-q013",
-    "sectionNumber": 41.0,
+    "id": "q01702",
+    "sectionNumber": 41,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БУДОВА І ТЕРМІНИ)",
     "question": "Чому заднє колесо мотоцикла при гальмуванні більш схильне до блокування, ніж переднє?Так як при гальмуванні заднє колесо:",
@@ -28006,8 +28006,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q001",
-    "sectionNumber": 42.0,
+    "id": "q01703",
+    "sectionNumber": 42,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "З якою максимальною швидкістю дозволено рух водіям мотоциклів у населених пунктах?",
@@ -28025,8 +28025,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s42-q002",
-    "sectionNumber": 42.0,
+    "id": "q01704",
+    "sectionNumber": 42,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "До якої категорії транспортних засобів належать мотоцикли?",
@@ -28042,8 +28042,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s42-q003",
-    "sectionNumber": 42.0,
+    "id": "q01705",
+    "sectionNumber": 42,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Право на керування транспортними засобами категорії А1 та А надається:",
@@ -28059,8 +28059,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s42-q004",
-    "sectionNumber": 42.0,
+    "id": "q01706",
+    "sectionNumber": 42,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "З якою максимальною швидкістю дозволено рух мотоциклів на дорогах, що проходять через населені пункти, позначені таким дорожнім знаком?",
@@ -28078,8 +28078,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s42-q005",
-    "sectionNumber": 42.0,
+    "id": "q01707",
+    "sectionNumber": 42,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи дозволено ставити транспортні засоби в два ряди на проїзній частині?",
@@ -28093,8 +28093,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q006",
-    "sectionNumber": 42.0,
+    "id": "q01708",
+    "sectionNumber": 42,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Де на мотоциклі встановлюють номерні знаки?",
@@ -28108,8 +28108,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q007",
-    "sectionNumber": 42.0,
+    "id": "q01709",
+    "sectionNumber": 42,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Протягом якого часу з моменту придбання (отримання) або митного оформлення мотоциклу необхідно зареєструвати (перереєструвати) його у відповідних органах МВС або провести відомчу реєстрацію в разі, якщо законом встановлена обов'язковість її проведення?",
@@ -28124,8 +28124,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q008",
-    "sectionNumber": 42.0,
+    "id": "q01710",
+    "sectionNumber": 42,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "З якого віку дозволено навчатися водінню мотоцикла?",
@@ -28140,8 +28140,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q009",
-    "sectionNumber": 42.0,
+    "id": "q01711",
+    "sectionNumber": 42,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "З якого віку дозволено навчатися водінню мопеда?",
@@ -28156,8 +28156,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q010",
-    "sectionNumber": 42.0,
+    "id": "q01712",
+    "sectionNumber": 42,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи може водій мотоцикла, який порушив Правила дорожнього руху, уникнути адміністративної відповідальності через незнання чинного законодавства у сфері дорожнього руху?",
@@ -28171,8 +28171,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q011",
-    "sectionNumber": 42.0,
+    "id": "q01713",
+    "sectionNumber": 42,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Порушення водієм мотоцикла правил руху через залізничний переїзд тягне за собою:",
@@ -28186,8 +28186,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q012",
-    "sectionNumber": 42.0,
+    "id": "q01714",
+    "sectionNumber": 42,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "В якому випадку водій мотоцикла зобов'язаний поступитися дорогою пішоходам?",
@@ -28201,8 +28201,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q013",
-    "sectionNumber": 42.0,
+    "id": "q01715",
+    "sectionNumber": 42,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Які з перерахованих прав є у водія мотоцикла?",
@@ -28217,8 +28217,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q014",
-    "sectionNumber": 42.0,
+    "id": "q01716",
+    "sectionNumber": 42,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Які транспортні засоби належать до категорії А1?",
@@ -28233,8 +28233,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q015",
-    "sectionNumber": 42.0,
+    "id": "q01717",
+    "sectionNumber": 42,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "З якою максимальною швидкістю дозволено рух мопедів на всіх дорогах за межами населених пунктів?",
@@ -28250,8 +28250,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q016",
-    "sectionNumber": 42.0,
+    "id": "q01718",
+    "sectionNumber": 42,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Водієві мотоцикла дозволено:",
@@ -28265,8 +28265,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q017",
-    "sectionNumber": 42.0,
+    "id": "q01719",
+    "sectionNumber": 42,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Документи, які повинен пред’явити для перевірки водій мотоцикла на вимогу поліцейського:",
@@ -28282,8 +28282,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q018",
-    "sectionNumber": 42.0,
+    "id": "q01720",
+    "sectionNumber": 42,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Кому має право передавати управління власник мотоцикла, а також особа, яка використовує цей мотоцикл на законних підставах?",
@@ -28297,8 +28297,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q019",
-    "sectionNumber": 42.0,
+    "id": "q01721",
+    "sectionNumber": 42,
     "number": 19,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Які документи повинен мати при собі водій мотоцикла?",
@@ -28314,8 +28314,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s42-q020",
-    "sectionNumber": 42.0,
+    "id": "q01722",
+    "sectionNumber": 42,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Які з перерахованих транспортних засобів дозволяється експлуатувати без медичної аптечки?",
@@ -28330,8 +28330,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q001",
-    "sectionNumber": 43.0,
+    "id": "q01723",
+    "sectionNumber": 43,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Чи зобов'язані водії та пасажири мотоциклів і мопедів бути в застебнутих мотошоломах?",
@@ -28348,8 +28348,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s43-q002",
-    "sectionNumber": 43.0,
+    "id": "q01724",
+    "sectionNumber": 43,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Які зовнішні світлові пристрої повинні бути ввімкнені на мопедах і велосипедах під час руху в темний час доби незалежно від ступеня освітлення дороги?",
@@ -28363,8 +28363,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q003",
-    "sectionNumber": 43.0,
+    "id": "q01725",
+    "sectionNumber": 43,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Які з перерахованих транспортних засобів дозволяється експлуатувати без вогнегасника?",
@@ -28379,8 +28379,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q004",
-    "sectionNumber": 43.0,
+    "id": "q01726",
+    "sectionNumber": 43,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Ви, рухаючись на мотоциклі, потрапили в порив сильного вітру. Ваші дії:",
@@ -28396,8 +28396,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q005",
-    "sectionNumber": 43.0,
+    "id": "q01727",
+    "sectionNumber": 43,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "У мокру погоду або в дощ найкраще гальмувати:",
@@ -28413,8 +28413,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q006",
-    "sectionNumber": 43.0,
+    "id": "q01728",
+    "sectionNumber": 43,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "При їзді по дорогах з гравійним покриттям на мотоциклі (мопеді) потрібно:",
@@ -28430,8 +28430,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q007",
-    "sectionNumber": 43.0,
+    "id": "q01729",
+    "sectionNumber": 43,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "При їзді по гравійним дорогам, керуючи мотоциклом, Ви повинні:",
@@ -28447,8 +28447,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q008",
-    "sectionNumber": 43.0,
+    "id": "q01730",
+    "sectionNumber": 43,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Щоб водію мотоцикла (мопеда) знизити швидкість на гравійній дорозі, потрібно:",
@@ -28463,8 +28463,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q009",
-    "sectionNumber": 43.0,
+    "id": "q01731",
+    "sectionNumber": 43,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "У момент повороту на перехресті ви розумієте, що під колесами мотоцикла знаходиться пісок або гравій. Ваші дії:",
@@ -28479,8 +28479,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q010",
-    "sectionNumber": 43.0,
+    "id": "q01732",
+    "sectionNumber": 43,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Якщо водію мотоцикла (мопеда) на швидкості необхідно зробити швидкий маневр вліво для ухилення від перешкоди, потрібно:",
@@ -28495,8 +28495,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q011",
-    "sectionNumber": 43.0,
+    "id": "q01733",
+    "sectionNumber": 43,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Що потрібно зробити, якщо ви проїхали по купі сміття на мотоциклі (мопеді):",
@@ -28511,8 +28511,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q012",
-    "sectionNumber": 43.0,
+    "id": "q01734",
+    "sectionNumber": 43,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "При перетині залізничного переїзду:",
@@ -28527,8 +28527,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q013",
-    "sectionNumber": 43.0,
+    "id": "q01735",
+    "sectionNumber": 43,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Якщо на вашому шляху переїзд з металевих листів:",
@@ -28543,8 +28543,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q014",
-    "sectionNumber": 43.0,
+    "id": "q01736",
+    "sectionNumber": 43,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Найкращий спосіб проїхати ділянку на мотоциклі (мопеді) зі знятим асфальтом:",
@@ -28559,8 +28559,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q015",
-    "sectionNumber": 43.0,
+    "id": "q01737",
+    "sectionNumber": 43,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Що слід враховувати і як правильно діяти водію мотоцикла перетинаючи ділянки доріг з дорожньою розміткою (пішохідні переходи і т.д.):",
@@ -28575,8 +28575,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q016",
-    "sectionNumber": 43.0,
+    "id": "q01738",
+    "sectionNumber": 43,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Як ви повинні вчинити, якщо під час руху відмовив у роботі спідометр на мотоциклі?",
@@ -28590,8 +28590,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q017",
-    "sectionNumber": 43.0,
+    "id": "q01739",
+    "sectionNumber": 43,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "У якому місці водій мотоцикла повинен зупинити свій транспортний засіб на залізничному переїзді?",
@@ -28605,8 +28605,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q018",
-    "sectionNumber": 43.0,
+    "id": "q01740",
+    "sectionNumber": 43,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Чим повинен керуватися водій мотоцикла під час проїзду залізничного переїзду?",
@@ -28622,8 +28622,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q019",
-    "sectionNumber": 43.0,
+    "id": "q01741",
+    "sectionNumber": 43,
     "number": 19,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "За яких умов дозволено перевозити дітей на задньому сидінні мотоцикла та мопеда?",
@@ -28637,8 +28637,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q020",
-    "sectionNumber": 43.0,
+    "id": "q01742",
+    "sectionNumber": 43,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Що з переліченого екіпірування для водіїв транспортних засобів категорій А, А1 є обов'язковим до застосування?",
@@ -28652,8 +28652,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q021",
-    "sectionNumber": 43.0,
+    "id": "q01743",
+    "sectionNumber": 43,
     "number": 21,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Що з переліченого екіпірування водіям транспортних засобів категорій А, А1 рекомендується до застосування?",
@@ -28667,8 +28667,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q022",
-    "sectionNumber": 43.0,
+    "id": "q01744",
+    "sectionNumber": 43,
     "number": 22,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Чи обов'язково застібати мотошолом під час руху зі швидкістю до 15 км/год.?",
@@ -28682,8 +28682,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q023",
-    "sectionNumber": 43.0,
+    "id": "q01745",
+    "sectionNumber": 43,
     "number": 23,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Чи можна знімати мотошолом під час руху?",
@@ -28697,8 +28697,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q024",
-    "sectionNumber": 43.0,
+    "id": "q01746",
+    "sectionNumber": 43,
     "number": 24,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Чи можна перевозити пасажирів без мотошоломів?",
@@ -28712,8 +28712,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q025",
-    "sectionNumber": 43.0,
+    "id": "q01747",
+    "sectionNumber": 43,
     "number": 25,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Чи варто враховувати обмежену видимість мотоцикла в дзеркалі автомобіля, що їде попереду, під час виконання обгону або об'їзду?",
@@ -28727,8 +28727,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q026",
-    "sectionNumber": 43.0,
+    "id": "q01748",
+    "sectionNumber": 43,
     "number": 26,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Що варто враховувати мотоциклістові під час під'їзду до автопоїзда?",
@@ -28742,8 +28742,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q027",
-    "sectionNumber": 43.0,
+    "id": "q01749",
+    "sectionNumber": 43,
     "number": 27,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Що дозволяється робити мотоциклістові в разі затору?",
@@ -28757,8 +28757,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q028",
-    "sectionNumber": 43.0,
+    "id": "q01750",
+    "sectionNumber": 43,
     "number": 28,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Що зобов'язаний зробити водій мотоцикла перед виїздом?",
@@ -28772,8 +28772,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q029",
-    "sectionNumber": 43.0,
+    "id": "q01751",
+    "sectionNumber": 43,
     "number": 29,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Для забезпечення безпеки дорожнього руху водій мотоцикла зобов'язаний...",
@@ -28789,8 +28789,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q030",
-    "sectionNumber": 43.0,
+    "id": "q01752",
+    "sectionNumber": 43,
     "number": 30,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Як ви повинні вчинити в ситуації, коли автомобіль, що їде перед вами, спочатку почав знижувати швидкість, а потім і зовсім зупинився перед нерегульованим пішохідним переходом?",
@@ -28804,8 +28804,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q031",
-    "sectionNumber": 43.0,
+    "id": "q01753",
+    "sectionNumber": 43,
     "number": 31,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "На якій відстані до зустрічного транспортного засобу необхідно переключити дальнє світло на ближнє в темний час доби рухаючись на мотоциклі?",
@@ -28820,8 +28820,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q032",
-    "sectionNumber": 43.0,
+    "id": "q01754",
+    "sectionNumber": 43,
     "number": 32,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Як повинен вчинити водій мотоцикла, який рухається з дальнім світлом фар у темний час доби, якщо водії зустрічних транспортних засобів, що знаходяться на відстані більше ніж 250 м, періодично перемикають світло фар?",
@@ -28835,8 +28835,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q033",
-    "sectionNumber": 43.0,
+    "id": "q01755",
+    "sectionNumber": 43,
     "number": 33,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Водії мотоциклів та мопедів можуть перетинати залізничні колії лише:",
@@ -28852,8 +28852,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s43-q034",
-    "sectionNumber": 43.0,
+    "id": "q01756",
+    "sectionNumber": 43,
     "number": 34,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ А1, А (БЕЗПЕКА)",
     "question": "Ви рухалися на мотоциклі без коляски. Тепер Ви пересіли на мотоцикл з коляскою (коляска справа, без гальм). Що зміниться?",
@@ -28867,8 +28867,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q001",
-    "sectionNumber": 44.0,
+    "id": "q01757",
+    "sectionNumber": 44,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Ви, як водій автомобіля, маєте право використовувати узбіччя:",
@@ -28884,8 +28884,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s44-q002",
-    "sectionNumber": 44.0,
+    "id": "q01758",
+    "sectionNumber": 44,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "З якого віку надається право на керування транспортними засобами категорії В?",
@@ -28902,8 +28902,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s44-q003",
-    "sectionNumber": 44.0,
+    "id": "q01759",
+    "sectionNumber": 44,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Яку максимальну швидкість руху встановлено в населених пунктах, позначених даним дорожнім знаком?",
@@ -28920,8 +28920,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s44-q004",
-    "sectionNumber": 44.0,
+    "id": "q01760",
+    "sectionNumber": 44,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Кожна особа, під час проходження навчання практичному водінню на легковому автомобілі (категорія В), зобов'язана отримати:",
@@ -28936,8 +28936,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q005",
-    "sectionNumber": 44.0,
+    "id": "q01761",
+    "sectionNumber": 44,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Рухаючись у темну пору доби, водій механічного транспортного засобу незалежно від ступеня освітлення дороги повинен ввімкнути такі зовнішні світлові пристрої:",
@@ -28951,8 +28951,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q006",
-    "sectionNumber": 44.0,
+    "id": "q01762",
+    "sectionNumber": 44,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "У якому місці повинні здійснюватися зупинка і стоянка транспортного засобу на дорозі?",
@@ -28966,8 +28966,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q007",
-    "sectionNumber": 44.0,
+    "id": "q01763",
+    "sectionNumber": 44,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Що повинен враховувати водій під час вибору безпечної дистанції та інтервалу?",
@@ -28983,8 +28983,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q008",
-    "sectionNumber": 44.0,
+    "id": "q01764",
+    "sectionNumber": 44,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Як має рухатися нерейковий транспортний засіб на дорозі, яка має по дві й більше смуг для руху в кожному напрямку, вільній від інших транспортних засобів, якщо немає необхідності виконувати маневри?",
@@ -28998,8 +28998,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q009",
-    "sectionNumber": 44.0,
+    "id": "q01765",
+    "sectionNumber": 44,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Водій, який рухається по перехрестю, де організовано круговий рух, не маючи наміру змінювати своєї смуги, зобов'язаний:",
@@ -29013,8 +29013,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q010",
-    "sectionNumber": 44.0,
+    "id": "q01766",
+    "sectionNumber": 44,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Рухаючись поза населеним пунктом у світлу пору доби, водій механічного транспортного засобу повинен увімкнути:",
@@ -29028,8 +29028,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q011",
-    "sectionNumber": 44.0,
+    "id": "q01767",
+    "sectionNumber": 44,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Де заборонене подавання звукового сигналу?",
@@ -29043,8 +29043,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q012",
-    "sectionNumber": 44.0,
+    "id": "q01768",
+    "sectionNumber": 44,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Ви рухаєтесь на автомобілі, у якого несправні світлові покажчики поворотів, але Вам необхідно повернути праворуч. Ваші дії:",
@@ -29058,8 +29058,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q013",
-    "sectionNumber": 44.0,
+    "id": "q01769",
+    "sectionNumber": 44,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Що з переліченого нижче входить в обов'язки учасників дорожнього руху?",
@@ -29075,8 +29075,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q014",
-    "sectionNumber": 44.0,
+    "id": "q01770",
+    "sectionNumber": 44,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Які документи повинен мати при собі водій механічного транспортного засобу?",
@@ -29092,8 +29092,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q015",
-    "sectionNumber": 44.0,
+    "id": "q01771",
+    "sectionNumber": 44,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Яку максимальну кількість пасажирів має право перевозити водій з категорією “В”?",
@@ -29107,8 +29107,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s44-q016",
-    "sectionNumber": 44.0,
+    "id": "q01772",
+    "sectionNumber": 44,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЗАГАЛЬНІ)",
     "question": "Зміст навчального матеріалу та кількість практичних годин для проходження навчання практичному водінню на легковому автомобілі (категорія В), визначається:",
@@ -29122,8 +29122,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s45-q001",
-    "sectionNumber": 45.0,
+    "id": "q01773",
+    "sectionNumber": 45,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Недостатньою видимістю вважається:",
@@ -29139,8 +29139,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q002",
-    "sectionNumber": 45.0,
+    "id": "q01774",
+    "sectionNumber": 45,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Що означає вимога дати дорогу?",
@@ -29156,8 +29156,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q003",
-    "sectionNumber": 45.0,
+    "id": "q01775",
+    "sectionNumber": 45,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Перехрестям вважається:",
@@ -29174,8 +29174,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q004",
-    "sectionNumber": 45.0,
+    "id": "q01776",
+    "sectionNumber": 45,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Що з переліченого нижче відповідає терміну «видимість у напрямку руху»?",
@@ -29189,8 +29189,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s45-q005",
-    "sectionNumber": 45.0,
+    "id": "q01777",
+    "sectionNumber": 45,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "За наявності якої несправності дозволяється експлуатація транспортного засобу?",
@@ -29205,8 +29205,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s45-q006",
-    "sectionNumber": 45.0,
+    "id": "q01778",
+    "sectionNumber": 45,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Яку максимальну кількість пасажирів Ви, як водій з категорією В, маєте право перевозити?",
@@ -29221,8 +29221,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s45-q007",
-    "sectionNumber": 45.0,
+    "id": "q01779",
+    "sectionNumber": 45,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "У якому випадку дозволяється експлуатація транспортного засобу?",
@@ -29236,8 +29236,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s45-q008",
-    "sectionNumber": 45.0,
+    "id": "q01780",
+    "sectionNumber": 45,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Ви маєте право експлуатувати легковий автомобіль за відсутності:",
@@ -29252,8 +29252,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s45-q009",
-    "sectionNumber": 45.0,
+    "id": "q01781",
+    "sectionNumber": 45,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "У разі виникнення якої несправності заборонено подальший рух навіть до місця ремонту або стоянки?",
@@ -29267,8 +29267,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s45-q010",
-    "sectionNumber": 45.0,
+    "id": "q01782",
+    "sectionNumber": 45,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Для чого здійснюють балансування коліс?",
@@ -29282,8 +29282,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s45-q011",
-    "sectionNumber": 45.0,
+    "id": "q01783",
+    "sectionNumber": 45,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "На автомобілі з автоматичною коробкою передач щоб зняти автомобіль з позиції P необхідно натиснути педаль гальма:",
@@ -29298,8 +29298,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q012",
-    "sectionNumber": 45.0,
+    "id": "q01784",
+    "sectionNumber": 45,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Під час руху на автомобілі загорівся попереджувальний індикатор № 4, це означає:",
@@ -29316,8 +29316,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q013",
-    "sectionNumber": 45.0,
+    "id": "q01785",
+    "sectionNumber": 45,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Під час руху на автомобілі загорівся попереджувальний індикатор № 1, це означає:",
@@ -29334,8 +29334,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q014",
-    "sectionNumber": 45.0,
+    "id": "q01786",
+    "sectionNumber": 45,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Виберіть індикатор, що відображає увімкнення ближнього світла фар:",
@@ -29352,8 +29352,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q015",
-    "sectionNumber": 45.0,
+    "id": "q01787",
+    "sectionNumber": 45,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Що означає наведений індикатор червоного кольору:",
@@ -29369,8 +29369,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q017",
-    "sectionNumber": 45.0,
+    "id": "q01788",
+    "sectionNumber": 45,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Спалах зображеного індикатора жовтого кольору інформує водія транспортного засобу про:",
@@ -29386,8 +29386,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q018",
-    "sectionNumber": 45.0,
+    "id": "q01789",
+    "sectionNumber": 45,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Індикатор у вигляді двох миготливих стрілок зеленого кольору відображає:",
@@ -29403,8 +29403,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q019",
-    "sectionNumber": 45.0,
+    "id": "q01790",
+    "sectionNumber": 45,
     "number": 19,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Який з наведених індикаторів стає активним при запуску двигуна автомобіля та горить до тих пір, поки ремінь безпеки не буде пристебнутий?",
@@ -29421,8 +29421,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q020",
-    "sectionNumber": 45.0,
+    "id": "q01791",
+    "sectionNumber": 45,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Про що може інформувати водія транспортного засобу спалах зображеного індикатора червоного кольору?",
@@ -29438,8 +29438,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q021",
-    "sectionNumber": 45.0,
+    "id": "q01792",
+    "sectionNumber": 45,
     "number": 21,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Цей індикатор вказує що в автомобілі ввімкнені:",
@@ -29455,8 +29455,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q022",
-    "sectionNumber": 45.0,
+    "id": "q01793",
+    "sectionNumber": 45,
     "number": 22,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Цей індикатор жовтого кольору вказує на низький рівень тиску в шинах?",
@@ -29471,8 +29471,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q023",
-    "sectionNumber": 45.0,
+    "id": "q01794",
+    "sectionNumber": 45,
     "number": 23,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Про що інформує водія вказаний індикатор червоного кольору?",
@@ -29488,8 +29488,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q024",
-    "sectionNumber": 45.0,
+    "id": "q01795",
+    "sectionNumber": 45,
     "number": 24,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Вказаний індикатор червоного кольору інформує водія про:",
@@ -29504,8 +29504,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q025",
-    "sectionNumber": 45.0,
+    "id": "q01796",
+    "sectionNumber": 45,
     "number": 25,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Вказаний індикатор жовтого кольору інформує Вас про:",
@@ -29521,8 +29521,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q026",
-    "sectionNumber": 45.0,
+    "id": "q01797",
+    "sectionNumber": 45,
     "number": 26,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Виберіть індикатор, що інформує водія про увімкнене дальнє світло фар:",
@@ -29537,8 +29537,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q027",
-    "sectionNumber": 45.0,
+    "id": "q01798",
+    "sectionNumber": 45,
     "number": 27,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Виберіть індикатор, що інформує водія про увімкнене ближнє світло фар:",
@@ -29553,8 +29553,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q028",
-    "sectionNumber": 45.0,
+    "id": "q01799",
+    "sectionNumber": 45,
     "number": 28,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Наведений індикатор червоного кольору може інформувати водія про:",
@@ -29570,8 +29570,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q029",
-    "sectionNumber": 45.0,
+    "id": "q01800",
+    "sectionNumber": 45,
     "number": 29,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Який із наведених індикаторів інформує водія транспортного засобу про можливі проблеми з гальмовою системою?",
@@ -29589,8 +29589,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q030",
-    "sectionNumber": 45.0,
+    "id": "q01801",
+    "sectionNumber": 45,
     "number": 30,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Який із наведених індикаторів інформує водія транспортного засобу про низький рівень палива у паливному баку?",
@@ -29607,8 +29607,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q031",
-    "sectionNumber": 45.0,
+    "id": "q01802",
+    "sectionNumber": 45,
     "number": 31,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Який із наведених індикаторів вмикається при запуску двигуна та інформує водія транспортного засобу про неправильно зачинені двері?",
@@ -29625,8 +29625,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q032",
-    "sectionNumber": 45.0,
+    "id": "q01803",
+    "sectionNumber": 45,
     "number": 32,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Який із наведених індикаторів попереджає водія транспортного засобу про перегрів двигуна?",
@@ -29643,8 +29643,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s45-q033",
-    "sectionNumber": 45.0,
+    "id": "q01804",
+    "sectionNumber": 45,
     "number": 33,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БУДОВА І ТЕРМІНИ)",
     "question": "Цей індикатор вказує, що в автомобілі увімкнено:",
@@ -29660,8 +29660,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s46-q001",
-    "sectionNumber": 46.0,
+    "id": "q01805",
+    "sectionNumber": 46,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "В яких випадках водій має право відступати від вимог законодавства?",
@@ -29675,8 +29675,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s46-q002",
-    "sectionNumber": 46.0,
+    "id": "q01806",
+    "sectionNumber": 46,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Яка необхідна умова при огляді на предмет алкогольного сп’яніння водія на місці зупинки транспортного засобу?",
@@ -29691,8 +29691,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s46-q003",
-    "sectionNumber": 46.0,
+    "id": "q01807",
+    "sectionNumber": 46,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Приогляді Вашогоавтомобіля необхідноюумовою є:",
@@ -29707,8 +29707,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s46-q004",
-    "sectionNumber": 46.0,
+    "id": "q01808",
+    "sectionNumber": 46,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "При особистому огляді і огляді речей необхідною умовою є:",
@@ -29723,8 +29723,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s46-q005",
-    "sectionNumber": 46.0,
+    "id": "q01809",
+    "sectionNumber": 46,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "За які правопорушення Вас може бути позбавлено права керування транспортним засобом?",
@@ -29740,8 +29740,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s46-q006",
-    "sectionNumber": 46.0,
+    "id": "q01810",
+    "sectionNumber": 46,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "За які правопорушення Вас можуть позбавити права керування:",
@@ -29756,8 +29756,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s46-q007",
-    "sectionNumber": 46.0,
+    "id": "q01811",
+    "sectionNumber": 46,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Адміністративне затримання Національною поліцією проводиться:",
@@ -29771,8 +29771,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s46-q008",
-    "sectionNumber": 46.0,
+    "id": "q01812",
+    "sectionNumber": 46,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Передача керування транспортним засобом особі, яка не має права керування даним транспортним засобом, тягне за собою:",
@@ -29787,8 +29787,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s46-q009",
-    "sectionNumber": 46.0,
+    "id": "q01813",
+    "sectionNumber": 46,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Ким проводиться огляд на стан сп’яніння?",
@@ -29804,8 +29804,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s47-q001",
-    "sectionNumber": 47.0,
+    "id": "q01814",
+    "sectionNumber": 47,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БЕЗПЕКА)",
     "question": "Щоб мати змогу постійно контролювати рух транспортного засобу та безпечно керувати ним, водій повинен:",
@@ -29821,8 +29821,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s47-q002",
-    "sectionNumber": 47.0,
+    "id": "q01815",
+    "sectionNumber": 47,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БЕЗПЕКА)",
     "question": "При русі в щільному потоці Ви помітили ззаду транспортний засіб, що рухається на занадто малій дистанції. Як слід вчинити, щоб забезпечити безпеку руху?",
@@ -29837,8 +29837,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s47-q003",
-    "sectionNumber": 47.0,
+    "id": "q01816",
+    "sectionNumber": 47,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БЕЗПЕКА)",
     "question": "Що необхідно зробити перед відкриттям капота, якщо з-під нього йде дим?",
@@ -29853,8 +29853,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s47-q004",
-    "sectionNumber": 47.0,
+    "id": "q01817",
+    "sectionNumber": 47,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БЕЗПЕКА)",
     "question": "У транспортному потоці найбезпечніше рухатися зі швидкістю:",
@@ -29868,8 +29868,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s47-q005",
-    "sectionNumber": 47.0,
+    "id": "q01818",
+    "sectionNumber": 47,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БЕЗПЕКА)",
     "question": "Як найбезпечніше проїхати перехрестя, якщо при наближенні до нього Ви бачите зелений миготливий сигнал світлофора?",
@@ -29883,8 +29883,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s47-q006",
-    "sectionNumber": 47.0,
+    "id": "q01819",
+    "sectionNumber": 47,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БЕЗПЕКА)",
     "question": "Який з перерахованих нижче факторів не впливає на час реакції водія?",
@@ -29900,8 +29900,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s47-q007",
-    "sectionNumber": 47.0,
+    "id": "q01820",
+    "sectionNumber": 47,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ В1, В (БЕЗПЕКА)",
     "question": "Де найбезпечніше встановлювати дитяче автокрісло в салоні автомобіля?",
@@ -29914,8 +29914,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q001",
-    "sectionNumber": 48.0,
+    "id": "q01821",
+    "sectionNumber": 48,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "На якому з місць водієві вантажного автомобіля дозволено виконати завантаження (розвантаження) вантажу, якщо дорога має по одній смузі для руху в кожному напрямку?",
@@ -29933,8 +29933,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q002",
-    "sectionNumber": 48.0,
+    "id": "q01822",
+    "sectionNumber": 48,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "У яких напрямках дозволено рух вантажного автомобіля в зображеній ситуації?",
@@ -29951,8 +29951,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q003",
-    "sectionNumber": 48.0,
+    "id": "q01823",
+    "sectionNumber": 48,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "У яких напрямках дозволено рух вантажного автомобіля в зображеній ситуації?",
@@ -29969,8 +29969,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q004",
-    "sectionNumber": 48.0,
+    "id": "q01824",
+    "sectionNumber": 48,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "У яких напрямках дозволено рух вантажного автомобіля в зображеній ситуації, якщо його дозволена максимальна маса понад 3,5 т?",
@@ -29986,8 +29986,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q005",
-    "sectionNumber": 48.0,
+    "id": "q01825",
+    "sectionNumber": 48,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено в зображеній ситуації рух прямо вантажному автомобілю, якщо його дозволена максимальна маса менш ніж 3,5 т?",
@@ -30002,8 +30002,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q006",
-    "sectionNumber": 48.0,
+    "id": "q01826",
+    "sectionNumber": 48,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Який із зображених дорожніх знаків позначає кінець дії дорожнього знака «Обгін вантажним автомобілям заборонено»?",
@@ -30021,8 +30021,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q007",
-    "sectionNumber": 48.0,
+    "id": "q01827",
+    "sectionNumber": 48,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Який із зображених дорожніх знаків забороняє обгін тільки вантажним автомобілям з дозволеною максимальною масою понад 3,5 т?",
@@ -30040,8 +30040,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q008",
-    "sectionNumber": 48.0,
+    "id": "q01828",
+    "sectionNumber": 48,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено водієві вантажного автомобіля виконати обгін у зображеній ситуації, якщо состав, який обганяють, рухається зі швидкістю менш ніж 30 км/год.?",
@@ -30056,8 +30056,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q009",
-    "sectionNumber": 48.0,
+    "id": "q01829",
+    "sectionNumber": 48,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено водієві вантажного автомобіля з дозволеною масою понад 3,5 т у зоні дії зображеного дорожнього знака виконати обгін транспортного состава, що рухається зі швидкістю менш ніж 30 км/год.?",
@@ -30072,8 +30072,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q010",
-    "sectionNumber": 48.0,
+    "id": "q01830",
+    "sectionNumber": 48,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "За якої з умов водієві вантажного автомобіля з дозволеною максимальною масою понад 3,5 т дозволено виконати обгін у зображеній ситуації?",
@@ -30089,8 +30089,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q011",
-    "sectionNumber": 48.0,
+    "id": "q01831",
+    "sectionNumber": 48,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено в даній ситуації рух вантажного автомобіля, якщо його маса становить 10 т?",
@@ -30105,8 +30105,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q012",
-    "sectionNumber": 48.0,
+    "id": "q01832",
+    "sectionNumber": 48,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено в даній ситуації рух вантажного автомобіля, якщо його маса становить 10 т?",
@@ -30121,8 +30121,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q013",
-    "sectionNumber": 48.0,
+    "id": "q01833",
+    "sectionNumber": 48,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Зображений дорожній знак забороняє рух:",
@@ -30138,8 +30138,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q014",
-    "sectionNumber": 48.0,
+    "id": "q01834",
+    "sectionNumber": 48,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Зображений дорожній знак забороняє рух:",
@@ -30156,8 +30156,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q015",
-    "sectionNumber": 48.0,
+    "id": "q01835",
+    "sectionNumber": 48,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено водієві вантажного автомобіля повернути ліворуч у зображеній ситуації?",
@@ -30172,8 +30172,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q016",
-    "sectionNumber": 48.0,
+    "id": "q01836",
+    "sectionNumber": 48,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Яка із зображених табличок дозволяє стоянку вантажних автомобілів із дозволеною максимальною масою понад 3,5 т?",
@@ -30191,8 +30191,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q017",
-    "sectionNumber": 48.0,
+    "id": "q01837",
+    "sectionNumber": 48,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "На якому боці цієї дороги населеного пункту водієві вантажного автомобіля з дозволеною максимальною масою понад 3,5 т дозволено зупинитися?",
@@ -30208,8 +30208,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q018",
-    "sectionNumber": 48.0,
+    "id": "q01838",
+    "sectionNumber": 48,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи може водій вантажного автомобіля з дозволеною максимальною масою понад 3,5 т зупинитися на лівому боці дороги з одностороннім рухом в населеному пункті?",
@@ -30227,8 +30227,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q020",
-    "sectionNumber": 48.0,
+    "id": "q01839",
+    "sectionNumber": 48,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Які дії повинен виконати водій великогабаритного вантажного автомобіля в дорожній ситуації, коли інші водії не можуть обігнати його?",
@@ -30245,8 +30245,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q021",
-    "sectionNumber": 48.0,
+    "id": "q01840",
+    "sectionNumber": 48,
     "number": 21,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено водієві вантажного автомобіля перевищувати швидкість, зазначену на розпізнавальному знаку «Обмеження максимальної швидкості»?",
@@ -30261,8 +30261,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q022",
-    "sectionNumber": 48.0,
+    "id": "q01841",
+    "sectionNumber": 48,
     "number": 22,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Яка максимальна швидкість встановлена для всіх вантажних автомобілів на цій дорозі за межами населених пунктів?",
@@ -30280,8 +30280,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q023",
-    "sectionNumber": 48.0,
+    "id": "q01842",
+    "sectionNumber": 48,
     "number": 23,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю допускається рух вантажних автомобілів з дозволеною максимальною масою понад 3,5 т на дорогах з окремими проїзними частинами?",
@@ -30298,8 +30298,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q024",
-    "sectionNumber": 48.0,
+    "id": "q01843",
+    "sectionNumber": 48,
     "number": 24,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Яка максимальна швидкість встановлена на автомагістралі для руху вантажних автомобілів з дозволеною максимальною масою понад 3,5 т з причепами?",
@@ -30316,8 +30316,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q025",
-    "sectionNumber": 48.0,
+    "id": "q01844",
+    "sectionNumber": 48,
     "number": 25,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Яка максимальна швидкість встановлена для руху вантажних автомобілів з дозволеною максимальною масою понад 3,5 т на автомагістралі?",
@@ -30334,8 +30334,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q026",
-    "sectionNumber": 48.0,
+    "id": "q01845",
+    "sectionNumber": 48,
     "number": 26,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух вантажних автомобілів, що перевозять людей у кузові на автомагістралях?",
@@ -30353,8 +30353,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q027",
-    "sectionNumber": 48.0,
+    "id": "q01846",
+    "sectionNumber": 48,
     "number": 27,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух вантажного автомобіля в зображеній ситуації?",
@@ -30371,8 +30371,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q028",
-    "sectionNumber": 48.0,
+    "id": "q01847",
+    "sectionNumber": 48,
     "number": 28,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Водій автомобіля з увімкненим проблисковим маячком оранжевого кольору має право відступити?",
@@ -30388,8 +30388,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q029",
-    "sectionNumber": 48.0,
+    "id": "q01848",
+    "sectionNumber": 48,
     "number": 29,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Яка із зображених табличок забороняє стоянку вантажних автомобілів із дозволеною максимальною масою понад 3,5 т?",
@@ -30407,8 +30407,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q030",
-    "sectionNumber": 48.0,
+    "id": "q01849",
+    "sectionNumber": 48,
     "number": 30,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Зображений дорожній знак забороняє рух:",
@@ -30425,8 +30425,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q031",
-    "sectionNumber": 48.0,
+    "id": "q01850",
+    "sectionNumber": 48,
     "number": 31,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Який із зображених дорожніх знаків забороняє рух транспортних засобів, що перевозять небезпечні вантажі?",
@@ -30444,8 +30444,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q032",
-    "sectionNumber": 48.0,
+    "id": "q01851",
+    "sectionNumber": 48,
     "number": 32,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Якщо на транспортному засобі встановлено розпізнавальний знак «Автопоїзд», у якому з перелічених випадків він повинен бути увімкнений?",
@@ -30463,8 +30463,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q033",
-    "sectionNumber": 48.0,
+    "id": "q01852",
+    "sectionNumber": 48,
     "number": 33,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Який транспортний засіб неправильно виконує стоянку на дорозі з одностороннім рухом?",
@@ -30481,8 +30481,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q034",
-    "sectionNumber": 48.0,
+    "id": "q01853",
+    "sectionNumber": 48,
     "number": 34,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю допускається рух вантажних автомобілів з дозволеною максимальною масою менш ніж 3,5 т на дорогах з окремими проїзними частинами?",
@@ -30499,8 +30499,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q035",
-    "sectionNumber": 48.0,
+    "id": "q01854",
+    "sectionNumber": 48,
     "number": 35,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Яка максимальна швидкість вантажних автомобілів з дозволеною максимальною масою понад 3,5 т встановлена на дорогах для автомобілів з розділювальною смугою?",
@@ -30517,8 +30517,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q036",
-    "sectionNumber": 48.0,
+    "id": "q01855",
+    "sectionNumber": 48,
     "number": 36,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух вантажного автомобіля?",
@@ -30535,8 +30535,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q037",
-    "sectionNumber": 48.0,
+    "id": "q01856",
+    "sectionNumber": 48,
     "number": 37,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "У якому напрямку дозволено рух на перехресті водієві вантажного автомобіля з дозволеною максимальною масою понад 3,5 т?",
@@ -30552,8 +30552,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q038",
-    "sectionNumber": 48.0,
+    "id": "q01857",
+    "sectionNumber": 48,
     "number": 38,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Який попереджувальний сигнал вмикається на транспортному засобі, на якому встановлені розпізнавальні знаки «Знак небезпеки» та «Інформаційна таблиця небезпечного вантажу», під час перевезення ним небезпечного вантажу?",
@@ -30570,8 +30570,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q039",
-    "sectionNumber": 48.0,
+    "id": "q01858",
+    "sectionNumber": 48,
     "number": 39,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи має право вантажний автомобіль з дозволеною максимальною масою менш ніж 3,5 т рухатися в третій смузі?",
@@ -30587,8 +30587,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q040",
-    "sectionNumber": 48.0,
+    "id": "q01859",
+    "sectionNumber": 48,
     "number": 40,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Вантажному автомобілю з дозволеною максимальною масою понад 3,5 т виїжджати на третю смугу?",
@@ -30604,8 +30604,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q041",
-    "sectionNumber": 48.0,
+    "id": "q01860",
+    "sectionNumber": 48,
     "number": 41,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи має право водій вантажного автомобіля виїхати на смугу, призначену для зустрічного руху?",
@@ -30621,8 +30621,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q042",
-    "sectionNumber": 48.0,
+    "id": "q01861",
+    "sectionNumber": 48,
     "number": 42,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Який попереджувальний сигнал вмикається на великовагових великогабаритних транспортних засобах?",
@@ -30638,8 +30638,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q043",
-    "sectionNumber": 48.0,
+    "id": "q01862",
+    "sectionNumber": 48,
     "number": 43,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Як вчинити водієві автомобіля з увімкненим проблисковим маячком оранжевого кольору на нерегульованому перехресті рівнозначних доріг?",
@@ -30654,8 +30654,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q044",
-    "sectionNumber": 48.0,
+    "id": "q01863",
+    "sectionNumber": 48,
     "number": 44,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Дія даного дорожнього знака не поширюється:",
@@ -30673,8 +30673,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q045",
-    "sectionNumber": 48.0,
+    "id": "q01864",
+    "sectionNumber": 48,
     "number": 45,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Зображений дорожній знак забороняє рух:",
@@ -30692,8 +30692,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q046",
-    "sectionNumber": 48.0,
+    "id": "q01865",
+    "sectionNumber": 48,
     "number": 46,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено транзитний рух транспортного состава з дозволеною максимальною масою більше 8 т у зоні дії даного знаку?",
@@ -30708,8 +30708,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q047",
-    "sectionNumber": 48.0,
+    "id": "q01866",
+    "sectionNumber": 48,
     "number": 47,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено поворот праворуч вантажному автомобілю в даній ситуації?",
@@ -30724,8 +30724,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q048",
-    "sectionNumber": 48.0,
+    "id": "q01867",
+    "sectionNumber": 48,
     "number": 48,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Зображений дорожній знак забороняє рух:",
@@ -30742,8 +30742,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q049",
-    "sectionNumber": 48.0,
+    "id": "q01868",
+    "sectionNumber": 48,
     "number": 49,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Який із розпізнавальних знаків встановлюється на транспортних засобах, що перевозять небезпечні вантажі?",
@@ -30761,8 +30761,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q050",
-    "sectionNumber": 48.0,
+    "id": "q01869",
+    "sectionNumber": 48,
     "number": 50,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено транзитний рух вантажного автомобіля з дозволеною максимальною масою менш ніж 3,5 т прямо?",
@@ -30777,8 +30777,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s48-q051",
-    "sectionNumber": 48.0,
+    "id": "q01870",
+    "sectionNumber": 48,
     "number": 51,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Тривалість керування для водія на тиждень з урахуванням понаднормових робіт не повинна перевищувати:",
@@ -30792,8 +30792,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q052",
-    "sectionNumber": 48.0,
+    "id": "q01871",
+    "sectionNumber": 48,
     "number": 52,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Змінний період керування водія, за винятком водіїв транспортних засобів, що здійснюють перевезення великовагових, і (або) великогабаритних, і (або) небезпечних вантажів, з урахуванням понаднормових робіт не повинен перевищувати:",
@@ -30807,8 +30807,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q053",
-    "sectionNumber": 48.0,
+    "id": "q01872",
+    "sectionNumber": 48,
     "number": 53,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Для водіїв транспортних засобів, що здійснюють перевезення великовагових, і (або) великогабаритних, і (або) небезпечних вантажів, змінний період керування з урахуванням понаднормових робіт не повинен перевищувати:",
@@ -30822,8 +30822,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q054",
-    "sectionNumber": 48.0,
+    "id": "q01873",
+    "sectionNumber": 48,
     "number": 54,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Для водіїв транспортних засобів, що здійснюють перевезення великовагових і (або) великогабаритних і (або) небезпечних вантажів, змінний період керування, включно з надурочними роботами, не повинен перевищувати:",
@@ -30837,8 +30837,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q055",
-    "sectionNumber": 48.0,
+    "id": "q01874",
+    "sectionNumber": 48,
     "number": 55,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Тривалість керування водія на тиждень, включно з надурочними роботами, не повинна перевищувати:",
@@ -30852,8 +30852,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q056",
-    "sectionNumber": 48.0,
+    "id": "q01875",
+    "sectionNumber": 48,
     "number": 56,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Що означає поняття «відпочинок водія»?",
@@ -30867,8 +30867,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q057",
-    "sectionNumber": 48.0,
+    "id": "q01876",
+    "sectionNumber": 48,
     "number": 57,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Нормальна тривалість робочого часу водія не має перевищувати:",
@@ -30882,8 +30882,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q058",
-    "sectionNumber": 48.0,
+    "id": "q01877",
+    "sectionNumber": 48,
     "number": 58,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Як затягувати болти/гайки кріплення колеса до маточини?",
@@ -30896,8 +30896,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q059",
-    "sectionNumber": 48.0,
+    "id": "q01878",
+    "sectionNumber": 48,
     "number": 59,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Як правильно встановлюється домкрат?",
@@ -30910,8 +30910,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q060",
-    "sectionNumber": 48.0,
+    "id": "q01879",
+    "sectionNumber": 48,
     "number": 60,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Зміст навчального матеріалу та кількість практичних годин для проходження навчання практичному водінню на вантажному автомобілі (категорія С1 або С), визначається:",
@@ -30925,8 +30925,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q061",
-    "sectionNumber": 48.0,
+    "id": "q01880",
+    "sectionNumber": 48,
     "number": 61,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Ви, як водій транспортного засобу, який через свої габарити не маєте можливість здійснити поворот ліворуч з крайнього лівого положення, повертаючи ліворуч поза перехрестям повинні:",
@@ -30942,8 +30942,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q062",
-    "sectionNumber": 48.0,
+    "id": "q01881",
+    "sectionNumber": 48,
     "number": 62,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "У якій послідовності необхідно від'єднувати клеми від виводів акумуляторної батареї?",
@@ -30957,8 +30957,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q063",
-    "sectionNumber": 48.0,
+    "id": "q01882",
+    "sectionNumber": 48,
     "number": 63,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Тривалість щотижневого відпочинку водія має становити:",
@@ -30972,8 +30972,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q064",
-    "sectionNumber": 48.0,
+    "id": "q01883",
+    "sectionNumber": 48,
     "number": 64,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Скільки має тривати щоденний (міжзмінний) відпочинок водія протягом будь-якого 24-годинного періоду, рахуючи від початку робочого дня (зміни)?",
@@ -30986,8 +30986,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q065",
-    "sectionNumber": 48.0,
+    "id": "q01884",
+    "sectionNumber": 48,
     "number": 65,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Як водії мають використовувати час перерви?",
@@ -31000,8 +31000,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q066",
-    "sectionNumber": 48.0,
+    "id": "q01885",
+    "sectionNumber": 48,
     "number": 66,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи зараховується перерва для відпочинку і харчування до робочого часу водія?",
@@ -31015,8 +31015,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q067",
-    "sectionNumber": 48.0,
+    "id": "q01886",
+    "sectionNumber": 48,
     "number": 67,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Яка мінімальна тривалість відпочинку та харчування водія після 4 годин керування, якщо не настає період щоденного (міжзмінного) відпочинку?",
@@ -31029,8 +31029,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q068",
-    "sectionNumber": 48.0,
+    "id": "q01887",
+    "sectionNumber": 48,
     "number": 68,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Змінний період керування водія, за винятком водіїв транспортних засобів, що здійснюють перевезення великовагових і (або) великогабаритних і (або) небезпечних вантажів, включно з надурочними роботами, не повинен перевищувати:",
@@ -31044,8 +31044,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q069",
-    "sectionNumber": 48.0,
+    "id": "q01888",
+    "sectionNumber": 48,
     "number": 69,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Нормальна тривалість робочого часу водія не повинна перевищувати:",
@@ -31059,8 +31059,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q070",
-    "sectionNumber": 48.0,
+    "id": "q01889",
+    "sectionNumber": 48,
     "number": 70,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Що належить до поняття відпочинок водія?",
@@ -31073,8 +31073,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q071",
-    "sectionNumber": 48.0,
+    "id": "q01890",
+    "sectionNumber": 48,
     "number": 71,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "За якої умови дозволене буксирування на жорсткому зчепленні транспортного засобу з несправною гальмовою системою?",
@@ -31088,8 +31088,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q072",
-    "sectionNumber": 48.0,
+    "id": "q01891",
+    "sectionNumber": 48,
     "number": 72,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "За яких умов особам, які супроводжують вантаж або їдуть за ним, дозволений проїзд у кузові вантажного автомобіля?",
@@ -31102,8 +31102,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q073",
-    "sectionNumber": 48.0,
+    "id": "q01892",
+    "sectionNumber": 48,
     "number": 73,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "У яких випадках у житлову зону дозволений в'їзд вантажних автомобілів, тракторів, самохідних машин і механізмів?",
@@ -31119,8 +31119,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q074",
-    "sectionNumber": 48.0,
+    "id": "q01893",
+    "sectionNumber": 48,
     "number": 74,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Наскільки повинен бути перевищений габарит вантажу, що перевозиться, за висотою від поверхні дороги (крім контейнеровозів на встановлених Укравтодором і уповноваженим підрозділам Національної поліції маршрутах), щоб перевезення вантажу здійснювалася за спеціальними правилами?",
@@ -31135,8 +31135,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q075",
-    "sectionNumber": 48.0,
+    "id": "q01894",
+    "sectionNumber": 48,
     "number": 75,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "На якій смузі автомагістралі дозволено рух вантажних автомобілів з дозволеною максимальною масою понад 3,5 т?",
@@ -31150,8 +31150,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q076",
-    "sectionNumber": 48.0,
+    "id": "q01895",
+    "sectionNumber": 48,
     "number": 76,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух вантажним автомобілям, що перевозять людей у кузові, на всіх дорогах за межами населених пунктів?",
@@ -31166,8 +31166,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q077",
-    "sectionNumber": 48.0,
+    "id": "q01896",
+    "sectionNumber": 48,
     "number": 77,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено вантажному автомобілю з дозволеною максимальною масою понад 3,5 т виконувати випередження по крайній лівій смузі на дорозі, яка має три і більше смуги для руху в одному напрямку?",
@@ -31180,8 +31180,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q078",
-    "sectionNumber": 48.0,
+    "id": "q01897",
+    "sectionNumber": 48,
     "number": 78,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Що повинен зробити водій тихохідного або великогабаритного транспортного засобу, рухаючись за межами населених пунктів, у випадках, коли дорожня ситуація не дозволяє здійснити обгін?",
@@ -31195,8 +31195,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q079",
-    "sectionNumber": 48.0,
+    "id": "q01898",
+    "sectionNumber": 48,
     "number": 79,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "У якій смузі дозволено рух вантажним автомобілям із дозволеною максимальною масою понад 3,5 т, тракторам, самохідним машинам і механізмам на дорогах з розділювальною смугою, що мають по чотири смуги для руху в кожному напрямку?",
@@ -31211,8 +31211,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q080",
-    "sectionNumber": 48.0,
+    "id": "q01899",
+    "sectionNumber": 48,
     "number": 80,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Чи дозволено пасажирам під час руху стояти в кузові вантажного автомобіля, якщо вони супроводжують вантаж?",
@@ -31225,8 +31225,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q081",
-    "sectionNumber": 48.0,
+    "id": "q01900",
+    "sectionNumber": 48,
     "number": 81,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Оранжевий проблисковий маячок може бути увімкнено:",
@@ -31242,8 +31242,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q082",
-    "sectionNumber": 48.0,
+    "id": "q01901",
+    "sectionNumber": 48,
     "number": 82,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Яка мета поточного ремонту транспортного засобу?",
@@ -31257,8 +31257,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q083",
-    "sectionNumber": 48.0,
+    "id": "q01902",
+    "sectionNumber": 48,
     "number": 83,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Що потрібно зробити заздалегідь, перед використанням гідравлічного домкрата?",
@@ -31275,8 +31275,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q085",
-    "sectionNumber": 48.0,
+    "id": "q01903",
+    "sectionNumber": 48,
     "number": 85,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Як правильно встановлювати домкрат?",
@@ -31290,8 +31290,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q086",
-    "sectionNumber": 48.0,
+    "id": "q01904",
+    "sectionNumber": 48,
     "number": 86,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "У разі під'їзду до регульованого перехрестя транспортним засобом, яким керує водій з однією з категорій C, C1, що завжди потрібно ураховувати водієві?",
@@ -31305,8 +31305,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q087",
-    "sectionNumber": 48.0,
+    "id": "q01905",
+    "sectionNumber": 48,
     "number": 87,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Вкажіть максимально допустиму довжину зчеплених при буксируванні транспортних засобів (за винятком маршрутних транспортних засобів).",
@@ -31322,8 +31322,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s48-q088",
-    "sectionNumber": 48.0,
+    "id": "q01906",
+    "sectionNumber": 48,
     "number": 88,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЗАГАЛЬНІ)",
     "question": "Цим дорожнім знаком позначають:",
@@ -31338,8 +31338,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s49-q001",
-    "sectionNumber": 49.0,
+    "id": "q01907",
+    "sectionNumber": 49,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Ви як водій вантажного автомобіля маєте право перевозити?",
@@ -31355,8 +31355,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s49-q002",
-    "sectionNumber": 49.0,
+    "id": "q01908",
+    "sectionNumber": 49,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Куди світять фари головного освітлення з європейської та американської класифікації у автомобілів з лівим кермом?",
@@ -31370,8 +31370,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q003",
-    "sectionNumber": 49.0,
+    "id": "q01909",
+    "sectionNumber": 49,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Вкажіть метод визначення причини надмірного зношення шин керованих коліс.",
@@ -31385,8 +31385,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q004",
-    "sectionNumber": 49.0,
+    "id": "q01910",
+    "sectionNumber": 49,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Як визначити за краплиною моторної оливи потрапляння в систему мащення охолоджувальної рідини?",
@@ -31400,8 +31400,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q005",
-    "sectionNumber": 49.0,
+    "id": "q01911",
+    "sectionNumber": 49,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Як позначиться на автомобілі порушення герметичності гальмівної камери з одного боку під час гальмування?",
@@ -31415,8 +31415,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q006",
-    "sectionNumber": 49.0,
+    "id": "q01912",
+    "sectionNumber": 49,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Чи дозволено змішувати охолоджувальні рідини різних кольорів?",
@@ -31430,8 +31430,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q007",
-    "sectionNumber": 49.0,
+    "id": "q01913",
+    "sectionNumber": 49,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Виберіть правильну відповідь.",
@@ -31445,8 +31445,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q008",
-    "sectionNumber": 49.0,
+    "id": "q01914",
+    "sectionNumber": 49,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Що може стати наслідком повного зносу фрикційних накладок гальмівних колодок?",
@@ -31463,8 +31463,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q010",
-    "sectionNumber": 49.0,
+    "id": "q01915",
+    "sectionNumber": 49,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Для чого потрібен прискорювальний клапан в пневматичному приводі гальмівної системи?",
@@ -31478,8 +31478,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q011",
-    "sectionNumber": 49.0,
+    "id": "q01916",
+    "sectionNumber": 49,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Які гальмівні механізми задіяні під час увімкнення гірського гальма?",
@@ -31494,8 +31494,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q012",
-    "sectionNumber": 49.0,
+    "id": "q01917",
+    "sectionNumber": 49,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Що таке ресивер?",
@@ -31509,8 +31509,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q013",
-    "sectionNumber": 49.0,
+    "id": "q01918",
+    "sectionNumber": 49,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Куди дівається повітря після відпускання педалі гальма?",
@@ -31524,8 +31524,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q014",
-    "sectionNumber": 49.0,
+    "id": "q01919",
+    "sectionNumber": 49,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Вкажіть метод визначення причини різкого збільшення зусилля на кермовому колесі.",
@@ -31540,8 +31540,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q015",
-    "sectionNumber": 49.0,
+    "id": "q01920",
+    "sectionNumber": 49,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Вкажіть метод визначення причини, з якої двигун не запускається, коли обертається стартер.",
@@ -31556,8 +31556,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q016",
-    "sectionNumber": 49.0,
+    "id": "q01921",
+    "sectionNumber": 49,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Вкажіть метод визначення причини нестабільних обертів холостого ходу.",
@@ -31571,8 +31571,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q017",
-    "sectionNumber": 49.0,
+    "id": "q01922",
+    "sectionNumber": 49,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Чим відрізняється інжекторний двигун від карбюраторного?",
@@ -31586,8 +31586,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q018",
-    "sectionNumber": 49.0,
+    "id": "q01923",
+    "sectionNumber": 49,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "За рахунок чого запалюється паливо в дизельних двигунах?",
@@ -31601,8 +31601,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q019",
-    "sectionNumber": 49.0,
+    "id": "q01924",
+    "sectionNumber": 49,
     "number": 19,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "За рахунок чого запалюється робоча суміш в бензинових двигунах?",
@@ -31616,8 +31616,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q020",
-    "sectionNumber": 49.0,
+    "id": "q01925",
+    "sectionNumber": 49,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Рівень охолоджуючої рідини в розширювальному бачку нижче норми, а її щільність вище норми, що вказує:",
@@ -31631,8 +31631,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q021",
-    "sectionNumber": 49.0,
+    "id": "q01926",
+    "sectionNumber": 49,
     "number": 21,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Рівень охолоджуючої рідини в розширювальному бачку нижче норми, а її щільність дорівнює нормі, що вказує:",
@@ -31646,8 +31646,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q022",
-    "sectionNumber": 49.0,
+    "id": "q01927",
+    "sectionNumber": 49,
     "number": 22,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Що не впливає на вибір тягово-зчіпного безпроміжкового пристрою?",
@@ -31662,8 +31662,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q023",
-    "sectionNumber": 49.0,
+    "id": "q01928",
+    "sectionNumber": 49,
     "number": 23,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Який з перелічених елементів не характерний для гакового тягово- зчіпного пристрою?",
@@ -31677,8 +31677,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q024",
-    "sectionNumber": 49.0,
+    "id": "q01929",
+    "sectionNumber": 49,
     "number": 24,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Які два основних типи зчіпних пристроїв для вантажних транспортних засобів?",
@@ -31692,8 +31692,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q025",
-    "sectionNumber": 49.0,
+    "id": "q01930",
+    "sectionNumber": 49,
     "number": 25,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Чи дозволено змішувати охолоджувальні рідини різних кольорів?",
@@ -31707,8 +31707,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q026",
-    "sectionNumber": 49.0,
+    "id": "q01931",
+    "sectionNumber": 49,
     "number": 26,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Чи дозволено перевищувати рівень моторної оливи під час її заміни?",
@@ -31722,8 +31722,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q027",
-    "sectionNumber": 49.0,
+    "id": "q01932",
+    "sectionNumber": 49,
     "number": 27,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Як часто необхідно зливати воду з фільтра-відстійника на транспортних засобах з дизельними двигунами?",
@@ -31738,8 +31738,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q028",
-    "sectionNumber": 49.0,
+    "id": "q01933",
+    "sectionNumber": 49,
     "number": 28,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "До якого вузла підключена педаль гальма у пневматичній гальмівній системі?",
@@ -31753,8 +31753,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q029",
-    "sectionNumber": 49.0,
+    "id": "q01934",
+    "sectionNumber": 49,
     "number": 29,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "У чому основна перевага гідравлічної гальмівної системи перед пневматичною гальмівною системою?",
@@ -31768,8 +31768,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q030",
-    "sectionNumber": 49.0,
+    "id": "q01935",
+    "sectionNumber": 49,
     "number": 30,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Для чого служить стартер?",
@@ -31783,8 +31783,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q031",
-    "sectionNumber": 49.0,
+    "id": "q01936",
+    "sectionNumber": 49,
     "number": 31,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Для чого потрібна система охолодження двигуна?",
@@ -31798,8 +31798,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q032",
-    "sectionNumber": 49.0,
+    "id": "q01937",
+    "sectionNumber": 49,
     "number": 32,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Який тип системи охолодження двигуна внутрішнього згоряння найбільш поширений?",
@@ -31812,8 +31812,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q033",
-    "sectionNumber": 49.0,
+    "id": "q01938",
+    "sectionNumber": 49,
     "number": 33,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Для чого необхідне використання моторної оливи?",
@@ -31829,8 +31829,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q034",
-    "sectionNumber": 49.0,
+    "id": "q01939",
+    "sectionNumber": 49,
     "number": 34,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Для чого рекомендується замінювати моторну оливу в зимовий період?",
@@ -31844,8 +31844,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q035",
-    "sectionNumber": 49.0,
+    "id": "q01940",
+    "sectionNumber": 49,
     "number": 35,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Звідки в паливній системі дизельного двигуна необхідно періодично зливати воду?",
@@ -31859,8 +31859,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q036",
-    "sectionNumber": 49.0,
+    "id": "q01941",
+    "sectionNumber": 49,
     "number": 36,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Що робити в разі заправки паливного бака дизельного двигуна бензином?",
@@ -31875,8 +31875,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q037",
-    "sectionNumber": 49.0,
+    "id": "q01942",
+    "sectionNumber": 49,
     "number": 37,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "У чому різниця між бензиновим і дизельним двигунами?",
@@ -31890,8 +31890,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q038",
-    "sectionNumber": 49.0,
+    "id": "q01943",
+    "sectionNumber": 49,
     "number": 38,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Що включає в себе газорозподільний механізм?",
@@ -31905,8 +31905,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q039",
-    "sectionNumber": 49.0,
+    "id": "q01944",
+    "sectionNumber": 49,
     "number": 39,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "З яких основних частин складається двигун внутрішнього згоряння?",
@@ -31920,8 +31920,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q040",
-    "sectionNumber": 49.0,
+    "id": "q01945",
+    "sectionNumber": 49,
     "number": 40,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "За рахунок чого працює двигун внутрішнього згоряння?",
@@ -31935,8 +31935,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q041",
-    "sectionNumber": 49.0,
+    "id": "q01946",
+    "sectionNumber": 49,
     "number": 41,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Назвіть основне призначення системи запалювання.",
@@ -31950,8 +31950,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q042",
-    "sectionNumber": 49.0,
+    "id": "q01947",
+    "sectionNumber": 49,
     "number": 42,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Чи потрібна система запалювання для дизельного двигуна?",
@@ -31964,8 +31964,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q043",
-    "sectionNumber": 49.0,
+    "id": "q01948",
+    "sectionNumber": 49,
     "number": 43,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Для чого необхідна муфта зчеплення в трансмісії?",
@@ -31980,8 +31980,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q044",
-    "sectionNumber": 49.0,
+    "id": "q01949",
+    "sectionNumber": 49,
     "number": 44,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Назвіть тип гальмівної системи, що найчастіше застосовується у вантажних автомобілях і автобусах.",
@@ -31995,8 +31995,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q045",
-    "sectionNumber": 49.0,
+    "id": "q01950",
+    "sectionNumber": 49,
     "number": 45,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Як дізнатися сторону встановлення колеса і шини з направленим малюнком протектора?",
@@ -32010,8 +32010,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q046",
-    "sectionNumber": 49.0,
+    "id": "q01951",
+    "sectionNumber": 49,
     "number": 46,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Для чого здійснюють балансування шин?",
@@ -32025,8 +32025,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q047",
-    "sectionNumber": 49.0,
+    "id": "q01952",
+    "sectionNumber": 49,
     "number": 47,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Які бувають типи шин?",
@@ -32040,8 +32040,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q048",
-    "sectionNumber": 49.0,
+    "id": "q01953",
+    "sectionNumber": 49,
     "number": 48,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Чи потрібно замінювати оливний фільтр під час заміни моторної оливи?",
@@ -32055,8 +32055,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q049",
-    "sectionNumber": 49.0,
+    "id": "q01954",
+    "sectionNumber": 49,
     "number": 49,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Що буде, якщо значно перевищити рівень моторної оливи в двигуні?",
@@ -32071,8 +32071,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q050",
-    "sectionNumber": 49.0,
+    "id": "q01955",
+    "sectionNumber": 49,
     "number": 50,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Який з перелічених нижче варіантів є описом в'язкості моторного масла за SAE?",
@@ -32086,8 +32086,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q051",
-    "sectionNumber": 49.0,
+    "id": "q01956",
+    "sectionNumber": 49,
     "number": 51,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Чи можна змішувати охолоджувальну рідину різних кольорів?",
@@ -32101,8 +32101,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q052",
-    "sectionNumber": 49.0,
+    "id": "q01957",
+    "sectionNumber": 49,
     "number": 52,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Для чого потрібен міжколісний диференціал?",
@@ -32116,8 +32116,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q053",
-    "sectionNumber": 49.0,
+    "id": "q01958",
+    "sectionNumber": 49,
     "number": 53,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Чим загрожує неповне вимкнення зчеплення не до кінця натиснутою педаллю зчеплення?",
@@ -32131,8 +32131,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q054",
-    "sectionNumber": 49.0,
+    "id": "q01959",
+    "sectionNumber": 49,
     "number": 54,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "Що означає поняття «веде зчеплення»?",
@@ -32146,8 +32146,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s49-q055",
-    "sectionNumber": 49.0,
+    "id": "q01960",
+    "sectionNumber": 49,
     "number": 55,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БУДОВА І ТЕРМІНИ)",
     "question": "До автопоїздів (транспортних составів) належать...",
@@ -32162,8 +32162,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q001",
-    "sectionNumber": 50.0,
+    "id": "q01961",
+    "sectionNumber": 50,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Який мінімальний стаж керування повинен мати водій транспортного засобу з водійським посвідченням категорії «С», щоб перевозити пасажирів у кількості до 8 осіб у пристосованому вантажному автомобілі?",
@@ -32177,8 +32177,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q002",
-    "sectionNumber": 50.0,
+    "id": "q01962",
+    "sectionNumber": 50,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи обов'язкове встановлення знака аварійної зупинки у випадку ДТП?",
@@ -32192,8 +32192,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q003",
-    "sectionNumber": 50.0,
+    "id": "q01963",
+    "sectionNumber": 50,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "До міжнародних перевезень небезпечних вантажів допускаються резиденти України, які мають досвід роботи на внутрішніх перевезеннях не менше:",
@@ -32207,8 +32207,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q004",
-    "sectionNumber": 50.0,
+    "id": "q01964",
+    "sectionNumber": 50,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи обов'язкове встановлення знака аварійної зупинки в разі ДТП?",
@@ -32222,8 +32222,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q005",
-    "sectionNumber": 50.0,
+    "id": "q01965",
+    "sectionNumber": 50,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Які правильні дії повинен виконати водій у тому разі, якщо в ДТП є потерпілі?",
@@ -32238,8 +32238,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q006",
-    "sectionNumber": 50.0,
+    "id": "q01966",
+    "sectionNumber": 50,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Що повинен зробити водій транспортного засобу в разі ДТП?",
@@ -32254,8 +32254,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q007",
-    "sectionNumber": 50.0,
+    "id": "q01967",
+    "sectionNumber": 50,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Що повинен у першу чергу зробити водій транспортного засобу в разі ДТП?",
@@ -32268,8 +32268,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q008",
-    "sectionNumber": 50.0,
+    "id": "q01968",
+    "sectionNumber": 50,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи дозволено використання рухомого складу, призначеного для перевезення харчових продуктів, для перевезення інших вантажів?",
@@ -32282,8 +32282,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q009",
-    "sectionNumber": 50.0,
+    "id": "q01969",
+    "sectionNumber": 50,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Вимог якого нормативно-правового акта повинні дотримуватися водії під час транспортування вантажів?",
@@ -32297,8 +32297,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q010",
-    "sectionNumber": 50.0,
+    "id": "q01970",
+    "sectionNumber": 50,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Перевезення пасажирів заборонено:",
@@ -32313,8 +32313,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q011",
-    "sectionNumber": 50.0,
+    "id": "q01971",
+    "sectionNumber": 50,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "За яких умов військовослужбовці строкової служби, які мають посвідчення водія тільки категорії «С», допускаються до перевезення пасажирів у кузові пристосованого для цього вантажного автомобіля?",
@@ -32328,8 +32328,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s50-q012",
-    "sectionNumber": 50.0,
+    "id": "q01972",
+    "sectionNumber": 50,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Водій вантажного автомобіля, крім водіїв транспортних засобів дипломатичних та інших представництв іноземних держав, міжнародних організацій, оперативних і спеціальних транспортних засобів, повинен надавати свій транспортний засіб поліцейським:",
@@ -32343,8 +32343,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q001",
-    "sectionNumber": 51.0,
+    "id": "q01973",
+    "sectionNumber": 51,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Чи дозволено водієві вантажного автомобіля зупинитися перед дорожнім знаком «Зупинка заборонена», як показано на малюнку?",
@@ -32359,8 +32359,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s51-q002",
-    "sectionNumber": 51.0,
+    "id": "q01974",
+    "sectionNumber": 51,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Вкажіть найбільш імовірний напрямок переміщення незакріпленого вантажу при русі транспортного засобу на поворотах?",
@@ -32375,8 +32375,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q003",
-    "sectionNumber": 51.0,
+    "id": "q01975",
+    "sectionNumber": 51,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "У якому випадку потрібно обов'язково використовувати спеціальні засоби механізації для завантаження/розвантаження вантажів?",
@@ -32389,8 +32389,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q004",
-    "sectionNumber": 51.0,
+    "id": "q01976",
+    "sectionNumber": 51,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Як потрібно розміщувати легкі й важкі вантажі під час завантаження в кузов транспортного засобу?",
@@ -32404,8 +32404,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q005",
-    "sectionNumber": 51.0,
+    "id": "q01977",
+    "sectionNumber": 51,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Як потрібно розміщувати вантаж, що транспортується в ящиках, бочках тощо?",
@@ -32419,8 +32419,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q006",
-    "sectionNumber": 51.0,
+    "id": "q01978",
+    "sectionNumber": 51,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Скільки потрібно використовувати елементів кріплення для надійної фіксації вантажів у кузові?",
@@ -32434,8 +32434,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q007",
-    "sectionNumber": 51.0,
+    "id": "q01979",
+    "sectionNumber": 51,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Як слід закріплювати вантажі?",
@@ -32449,8 +32449,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q008",
-    "sectionNumber": 51.0,
+    "id": "q01980",
+    "sectionNumber": 51,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Що в першу чергу потрібно зробити в разі пробиття одного з коліс?",
@@ -32464,8 +32464,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q009",
-    "sectionNumber": 51.0,
+    "id": "q01981",
+    "sectionNumber": 51,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Що необхідно зробити перед початком руху повністю завантаженого автопоїзда?",
@@ -32482,8 +32482,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q011",
-    "sectionNumber": 51.0,
+    "id": "q01982",
+    "sectionNumber": 51,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Як потрібно розміщувати вантаж у кузові транспортного засобу під час транспортування?",
@@ -32497,8 +32497,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q012",
-    "sectionNumber": 51.0,
+    "id": "q01983",
+    "sectionNumber": 51,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Під час транспортування вантаж не повинен:",
@@ -32514,8 +32514,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q013",
-    "sectionNumber": 51.0,
+    "id": "q01984",
+    "sectionNumber": 51,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "При під'їзді до регульованого перехрестя на транспортному засобі, що належить до великогабаритних і довгомірних транспортних засобів, про що завжди треба пам'ятати водієві?",
@@ -32530,8 +32530,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q014",
-    "sectionNumber": 51.0,
+    "id": "q01985",
+    "sectionNumber": 51,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Вкажіть найбільш імовірний напрямок переміщення незакріпленого вантажу при гальмуванні транспортного засобу?",
@@ -32546,8 +32546,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q015",
-    "sectionNumber": 51.0,
+    "id": "q01986",
+    "sectionNumber": 51,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "У випадку під'їзду до регульованого перехрестя транспортним засобом, який належить до великогабаритних, про що завжди потрібно пам'ятати водієві?",
@@ -32564,8 +32564,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q017",
-    "sectionNumber": 51.0,
+    "id": "q01987",
+    "sectionNumber": 51,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Що в першу чергу потрібно зробити у випадку пробиття одного з коліс?",
@@ -32579,8 +32579,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q018",
-    "sectionNumber": 51.0,
+    "id": "q01988",
+    "sectionNumber": 51,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Що має зробити водій транспортного засобу в разі ДТП?",
@@ -32594,8 +32594,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q019",
-    "sectionNumber": 51.0,
+    "id": "q01989",
+    "sectionNumber": 51,
     "number": 19,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Як необхідно розташовувати вантаж, що транспортується в ящиках, бочках тощо?",
@@ -32608,8 +32608,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q020",
-    "sectionNumber": 51.0,
+    "id": "q01990",
+    "sectionNumber": 51,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Скільки необхідно використовувати елементів кріплення для надійної фіксації вантажів у кузові?",
@@ -32623,8 +32623,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q021",
-    "sectionNumber": 51.0,
+    "id": "q01991",
+    "sectionNumber": 51,
     "number": 21,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Як слід закріплювати вантажі?",
@@ -32639,8 +32639,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q022",
-    "sectionNumber": 51.0,
+    "id": "q01992",
+    "sectionNumber": 51,
     "number": 22,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Чи можна відразу після екстреного гальмування починати рух на вантажному автомобілі з антиблокувальною системою?",
@@ -32656,8 +32656,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q024",
-    "sectionNumber": 51.0,
+    "id": "q01993",
+    "sectionNumber": 51,
     "number": 24,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Як повинні бути закріплені сидіння в кузові вантажного автомобіля, що використовується для перевезення пасажирів?",
@@ -32672,8 +32672,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q025",
-    "sectionNumber": 51.0,
+    "id": "q01994",
+    "sectionNumber": 51,
     "number": 25,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "За яких умов водієві вантажного автомобіля дозволено перевозити більше ніж 8 пасажирів у пристосованому для цього вантажному автомобілі?",
@@ -32687,8 +32687,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q026",
-    "sectionNumber": 51.0,
+    "id": "q01995",
+    "sectionNumber": 51,
     "number": 26,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Чи повинні водії вантажних автомобілів, максимальна дозволена маса яких перевищує 3,5 т, тракторів і автобусів під час руху по гірських дорогах і крутих спусках користуватися спеціальними гірськими гальмами, встановленими заводом-виробником?",
@@ -32701,8 +32701,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q027",
-    "sectionNumber": 51.0,
+    "id": "q01996",
+    "sectionNumber": 51,
     "number": 27,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Під час зупинки на гірських дорогах, а також на підйомах і спусках водії вантажних автомобілів, дозволена максимальна маса яких перевищує 3,5 т, тракторів і автобусів повинні:",
@@ -32716,8 +32716,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q028",
-    "sectionNumber": 51.0,
+    "id": "q01997",
+    "sectionNumber": 51,
     "number": 28,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Водії яких транспортних засобів під час зупинки або стоянки на гірських дорогах, а також на підйомах і спусках обов'язково повинні користуватися противідкотними упорами?",
@@ -32733,8 +32733,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q029",
-    "sectionNumber": 51.0,
+    "id": "q01998",
+    "sectionNumber": 51,
     "number": 29,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Наскільки повинні бути більші габарити вантажу, що перевозиться, за шириною, щоб його перевезення здійснювалося за спеціальними правилами?",
@@ -32750,8 +32750,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q030",
-    "sectionNumber": 51.0,
+    "id": "q01999",
+    "sectionNumber": 51,
     "number": 30,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Чим визначаються величина максимально дозволеної маси вантажу, що перевозиться транспортним засобом, і величини максимально дозволених навантажень на осі?",
@@ -32766,8 +32766,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q031",
-    "sectionNumber": 51.0,
+    "id": "q02000",
+    "sectionNumber": 51,
     "number": 31,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Чи дозволене перевезення вантажу, якщо його маса і розподіл навантаження на осі перевищують величини, визначені технічною характеристикою даного транспортного засобу?",
@@ -32781,8 +32781,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q032",
-    "sectionNumber": 51.0,
+    "id": "q02001",
+    "sectionNumber": 51,
     "number": 32,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Що повинен зробити водій вантажного автомобіля перед тим, як перевозити людей у кузові?",
@@ -32796,8 +32796,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q033",
-    "sectionNumber": 51.0,
+    "id": "q02002",
+    "sectionNumber": 51,
     "number": 33,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Із якого віку дозволено перевозити дітей у кузові вантажного автомобіля?",
@@ -32813,8 +32813,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q034",
-    "sectionNumber": 51.0,
+    "id": "q02003",
+    "sectionNumber": 51,
     "number": 34,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "За яких умов дозволено перевозити дітей у кузові вантажного автомобіля, пристосованого для перевезення пасажирів?",
@@ -32828,8 +32828,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q035",
-    "sectionNumber": 51.0,
+    "id": "q02004",
+    "sectionNumber": 51,
     "number": 35,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Що потрібно обов'язково зробити перед вимушеним відкриттям кришки радіатора на гарячому двигуні?",
@@ -32843,8 +32843,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q036",
-    "sectionNumber": 51.0,
+    "id": "q02005",
+    "sectionNumber": 51,
     "number": 36,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Чи є антифриз отруйною речовиною?",
@@ -32858,8 +32858,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q037",
-    "sectionNumber": 51.0,
+    "id": "q02006",
+    "sectionNumber": 51,
     "number": 37,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Чим найбільш небезпечна акумуляторна батарея?",
@@ -32873,8 +32873,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q038",
-    "sectionNumber": 51.0,
+    "id": "q02007",
+    "sectionNumber": 51,
     "number": 38,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Чи дозволено під час буксирування перевозити пасажирів у кузові вантажного автомобіля, що буксирує?",
@@ -32889,8 +32889,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q039",
-    "sectionNumber": 51.0,
+    "id": "q02008",
+    "sectionNumber": 51,
     "number": 39,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Чи мають право перебувати пасажири в кузові вантажного автомобіля, що буксирує, під час буксирування?",
@@ -32905,8 +32905,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q040",
-    "sectionNumber": 51.0,
+    "id": "q02009",
+    "sectionNumber": 51,
     "number": 40,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Як позначається транспортний засіб, що здійснює дорожнє перевезення небезпечних вантажів?",
@@ -32922,8 +32922,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q041",
-    "sectionNumber": 51.0,
+    "id": "q02010",
+    "sectionNumber": 51,
     "number": 41,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Якої довжини транспортний засіб (за винятком маршрутних транспортних засобів) повинен рухатися за спеціальними правилами?",
@@ -32939,8 +32939,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q042",
-    "sectionNumber": 51.0,
+    "id": "q02011",
+    "sectionNumber": 51,
     "number": 42,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "Наскільки повинен виступати вантаж за задній габарит транспортного засобу, щоб його перевезення здійснювалося за спеціальними правилами?",
@@ -32955,8 +32955,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s51-q043",
-    "sectionNumber": 51.0,
+    "id": "q02012",
+    "sectionNumber": 51,
     "number": 43,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ C1,C (БЕЗПЕКА)",
     "question": "У яких випадках вантажним автомобілям із дозволеною максимальною масою понад 3,5 т, тракторам, самохідним машинам і механізмам дозволяється виїжджати на крайню ліву смугу на дорогах, що мають три і більше смуги для руху в одному напрямку?",
@@ -32972,8 +32972,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q001",
-    "sectionNumber": 52.0,
+    "id": "q02013",
+    "sectionNumber": 52,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Що спільного у цих двох дорожніх знаків?",
@@ -32990,8 +32990,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q002",
-    "sectionNumber": 52.0,
+    "id": "q02014",
+    "sectionNumber": 52,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Який із зображених дорожніх знаків встановлюється в кінці посадкового майданчика зупинки автобуса?",
@@ -33009,8 +33009,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q003",
-    "sectionNumber": 52.0,
+    "id": "q02015",
+    "sectionNumber": 52,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух синього автобуса?",
@@ -33028,8 +33028,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q004",
-    "sectionNumber": 52.0,
+    "id": "q02016",
+    "sectionNumber": 52,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух червоному автобусу на автомагістралі?",
@@ -33047,8 +33047,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q005",
-    "sectionNumber": 52.0,
+    "id": "q02017",
+    "sectionNumber": 52,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух автобусів (за винятком мікроавтобусів) на дорогах, позначених знаком «Дорога для автомобілів»?",
@@ -33066,8 +33066,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q006",
-    "sectionNumber": 52.0,
+    "id": "q02018",
+    "sectionNumber": 52,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Яка максимальна швидкість встановлена для руху мікроавтобусів на автомагістралі?",
@@ -33084,8 +33084,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q007",
-    "sectionNumber": 52.0,
+    "id": "q02019",
+    "sectionNumber": 52,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю допускається рух мікроавтобусів на дорогах з окремими проїзними частинами?",
@@ -33102,8 +33102,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q008",
-    "sectionNumber": 52.0,
+    "id": "q02020",
+    "sectionNumber": 52,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Яка максимальна швидкість встановлена для мікроавтобусів на цій дорозі за межами населених пунктів?",
@@ -33121,8 +33121,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q009",
-    "sectionNumber": 52.0,
+    "id": "q02021",
+    "sectionNumber": 52,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Хто з водіїв зупинився з порушенням Правил дорожнього руху на дорозі в населеному пункті, якщо відомо, що водії трактора і вантажного автомобіля з дозволеною максимальною масою понад 3,5 т зупинилися без необхідності завантаження чи розвантаження, а водій автобуса - без необхідності посадки або висадки пасажирів?",
@@ -33139,8 +33139,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q010",
-    "sectionNumber": 52.0,
+    "id": "q02022",
+    "sectionNumber": 52,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи дозволено поворот праворуч водієві автобуса, що рухається за встановленим маршрутом, у зображеній ситуації?",
@@ -33155,8 +33155,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q011",
-    "sectionNumber": 52.0,
+    "id": "q02023",
+    "sectionNumber": 52,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю допускається рух мікроавтобусів на дорогах для автомобілів?",
@@ -33178,8 +33178,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q013",
-    "sectionNumber": 52.0,
+    "id": "q02024",
+    "sectionNumber": 52,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух жовтого автобуса, що перевозить організовану групу дітей, на цій ділянці дороги за межами населених пунктів?",
@@ -33195,8 +33195,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q014",
-    "sectionNumber": 52.0,
+    "id": "q02025",
+    "sectionNumber": 52,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи дозволено поворот ліворуч водієві автобуса, що рухається за встановленим маршрутом, у зображеній ситуації?",
@@ -33211,8 +33211,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q015",
-    "sectionNumber": 52.0,
+    "id": "q02026",
+    "sectionNumber": 52,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи дозволено автобусу, який рухається за встановленим маршрутом, повернути праворуч на зображеному перехресті?",
@@ -33227,8 +33227,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q016",
-    "sectionNumber": 52.0,
+    "id": "q02027",
+    "sectionNumber": 52,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи дозволено водієві автобуса, що рухається за встановленим маршрутом, повернути ліворуч у зображеній ситуації?",
@@ -33243,8 +33243,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q017",
-    "sectionNumber": 52.0,
+    "id": "q02028",
+    "sectionNumber": 52,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи дозволено водієві автобуса, що рухається за встановленим маршрутом, повернути праворуч у зображеній ситуації?",
@@ -33259,8 +33259,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q018",
-    "sectionNumber": 52.0,
+    "id": "q02029",
+    "sectionNumber": 52,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи дозволено водієві автобуса, що рухається за встановленим маршрутом, повернути ліворуч у зображеній ситуації?",
@@ -33275,8 +33275,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q019",
-    "sectionNumber": 52.0,
+    "id": "q02030",
+    "sectionNumber": 52,
     "number": 19,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Водій транспортного засобу, який обладнано тахографом, повинен:",
@@ -33290,8 +33290,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q020",
-    "sectionNumber": 52.0,
+    "id": "q02031",
+    "sectionNumber": 52,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Тривалість щотижневого відпочинку водія має становити:",
@@ -33305,8 +33305,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q021",
-    "sectionNumber": 52.0,
+    "id": "q02032",
+    "sectionNumber": 52,
     "number": 21,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Якщо протягом робочої зміни ТЗ керують два водії, кожний водій повинен мати щоденний відпочинок тривалістю:",
@@ -33320,8 +33320,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q022",
-    "sectionNumber": 52.0,
+    "id": "q02033",
+    "sectionNumber": 52,
     "number": 22,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Як водії мають використовувати час перерви?",
@@ -33335,8 +33335,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q023",
-    "sectionNumber": 52.0,
+    "id": "q02034",
+    "sectionNumber": 52,
     "number": 23,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи зараховується перерва для відпочинку і харчування до робочого часу водія?",
@@ -33350,8 +33350,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q024",
-    "sectionNumber": 52.0,
+    "id": "q02035",
+    "sectionNumber": 52,
     "number": 24,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Яка мінімальна тривалість відпочинку та харчування водія після 4 годин керування, якщо не настає період щоденного (міжзмінного) відпочинку?",
@@ -33365,8 +33365,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q025",
-    "sectionNumber": 52.0,
+    "id": "q02036",
+    "sectionNumber": 52,
     "number": 25,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "При управлінні автобусом, що бере участь у міжнародному русі, загальна тривалість робочого часу водія автобуса протягом двох тижнів поспіль реєструється тахографом. Відповідно до нормативних документів вона не має перевищувати:",
@@ -33381,8 +33381,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q026",
-    "sectionNumber": 52.0,
+    "id": "q02037",
+    "sectionNumber": 52,
     "number": 26,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Після скількох годин керування водій автобуса має зробити перерву для відпочинку?",
@@ -33396,8 +33396,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q027",
-    "sectionNumber": 52.0,
+    "id": "q02038",
+    "sectionNumber": 52,
     "number": 27,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Яку мінімальну кількість водіїв направляють на автобусні маршрути протяжністю понад 500 км?",
@@ -33411,8 +33411,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q028",
-    "sectionNumber": 52.0,
+    "id": "q02039",
+    "sectionNumber": 52,
     "number": 28,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Як затягувати болти/гайки кріплення колеса до маточини?",
@@ -33425,8 +33425,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q029",
-    "sectionNumber": 52.0,
+    "id": "q02040",
+    "sectionNumber": 52,
     "number": 29,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "До міжнародних перевезень пасажирів допускаються резиденти України, які мають досвід роботи на внутрішніх перевезеннях не менше:",
@@ -33440,8 +33440,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q030",
-    "sectionNumber": 52.0,
+    "id": "q02041",
+    "sectionNumber": 52,
     "number": 30,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Якщо протягом робочої зміни ТЗ керують два водії, кожний водій повинен мати щоденний відпочинок тривалістю:",
@@ -33455,8 +33455,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q031",
-    "sectionNumber": 52.0,
+    "id": "q02042",
+    "sectionNumber": 52,
     "number": 31,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "При управлінні автобусом, що бере участь у міжнародному русі, тривалість робочого часу водія автобуса протягом тижня реєструється тахографом. Відповідно до нормативних документів вона не має перевищувати:",
@@ -33471,8 +33471,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q032",
-    "sectionNumber": 52.0,
+    "id": "q02043",
+    "sectionNumber": 52,
     "number": 32,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Транспортним засобом категорії D1 вважається механічний транспортний засіб, конструктивно призначений для перевезення не більше:",
@@ -33486,8 +33486,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q033",
-    "sectionNumber": 52.0,
+    "id": "q02044",
+    "sectionNumber": 52,
     "number": 33,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Скільки має тривати щоденний (міжзмінний) відпочинок водія протягом будь-якого 24-годинного періоду, рахуючи від початку робочого дня (зміни)?",
@@ -33501,8 +33501,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q034",
-    "sectionNumber": 52.0,
+    "id": "q02045",
+    "sectionNumber": 52,
     "number": 34,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Скільки разів протягом тижня щоденний час перебування за кермом водія при управлінні автобусом, що бере участь у міжнародному русі, може бути збільшено до 10 годин?",
@@ -33516,8 +33516,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q035",
-    "sectionNumber": 52.0,
+    "id": "q02046",
+    "sectionNumber": 52,
     "number": 35,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Щоденний час перебування за кермом водія при керуванні автобусом, що бере участь у міжнародному русі, зареєстрований за допомогою тахографа, не має перевищувати:",
@@ -33531,8 +33531,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q036",
-    "sectionNumber": 52.0,
+    "id": "q02047",
+    "sectionNumber": 52,
     "number": 36,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Тахограф – це бортовий прилад, який встановлюється на автобусах, що беруть участь у міжнародному русі, та який реєструє:",
@@ -33547,8 +33547,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q037",
-    "sectionNumber": 52.0,
+    "id": "q02048",
+    "sectionNumber": 52,
     "number": 37,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Автобуси, які беруть участь у міжнародному русі, мають бути обов'язково обладнані:",
@@ -33563,8 +33563,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q038",
-    "sectionNumber": 52.0,
+    "id": "q02049",
+    "sectionNumber": 52,
     "number": 38,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Поза населеними пунктами на дорогах, не позначених знаком 5.3 «Дорога для автомобілів», дозволена максимальна швидкість автобусів, крім мікроавтобусів, не перевищує:",
@@ -33578,8 +33578,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q039",
-    "sectionNumber": 52.0,
+    "id": "q02050",
+    "sectionNumber": 52,
     "number": 39,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Поза населеними пунктами на дорогах, позначених знаком 5.3 «Дорога для автомобілів», дозволена максимальна швидкість автобусів, крім мікроавтобусів, не перевищує:",
@@ -33593,8 +33593,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q040",
-    "sectionNumber": 52.0,
+    "id": "q02051",
+    "sectionNumber": 52,
     "number": 40,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Водій транспортного засобу, який обладнано тахографом, повинен:",
@@ -33609,8 +33609,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q041",
-    "sectionNumber": 52.0,
+    "id": "q02052",
+    "sectionNumber": 52,
     "number": 41,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Водій транспортного засобу, який обладнано тахографом, повинен:",
@@ -33623,8 +33623,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q042",
-    "sectionNumber": 52.0,
+    "id": "q02053",
+    "sectionNumber": 52,
     "number": 42,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Тривалість керування для водія на тиждень з урахуванням понаднормових робіт не повинна перевищувати:",
@@ -33638,8 +33638,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q043",
-    "sectionNumber": 52.0,
+    "id": "q02054",
+    "sectionNumber": 52,
     "number": 43,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Перевезення пасажирів автобусами залежно від режиму їх організації можуть бути:",
@@ -33655,8 +33655,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q044",
-    "sectionNumber": 52.0,
+    "id": "q02055",
+    "sectionNumber": 52,
     "number": 44,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Яку мінімальну кількість водіїв направляють на автобусні маршрути протяжністю понад 500 км?",
@@ -33670,8 +33670,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q045",
-    "sectionNumber": 52.0,
+    "id": "q02056",
+    "sectionNumber": 52,
     "number": 45,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Тривалість керування водія на тиждень, включно з надурочними роботами, не повинна перевищувати:",
@@ -33685,8 +33685,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q046",
-    "sectionNumber": 52.0,
+    "id": "q02057",
+    "sectionNumber": 52,
     "number": 46,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Нормальна тривалість робочого часу водія не повинна перевищувати:",
@@ -33700,8 +33700,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q047",
-    "sectionNumber": 52.0,
+    "id": "q02058",
+    "sectionNumber": 52,
     "number": 47,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Що належить до поняття відпочинок водія?",
@@ -33715,8 +33715,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q048",
-    "sectionNumber": 52.0,
+    "id": "q02059",
+    "sectionNumber": 52,
     "number": 48,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "У разі під'їзду до регульованого перехрестя транспортним засобом, яким керує водій з однією з категорій D, D1, що завжди потрібно ураховувати водієві?",
@@ -33730,8 +33730,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q049",
-    "sectionNumber": 52.0,
+    "id": "q02060",
+    "sectionNumber": 52,
     "number": 49,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Як правильно встановлювати домкрат?",
@@ -33745,8 +33745,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q050",
-    "sectionNumber": 52.0,
+    "id": "q02061",
+    "sectionNumber": 52,
     "number": 50,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Як затягувати болти/гайки кріплення колеса до маточини?",
@@ -33760,8 +33760,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q051",
-    "sectionNumber": 52.0,
+    "id": "q02062",
+    "sectionNumber": 52,
     "number": 51,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух автобусів (за винятком мікроавтобусів) на всіх дорогах за межами населених пунктів?",
@@ -33777,8 +33777,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q052",
-    "sectionNumber": 52.0,
+    "id": "q02063",
+    "sectionNumber": 52,
     "number": 52,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Вкажіть максимально допустиму довжину зчеплених при буксируванні маршрутних транспортних засобів.",
@@ -33799,8 +33799,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q054",
-    "sectionNumber": 52.0,
+    "id": "q02064",
+    "sectionNumber": 52,
     "number": 54,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Після скількох годин керування водій повинен зробити перерву для відпочинку?",
@@ -33814,8 +33814,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q055",
-    "sectionNumber": 52.0,
+    "id": "q02065",
+    "sectionNumber": 52,
     "number": 55,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Яка мінімальна тривалість відпочинку та харчування водія після 4 годин керування, якщо не настає період щоденного (міжзмінного) відпочинку?",
@@ -33829,8 +33829,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q056",
-    "sectionNumber": 52.0,
+    "id": "q02066",
+    "sectionNumber": 52,
     "number": 56,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "У разі несправності або пошкодження тахографа водій транспортного засобу повинен:",
@@ -33844,8 +33844,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q057",
-    "sectionNumber": 52.0,
+    "id": "q02067",
+    "sectionNumber": 52,
     "number": 57,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Водій транспортного засобу, який обладнано тахографом, повинен:",
@@ -33859,8 +33859,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q058",
-    "sectionNumber": 52.0,
+    "id": "q02068",
+    "sectionNumber": 52,
     "number": 58,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Водій транспортного засобу, який обладнано тахографом, повинен:",
@@ -33874,8 +33874,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q059",
-    "sectionNumber": 52.0,
+    "id": "q02069",
+    "sectionNumber": 52,
     "number": 59,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Що таке контрольний пристрій (тахограф)?",
@@ -33889,8 +33889,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q060",
-    "sectionNumber": 52.0,
+    "id": "q02070",
+    "sectionNumber": 52,
     "number": 60,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Яка повинна бути довжина маршруту, який виходить за межі населеного пункту, щоб на нього направляли двох водіїв?",
@@ -33904,8 +33904,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q061",
-    "sectionNumber": 52.0,
+    "id": "q02071",
+    "sectionNumber": 52,
     "number": 61,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Тривалість щотижневого відпочинку водія повинна бути:",
@@ -33919,8 +33919,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q062",
-    "sectionNumber": 52.0,
+    "id": "q02072",
+    "sectionNumber": 52,
     "number": 62,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Якщо протягом робочої зміни ТЗ керують два водії, кожен водій повинен мати щоденний відпочинок тривалістю:",
@@ -33934,8 +33934,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q063",
-    "sectionNumber": 52.0,
+    "id": "q02073",
+    "sectionNumber": 52,
     "number": 63,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Яка повинна бути тривалість щоденного (міжзмінного) відпочинку водія протягом будь-якого 24-годинного періоду, рахуючи від початку робочого дня (зміни)?",
@@ -33949,8 +33949,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q064",
-    "sectionNumber": 52.0,
+    "id": "q02074",
+    "sectionNumber": 52,
     "number": 64,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Як водії повинні використовувати час перерви?",
@@ -33963,8 +33963,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q065",
-    "sectionNumber": 52.0,
+    "id": "q02075",
+    "sectionNumber": 52,
     "number": 65,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи входить перерва для відпочинку і харчування в робочий час водія?",
@@ -33977,8 +33977,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q066",
-    "sectionNumber": 52.0,
+    "id": "q02076",
+    "sectionNumber": 52,
     "number": 66,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи дозволено перевезення організованих груп дітей у темну пору доби?",
@@ -33992,8 +33992,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q001",
-    "sectionNumber": 52.0,
+    "id": "q02077",
+    "sectionNumber": 52,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Яку максимальну кількість пасажирів, враховуючи місце водія має право перевозити водій мікроавтобуса?",
@@ -34009,8 +34009,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s52-q002",
-    "sectionNumber": 52.0,
+    "id": "q02078",
+    "sectionNumber": 52,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Виберіть правильну відповідь.",
@@ -34024,8 +34024,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q003",
-    "sectionNumber": 52.0,
+    "id": "q02079",
+    "sectionNumber": 52,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Що може стати наслідком повного зносу фрикційних накладок гальмівних колодок?",
@@ -34039,8 +34039,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q004",
-    "sectionNumber": 52.0,
+    "id": "q02080",
+    "sectionNumber": 52,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Яку функцію виконує обмежувальний клапан тиску в пневматичному приводі гальмівної системи передньої осі?",
@@ -34054,8 +34054,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q005",
-    "sectionNumber": 52.0,
+    "id": "q02081",
+    "sectionNumber": 52,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Для чого потрібен прискорювальний клапан в пневматичному приводі гальмівної системи?",
@@ -34069,8 +34069,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q006",
-    "sectionNumber": 52.0,
+    "id": "q02082",
+    "sectionNumber": 52,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Які гальмівнімеханізми задіяніпідчас увімкнення гірського гальма?",
@@ -34085,8 +34085,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q007",
-    "sectionNumber": 52.0,
+    "id": "q02083",
+    "sectionNumber": 52,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Що таке ресивер?",
@@ -34100,8 +34100,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q008",
-    "sectionNumber": 52.0,
+    "id": "q02084",
+    "sectionNumber": 52,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Куди дівається повітря після відпускання педалі гальма?",
@@ -34115,8 +34115,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q009",
-    "sectionNumber": 52.0,
+    "id": "q02085",
+    "sectionNumber": 52,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "До якого вузла підключена педаль гальма у пневматичній гальмівній системі?",
@@ -34130,8 +34130,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q010",
-    "sectionNumber": 52.0,
+    "id": "q02086",
+    "sectionNumber": 52,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "У чому основна перевага гідравлічної гальмівної системи перед пневматичною гальмівною системою?",
@@ -34145,8 +34145,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q011",
-    "sectionNumber": 52.0,
+    "id": "q02087",
+    "sectionNumber": 52,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи дозволено змішувати охолоджувальні рідини різних кольорів?",
@@ -34160,8 +34160,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q012",
-    "sectionNumber": 52.0,
+    "id": "q02088",
+    "sectionNumber": 52,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Як позначиться на автомобілі порушення герметичності гальмівної камери з одного боку під час гальмування?",
@@ -34175,8 +34175,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q013",
-    "sectionNumber": 52.0,
+    "id": "q02089",
+    "sectionNumber": 52,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Як визначити за краплиною моторної оливи потрапляння в систему мащення охолоджувальної рідини?",
@@ -34196,8 +34196,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q016",
-    "sectionNumber": 52.0,
+    "id": "q02090",
+    "sectionNumber": 52,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи дозволено перевищувати рівень моторної оливи під час її заміни?",
@@ -34211,8 +34211,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q017",
-    "sectionNumber": 52.0,
+    "id": "q02091",
+    "sectionNumber": 52,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Як часто необхідно зливати воду з фільтра-відстійника на транспортних засобах з дизельними двигунами?",
@@ -34227,8 +34227,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q018",
-    "sectionNumber": 52.0,
+    "id": "q02092",
+    "sectionNumber": 52,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Вкажіть метод визначення причини нестабільних обертів холостого ходу.",
@@ -34242,8 +34242,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q019",
-    "sectionNumber": 52.0,
+    "id": "q02093",
+    "sectionNumber": 52,
     "number": 19,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Вкажіть метод визначення причини, з якої двигун не запускається, коли обертається стартер.",
@@ -34258,8 +34258,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q020",
-    "sectionNumber": 52.0,
+    "id": "q02094",
+    "sectionNumber": 52,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Вкажіть метод визначення причини різкого збільшення зусилля на кермовому колесі.",
@@ -34274,8 +34274,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q021",
-    "sectionNumber": 52.0,
+    "id": "q02095",
+    "sectionNumber": 52,
     "number": 21,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Вкажіть метод визначення причини надмірного зношення шин керованих коліс.",
@@ -34289,8 +34289,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q022",
-    "sectionNumber": 52.0,
+    "id": "q02096",
+    "sectionNumber": 52,
     "number": 22,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Вкажіть методи визначення надмірного зношення гальмівних колодок тільки з одного боку автомобіля.",
@@ -34305,8 +34305,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q023",
-    "sectionNumber": 52.0,
+    "id": "q02097",
+    "sectionNumber": 52,
     "number": 23,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Назвіть тип гальмівної системи, що найчастіше застосовується у вантажних автомобілях і автобусах.",
@@ -34320,8 +34320,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q024",
-    "sectionNumber": 52.0,
+    "id": "q02098",
+    "sectionNumber": 52,
     "number": 24,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Як дізнатися сторону встановлення колеса і шини з направленим малюнком протектора?",
@@ -34335,8 +34335,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q025",
-    "sectionNumber": 52.0,
+    "id": "q02099",
+    "sectionNumber": 52,
     "number": 25,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Назвіть основне призначення системи запалювання.",
@@ -34350,8 +34350,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q026",
-    "sectionNumber": 52.0,
+    "id": "q02100",
+    "sectionNumber": 52,
     "number": 26,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Для чого служить стартер?",
@@ -34365,8 +34365,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q027",
-    "sectionNumber": 52.0,
+    "id": "q02101",
+    "sectionNumber": 52,
     "number": 27,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "У якій послідовності необхідно від'єднувати клеми від виводів акумуляторної батареї?",
@@ -34380,8 +34380,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q028",
-    "sectionNumber": 52.0,
+    "id": "q02102",
+    "sectionNumber": 52,
     "number": 28,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Для чого потрібна система охолодження двигуна?",
@@ -34395,8 +34395,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q029",
-    "sectionNumber": 52.0,
+    "id": "q02103",
+    "sectionNumber": 52,
     "number": 29,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Для чого необхідне використання моторної оливи?",
@@ -34412,8 +34412,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q030",
-    "sectionNumber": 52.0,
+    "id": "q02104",
+    "sectionNumber": 52,
     "number": 30,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Для чого рекомендується замінювати моторну оливу в зимовий період?",
@@ -34427,8 +34427,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q031",
-    "sectionNumber": 52.0,
+    "id": "q02105",
+    "sectionNumber": 52,
     "number": 31,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Звідки в паливній системі дизельного двигуна необхідно періодично зливати воду?",
@@ -34442,8 +34442,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q032",
-    "sectionNumber": 52.0,
+    "id": "q02106",
+    "sectionNumber": 52,
     "number": 32,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Що включає в себе газорозподільний механізм?",
@@ -34457,8 +34457,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q033",
-    "sectionNumber": 52.0,
+    "id": "q02107",
+    "sectionNumber": 52,
     "number": 33,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "З яких основних частин складається двигун внутрішнього згоряння?",
@@ -34472,8 +34472,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q034",
-    "sectionNumber": 52.0,
+    "id": "q02108",
+    "sectionNumber": 52,
     "number": 34,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи потрібна система запалювання для дизельного двигуна?",
@@ -34487,8 +34487,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q035",
-    "sectionNumber": 52.0,
+    "id": "q02109",
+    "sectionNumber": 52,
     "number": 35,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Для чого необхідна муфта зчеплення в трансмісії?",
@@ -34503,8 +34503,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q036",
-    "sectionNumber": 52.0,
+    "id": "q02110",
+    "sectionNumber": 52,
     "number": 36,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Для чого здійснюють балансування шин?",
@@ -34518,8 +34518,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q037",
-    "sectionNumber": 52.0,
+    "id": "q02111",
+    "sectionNumber": 52,
     "number": 37,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Які бувають типи шин?",
@@ -34533,8 +34533,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q038",
-    "sectionNumber": 52.0,
+    "id": "q02112",
+    "sectionNumber": 52,
     "number": 38,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи потрібно замінювати оливний фільтр під час заміни моторної оливи?",
@@ -34548,8 +34548,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q039",
-    "sectionNumber": 52.0,
+    "id": "q02113",
+    "sectionNumber": 52,
     "number": 39,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Що буде, якщо значно перевищити рівень моторної оливи в двигуні?",
@@ -34564,8 +34564,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q040",
-    "sectionNumber": 52.0,
+    "id": "q02114",
+    "sectionNumber": 52,
     "number": 40,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Який з перелічених нижче варіантів є описом в'язкості моторного масла за SAE?",
@@ -34579,8 +34579,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q041",
-    "sectionNumber": 52.0,
+    "id": "q02115",
+    "sectionNumber": 52,
     "number": 41,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чи можна змішувати охолоджувальну рідину різних кольорів?",
@@ -34594,8 +34594,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q042",
-    "sectionNumber": 52.0,
+    "id": "q02116",
+    "sectionNumber": 52,
     "number": 42,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Для чого потрібен міжколісний диференціал?",
@@ -34609,8 +34609,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q043",
-    "sectionNumber": 52.0,
+    "id": "q02117",
+    "sectionNumber": 52,
     "number": 43,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Чим загрожує неповне вимкнення зчеплення не до кінця натиснутою педаллю зчеплення?",
@@ -34624,8 +34624,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q044",
-    "sectionNumber": 52.0,
+    "id": "q02118",
+    "sectionNumber": 52,
     "number": 44,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "Що означає поняття «веде зчеплення»?",
@@ -34639,8 +34639,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s52-q045",
-    "sectionNumber": 52.0,
+    "id": "q02119",
+    "sectionNumber": 52,
     "number": 45,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЗАГАЛЬНІ)",
     "question": "До автопоїздів (транспортних составів) належать:",
@@ -34655,8 +34655,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q001",
-    "sectionNumber": 54.0,
+    "id": "q02120",
+    "sectionNumber": 54,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Який мінімальний стаж водіння повинен мати водій автобуса (мікроавтобуса), який здійснює перевезення організованих груп дітей?",
@@ -34671,8 +34671,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q002",
-    "sectionNumber": 54.0,
+    "id": "q02121",
+    "sectionNumber": 54,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи дозволяється перевезення організованих груп дітей у темну пору доби?",
@@ -34686,8 +34686,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q003",
-    "sectionNumber": 54.0,
+    "id": "q02122",
+    "sectionNumber": 54,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Організовані групи дітей мають перевозитися водіями, стаж керування транспортним засобом яких становить не менше:",
@@ -34701,8 +34701,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q004",
-    "sectionNumber": 54.0,
+    "id": "q02123",
+    "sectionNumber": 54,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Водій автобуса зобов'язаний:",
@@ -34717,8 +34717,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q005",
-    "sectionNumber": 54.0,
+    "id": "q02124",
+    "sectionNumber": 54,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи дозволено водієві автобуса продавати пасажирам квитки під час руху автобуса?",
@@ -34732,8 +34732,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q006",
-    "sectionNumber": 54.0,
+    "id": "q02125",
+    "sectionNumber": 54,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "У випадку несправності або пошкодження тахографа водій транспортного засобу повинен:",
@@ -34747,8 +34747,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q007",
-    "sectionNumber": 54.0,
+    "id": "q02126",
+    "sectionNumber": 54,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи дозволено водієві автобуса змінювати маршрут і графік руху?",
@@ -34762,8 +34762,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q008",
-    "sectionNumber": 54.0,
+    "id": "q02127",
+    "sectionNumber": 54,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи може водій автобуса відхилятися від маршруту на свій розсуд?",
@@ -34777,8 +34777,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q009",
-    "sectionNumber": 54.0,
+    "id": "q02128",
+    "sectionNumber": 54,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Водіям маломісних автобусів забороняється:",
@@ -34792,8 +34792,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q010",
-    "sectionNumber": 54.0,
+    "id": "q02129",
+    "sectionNumber": 54,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "У якому варіанті відповіді правильно наведені всі дії, які забороняється виконувати водієві маршрутного транспортного засобу під час руху?",
@@ -34808,8 +34808,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q011",
-    "sectionNumber": 54.0,
+    "id": "q02130",
+    "sectionNumber": 54,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Водієві транспортного засобу, призначеного для перевезення людей, забороняється перевозити вантаж на даху цього транспортного засобу:",
@@ -34823,8 +34823,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q012",
-    "sectionNumber": 54.0,
+    "id": "q02131",
+    "sectionNumber": 54,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Для керування транспортним засобом, призначеним для перевезення людей у кількості, що не перевищує 16 пасажирів, на сидіннях, крім водія, необхідно, щоб у посвідченні водія, крім категорії «В», була позначка про право керування транспортними засобами категорії:",
@@ -34838,8 +34838,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q013",
-    "sectionNumber": 54.0,
+    "id": "q02132",
+    "sectionNumber": 54,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Скільки вогнегасників має знаходитися в автобусі та де вони повинні бути закріплені у випадку, якщо місця для їх кріплення не передбачені конструкцією?",
@@ -34854,8 +34854,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q014",
-    "sectionNumber": 54.0,
+    "id": "q02133",
+    "sectionNumber": 54,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Якою мінімальною кількістю противідкатних упорів має бути укомплектовано автобус із дозволеною максимальною масою понад 3,5 т?",
@@ -34869,8 +34869,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q015",
-    "sectionNumber": 54.0,
+    "id": "q02134",
+    "sectionNumber": 54,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Експлуатація автобусів не забороняється, якщо:",
@@ -34884,8 +34884,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q016",
-    "sectionNumber": 54.0,
+    "id": "q02135",
+    "sectionNumber": 54,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "За виконання яких умов автобуси можуть бути допущені до експлуатації?",
@@ -34900,8 +34900,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q017",
-    "sectionNumber": 54.0,
+    "id": "q02136",
+    "sectionNumber": 54,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Для допущення до дорожнього руху автобуси мають проходити періодичний державний технічний контроль кожні:",
@@ -34915,8 +34915,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q018",
-    "sectionNumber": 54.0,
+    "id": "q02137",
+    "sectionNumber": 54,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Яку максимальну кількість дітей дозволяється перевозити автобусом?",
@@ -34929,8 +34929,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q019",
-    "sectionNumber": 54.0,
+    "id": "q02138",
+    "sectionNumber": 54,
     "number": 19,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Водію міжміського автобуса не дозволяється перевозити без супроводу дорослих дітей віком:",
@@ -34944,8 +34944,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q020",
-    "sectionNumber": 54.0,
+    "id": "q02139",
+    "sectionNumber": 54,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи повинен водій транспортного засобу евакуювати пасажирів у разі ДТП?",
@@ -34960,8 +34960,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q021",
-    "sectionNumber": 54.0,
+    "id": "q02140",
+    "sectionNumber": 54,
     "number": 21,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Які правильні дії повинен виконати водій у тому разі, якщо в ДТП є потерпілі?",
@@ -34976,8 +34976,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q022",
-    "sectionNumber": 54.0,
+    "id": "q02141",
+    "sectionNumber": 54,
     "number": 22,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи обов'язкове встановлення знака аварійної зупинки в разі ДТП?",
@@ -34991,8 +34991,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q023",
-    "sectionNumber": 54.0,
+    "id": "q02142",
+    "sectionNumber": 54,
     "number": 23,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "На міжміських маршрутах не дозволено перевозити дітей без супроводу дорослих віком:",
@@ -35006,8 +35006,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q024",
-    "sectionNumber": 54.0,
+    "id": "q02143",
+    "sectionNumber": 54,
     "number": 24,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Максимальна кількість дітей для перевезення автобусом не повинна перевищувати:",
@@ -35020,8 +35020,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q025",
-    "sectionNumber": 54.0,
+    "id": "q02144",
+    "sectionNumber": 54,
     "number": 25,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Організовані групи дітей повинні перевозити водії, які мають стаж керування транспортним засобом не менше ніж:",
@@ -35035,8 +35035,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q026",
-    "sectionNumber": 54.0,
+    "id": "q02145",
+    "sectionNumber": 54,
     "number": 26,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи дозволено перевезення організованих груп дітей у темну пору доби?",
@@ -35050,8 +35050,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q027",
-    "sectionNumber": 54.0,
+    "id": "q02146",
+    "sectionNumber": 54,
     "number": 27,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Водій автобуса зобов'язаний:",
@@ -35065,8 +35065,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q028",
-    "sectionNumber": 54.0,
+    "id": "q02147",
+    "sectionNumber": 54,
     "number": 28,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Яких правил зобов'язаний дотримуватися водій автобуса?",
@@ -35081,8 +35081,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q029",
-    "sectionNumber": 54.0,
+    "id": "q02148",
+    "sectionNumber": 54,
     "number": 29,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи повинен водій автобуса оголошувати найменування і тривалість зупинки?",
@@ -35096,8 +35096,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q030",
-    "sectionNumber": 54.0,
+    "id": "q02149",
+    "sectionNumber": 54,
     "number": 30,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Що з переліченого заборонено водієві автобуса?",
@@ -35111,8 +35111,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q031",
-    "sectionNumber": 54.0,
+    "id": "q02150",
+    "sectionNumber": 54,
     "number": 31,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Що з переліченого заборонено водієві автобуса?",
@@ -35126,8 +35126,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q032",
-    "sectionNumber": 54.0,
+    "id": "q02151",
+    "sectionNumber": 54,
     "number": 32,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Що з переліченого заборонено водієві автобуса?",
@@ -35142,8 +35142,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q033",
-    "sectionNumber": 54.0,
+    "id": "q02152",
+    "sectionNumber": 54,
     "number": 33,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Що з переліченого заборонено водієві автобуса?",
@@ -35157,8 +35157,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q034",
-    "sectionNumber": 54.0,
+    "id": "q02153",
+    "sectionNumber": 54,
     "number": 34,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "До міжнародних перевезень пасажирів допускаються резиденти України, які мають досвід роботи на внутрішніх перевезеннях не менше:",
@@ -35172,8 +35172,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q035",
-    "sectionNumber": 54.0,
+    "id": "q02154",
+    "sectionNumber": 54,
     "number": 35,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Чи обов'язкове встановлення знака аварійної зупинки у випадку ДТП?",
@@ -35187,8 +35187,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s54-q036",
-    "sectionNumber": 54.0,
+    "id": "q02155",
+    "sectionNumber": 54,
     "number": 36,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (ЮРИДИЧНА ВІДПОВІДАЛЬНІСТЬ)",
     "question": "Як має вчинити водій автобуса, якщо в результаті дорожньо- транспортної пригоди двері автобуса виявилися заблокованими?",
@@ -35203,8 +35203,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q001",
-    "sectionNumber": 55.0,
+    "id": "q02156",
+    "sectionNumber": 55,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Що в цій ситуації заборонено водієві автобуса (чорний автомобіль почав обгін)?",
@@ -35220,8 +35220,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s55-q002",
-    "sectionNumber": 55.0,
+    "id": "q02157",
+    "sectionNumber": 55,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Яких заходів повинен вжити водій автобуса, що подав сигнал про намір розпочати рух від будь-якої зупинки?",
@@ -35237,8 +35237,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s55-q003",
-    "sectionNumber": 55.0,
+    "id": "q02158",
+    "sectionNumber": 55,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Яким із розпізнавальних знаків позначається автобус або мікроавтобус під час перевезення організованих груп дітей?",
@@ -35255,8 +35255,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s55-q004",
-    "sectionNumber": 55.0,
+    "id": "q02159",
+    "sectionNumber": 55,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "У якому випадку на автобусі (мікроавтобусі), що рухається, у світлий час доби вмикається ближнє світло фар?",
@@ -35271,8 +35271,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q005",
-    "sectionNumber": 55.0,
+    "id": "q02160",
+    "sectionNumber": 55,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Як правильно діяти водієві автобуса у випадку, якщо в ДТП є постраждалі?",
@@ -35286,8 +35286,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q006",
-    "sectionNumber": 55.0,
+    "id": "q02161",
+    "sectionNumber": 55,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Що необхідно перевірити водієві автобуса перед виїздом?",
@@ -35301,8 +35301,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q007",
-    "sectionNumber": 55.0,
+    "id": "q02162",
+    "sectionNumber": 55,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Що необхідно перевірити водієві автобуса перед виїздом?",
@@ -35317,8 +35317,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q008",
-    "sectionNumber": 55.0,
+    "id": "q02163",
+    "sectionNumber": 55,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Що в першу чергу потрібно зробити у випадку пробиття одного з коліс?",
@@ -35332,8 +35332,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q009",
-    "sectionNumber": 55.0,
+    "id": "q02164",
+    "sectionNumber": 55,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Що необхідно зробити заздалегідь перед використанням домкрата?",
@@ -35348,8 +35348,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q010",
-    "sectionNumber": 55.0,
+    "id": "q02165",
+    "sectionNumber": 55,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "У випадку під'їзду до регульованого перехрестя транспортним засобом, який належить до великогабаритних, про що завжди потрібно пам'ятати водієві?",
@@ -35364,8 +35364,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q011",
-    "sectionNumber": 55.0,
+    "id": "q02166",
+    "sectionNumber": 55,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Перш ніж почати рух від зупинки після посадки в автобус пасажирів, водій автобуса повинен переконатися в безпеці маневру:",
@@ -35380,8 +35380,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q012",
-    "sectionNumber": 55.0,
+    "id": "q02167",
+    "sectionNumber": 55,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Для безпеки і комфорту пасажирів автобуса водій повинен:",
@@ -35395,8 +35395,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q013",
-    "sectionNumber": 55.0,
+    "id": "q02168",
+    "sectionNumber": 55,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Усі місця вашого автобуса оснащені ременями безпеки. У цьому випадку ви маєте:",
@@ -35410,8 +35410,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q014",
-    "sectionNumber": 55.0,
+    "id": "q02169",
+    "sectionNumber": 55,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Водій маршрутного транспортного засобу, що рухається по смузі, позначеній дорожнім знаком 5.8, назустріч загальному потоку транспортних засобів, повинен вмикати:",
@@ -35425,8 +35425,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q015",
-    "sectionNumber": 55.0,
+    "id": "q02170",
+    "sectionNumber": 55,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Для привернення уваги інших водіїв і з метою позначення рухомого маломісного автобуса або автобуса, що перевозить групу дітей, водій цього транспортного засобу в денний час повинен:",
@@ -35440,8 +35440,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q016",
-    "sectionNumber": 55.0,
+    "id": "q02171",
+    "sectionNumber": 55,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Чи має водій автобуса евакуювати пасажирів у випадку ДТП?",
@@ -35455,8 +35455,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q017",
-    "sectionNumber": 55.0,
+    "id": "q02172",
+    "sectionNumber": 55,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Що має зробити водій автобуса в разі ДТП?",
@@ -35470,8 +35470,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q018",
-    "sectionNumber": 55.0,
+    "id": "q02173",
+    "sectionNumber": 55,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "До яких дій повинен вдатися водій автобуса під час виконання перевезення пасажирів перед заправкою автобуса пальним?",
@@ -35485,8 +35485,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q019",
-    "sectionNumber": 55.0,
+    "id": "q02174",
+    "sectionNumber": 55,
     "number": 19,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Чи дозволено водіям маршрутних транспортних засобів перевозити пасажирів і вантажі в кабіні, відокремленій від салону?",
@@ -35500,8 +35500,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q020",
-    "sectionNumber": 55.0,
+    "id": "q02175",
+    "sectionNumber": 55,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Яких умов потрібно дотримуватися під час перевезення організованих груп дітей в автобусах і мікроавтобусах?",
@@ -35517,8 +35517,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q021",
-    "sectionNumber": 55.0,
+    "id": "q02176",
+    "sectionNumber": 55,
     "number": 21,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "На транспортному засобі з розпізнавальним знаком «Діти» під час посадки або висадки пасажирів із нього повинні бути ввімкнені:",
@@ -35533,8 +35533,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q022",
-    "sectionNumber": 55.0,
+    "id": "q02177",
+    "sectionNumber": 55,
     "number": 22,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Чим найбільш небезпечна акумуляторна батарея?",
@@ -35548,8 +35548,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q023",
-    "sectionNumber": 55.0,
+    "id": "q02178",
+    "sectionNumber": 55,
     "number": 23,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Чи є антифриз отруйною речовиною?",
@@ -35563,8 +35563,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q024",
-    "sectionNumber": 55.0,
+    "id": "q02179",
+    "sectionNumber": 55,
     "number": 24,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Що потрібно обов'язково зробити перед вимушеним відкриттям кришки радіатора на гарячому двигуні?",
@@ -35578,8 +35578,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q025",
-    "sectionNumber": 55.0,
+    "id": "q02180",
+    "sectionNumber": 55,
     "number": 25,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Що є наслідком проїзду автомобіля через глибоку калюжу?",
@@ -35592,8 +35592,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q026",
-    "sectionNumber": 55.0,
+    "id": "q02181",
+    "sectionNumber": 55,
     "number": 26,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "На якій швидкості антиблокувальна система може не спрацювати?",
@@ -35607,8 +35607,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q027",
-    "sectionNumber": 55.0,
+    "id": "q02182",
+    "sectionNumber": 55,
     "number": 27,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Що в першу чергу потрібно зробити в разі пробиття одного з коліс?",
@@ -35622,8 +35622,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q028",
-    "sectionNumber": 55.0,
+    "id": "q02183",
+    "sectionNumber": 55,
     "number": 28,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Що потрібно перевірити водієві автобуса перед виїздом?",
@@ -35638,8 +35638,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q029",
-    "sectionNumber": 55.0,
+    "id": "q02184",
+    "sectionNumber": 55,
     "number": 29,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "Що потрібно перевірити водієві автобуса перед виїздом?",
@@ -35653,8 +35653,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s55-q030",
-    "sectionNumber": 55.0,
+    "id": "q02185",
+    "sectionNumber": 55,
     "number": 30,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ D1, D (БЕЗПЕКА)",
     "question": "У разі вимушеної зупинки автобуса на залізничному переїзді водій зобов'язаний вивести з переїзду пасажирів:",
@@ -35668,8 +35668,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s56-q001",
-    "sectionNumber": 56.0,
+    "id": "q02186",
+    "sectionNumber": 56,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "Чи дозволено в даній ситуації водієві вантажного автомобіля виконати поворот праворуч, не з'їжджаючи на смугу гальмування?",
@@ -35684,8 +35684,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q002",
-    "sectionNumber": 56.0,
+    "id": "q02187",
+    "sectionNumber": 56,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "На яких транспортних засобах встановлюється розпізнавальний знак «Автопоїзд»?",
@@ -35703,8 +35703,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q003",
-    "sectionNumber": 56.0,
+    "id": "q02188",
+    "sectionNumber": 56,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "Які зовнішні світлові пристрої обов'язково повинні бути ввімкнені на причепі транспортного складу (автопоїзда) під час руху в темний час доби і в умовах недостатньої видимості?",
@@ -35721,8 +35721,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q004",
-    "sectionNumber": 56.0,
+    "id": "q02189",
+    "sectionNumber": 56,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рухатися по дорогах для автомобілів вантажним автомобілям з дозволеною максимальною масою понад 3,5 т з причепами?",
@@ -35739,8 +35739,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q005",
-    "sectionNumber": 56.0,
+    "id": "q02190",
+    "sectionNumber": 56,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух легкових автомобілів із причепами на дорогах, що проходять через населені пункти, позначені таким дорожнім знаком?",
@@ -35758,8 +35758,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q006",
-    "sectionNumber": 56.0,
+    "id": "q02191",
+    "sectionNumber": 56,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух автомобілю з причепом в цьому місці дороги, якщо він буде їхати прямо?",
@@ -35777,8 +35777,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q007",
-    "sectionNumber": 56.0,
+    "id": "q02192",
+    "sectionNumber": 56,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух білого автомобіля з причепом на ділянці дороги за межами населеного пункту?",
@@ -35795,8 +35795,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q008",
-    "sectionNumber": 56.0,
+    "id": "q02193",
+    "sectionNumber": 56,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "Чи дозволено рух транспортного состава в зображеній ситуації, якщо маса тягача – 10 т?",
@@ -35811,8 +35811,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q009",
-    "sectionNumber": 56.0,
+    "id": "q02194",
+    "sectionNumber": 56,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "Чи дозволено водієві автопоїзда продовжити рух у прямому напрямку, якщо сумарна маса тягача та причепа становить 15 т?",
@@ -35827,8 +35827,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q010",
-    "sectionNumber": 56.0,
+    "id": "q02195",
+    "sectionNumber": 56,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "Хто з водіїв вантажних автомобілів із дозволеною максимальною масою понад 3,5 т і трактора правильно зайняв смугу для руху прямо?",
@@ -35844,8 +35844,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q011",
-    "sectionNumber": 56.0,
+    "id": "q02196",
+    "sectionNumber": 56,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "У якому з випадків водієві вантажного автомобіля з причепом дозволено рух у зону дії даного дорожнього знака?",
@@ -35861,8 +35861,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q012",
-    "sectionNumber": 56.0,
+    "id": "q02197",
+    "sectionNumber": 56,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "Чи дозволено рух вантажного автомобіля з причепом, який обслуговує підприємства, розташовані в зоні дії зазначеного дорожнього знака?",
@@ -35877,8 +35877,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s56-q013",
-    "sectionNumber": 56.0,
+    "id": "q02198",
+    "sectionNumber": 56,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "За дотримання яких умов дозволена експлуатація транспортного состава у складі автобуса і причепа?",
@@ -35892,8 +35892,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s56-q014",
-    "sectionNumber": 56.0,
+    "id": "q02199",
+    "sectionNumber": 56,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "У якому випадку дозволена експлуатація транспортного состава, що складається з автобуса і причепа?",
@@ -35907,8 +35907,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s56-q015",
-    "sectionNumber": 56.0,
+    "id": "q02200",
+    "sectionNumber": 56,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "За дотримання яких з умов дозволяється експлуатація транспортних составів у складі автомобіля і причепа?",
@@ -35922,8 +35922,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s56-q016",
-    "sectionNumber": 56.0,
+    "id": "q02201",
+    "sectionNumber": 56,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "Чи дозволяється буксирування транспортного засобу з причепом?",
@@ -35937,8 +35937,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s56-q017",
-    "sectionNumber": 56.0,
+    "id": "q02202",
+    "sectionNumber": 56,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "Які зовнішні світлові пристрої повинні бути обов'язково ввімкнені під час руху транспортного складу в темний час доби незалежно від ступеня освітлення дороги?",
@@ -35956,8 +35956,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s56-q019",
-    "sectionNumber": 56.0,
+    "id": "q02203",
+    "sectionNumber": 56,
     "number": 19,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "З якою максимальною швидкістю дозволено рух легкового автомобіля з причепом на дорогах поза населеними пунктами, якщо ним керує водій зі стажем до двох років?",
@@ -35973,8 +35973,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s56-q020",
-    "sectionNumber": 56.0,
+    "id": "q02204",
+    "sectionNumber": 56,
     "number": 20,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "Хто з водіїв може рухатися з більш високою швидкістю на автомагістралі?",
@@ -35988,8 +35988,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s56-q021",
-    "sectionNumber": 56.0,
+    "id": "q02205",
+    "sectionNumber": 56,
     "number": 21,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЗАГАЛЬНІ)",
     "question": "Де на механічних транспортних засобах (за винятком трамваїв і тролейбусів) і причепах встановлюють номерні знаки?",
@@ -36003,8 +36003,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s57-q001",
-    "sectionNumber": 57.0,
+    "id": "q02206",
+    "sectionNumber": 57,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БУДОВА И ТЕРМІНИ)",
     "question": "Які види транспортних засобів можна віднести до категорії ВЕ?",
@@ -36020,8 +36020,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s57-q002",
-    "sectionNumber": 57.0,
+    "id": "q02207",
+    "sectionNumber": 57,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БУДОВА И ТЕРМІНИ)",
     "question": "Вкажіть найбільш поширені види тягово-зчіпних пристроїв вантажних транспортних засобів – тягачів.",
@@ -36035,8 +36035,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s57-q003",
-    "sectionNumber": 57.0,
+    "id": "q02208",
+    "sectionNumber": 57,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БУДОВА И ТЕРМІНИ)",
     "question": "За наявності якої несправності дозволяється експлуатація транспортного засобу?",
@@ -36050,8 +36050,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s57-q004",
-    "sectionNumber": 57.0,
+    "id": "q02209",
+    "sectionNumber": 57,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БУДОВА И ТЕРМІНИ)",
     "question": "Недостатньою видимістю вважається:",
@@ -36065,8 +36065,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s57-q005",
-    "sectionNumber": 57.0,
+    "id": "q02210",
+    "sectionNumber": 57,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БУДОВА И ТЕРМІНИ)",
     "question": "Що з переліченого нижче відповідає терміну «видимість у напрямку руху»?",
@@ -36079,8 +36079,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s58-q001",
-    "sectionNumber": 58.0,
+    "id": "q02211",
+    "sectionNumber": 58,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "З якого віку може бути надано право на керування транспортними засобами категорії ВЕ?",
@@ -36094,8 +36094,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s58-q002",
-    "sectionNumber": 58.0,
+    "id": "q02212",
+    "sectionNumber": 58,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "У якому випадку забороняється подальший рух на автомобілі з причепом навіть до місця ремонту або стоянки?",
@@ -36109,8 +36109,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s58-q003",
-    "sectionNumber": 58.0,
+    "id": "q02213",
+    "sectionNumber": 58,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Чи обов’язково реєструвати причіп в сервісному центрі?",
@@ -36124,8 +36124,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q001",
-    "sectionNumber": 59.0,
+    "id": "q02214",
+    "sectionNumber": 59,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "При русі заднім ходом на автомобілі з причепом:",
@@ -36138,8 +36138,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q002",
-    "sectionNumber": 59.0,
+    "id": "q02215",
+    "sectionNumber": 59,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "При русі заднім ходом на автомобілі з причепом:",
@@ -36152,8 +36152,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q003",
-    "sectionNumber": 59.0,
+    "id": "q02216",
+    "sectionNumber": 59,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "Рухаючись на автомобілі з причепом, які дії Ви повинні виконати, щоб запобігти його перекидання?",
@@ -36167,8 +36167,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q004",
-    "sectionNumber": 59.0,
+    "id": "q02217",
+    "sectionNumber": 59,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "Що найчастіше призводить до перекидання причепа.",
@@ -36183,8 +36183,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q005",
-    "sectionNumber": 59.0,
+    "id": "q02218",
+    "sectionNumber": 59,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "Під час руху з причепом, для обгону інших транспортних засобів необхідно:",
@@ -36198,8 +36198,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q006",
-    "sectionNumber": 59.0,
+    "id": "q02219",
+    "sectionNumber": 59,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "Перед кожним виїздом з причепом необхідно:",
@@ -36214,8 +36214,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q007",
-    "sectionNumber": 59.0,
+    "id": "q02220",
+    "sectionNumber": 59,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "При поворотах колеса причепа рухаються:",
@@ -36229,8 +36229,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q008",
-    "sectionNumber": 59.0,
+    "id": "q02221",
+    "sectionNumber": 59,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "Перевищувати максимальну швидкість, зазначену в технічній документації причепа:",
@@ -36244,8 +36244,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q009",
-    "sectionNumber": 59.0,
+    "id": "q02222",
+    "sectionNumber": 59,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "Правильно завантажений причіп, якщо:",
@@ -36259,8 +36259,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q010",
-    "sectionNumber": 59.0,
+    "id": "q02223",
+    "sectionNumber": 59,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "Завантажений причіп:",
@@ -36274,8 +36274,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q011",
-    "sectionNumber": 59.0,
+    "id": "q02224",
+    "sectionNumber": 59,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "По якій траєкторії рухається причіп легкового автомобіля при проходженні повороту?",
@@ -36289,8 +36289,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q012",
-    "sectionNumber": 59.0,
+    "id": "q02225",
+    "sectionNumber": 59,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "Як змінюється довжина гальмівного шляху легкового автомобіля при русі з причепом, що не має гальмівної системи?",
@@ -36304,8 +36304,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q013",
-    "sectionNumber": 59.0,
+    "id": "q02226",
+    "sectionNumber": 59,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "За дотримання яких умов дозволена експлуатація транспортного состава у складі автобуса і причепа?",
@@ -36319,8 +36319,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q014",
-    "sectionNumber": 59.0,
+    "id": "q02227",
+    "sectionNumber": 59,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "За дотримання яких з умов дозволяється експлуатація транспортних составів у складі автомобіля і причепа?",
@@ -36334,8 +36334,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s59-q015",
-    "sectionNumber": 59.0,
+    "id": "q02228",
+    "sectionNumber": 59,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЙ BE, C1E, CE, D1E, DE (БЕЗПЕКА)",
     "question": "Що рекомендується при першому досвіді керування автомобілем з причепом:",
@@ -36349,8 +36349,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q001",
-    "sectionNumber": 60.0,
+    "id": "q02229",
+    "sectionNumber": 60,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "Як повинен вчинити в даній ситуації водій трамвая?",
@@ -36365,8 +36365,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s60-q002",
-    "sectionNumber": 60.0,
+    "id": "q02230",
+    "sectionNumber": 60,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "У якому напрямку дозволено рух трамвая в даній ситуації?",
@@ -36383,8 +36383,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s60-q003",
-    "sectionNumber": 60.0,
+    "id": "q02231",
+    "sectionNumber": 60,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "На якому світлофорі горить сигнал, що дозволяє трамваю рух прямо?",
@@ -36401,8 +36401,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s60-q004",
-    "sectionNumber": 60.0,
+    "id": "q02232",
+    "sectionNumber": 60,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "У якому напрямку дозволено рух трамвая в даній ситуації?",
@@ -36418,8 +36418,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s60-q005",
-    "sectionNumber": 60.0,
+    "id": "q02233",
+    "sectionNumber": 60,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "У якому напрямку дозволено рух трамвая в даній ситуації?",
@@ -36436,8 +36436,8 @@ export const questions: Question[] = [
     ]
   },
   {
-    "id": "s60-q006",
-    "sectionNumber": 60.0,
+    "id": "q02234",
+    "sectionNumber": 60,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "Чи зобов'язаний водій трамвая дотримуватися визначеного маршруту та розкладу руху трамвая?",
@@ -36451,8 +36451,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q007",
-    "sectionNumber": 60.0,
+    "id": "q02235",
+    "sectionNumber": 60,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "Чи повинен водій тролейбуса оголошувати найменування зупинки?",
@@ -36466,8 +36466,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q008",
-    "sectionNumber": 60.0,
+    "id": "q02236",
+    "sectionNumber": 60,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "Чи повинен водій трамвая оголошувати найменування зупинки?",
@@ -36481,8 +36481,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q009",
-    "sectionNumber": 60.0,
+    "id": "q02237",
+    "sectionNumber": 60,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "На якій відстані від краю проїзної частини дороги водій тролейбуса повинен зупинятися для посадки або висадки пасажирів?",
@@ -36496,8 +36496,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q010",
-    "sectionNumber": 60.0,
+    "id": "q02238",
+    "sectionNumber": 60,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "У якому варіанті відповіді правильно наведені всі дії, які забороняється виконувати водієві тролейбуса під час руху?",
@@ -36512,8 +36512,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q011",
-    "sectionNumber": 60.0,
+    "id": "q02239",
+    "sectionNumber": 60,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "Чи зобов'язаний водій тролейбуса дотримуватися визначеного маршруту та розкладу руху тролейбуса?",
@@ -36527,8 +36527,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q012",
-    "sectionNumber": 60.0,
+    "id": "q02240",
+    "sectionNumber": 60,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "Чи обов'язкове встановлення знака аварійної зупинки в разі ДТП на трамваї?",
@@ -36542,8 +36542,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q013",
-    "sectionNumber": 60.0,
+    "id": "q02241",
+    "sectionNumber": 60,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "Чи обов'язкове встановлення знака аварійної зупинки в разі ДТП на тролейбусі?",
@@ -36557,8 +36557,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q014",
-    "sectionNumber": 60.0,
+    "id": "q02242",
+    "sectionNumber": 60,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "Що належить до поняття відпочинок водія трамвая?",
@@ -36572,8 +36572,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q015",
-    "sectionNumber": 60.0,
+    "id": "q02243",
+    "sectionNumber": 60,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "Що належить до поняття відпочинок водія тролейбуса?",
@@ -36587,8 +36587,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q016",
-    "sectionNumber": 60.0,
+    "id": "q02244",
+    "sectionNumber": 60,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "Яких правил зобов'язаний дотримуватися водій трамвая?",
@@ -36603,8 +36603,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q017",
-    "sectionNumber": 60.0,
+    "id": "q02245",
+    "sectionNumber": 60,
     "number": 17,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "Яких правил зобов'язаний дотримуватися водій тролейбуса?",
@@ -36619,8 +36619,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s60-q018",
-    "sectionNumber": 60.0,
+    "id": "q02246",
+    "sectionNumber": 60,
     "number": 18,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ T (ЗАГАЛЬНІ)",
     "question": "У якому варіанті відповіді правильно наведені всі дії, які забороняється виконувати водієві трамвая під час руху?",
@@ -36635,8 +36635,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s61-q001",
-    "sectionNumber": 61.0,
+    "id": "q02247",
+    "sectionNumber": 61,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БУДОВА І ТЕРМІНИ)",
     "question": "Яка мета поточного ремонту тролейбуса?",
@@ -36650,8 +36650,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s61-q002",
-    "sectionNumber": 61.0,
+    "id": "q02248",
+    "sectionNumber": 61,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БУДОВА І ТЕРМІНИ)",
     "question": "Яка мета поточного ремонту трамвая?",
@@ -36665,8 +36665,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s61-q003",
-    "sectionNumber": 61.0,
+    "id": "q02249",
+    "sectionNumber": 61,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БУДОВА І ТЕРМІНИ)",
     "question": "Якою мінімальною кількістю противідкатних упорів має бути укомплектовано тролейбус із дозволеною максимальною масою понад 3,5 т?",
@@ -36680,8 +36680,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s61-q004",
-    "sectionNumber": 61.0,
+    "id": "q02250",
+    "sectionNumber": 61,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БУДОВА І ТЕРМІНИ)",
     "question": "Що в першу чергу потрібно зробити водієві тролейбуса в разі пробиття одного з коліс?",
@@ -36695,8 +36695,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s61-q005",
-    "sectionNumber": 61.0,
+    "id": "q02251",
+    "sectionNumber": 61,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БУДОВА І ТЕРМІНИ)",
     "question": "Що з переліченого заборонено водієві трамвая?",
@@ -36710,8 +36710,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s61-q006",
-    "sectionNumber": 61.0,
+    "id": "q02252",
+    "sectionNumber": 61,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БУДОВА І ТЕРМІНИ)",
     "question": "Скільки вогнегасників має знаходитися в тролейбусі та де вони повинні бути закріплені у випадку, якщо місця для їх кріплення не передбачені конструкцією?",
@@ -36726,8 +36726,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s61-q007",
-    "sectionNumber": 61.0,
+    "id": "q02253",
+    "sectionNumber": 61,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БУДОВА І ТЕРМІНИ)",
     "question": "Скільки вогнегасників має знаходитися в трамваї та де вони повинні бути закріплені у випадку, якщо місця для їх кріплення не передбачені конструкцією?",
@@ -36742,8 +36742,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q001",
-    "sectionNumber": 62.0,
+    "id": "q02254",
+    "sectionNumber": 62,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "З якою максимальною швидкістю дозволено рух тролейбусів на дорогах в населених пунктах?",
@@ -36759,8 +36759,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q002",
-    "sectionNumber": 62.0,
+    "id": "q02255",
+    "sectionNumber": 62,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Водій тролейбуса зобов'язаний:",
@@ -36775,8 +36775,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q003",
-    "sectionNumber": 62.0,
+    "id": "q02256",
+    "sectionNumber": 62,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Що з переліченого заборонено водієві трамвая?",
@@ -36790,8 +36790,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q004",
-    "sectionNumber": 62.0,
+    "id": "q02257",
+    "sectionNumber": 62,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Що з переліченого заборонено водієві тролейбуса?",
@@ -36805,8 +36805,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q005",
-    "sectionNumber": 62.0,
+    "id": "q02258",
+    "sectionNumber": 62,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Що з переліченого заборонено водієві трамвая?",
@@ -36821,8 +36821,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q006",
-    "sectionNumber": 62.0,
+    "id": "q02259",
+    "sectionNumber": 62,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Що з переліченого заборонено водієві тролейбуса?",
@@ -36837,8 +36837,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q007",
-    "sectionNumber": 62.0,
+    "id": "q02260",
+    "sectionNumber": 62,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Що з переліченого заборонено водієві трамвая?",
@@ -36852,8 +36852,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q008",
-    "sectionNumber": 62.0,
+    "id": "q02261",
+    "sectionNumber": 62,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Що з переліченого заборонено водієві тролейбуса?",
@@ -36867,8 +36867,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q009",
-    "sectionNumber": 62.0,
+    "id": "q02262",
+    "sectionNumber": 62,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Що з переліченого заборонено водієві тролейбуса?",
@@ -36882,8 +36882,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q010",
-    "sectionNumber": 62.0,
+    "id": "q02263",
+    "sectionNumber": 62,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Водій трамвая зобов'язаний мати при собі:",
@@ -36897,8 +36897,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q011",
-    "sectionNumber": 62.0,
+    "id": "q02264",
+    "sectionNumber": 62,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Водій тролейбуса зобов'язаний мати при собі:",
@@ -36912,8 +36912,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q012",
-    "sectionNumber": 62.0,
+    "id": "q02265",
+    "sectionNumber": 62,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Які правильні дії повинен виконати водій трамвая у тому разі, якщо в ДТП є потерпілі?",
@@ -36928,8 +36928,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q013",
-    "sectionNumber": 62.0,
+    "id": "q02266",
+    "sectionNumber": 62,
     "number": 13,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Які правильні дії повинен виконати водій тролейбуса у тому разі, якщо в ДТП є потерпілі?",
@@ -36944,8 +36944,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q014",
-    "sectionNumber": 62.0,
+    "id": "q02267",
+    "sectionNumber": 62,
     "number": 14,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Чи повинен водій трамвая евакуювати пасажирів у разі ДТП?",
@@ -36960,8 +36960,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q015",
-    "sectionNumber": 62.0,
+    "id": "q02268",
+    "sectionNumber": 62,
     "number": 15,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Чи повинен водій тролейбуса евакуювати пасажирів у разі ДТП?",
@@ -36976,8 +36976,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s62-q016",
-    "sectionNumber": 62.0,
+    "id": "q02269",
+    "sectionNumber": 62,
     "number": 16,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (ЮРИДИЧНА ВІДПОВІЛЬНІСТЬ)",
     "question": "Водій трамвая зобов'язаний:",
@@ -36992,8 +36992,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q001",
-    "sectionNumber": 63.0,
+    "id": "q02270",
+    "sectionNumber": 63,
     "number": 1,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "У разі під'їзду до регульованого перехрестя на тролейбусі, про що завжди потрібно пам'ятати водієві?",
@@ -37007,8 +37007,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q002",
-    "sectionNumber": 63.0,
+    "id": "q02271",
+    "sectionNumber": 63,
     "number": 2,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "Як має вчинити водій трамвая, якщо в результаті дорожньо- транспортної пригоди двері трамвая виявилися заблокованими?",
@@ -37023,8 +37023,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q003",
-    "sectionNumber": 63.0,
+    "id": "q02272",
+    "sectionNumber": 63,
     "number": 3,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "Як має вчинити водій тролейбуса, якщо в результаті дорожньо- транспортної пригоди двері тролейбуса виявилися заблокованими?",
@@ -37039,8 +37039,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q004",
-    "sectionNumber": 63.0,
+    "id": "q02273",
+    "sectionNumber": 63,
     "number": 4,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "Чи дозволено водієві трамвая продавати пасажирам квитки під час руху?",
@@ -37054,8 +37054,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q005",
-    "sectionNumber": 63.0,
+    "id": "q02274",
+    "sectionNumber": 63,
     "number": 5,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "Чи дозволено водієві тролейбуса продавати пасажирам квитки під час руху?",
@@ -37069,8 +37069,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q006",
-    "sectionNumber": 63.0,
+    "id": "q02275",
+    "sectionNumber": 63,
     "number": 6,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "Як змінюється довжина гальмівного шляху під час руху на зчленованому тролейбусі, не оснащеним гальмівною системою?",
@@ -37084,8 +37084,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q007",
-    "sectionNumber": 63.0,
+    "id": "q02276",
+    "sectionNumber": 63,
     "number": 7,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "Як слід вчинити водієві тролейбуса, якщо під час руху сухою дорогою з асфальтобетонним покриттям почав накрапати дощ?",
@@ -37099,8 +37099,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q008",
-    "sectionNumber": 63.0,
+    "id": "q02277",
+    "sectionNumber": 63,
     "number": 8,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "Що потрібно перевірити водієві трамвая перед виїздом?",
@@ -37114,8 +37114,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q009",
-    "sectionNumber": 63.0,
+    "id": "q02278",
+    "sectionNumber": 63,
     "number": 9,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "Що потрібно перевірити водієві тролейбуса перед виїздом?",
@@ -37129,8 +37129,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q010",
-    "sectionNumber": 63.0,
+    "id": "q02279",
+    "sectionNumber": 63,
     "number": 10,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "Що потрібно перевірити водієві трамвая перед виїздом?",
@@ -37144,8 +37144,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q011",
-    "sectionNumber": 63.0,
+    "id": "q02280",
+    "sectionNumber": 63,
     "number": 11,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "Що потрібно перевірити водієві тролейбуса перед виїздом?",
@@ -37159,8 +37159,8 @@ export const questions: Question[] = [
     "images": []
   },
   {
-    "id": "s63-q012",
-    "sectionNumber": 63.0,
+    "id": "q02281",
+    "sectionNumber": 63,
     "number": 12,
     "category": "ДОДАТКОВІ ПИТАННЯ ЩОДО КАТЕГОРІЇ Т (БЕЗПЕКА)",
     "question": "Що має зробити водій тролейбуса, щоб швидко відновити ефективність гальм після проїзду через водну перешкоду?",

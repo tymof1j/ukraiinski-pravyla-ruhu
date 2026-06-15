@@ -133,6 +133,7 @@ def parse_questions(texts: list[TextNode], images: list[ImageNode]) -> list[dict
     current: dict | None = None
     active_part: str | None = None
     section_heading_parts: list[str] = []
+    global_question_index = 0
 
     def flush_section_heading() -> None:
         nonlocal current_section
@@ -169,6 +170,7 @@ def parse_questions(texts: list[TextNode], images: list[ImageNode]) -> list[dict
         if question_match:
             flush_section_heading()
             flush_question()
+            global_question_index += 1
             question_number = int(question_match.group(1))
             title = question_match.group(2)
             section_id = f"{current_section_number:g}".replace(".", "-")
@@ -178,7 +180,7 @@ def parse_questions(texts: list[TextNode], images: list[ImageNode]) -> list[dict
                 if image.src.name in image_paths
             ]
             current = {
-                "id": f"s{section_id}-q{question_number:03d}",
+                "id": f"q{global_question_index:05d}",
                 "sectionNumber": current_section_number,
                 "number": question_number,
                 "category": current_section,
